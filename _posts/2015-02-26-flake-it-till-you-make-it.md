@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monthly Turfgrass Roundup: August 2016
+title: "Monthly Turfgrass Roundup: August 2016"
 subtitle: Here's a roundup of turfgrass articles and links from the past month
 bigimg: /img/path.jpg
 ---
