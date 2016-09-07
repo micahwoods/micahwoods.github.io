@@ -2,7 +2,7 @@
 layout: post
 title: "Monthly Turfgrass Roundup: August 2016"
 subtitle: Here's a roundup of turfgrass articles and links from the past month
-bigimg: /img/path.jpg
+bigimg: /img/surface_air_diff.png
 ---
 
 [Travis Russell](https://twitter.com/Trane_92) took some [great photos of bermudagrass under different amounts of shade](https://twitter.com/Trane_92/status/763542908393787393):
