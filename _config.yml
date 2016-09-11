@@ -24,12 +24,12 @@ description: Turfgrass information from the Asian Turfgrass Center and Micah Woo
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Blog: "http://www.blog.asianturfgrass.com"
+  Blog: "http://micahwoods.github.io"
   Turf Info:
-    - Articles: "http://www.asianturfgrass.com/turf-information.html"
-    - Presentations: "http://www.blog.asianturfgrass.com/seminar/"
+    - Articles: "articles"
+    - Presentations: "presentations"
     - Climate charts: "http://climate.asianturfgrass.com/"
-    - Photos: "https://www.flickr.com/photos/asianturfgrass/sets/"
+    - Photos: "photos"
   MLSN: "mlsn"
   Search: "https://cse.google.com/cse/publicurl?cx=002453456411648864480:0ken194xpnc"
 
