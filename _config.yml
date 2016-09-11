@@ -14,16 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: the Micah Woods blog
+title: Asian Turfgrass Center
 
 # Short description of your site
-description: On this site you will find information about me and my work. I am a turfgrass scientist based in Asia. I travel frequently.
+description: Turfgrass information from the Asian Turfgrass Center and Micah Woods.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Turf Info: "turfinfo"
   Blog: "http://www.blog.asianturfgrass.com"
   My work:
