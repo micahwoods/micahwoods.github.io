@@ -23,14 +23,15 @@ description: Turfgrass information from the Asian Turfgrass Center and Micah Woo
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+  About: "about"
   Turf Info: "turfinfo"
   Blog: "http://www.blog.asianturfgrass.com"
   My work:
     - Asian Turfgrass Center: "http://www.asianturfgrass.com/"
     - Viridescent, the ATC blog: "http://www.blog.asianturfgrass.com/"
     - ATC Climate Charts: "http://climate.asianturfgrass.com/"
-  Old homepage: "http://www.micahwoods.com/"
+    - Asian Turf Seminar: "http://www.asianturfseminar.com"
+  Search: "https://cse.google.com/cse/publicurl?cx=002453456411648864480:0ken194xpnc"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -53,7 +54,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
   twitter: true
