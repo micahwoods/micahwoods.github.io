@@ -17,27 +17,27 @@ I showed the distribution of air temperature (median was 31.8°C) and heat index
 
 Here's the summary of soil and surface temperature from these greens.
 
-![soil temperature summary from 19 greens](https://github.com/micahwoods/micahwoods.github.io/blob/master/img/201607_soil_temp.png)
+![soil temperature summary from 19 greens](/img/201607_soil_temp.png)
 
-![surface temperature summary from 19 greens]("/img/201607_surface_temp.png")
+![surface temperature summary from 19 greens](/img/201607_surface_temp.png)
 
 Putting greens in Thailand tend to be relatively soft, and the measurements in July were consistent with previous measurements.
 
-![Clegg impact hammer measurement histogram]("/img/201607_clegg.png")
+![Clegg impact hammer measurement histogram](/img/201607_clegg.png)
 
 This is the distribution of soil water content.
 
-![histogram of soil VWC by TDR-300 with 7.5 cm rods]("/img/201607_vwc.png")
+![histogram of soil VWC by TDR-300 with 7.5 cm rods](/img/201607_vwc.png)
 
 This is the distribution of green speed.
 
-![stimpmeter measurement histogram from 19 greens]("/img/201607_stimp.png")
+![stimpmeter measurement histogram from 19 greens](/img/201607_stimp.png)
 
 I measured the speed on each green in 3 different locations. With that, I get some idea not only of the green speed, but also about the variation in green speed. I express the variation in green speed within a green as the coefficient of variation (cv), which is the standard deviation of the measurements on a green divided by the mean of the measurements on a green.
 
 Then I compared the distribution of cv for the 19 greens measured in Thailand with the cv for 26 greens measured during the recent KBC Augusta tournament in Japan. Under tournament conditions, there was slightly less variation in green speed. But many of the greens in Thailand had variation the same as measured during a tournament.
 
-![coefficient of variation in green speed]("/img/201607_stimp_cv.png")
+![coefficient of variation in green speed](/img/201607_stimp_cv.png)
 
 For more summaries of putting green measurements, and of measurements from greens in Thailand, see [this post on playing with numbers](http://www.blog.asianturfgrass.com/2015/03/playing-with-numbers-my-slides-handout-for-a-presentation-at-stmia15.html). There are links to handouts and other data sources there. Or look at the charts in [these slides](https://speakerdeck.com/micahwoods/playing-with-numbers):
 
