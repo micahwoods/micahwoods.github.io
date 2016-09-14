@@ -41,4 +41,4 @@ Then I compared the distribution of cv for the 19 greens measured in Thailand wi
 
 For more summaries of putting green measurements, and of measurements from greens in Thailand, see [this post on playing with numbers](http://www.blog.asianturfgrass.com/2015/03/playing-with-numbers-my-slides-handout-for-a-presentation-at-stmia15.html). There are links to handouts and other data sources there. Or look at the charts in [these slides](https://speakerdeck.com/micahwoods/playing-with-numbers):
 
-<script src="//speakerdeck.com/assets/embed.js" data-id="55fcaa2a139e447baf84f3bb6f91a870" data-ratio="1.33333333333333"></script>
+<script async class="speakerdeck-embed" data-id="55fcaa2a139e447baf84f3bb6f91a870" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
