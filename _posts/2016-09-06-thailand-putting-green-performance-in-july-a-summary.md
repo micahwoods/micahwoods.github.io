@@ -7,7 +7,7 @@ share-img: "https://github.com/micahwoods/micahwoods.github.io/blob/master/img/2
 
 ---
 
-![ball roll dispersion by Perfect Putter](https://github.com/micahwoods/micahwoods.github.io/blob/master/img/roll.jpg)
+![ball roll dispersion by Perfect Putter](/img/roll.jpg)
 
 While [Eric Reasor](https://twitter.com/TurfBlade?lang=en) was collecting the data on ball roll dispersion in Thailand -- read [yesterday's post](http://www.blog.asianturfgrass.com/2016/09/bangkok-is-a-long-way-from-knoxville.html) for more about that -- I collected data on the the same greens. The data summary shown here are the data I collected from 19 greens on 19 different courses. The grasses on these greens included various bermudagrass varieties, seashore paspalum, and manilagrass.
 
