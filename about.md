@@ -5,7 +5,7 @@ subtitle: turfgrass research, information, and advisory services
 bigimg: /img/mnl_pano.jpg
 ---
 
-If you require independent advice about grass selection or turfgrass management practices, training for your course maintenance staff, or specialized turfgrass research work, Asian Turfgrass Center (ATC) can assist you. We are the leading source of independent turfgrass information for East and Southeast Asia.
+If you require advice about grass selection or turfgrass management practices, training for your course maintenance staff, or specialized turfgrass research work, Asian Turfgrass Center (ATC) can assist you. We are the leading source of turfgrass information for East and Southeast Asia.
 
 Founded by Dr. Micah Woods in 2006, ATC has provided advisory services and conducted turfgrass research around the world.
 
