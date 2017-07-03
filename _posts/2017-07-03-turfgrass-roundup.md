@@ -8,6 +8,7 @@ bigimg:
 - "/img/polo_kolkata.jpg"      : "Cynodon on Pat Williamson Ground, Kolkata"
 - "/img/paspalum_danang.jpg"   : "seashore paspalum, Danang"
 - "/img/manilagrass_seed.jpg"  : "manilagrass, Phuket"
+share-img: "https://github.com/micahwoods/micahwoods.github.io/blob/master/img/roots_echo.jpg"
 ---
 
 In this month's roundup, fertilizer, roots, and salinity, the Pelzmeter, the amount of N in rain and snow, measuring clipping volume from putting greens, and much more.
