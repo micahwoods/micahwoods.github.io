@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Turfgrass Roundup: October 2016"
 subtitle: Here's a roundup of articles and links from the past month
+tags: [roundup]
 ---
 
 There is plenty of reading material in this month's roundup, with topics ranging from coring (is it really necessary?) to large patch to golf in China. And lots more:
