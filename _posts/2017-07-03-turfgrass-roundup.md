@@ -2,8 +2,17 @@
 layout: post
 title: "Monthly Turfgrass Roundup: June 2017"
 subtitle: Here's a roundup of articles and links from the past month
-image: /img/roots_echo.jpg
-share-img: /img/roots_echo.jpg
+bigimg: 
+  - "/img/kashima.jpg"           : "kentucky bluegrass, Japan"
+  - "/img/horses_bkk.jpg"        : "racing on Cynodon, Axonopus, and Zoysia, Bangkok"
+  - "/img/le_touessrock.jpg"     : "seashore paspalum, Mauritius"
+    - "/img/novotek_paspalum.jpg"  : "bermudagrass (left) and seashore paspalum (right), Chonburi"
+  - "/img/noshiba_gang.jpg"      : "noshiba, Kanagawa"
+  - "/img/krabi.jpg"             : "tropical carpetgrass and manilagrass, Krabi"
+  - "/img/sunshine.jpg"          : "world cities plotted by annual sunshine and temperature"
+- "/img/baguio.jpg" : "bermudagrass and creeping bentgrass, Baguio"
+image: "/img/roots_echo.jpg"
+share-img: "/img/roots_echo.jpg"
 ---
 
 In this month's roundup, fertilizer, roots, and salinity, the Pelzmeter, the amount of N in rain and snow, measuring clipping volume from putting greens, and much more.
