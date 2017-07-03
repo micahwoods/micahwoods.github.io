@@ -9,7 +9,7 @@ bigimg:
 - "/img/polo_kolkata.jpg"      : "Cynodon on Pat Williamson Ground, Kolkata"
 - "/img/paspalum_danang.jpg"   : "seashore paspalum, Danang"
 - "/img/manilagrass_seed.jpg"  : "manilagrass, Phuket"
-share-img: "https://github.com/micahwoods/micahwoods.github.io/blob/master/img/roots_echo.jpg"
+share-img: "http://www.asianturfgrass.com/img/roots_echo.jpg"
 image: "/img/roots_echo.jpg"
 ---
 
