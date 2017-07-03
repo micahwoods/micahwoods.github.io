@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Turfgrass Roundup: September 2016"
 subtitle: Here's a roundup of articles and links from the past month
+tags: [roundup]
 ---
 
 In this month’s roundup: fertilizer, roots, golf in Japan, identifying a turf disease, the Ryder Cup, putting green performance, and much more.
