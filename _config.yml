@@ -158,6 +158,13 @@ prose:
           label: "Subtitle"
           placeholder: "A description of your post."
           alterable: true
+       - name: "image"
+           field:
+           element: "text"
+           label: "Image"
+           help: "Add a thumbnail image to your post."
+           placeholder: "Thumbnail"
+           alterable: true
       - name: "date"
         field:
           element: "text"
