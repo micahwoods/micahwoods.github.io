@@ -3,12 +3,12 @@ layout: post
 title: Sorry if this is a rubbish question
 tags: [MLSN, fertilizer]
 bigimg:
-- "/img/noshiba_gang.jpg" : "noshiba, Kanagawa"
-  - "/img/fine_fescue_47.jpg"    : "fine fescue, Washington"
-  - "/img/korai_dormant_tokyo.jpg" : "korai, Tokyo"
-  - "/img/korai_stimpmeter.jpg"  : "korai green speed measurement, Fukuoka"
-  - "/img/paspalum_mtt.jpg"      : "seashore paspalum, Nonthaburi"
-  - "/img/grasses_bkk.jpg"       : "Axonopus, Cynodon, Paspalum, Stenotaphrum, and Zoysia, Bangkok"
+- "/img/noshiba_gang.jpg"        : "noshiba, Kanagawa"
+- "/img/fine_fescue_47.jpg"      : "fine fescue, Washington"
+- "/img/korai_dormant_tokyo.jpg" : "korai, Tokyo"
+- "/img/korai_stimpmeter.jpg"    : "korai green speed measurement, Fukuoka"
+- "/img/paspalum_mtt.jpg"        : "seashore paspalum, Nonthaburi"
+- "/img/grasses_bkk.jpg"         : "Axonopus, Cynodon, Paspalum, Stenotaphrum, and Zoysia, Bangkok"
 - "/img/indica_bangkok_lawn.jpg" : "javagrass, Bangkok"
 ---
 
