@@ -42,8 +42,8 @@ avatar: "/img/square.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Micah Woods
-  email: "micah@asianturfgrass.com"
+  name: Asian Turfgrass Center
+  email: "info@asianturfgrass.com"
   facebook: micah.turfgrass  # eg. daattali
   github: micahwoods    # eg. daattali
   twitter: asianturfgrass   # eg. daattali
