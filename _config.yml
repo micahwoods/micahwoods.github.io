@@ -119,11 +119,13 @@ link-tags: false
 
 # Exclude these files from production site
 exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME
   - Vagrantfile
 
 # prose.io config
@@ -158,19 +160,19 @@ prose:
           label: "Subtitle"
           placeholder: "A description of your post."
           alterable: true
-       - name: "image"
-           field:
-           element: "text"
-           label: "Image"
-           help: "Add a thumbnail image to your post."
-           placeholder: "Thumbnail"
-           alterable: true
       - name: "date"
         field:
           element: "text"
           label: "Date"
           help: "Enter date of post."
           placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
           alterable: true
       - name: "published"
         field:
