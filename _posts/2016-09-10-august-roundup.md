@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Turfgrass Roundup: August 2016"
 subtitle: Here's a roundup of turfgrass articles and links from the past month
+tags: [roundup]
 ---
 
 In this month's roundup: shade photos from bentgrass and bermuda, is it necessary to core aerify putting greens, a year of aeration in one operation, sustainable development standards for golf, and much more.
