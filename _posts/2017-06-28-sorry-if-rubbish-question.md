@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sorry if this is a rubbish question"
+title: ' "Sorry if this is a rubbish question" '
 tags: [MLSN, fertilizer]
 bigimg:
 - "/img/noshiba_gang.jpg" : "noshiba, Kanagawa"
