@@ -11,8 +11,8 @@ bigimg:
   - "/img/krabi.jpg"             : "tropical carpetgrass and manilagrass, Krabi"
   - "/img/sunshine.jpg"          : "world cities plotted by annual sunshine and temperature"
 - "/img/baguio.jpg" : "bermudagrass and creeping bentgrass, Baguio"
-image: "/img/roots_echo.jpg"
-share-img: "/img/roots_echo.jpg"
+image: /img/roots_echo.jpg
+share-img: /img/roots_echo.jpg
 ---
 
 In this month's roundup, fertilizer, roots, and salinity, the Pelzmeter, the amount of N in rain and snow, measuring clipping volume from putting greens, and much more.
