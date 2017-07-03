@@ -2,8 +2,8 @@
 layout: post
 title: "Monthly Turfgrass Roundup: June 2017"
 subtitle: Here's a roundup of articles and links from the past month
-image: /img/roots_echo.jpg
-share-img: /img/roots_echo.jpg
+image: https://github.com/micahwoods/micahwoods.github.io/blob/master/img/roots_echo.jpg
+share-img: https://github.com/micahwoods/micahwoods.github.io/blob/master/img/roots_echo.jpg
 ---
 
 In this month's roundup, fertilizer, roots, and salinity, the Pelzmeter, the amount of N in rain and snow, measuring clipping volume from putting greens, and much more.
