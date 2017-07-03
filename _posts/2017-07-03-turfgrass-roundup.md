@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monthly Turfgrass Roundup: June 2017
+title: "Monthly Turfgrass Roundup: June 2017"
 subtitle: Here's a roundup of articles and links from the past month
 tags: [roundup]
 bigimg: 
