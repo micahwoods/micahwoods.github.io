@@ -2,7 +2,12 @@
 layout: post
 title: "Monthly Turfgrass Roundup: June 2017"
 subtitle: Here's a roundup of articles and links from the past month
-image: https://github.com/micahwoods/micahwoods.github.io/blob/master/img/roots_echo.jpg
+bigimg: 
+  - "/img/kashima.jpg"           : "kentucky bluegrass, Japan"
+- "/img/horses_bkk.jpg" : "racing on Cynodon, Axonopus, and Zoysia, Bangkok"
+- "/img/polo_kolkata.jpg"      : "Cynodon on Pat Williamson Ground, Kolkata"
+- "/img/paspalum_danang.jpg" : "seashore paspalum, Danang"
+- "/img/manilagrass_seed.jpg" : "manilagrass, Phuket"
 share-img: https://github.com/micahwoods/micahwoods.github.io/blob/master/img/roots_echo.jpg
 ---
 
