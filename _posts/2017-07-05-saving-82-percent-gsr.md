@@ -10,7 +10,7 @@ bigimg:
 
 When my friend wrote to ask if I could "write a brief description of MLSN," I thought I might send along the article on turfgrass fertilization from the *Green Section Record* by Meentemeyer and Whitlark. 
 
-"Did I already write about that?" I wondered. Yes, I did. And I'm reminded of that absolutely incredible case study from the article. The course they describe was spending around $90,000 per year on liquid fertilizer applied to about 1.6 ha of greens. After two years of adjusting, the cost was down to $15,751.
+"Did I already write about that?" I wondered. Yes, I did. And I'm reminded of the absolutely incredible case study from the article. The course they describe was spending around $90,000 per year on liquid fertilizer applied to 1.6 ha of greens. After two years, the cost was down to $15,751. 
 
 Here's [the original post](http://www.blog.asianturfgrass.com/2016/05/how-to-save-82-on-fertilizer-cost.html):
 
