@@ -2,7 +2,8 @@
 layout: page
 title: About ATC
 subtitle: turfgrass research, information, and advisory services
-bigimg: /img/mnl_pano.jpg
+bigimg: 
+- "/img/mnl_pano.jpg"                   " "seashore paspalum, Manila"
 ---
 
 ATC was founded by Dr. Micah Woods in 2006 and since then has provided advisory services and conducted turfgrass research around the world.
