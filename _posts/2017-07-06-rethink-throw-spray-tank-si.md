@@ -42,4 +42,9 @@ Here is the wonderfully-named *dog's footprint* on *Zoysia matrella* in Hilo.
 
 ![inu no ashiato in Hilo](/img/korai_curvularia.jpg)
 
-Maybe Si helps with something. But I'd prefer to manage turf without adding extra.
+Maybe Si helps with something. But I'd prefer to manage turf without adding any extra.
+
+For more about this, see:
+
+* [Silica and green speed](http://www.blog.asianturfgrass.com/2015/02/silica-and-green-speed.html), in which I ask, "So if silica does make greens faster, shouldn't zoysia greens be lightning fast?"
+* The first half of [this post on N & MLSN](http://www.blog.asianturfgrass.com/2015/03/n-mlsn-whats-the-connection.html), in which I wrote "We'll get to the N below. But wow! I didn't know silica was such a hot topic!"
