@@ -12,11 +12,11 @@ bigimg:
 
 Beth Guertal wrote to me a couple weeks ago:
 
-> "I liked your [Si blog post](http://www.blog.asianturfgrass.com/2017/06/i-dont-really-need-to-show-any-data-for-this-to-be-certain.html) of recent date.  It made me go back and find some data I collected once upon a while.  [It is attached](http://www.files.asianturfgrass.com/FinalResultsSiTest2012.pdf) for your amusement."
+> "I liked your [Si blog post](http://www.blog.asianturfgrass.com/2017/06/i-dont-really-need-to-show-any-data-for-this-to-be-certain.html) of recent date.  It made me go back and find [some data I collected once upon a while](http://www.files.asianturfgrass.com/FinalResultsSiTest2012.pdf)."
 
 As you probably know, I think it is ridiculous that more silica in leaves would somehow make greens faster, or that it would make for a cleaner cut of the leaf. More about that later. 
 
-I also think it is ridiculous that green speed data are so easy to generate, but there is no data to show that Si increases speed. Why? I have speculated that the lack of data means people have tried to do it, but haven't been able to. So I was glad to receive [this report](http://www.files.asianturfgrass.com/FinalResultsSiTest2012.pdf) from Beth.
+I also think it is ridiculous that green speed data are so easy to generate, but there is no data to show that Si increases speed. Why? I have speculated that the lack of data means people have tried to do it, but haven't been able to. So I was glad to receive [this report and data](http://www.files.asianturfgrass.com/FinalResultsSiTest2012.pdf) from Beth.
 
 There were three treatments applied to a Tifeagle green. Control of nothing applied, Si treatments that also included N and K, and an N and K treatment to match the rate applied in the Si treatment.
 
