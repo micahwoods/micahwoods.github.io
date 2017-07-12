@@ -2,7 +2,7 @@
 layout: post
 title: '"More followers as a superintendent?"'
 subtitle: The easy way is to be famous; one can also tweet interesting stuff, but that's harder work
-share-img: "/img/ryder_network.jpg"
+share-img: "http://www.asianturfgrass.com/img/ryder_network.jpg"
 tags: [data analysis]
 bigimg:
 - "/img/ryder_network.jpg"    : "discussion network about @ct_turf on morning of 30 Sep 2016"
