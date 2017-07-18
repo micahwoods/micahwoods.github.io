@@ -26,6 +26,6 @@ I made a conceptual ranking of the seven species that I'm familiar with as putti
 
 ![conceptual ranking seven species ease of green speed](/img/species_ease_speed.svg)
 
-You'll also notice, if you are familiar with these grasses, that there is a distinct increase in the rigidity of the leaves as you go from fine fescue to zoysiagrass. It is the grasses with the softest leaves the require the least work to achieve the desired green speeds. Why make it more complicated by trying to increase leaf rigidity?
+You'll also notice, if you are familiar with these grasses, that there is a distinct increase in the rigidity of the leaves as you go from fine fescue to zoysiagrass. It is the grasses with the softest leaves that require the least work to achieve the desired green speeds. Why make it more complicated by trying to increase leaf rigidity?
 
 ![bentgrass putting green with measuring tools, Yamanashi](https://c1.staticflickr.com/7/6166/6190242493_e4a7206aa7_b_d.jpg)
