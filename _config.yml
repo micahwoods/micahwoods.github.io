@@ -26,9 +26,10 @@ navbar-links:
   About: "about"
   Turf Info:
     - Articles: "http://www.micahwoods.typepad.com/test_static/turf-information.html"
-    - Presentations: "https://speakerdeck.com/micahwoods"
     - Climate charts: "http://climate.asianturfgrass.com/"
     - Photos: "https://www.flickr.com/photos/asianturfgrass/albums"
+    - Presentations: "https://speakerdeck.com/micahwoods"
+    - Shiny apps: "shiny"
   Books: "books"
   MLSN: "https://www.paceturf.org/journal/minimum_level_for_sustainable_nutrition"
   Old Blog: "http://www.blog.asianturfgrass.com"
