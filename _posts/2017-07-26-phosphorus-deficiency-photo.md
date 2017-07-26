@@ -6,9 +6,14 @@ share-img: "http://www.paceturf.org/photo/data/503/Pease_P.jpg"
 tags: [fertilizer, soil test, bentgrass, phosphorus, MLSN]
 ---
 
-Every time I see a photo like [the one shared by Ben Pease](https://twitter.com/Ben_Pease/status/878271403644116992) last month, I get really curious to know the soil test levels of the element. And I wasn't the only one.
+Every time I see a photo like [the one shared by Ben Pease](https://twitter.com/Ben_Pease/status/878271403644116992) last month, I get really curious to know the soil test levels of the element. 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Nice, Ben. Get a Mehlch 3 number and tweet it</p>&mdash; Doug Soldat (@djsoldat) <a href="https://twitter.com/djsoldat/status/878286634697052160">June 23, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Phosphorus deficient bentgrass. Left=untreated. <a href="https://twitter.com/djsoldat">@djsoldat</a> <a href="https://twitter.com/Drjohnstier">@Drjohnstier</a> <a href="https://twitter.com/isuturfclub">@isuturfclub</a> <a href="https://t.co/9MjM02T05O">pic.twitter.com/9MjM02T05O</a></p>&mdash; Ben Pease (@Ben_Pease) <a href="https://twitter.com/Ben_Pease/status/878271403644116992">June 23, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+And I wasn't the only one.
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Nice, Ben. Get a Mehlch 3 number and tweet it</p>&mdash; Doug Soldat (@djsoldat) <a href="https://twitter.com/djsoldat/status/878286634697052160">June 23, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Based on [the research by Kreuser et al.](http://www.blog.asianturfgrass.com/2009/07/how-much-phosphorus-does-grass-require.html), I expected that the soil test P would be less than 10 ppm by the Mehlich 3 extractant in order to show the type of response that Ben saw.
