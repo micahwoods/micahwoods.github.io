@@ -23,7 +23,7 @@ Some of this will be fun stuff, like *I bet you haven't seen this before!*
 
 ![gang mower with sled at Fort William GC in Kolkata](https://c1.staticflickr.com/7/6050/6339231042_6d2af7e6aa_b_d.jpg)
 
-But it will be tied together with a cohesive message about the variety of turfgrass surfaces around the world, how they are managed, and the fundamentals of turfgrass growth and management that are applicable everywhere. As I've studied turfgrass around the world, I've found it useful to make comparisions between locations so that a topdressing rate, mowing frequency, or fertilizer application rate from good-performing turf at one location can be tried as a strarting point at another location on the other side of the world. This approach, and the adjustments that one makes, are the foundation for the [*Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping).
+But it will be tied together with a cohesive message about the variety of turfgrass surfaces around the world, how they are managed, and the fundamentals of turfgrass growth and management that are applicable everywhere. As I've studied turfgrass around the world, I've found it useful to make comparisions between locations so that a topdressing rate, mowing frequency, or fertilizer application rate from good-performing turf at one location can be tried as a starting point at another location on the other side of the world. This approach, and the adjustments that one makes, are the foundation for the [*Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping).
 
 ![18th green at Grindavik](https://c2.staticflickr.com/8/7371/9998083404_77c710cb99_b_d.jpg)
 
