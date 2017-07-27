@@ -8,7 +8,7 @@ bigimg:
 - "/img/mazagan.jpg"              : "seashore paspalum, Morocco [photo by Thomas Sedlmeier]"
 ---
 
-Do you remember the amazing story from Thomas Sedlmeier who wrote to me last November, introducing himself, explaining how he had started using MLSN and GP, informing me that the grass conditions were beautiful, and also some info about maintenance expenses?
+Do you remember the [amazing story](http://www.blog.asianturfgrass.com/2017/01/this-is-one-more-post-the-financial-controllers-might-not-want-to-see.html) from Thomas Sedlmeier who wrote to me last November, introducing himself, explaining how he had started using MLSN and GP, informing me that the grass conditions were beautiful, and also some info about maintenance expenses?
 
 > "So all in all I had savings of about $150k this year, what was greatly appreciated by the management ;-). So I’m convinced by MLSN and GP…"
 
