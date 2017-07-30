@@ -26,4 +26,4 @@ When I do the same analysis on that subset of followers that also follow those t
 
 ![log2 chart of 2nd degree followers vs tweetRate also follow 3 associations](/img/atc_followers_assoc.svg)
 
-And where would the asianturfgrass account be if it were plotted on this chart also? I checked that and it keeping good company somewhere between [MikeFidanza](https://twitter.com/MikeFidanza) and [BarenbrugGroup](https://twitter.com/BarenbrugGroup).
+And where would the asianturfgrass account be if it were plotted on this chart also? I checked that and it is keeping good company somewhere between [MikeFidanza](https://twitter.com/MikeFidanza) and [BarenbrugGroup](https://twitter.com/BarenbrugGroup).
