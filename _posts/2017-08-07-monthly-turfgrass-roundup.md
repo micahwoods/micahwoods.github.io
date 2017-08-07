@@ -18,7 +18,7 @@ For routine clipping measurement, [clipping volume or clipping weight?](http://w
 
 This is an [exceptional economic case study](http://www.asianturfgrass.com/2017-07-05-saving-82-percent-gsr/) about reducing a cost by 82%.
 
-Allen Dewald found a couple cool tricks to get [better surfaces with less effort](https://twitter.com/allan_dewald/status/890323223186857984):
+Allan Dewald found a couple cool tricks to get [better surfaces with less effort](https://twitter.com/allan_dewald/status/890323223186857984):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I find the less I do surfaces keep getting better with less effort.using <a href="https://twitter.com/hashtag/Mlsn?src=hash">#Mlsn</a> with <a href="https://twitter.com/hashtag/gp?src=hash">#gp</a> + measuring clipping yield has been a game changer. <a href="https://t.co/XXTDtfGZcp">pic.twitter.com/XXTDtfGZcp</a></p>&mdash; Allan Dewald (@allan_dewald) <a href="https://twitter.com/allan_dewald/status/890323223186857984">July 26, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
