@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Monthly Turfgrass Roundup: July 2017"
-subtitle: "Interesting articles, blog posts, and 
 share-img: "http://www.asianturfgrass.com/img/skala.jpg"
 tags: [fertilizer, MLSN, soil testing, potassium]
 ---
+
+In this month's roundup, topdressing sand, three posts about saving a ton of money and getting better results, P deficiency, green speed, and much more.
 
 TurfNet's *Living Legends* series with [this article](http://www.turfnet.com/blog/33/entry-1452-tom-cook-pioneered-the-turf-program-at-oregon-state-university/) about Tom Cook. 
 
