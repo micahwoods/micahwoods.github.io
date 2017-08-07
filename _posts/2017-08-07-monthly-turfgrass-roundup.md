@@ -2,7 +2,7 @@
 layout: post
 title: "Monthly Turfgrass Roundup: July 2017"
 share-img: "http://www.asianturfgrass.com/img/skala.jpg"
-tags: [fertilizer, MLSN, soil testing, potassium]
+tags: [roundup]
 ---
 
 In this month's roundup, topdressing sand, three posts about saving a ton of money and getting better results, P deficiency, green speed, and much more.
