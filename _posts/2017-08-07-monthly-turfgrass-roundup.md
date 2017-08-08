@@ -38,7 +38,9 @@ Jonathan Wood shared more [spectacular photos](https://twitter.com/jonwood1978/s
 
 Chris Tritabaugh wrote [about **Poa!**](https://www.hazeltinenational.com/turf-blog/poa) on the Hazeltine Turf Blog. In summary, "the careful exploitation of these differences between bentgrass and *Poa* are what leads to limited *Poa* in a bentgrass surface."
 
-Jason Haines asked how to get [more followers as a superintendent](http://www.asianturfgrass.com/2017-07-12-more-followers-as-supt-suggestion/). Not that he had any problem getting followers, as his account was one of the best. 
+Jason Haines asked how to get [more followers as a superintendent](http://www.asianturfgrass.com/2017-07-12-more-followers-as-supt-suggestion/). 
+
+And he wonders if he can manipulate clipping yield to [reduce disease this September](http://www.turfhacker.com/2017/07/can-i-use-clipping-yield-to-prevent.html).
 
 As a [way to increase green speed, this makes no sense at all](http://www.asianturfgrass.com/2017-07-14-si-does-this-make-sense-to-you/).
 
