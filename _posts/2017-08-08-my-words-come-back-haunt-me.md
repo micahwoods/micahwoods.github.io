@@ -8,7 +8,7 @@ bigimg:
 - "/img/k_trial_diagonal.jpg"   : "L-93 creeping bentgrass, New York"
 ---
 
-Yesterday I wrote of tissue testing (or more specifically, *leaf nutrient analysis*) that "I don't like making nutrient application decisions" based on it and "I would not do routine tissue testing if I were a golf course superintendent.
+Yesterday [I wrote of tissue testing](http://www.asianturfgrass.com/2017-08-07-tissue-testing-wrong-target/) (or more specifically, *leaf nutrient analysis*) that "I don't like making nutrient application decisions" based on it and "I would not do routine tissue testing if I were a golf course superintendent.
 
 I've got more to explain about why that is. But I need to get this out of the way first. When I was a graduate student, I wrote an article in which I wrote that tissue testing could be the final answer! 
 
