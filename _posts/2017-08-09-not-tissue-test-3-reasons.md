@@ -13,11 +13,11 @@ When I received [the question about tissue testing](http://www.asianturfgrass.co
 
 There are four main reasons I don't like leaf nutrient analysis (or as it is usually called in turfgrass, *tissue testing*) for making nutrient application decisions. 
 
-1. **Turfgrass management is about producing the desired playing surface.** It is not about trying to maintain leaf nutrients at a certain level. 
+First, **turfgrass management is about producing the desired playing surface.** It is not about trying to maintain leaf nutrients at a certain level. 
 
 But aren't the leaf nutrients related to the turf performance? Not as much as you might think. And see item 4 below for more about why tissue testing is not the way you want to find out about this.
 
-2. **What level of nutrients does one want in the leaves anyway?** I'm looking at a Table 9.7 on page 172 of [*Turfgrass Soil Fertility and Chemical Problems*](https://www.amazon.com/exec/obidos/ASIN/1575041537/micwoooffsit-20) right now, and I'll look at the two elements with the highest concentration in creeping bentgrass leaves. What are the sufficiency ranges? For nitrogen (N), it is 4.5 to 6%. And for potassium (K), it is 2.2 to 2.6%. I think that's pretty high. 
+Second, **what level of nutrients does one want in the leaves anyway?** I'm looking at a Table 9.7 on page 172 of [*Turfgrass Soil Fertility and Chemical Problems*](https://www.amazon.com/exec/obidos/ASIN/1575041537/micwoooffsit-20) right now, and I'll look at the two elements with the highest concentration in creeping bentgrass leaves. What are the sufficiency ranges? For nitrogen (N), it is 4.5 to 6%. And for potassium (K), it is 2.2 to 2.6%. I think that's pretty high. 
 
 So do you want to take my word for it, or trust the textbook? I've got an idea, let me find another set of leaf nutrient guidelines. I've now opened the [*Turf Analysis*](http://tic.msu.edu/tgif/flink?recno=97607) article by Dr. J. Benton Jones Jr., from the January 1980 issue of *Golf Course Management*. Look up just about any references on this subject, and you'll find references to Dr. Jones. 
 
@@ -27,9 +27,9 @@ I can pull a book of my shelf about soil tests and plant analysis, and it's by D
 
 I won't belabor the point. Leaf nutrient guidelines for turfgrass are all over the place, and there's a good reason for those discrepancies. You can get great turfgrass surfaces across a wide range of leaf nutrient levels. 
 
-3. **Variability -- the nutrient levels vary.** That's normal, and is not as big a problem for me as the first two objections are. I can get great turfgrass surfaces with nutrient levels all over the place. So that's a good thing. But when this is the case, and the guidelines what they are, it is impossible to interpret the results with accuracy.
+Third, **variability -- the nutrient levels vary.** That's normal, and is not as big a problem for me as the first two objections are. I can get great turfgrass surfaces with nutrient levels all over the place. So that's a good thing. But when this is the case, and the guidelines what they are, it is impossible to interpret the results with accuracy.
 
-4. **Turf management, or turf history?** I had a long conversation with Frank Rossi about this at the Ryder Cup last year. *I don't like tissue testing*, I told him, and explained the objections above. *Why chase numbers in the tissue when the tissue numbers aren't related to turfgrass performance? And when the numbers are all over the place? And really, what nutrient concentration numbers does one want in the tissue anyway? There's no reference that's any use. It's a mess.* That was my argument, much condensed.
+Fourth, **turf management, or turf history?** I had a long conversation with Frank Rossi about this at the Ryder Cup last year. *I don't like tissue testing*, I told him, and explained the objections above. *Why chase numbers in the tissue when the tissue numbers aren't related to turfgrass performance? And when the numbers are all over the place? And really, what nutrient concentration numbers does one want in the tissue anyway? There's no reference that's any use. It's a mess.* That was my argument, much condensed.
 
 And Dr. Rossi said something like *hey hey hey wait a minute, it's not that bad, there's this case and that case where the data are useful, and couldn't you do something like you did with [MLSN](http://www.asianturfgrass.com/2016_mlsn_paper/), take a whole bunch of tissue samples from good grass, and do an anlysis, and make some kind of good guidelines for turfgrass.* 
 
