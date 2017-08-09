@@ -23,7 +23,7 @@ So do you want to take my word for it, or trust the textbook? I've got an idea, 
 
 ![J.B. Jones Jr. book](/img/jones_book.jpg)
 
-As an example, I can pull a book of my shelf about soil tests and plant analysis, and it's by Dr. Jones. So these guidelines should be good. The table is not specific to bentgrass, but is for all turfgrasses. Let's see, N is 2.75 to 3.5%. Not even any overlap with the Carrow et al. book. And K? 1 to 2.5%. Wow, all the way down to 1%! 
+As an example, I can pull a book from my shelf about soil tests and plant analysis, and it's by Dr. Jones. So these guidelines should be good. The table is not specific to bentgrass, but is for all turfgrasses. Let's see, N is 2.75 to 3.5%. Not even any overlap with the Carrow et al. book. And K? 1 to 2.5%. Wow, all the way down to 1%! 
 
 I won't belabor the point. Leaf nutrient guidelines for turfgrass are all over the place, and there's a good reason for those discrepancies. You can get great turfgrass surfaces across a wide range of leaf nutrient levels. 
 
