@@ -19,11 +19,11 @@ But aren't the leaf nutrients related to the turf performance? Not as much as yo
 
 Second, **what level of nutrients does one want in the leaves anyway?** I'm looking at Table 9.7 on page 172 of [*Turfgrass Soil Fertility and Chemical Problems*](https://www.amazon.com/exec/obidos/ASIN/1575041537/micwoooffsit-20) right now, and I'll look at the two elements with the highest concentration in creeping bentgrass leaves. What are the sufficiency ranges? For nitrogen (N), it is 4.5 to 6%. And for potassium (K), it is 2.2 to 2.6%. I think that's pretty high. 
 
-So do you want to take my word for it, or trust the textbook? I've got an idea, let me find another set of leaf nutrient guidelines. I've now opened the [*Turf Analysis*](http://tic.msu.edu/tgif/flink?recno=97607) article by Dr. J. Benton Jones Jr., from the January 1980 issue of *Golf Course Management*. Look up just about any references on this subject, and you'll find references to Dr. Jones. 
+So do you want to take my word for it, or trust the textbook? I've got an idea, let me find another set of leaf nutrient guidelines. I've now opened the [*Turf Analysis*](http://tic.msu.edu/tgif/flink?recno=97607) article by Dr. J. Benton Jones Jr., from the January 1980 issue of *Golf Course Management*. Look up just about any article on this subject, and you'll find a ton of references to Dr. Jones. 
 
 ![J.B. Jones Jr. book](/img/jones_book.jpg)
 
-I can pull a book of my shelf about soil tests and plant analysis, and it's by Dr. Jones. So these guidelines should be good. The table is not specific to bentgrass, but is for all grasses. Let's see, N is 2.75 to 3.5%. Not even any overlap with the Carrow et al. book. And K? 1 to 2.5%. Wow, all the way down to 1%! 
+As an example, I can pull a book of my shelf about soil tests and plant analysis, and it's by Dr. Jones. So these guidelines should be good. The table is not specific to bentgrass, but is for all turfgrasses. Let's see, N is 2.75 to 3.5%. Not even any overlap with the Carrow et al. book. And K? 1 to 2.5%. Wow, all the way down to 1%! 
 
 I won't belabor the point. Leaf nutrient guidelines for turfgrass are all over the place, and there's a good reason for those discrepancies. You can get great turfgrass surfaces across a wide range of leaf nutrient levels. 
 
