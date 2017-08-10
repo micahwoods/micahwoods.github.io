@@ -25,6 +25,7 @@ description: Turfgrass information from the Asian Turfgrass Center and Micah Woo
 navbar-links:
   About: "about"
   Turf Info:
+    - Newsletters: "lists"
     - Articles: "http://www.micahwoods.typepad.com/test_static/turf-information.html"
     - Climate charts: "http://climate.asianturfgrass.com/"
     - Photos: "https://www.flickr.com/photos/asianturfgrass/albums"
