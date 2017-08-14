@@ -119,6 +119,9 @@ defaults:
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
 
+# set future : false to hide future-dated posts
+future: false
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
