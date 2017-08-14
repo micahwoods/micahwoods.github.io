@@ -34,7 +34,7 @@ Those numbers are hard to understand, however. For example, what does 0.038 news
 
 Now we can understand what the absolute numbers mean, to get some idea of the reach and interest in MLSN. Again, this is based only on golf courses. In Ireland, we could expect to visit 27 golf courses to find one signed up to the MLSN newsletter. In the UK we would have to go to 57, and in the USA, 59. From that, one can expect that there is about twice as much interest in MLSN in Ireland as there is in the UK or in the USA.
 
-I'll drop Japan from the chart, and now it is even easier to see the differences between the countries shown on the chart.
+I'll omit Japan from the chart, and now it is even easier to see the differences between the countries shown on the chart.
 
 ![18 hole equivalents per subscriber to the mlsn newsletter, japan omitted](/img/18_per_mlsn_no_jp.svg)
 
