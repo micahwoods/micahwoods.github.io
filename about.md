@@ -18,5 +18,5 @@ You can contact us through the links at the bottom of this page. You can also si
 * [ORCID id](http://orcid.org/0000-0002-9140-5147)
 * [Google Scholar](https://scholar.google.com/citations?user=JAlxOXEAAAAJ&hl=en)
 
-<a class="twitter-timeline"  href="https://twitter.com/asianturfgrass" data-widget-id="345892532867182592">Tweets by @asianturfgrass</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
