@@ -4,7 +4,7 @@ title: "I just bought a plane ticket to Manchester"
 share-img: "https://c1.staticflickr.com/7/6175/6268465278_efe52b34bc_b_d.jpg"
 tags: [seminar, BIGGA, England, BTME]
 bigimg:
-- "/img/minchinhampton_cow.jpg" : "cool-season grass mix, Gloucestershire"
+- "/img/minchinhampton_cow.jpg" : "cool-season mix, Gloucestershire"
 ---
 
 I'll be making my second trip to Harrogate in January, and [this time](http://www.bigga.org.uk/about-us/news/first-wave-onue-to-learn/00947.html) I get to lead some discussions about turfgrass management. I've been wanting to do this for a long time, and I'm really excited about this opportunity to share, in person, many of the ideas I've been working on recently.
@@ -21,7 +21,7 @@ It's about understanding how grass grows at your site, and then doing only what 
 
 ### Principles of Turfgrass Nutrition: Why Some Nutrients Are Required as Fertiliser and Others Aren’t
 
-This is a half-day workshop, which is just enough time to cover this fun topic. I won't talk much about the *function* of nutrients, because I take an approach to this topic that goes like this. If the grass is supplied with enough of an element, then adding more of that element will provide no benefit. 
+This is a half-day workshop, which is just enough time to cover this important topic. I won't talk much about the *function* of nutrients, because I take an approach to this topic that goes like this. If the grass is supplied with enough of an element, then adding more of that element will provide no benefit. 
 
 So it doesn't really matter what the function of the element is, because whatever that function is, it will be fully realized in the plant when there is enough of that element supplied. So how can one be sure that there is *enough*? That's what this is all about.
 
@@ -35,6 +35,24 @@ Golf course putting greens sit on a large piece of property. The maintenance wil
 
 In this two hour session, we will discuss why the MLSN guidelines were developed, what they are, and how they are used. I've sometimes said that soil testing for turfgrass is *broken*, and then gone on to explain what I mean by *broken* and how the MLSN guidelines get around that problem.
 
-It is broken in this sense. Imagine this situation. The grass is fine. You send in the soil test. Get the report back. Some elements are low. Oh no! You need to apply them. The grass is still fine of course, but you apply them because the soil test says they are low and thus required. After the elements are applied. The turf is still fine. Turf performance hasn't changed. 
+It is broken in this sense. Imagine this situation. 
+
+The grass is fine. 
+
+You send in the soil test. 
+
+Get the report back. 
+
+Some elements are low. 
+
+Oh no! 
+
+You need to apply them. 
+
+The grass is still fine of course, but you apply them because the soil test says they are low and thus required. 
+
+After the elements are applied, the turf is still fine. 
+
+Turf performance hasn't changed. 
 
 Do that year after year and one starts to wonder what it's all about. MLSN aims to be a logical, open, and regularly updated approach, based on the soils fine turf is grown in today, and based on the way turf is managed today, to ensure the turf is supplied with all the nutrients it can use. 
