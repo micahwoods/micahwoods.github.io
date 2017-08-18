@@ -19,7 +19,7 @@ I'm especially interested in it because of the grass; it is korai (*Zoysia matre
 
 It is the only event on the [Japan Golf Tour](http://www.jgto.org/pc/TopPage.do) contested on korai greens. The grass gets a lot of media attention during the week because of this.
 
-And [Andrew McDaniel](https://twitter.com/drumcturf), the golf course superintendent, or greenkeeper as the job title is in Japan, is the only non-Japanese superintendent at a Japanese golf course. I'm not counting courses run by the U.S. military as Japanese courses.
+And [Andrew McDaniel](https://twitter.com/drumcturf), the golf course superintendent, or greenkeeper as the job title is in Japan, is the only non-Japanese superintendent at a Japanese golf course (excluding the courses run by the U.S. military).
 
 So when you are the only non-Japanese greenkeeper in a country with more than 2,000 courses, and when you are tasked with preparing the course for the only event contested on korai greens, you get a lot of media attention too. 
 
@@ -45,7 +45,7 @@ Here's some of the other things that make this not the average tournament:
 * Lots of fine food and drinks at the maintenance shop, with a daily bento lunch
 * Rhodesian ridgebacks. They run the course to keep the hogs away and I imagine there may be one or two out at the course during tournament week.
 
-![rhodesian ridgebacks]("/img/fukuoka_dog.jpg")
+![rhodesian ridgebacks](/img/fukuoka_dog.jpg)
 
 
 
