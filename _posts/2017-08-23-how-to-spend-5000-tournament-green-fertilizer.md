@@ -6,13 +6,15 @@ share-img: "https://c1.staticflickr.com/5/4442/36578960112_5f2f585c30_b_d.jpg"
 tags: [Japan, tournament, zoysia, korai, fertilizer]
 ---
 
-I don't often write about this, because I assume everyone knows it. But I've read a few things recently about amazing sums of money being saved by changing the way of fertilizing, all while getting the same or better turf conditions (see for example [this](https://www.bradrevillturf.com/goingagainstthegrain/23/5/2017/mlsn-nikanti-gc-reducing-expenses-and-inputs-since-2016) or [this](http://www.blog.asianturfgrass.com/2017/01/this-is-one-more-post-the-financial-controllers-might-not-want-to-see.html) or [this](http://www.asianturfgrass.com/2017-07-05-saving-82-percent-gsr/). I'm glad to read about these kind of success stories, but that they even exist suggests to me that not everyone realizes how much it costs to produce high quality turf.
+I don't often write about this, because I assume everyone knows it. But I've read a few things recently about amazing sums of money being saved by changing the way of fertilizing, all while getting the same or better turf conditions. See for example [this (69% savings)](https://www.bradrevillturf.com/goingagainstthegrain/23/5/2017/mlsn-nikanti-gc-reducing-expenses-and-inputs-since-2016) or [this (~$150,000 reduction)](http://www.blog.asianturfgrass.com/2017/01/this-is-one-more-post-the-financial-controllers-might-not-want-to-see.html) or [this (82% savings)](http://www.asianturfgrass.com/2017-07-05-saving-82-percent-gsr/). 
+
+I'm glad to read about these kind of success stories, but that they even exist suggests to me that not everyone realizes how much it needs to cost to produce high quality turf. There are a lot of ways to produce high quality turf. Some cost more than others.
 
 This week I'm at Keya GC in Fukuoka for the KBC Augusta golf tournament. Keya has 12,000 m<sup>2</sup> of korai (*Zoysia matrella*) greens. This is how they look this week -- at least when the light is right.
 
 ![3 balls on 11 green](https://c1.staticflickr.com/5/4334/36578958742_048341c98a_b_d.jpg)
 
-Keya GC is a relatively high budget course. The average green fee is more than $200 and the course does about 45,000 rounds per year. You can calculate the revenue from that. The choice of fertilizers is about getting the desired results. The goal is not to save money. Even so, the cost for fertilizer on these greens from January 2017 until today has been $3,889. I'll express the costs in USD.
+Keya GC is a relatively high budget course. The average green fee is more than $200 and the course does about 45,000 rounds per year. You can calculate the revenue from that. The choice of fertilizers here is about getting the desired results. The goal is not to save money. Even so, the cost for fertilizer on these greens from January 2017 until today has been $3,889. I'll express the costs in USD.
 
 ![hand watering practice green](https://c1.staticflickr.com/5/4384/36749040945_93818bba7b_b_d.jpg)
 
@@ -36,7 +38,7 @@ Three liquid products with micronutrients and kelp have also been used; the tota
 
 ![hole 12 before pro am](https://c1.staticflickr.com/5/4419/35939645743_cc6cf61578_b_d.jpg)
 
-The objective here is to make the best greens possible. It is not to save money. So this amount is quite reasonable and no one is looking to cut the costs. 
+The objective here is to make the best greens possible. It is not to save money. So this amount is quite reasonable for this facility and no one is looking to cut the costs. 
 
 You can see, however, that even in this $3,889 used at Keya GC, one could cut the cost substantially if one wanted to.
 
