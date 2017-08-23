@@ -14,7 +14,7 @@ This week I'm at Keya GC in Fukuoka for the KBC Augusta golf tournament. Keya ha
 
 ![3 balls on 11 green](https://c1.staticflickr.com/5/4334/36578958742_048341c98a_b_d.jpg)
 
-Keya GC is a relatively high budget course. The average green fee is more than $200 and the course does about 45,000 rounds per year. You can calculate the revenue from that. The choice of fertilizers here is about getting the desired results. The goal is not to save money. Even so, the cost for fertilizer on these greens from January 2017 until today has been $3,889. I'll express the costs in USD.
+Keya GC is a relatively high budget course. The average green fee is more than $200 and the course does about 45,000 rounds per year. You can calculate the revenue from that. The choice of fertilizers here is about getting the desired results. The goal is not to save money. Even so, the cost for fertilizer on these greens from January 2017 until today has been $3,889. The course superintendent is [Andrew McDaniel](https://twitter.com/drumcturf). He gave me the fertilizer costs in yen. For convenience, I'll express the costs in USD.
 
 ![hand watering practice green](https://c1.staticflickr.com/5/4384/36749040945_93818bba7b_b_d.jpg)
 
