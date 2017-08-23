@@ -18,11 +18,12 @@ Keya GC is a relatively high budget course. The average green fee is more than $
 
 ![hand watering practice green](https://c1.staticflickr.com/5/4384/36749040945_93818bba7b_b_d.jpg)
 
-Here what has been applied:
+Here is what has been applied:
 
 * 8.9 grams of N/m<sup>2</sup>
 * 1.8 grams of P<sub>2</sub>O<sub>5</sub>/m<sup>2</sup>
 * 7.3 grams of K<sub>2</sub>O/m<sup>2</sup>
+* micronutrients and kelp
 
 All the P, and 3.6 g of the N and 3.6 g of the K came from a single slow-release granular product applied in early June. The cost for that application was $982.
 
