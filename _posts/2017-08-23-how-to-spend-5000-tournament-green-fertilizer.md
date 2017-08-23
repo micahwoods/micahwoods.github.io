@@ -24,7 +24,7 @@ Here what has been applied:
 
 All the P, and 3.6 g of the N and 3.6 g of the K came from a single slow-release granular product applied in early June. The cost for that application was $982.
 
-Everything else was applied as a liquid and the costs are for 18,000 m<sup>2<\sup> because that's the quantity of material mixed. Even though the excess gets applied to the nursery or to some tee or fairway areas, I'll assign the cost to greens.
+Everything else was applied as a liquid and the costs are for 18,000 m<sup>2</sup> because that's the quantity of material mixed. Even though the excess gets applied to the nursery or to some tee or fairway areas, I'll assign the cost to greens.
 
 The remaining N cost $131 and was from urea and ammonium sulfate. The remaining K cost $176 and was from potassium sulfate. 
 
