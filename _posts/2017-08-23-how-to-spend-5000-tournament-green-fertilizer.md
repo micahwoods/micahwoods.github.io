@@ -14,7 +14,9 @@ This week I'm at Keya GC in Fukuoka for the KBC Augusta golf tournament. Keya ha
 
 ![3 balls on 11 green](https://c1.staticflickr.com/5/4334/36578958742_048341c98a_b_d.jpg)
 
-Keya GC is a relatively high budget course. The average green fee is more than $200 and the course does about 45,000 rounds per year. You can calculate the revenue from that. The choice of fertilizers here is about getting the desired results. The goal is not to save money. Even so, the cost for fertilizer on these greens from January 2017 until today has been $3,889. The course superintendent is [Andrew McDaniel](https://twitter.com/drumcturf). He gave me the fertilizer costs in yen. For convenience, I'll express the costs in USD.
+Keya GC is a relatively high budget course. The average green fee is more than $200 and the course does about 45,000 rounds per year. You can calculate the revenue from that. The choice of fertilizers here is about getting the desired results. The goal is not to save money. Even so, the cost for fertilizer on these greens from January 2017 until today has been $3,889. The season isn't over yet, but with just a few months remaining, and not much fertilizer yet to apply, the total cost for the year will be less than $5,000.
+
+The course superintendent is [Andrew McDaniel](https://twitter.com/drumcturf). He gave me the fertilizer costs in yen. For convenience, I'll express the costs in USD.
 
 ![hand watering practice green](https://c1.staticflickr.com/5/4384/36749040945_93818bba7b_b_d.jpg)
 
@@ -27,7 +29,7 @@ Here is what has been applied:
 
 All the P, and 3.6 g of the N and 3.6 g of the K came from a single slow-release granular product applied in early June. The cost for that application was $982.
 
-Everything else was applied as a liquid and the costs are for 18,000 m<sup>2</sup> because that's the quantity of material mixed. Even though the excess gets applied to the nursery or to some tee or fairway areas, I'll assign the cost to greens.
+Everything else was applied as a liquid and the costs are for 16,000 m<sup>2</sup> because that's the quantity of material mixed. Even though the excess gets applied to the nursery or to some tee or fairway areas, I'll assign the cost to greens.
 
 The remaining N cost $131 and was from urea and ammonium sulfate. The remaining K cost $176 and was from potassium sulfate. 
 
@@ -41,7 +43,7 @@ Three liquid products with micronutrients and kelp have also been used; the tota
 
 The objective here is to make the best greens possible. It is not to save money. So this amount is quite reasonable for this facility and no one is looking to cut the costs. 
 
-You can see, however, that even in this $3,889 used at Keya GC, one could cut the cost substantially if one wanted to.
+You can see, however, that even in this $3,889 used at Keya GC, one could cut the cost substantially if one wanted to. 
 
 
 
