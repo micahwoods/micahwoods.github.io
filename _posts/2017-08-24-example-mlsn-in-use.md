@@ -25,7 +25,7 @@ In 2013, the soil K was 67 ppm, and I recommended applying an N:K ratio of 2:1 f
 
 By June of 2015, the average K was 46 ppm, and one of the greens was below the MLSN minimum for K. At that time, I made a new recommendation, to apply N and K in a 3:2 ratio. This is a little more K than the grass can use, and with that amount of K supplied, the soil K has increased. 
 
-It isn't much K; only 7.2 g K m<sup>-2</sup> were supplied in 2016, but that was enough to cause an increase in the soil K. When one supplies more of an element than the grass can use, that element will either be lost from the soil (usually by leaching), or it will increase in concentration in the soil. There have been 6.1 g K m<sup>-2</sup> applied so far in 2017. 
+It isn't much K; only 7.2 g K m<sup>-2</sup> were supplied in 2016, but that was enough to cause an increase in the soil K. When one supplies more of an element than the grass can use, that element will either be lost from the soil (usually by leaching, in the case of potassium), or it will increase in concentration in the soil. There have been 6.1 g K m<sup>-2</sup> applied so far in 2017. 
 
 That's a site specific amount that is enough to keep the soil above the MLSN minimum and produce high quality turf.
 
