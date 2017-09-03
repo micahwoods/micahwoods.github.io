@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sand topdressing and growth potential -- metric"
+title: "Sand topdressing and growth potential"
 subtitle: "A metric spreadsheet from PACE Turf uses growth potential to estimate topdressing rates"
 share-img: "https://c2.staticflickr.com/6/5031/5882119313_8a0a64527e_b_d.jpg"
 tags: [topdress, growth potential]
