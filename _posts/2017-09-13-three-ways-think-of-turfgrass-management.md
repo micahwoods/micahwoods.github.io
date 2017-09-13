@@ -41,7 +41,7 @@ After some years of discussing the amount of water that one might maintain in th
 
 ![mowing result Singapore](https://c1.staticflickr.com/5/4340/36388719233_5c97160541_b_d.jpg)
 
-Grass growing too fast is not ideal, nor is grass growing too slow. In the [*Short Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping), I wrote at length about the growth rate. 
+Grass growing too fast is not ideal, nor is grass growing too slow. In the [*Short Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping), I wrote about the growth rate, and about modifying the growing environment in the context of the growth rate. 
 
 ### Maximizing the ratio between playing conditions and the work required to produce them
 
