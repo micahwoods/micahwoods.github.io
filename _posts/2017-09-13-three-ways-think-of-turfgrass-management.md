@@ -29,7 +29,7 @@ I divided all the work into six categories of modifying the growing environment:
 
 ![verticutting Vietnam](https://c1.staticflickr.com/5/4424/37012315656_28ee8fbb56_b_d.jpg)
 
-Verticutting the turf like that will reduce the amount of light the grass can capture, for example. Almost all the maintenance work can be placed into one or more of those categories. I still like this description of turfgrass management as a planning and problem solving approach.
+Verticutting the turf like that will reduce the amount of light the grass can capture, for example. And in the long run, it'll probably result in more air in the soil too. Almost all the maintenance work can be placed into one or more of those categories. I still like this description of turfgrass management as a planning and problem solving approach.
 
 ![irrigation Japan](https://c1.staticflickr.com/5/4438/36605267392_88096ab46c_b_d.jpg)
 
