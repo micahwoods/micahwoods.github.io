@@ -53,4 +53,4 @@ Let's say I produced the same conditions in 2016 and in 2017. But in 2016, I had
 
 Or, let's say I had better conditions in 2017 than in 2016, but in both years I did the same amount of work. The ratio between results and work will be higher in 2017. 
 
-This way of thinking about the work is a way to compare over time and optimize the work at a single location, or to compare different locations.
+Thinking about the work in this way may be useful to compare over time and optimize the work at a single location, or to compare the work (or results) between different locations.
