@@ -19,11 +19,11 @@ I was at a seminar in Thailand a couple months ago, and a speaker mentioned a pl
 
 > The technical definition of how much sprigs this should be is therefore to take 672 m<sup>2</sup> of sod, shred it, and that should make 800 bushels. Then, spread that 672 m<sup>2</sup> of shredded sod onto 10,000 m<sup>2</sup>.
 
-> I think the planting of warm season grasses in the USA involves more shredded sod, and in Thailand it seems like a lot of verticutting, but not so much shredded sod. So you can also check the conversion by looking at the volume of about 35 liters of sprigs.
+> I think the planting of warm season grasses in the USA involves more shredded sod, and in Thailand it seems like a lot of verticutting, but not so much shredded sod. So you can also check the conversion by looking at the mass of about 35 liters of sprigs.
 
 > That's the best conversion I can make. 
 
-This conversion is something that Mike Richardson and I have discussed a few times. We recently did again, concerning the planting rate of manilagrass (*Zoysia matrella* 'nuan noi') nurseries near Bangkok. These fields are planted by taking 1 m<sup>2</sup> of sod and planting it to 4 m<sup>2</sup>. What's that planting rate in bushels?
+This conversion is something that Mike Richardson and I have discussed a few times. We [recently did again](https://twitter.com/ArkansasTurf/status/911776131216486400), concerning the planting rate of manilagrass (*Zoysia matrella* 'nuan noi') nurseries near Bangkok. These fields are planted by taking 1 m<sup>2</sup> of sod and planting it to 4 m<sup>2</sup>. What's that planting rate in bushels?
 
 ![planting sod in Bangkok](https://c1.staticflickr.com/5/4427/37018765580_726579286c_b_d.jpg)
 
