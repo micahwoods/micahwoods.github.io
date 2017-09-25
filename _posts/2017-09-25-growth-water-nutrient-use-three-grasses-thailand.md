@@ -14,7 +14,7 @@ There are a variety of grasses used for lawns and sports turf in central Thailan
 
 [These are the slides](https://speakerdeck.com/micahwoods/nutrient-use-water-use-and-growth-of-manilagrass-hybrid-bermudagrass-and-seashore-paspalum-turfgrass-in-central-thailand) and [this is the abstract](https://ashs.confex.com/ashs/2017/meetingapp.cgi/Paper/27386) for the talk.
 
-The manilagrass grew the most in this experiment, which we ran for 48 days. All the grasses were supplied with a weekly rate of 1 g N m<sup>-2</sup>, and K was supplied to supply half, the same, and twice the amount of N. This plot shows the relationship between tissue K content and the daily growth rate.
+The manilagrass grew the most in this experiment, which we ran for 48 days. All the grasses were supplied with a weekly rate of 1 g N m<sup>-2</sup>, and K was added to supply half, the same, and twice the amount of N. This plot shows the relationship between tissue K content and the daily growth rate.
 
 ![growth and tissue K 3 grasses](/img/leafK_and_growth.svg)
 
