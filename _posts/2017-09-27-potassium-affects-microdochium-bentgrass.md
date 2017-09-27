@@ -17,7 +17,7 @@ You've probably seen [the photos](http://www.blog.asianturfgrass.com/2017/02/the
 
 A few highlights from [the abstract](https://ashs.confex.com/ashs/2017/meetingapp.cgi/Paper/25979):
 
-> "These low K treatments had significantly less microdochium patch than the treatments receiving K applications during the past three winters. Interestingly, the turf quality of these two 'low K' treatments improved in 2016, and were found to be statistically similar or better than the treatments receiving regular doeses of K ... Results suggest that potassium fertilization can be manipulated to affect microdochium patch on bentgrass."
+> "These low K treatments had significantly less microdochium patch than the treatments receiving K applications during the past three winters. Interestingly, the turf quality of these two 'low K' treatments improved in 2016, and were found to be statistically similar or better than the treatments receiving regular doses of K ... Results suggest that potassium fertilization can be manipulated to affect microdochium patch on bentgrass."
 
 
 
