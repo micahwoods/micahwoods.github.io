@@ -13,11 +13,11 @@ It is really interesting, for me at least, to see how much grass grows. One way 
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">It&#39;s surprising how little time this takes. <a href="https://t.co/Eu6Vcpx4d0">pic.twitter.com/Eu6Vcpx4d0</a></p>&mdash; Micah Woods (@asianturfgrass) <a href="https://twitter.com/asianturfgrass/status/918212669521379328?ref_src=twsrc%5Etfw">October 11, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-After one has the measurement, it may look something like this. These are the clipping volumes for 19 greens (18 holes plus the practice green) mown 189 out of 273 days from January 1 through September 30 this year.
+After one has the measurement, it may look something like this. These are the clipping volumes for 19 greens (18 holes plus the practice green) on a golf course in Japan that was mown 189 out of 273 days from January 1 through September 30 this year.
 
 ![all greens, 9 months](/img/bent35_all17.png)
 
-Actually, that's a bit messy. One isn't going to be able to make many decisions from that set of data. And I only want to collect data if I can use it as a decision-making tool. Of course, having the measurements from multiple greens allows one to check the variability in clipping volume from green to green, as I've described in [*morning clipping volume during tournament week*] (http://www.asianturfgrass.com/2017-08-14-morning-clipping-volume/) and shown in [this chart](http://www.asianturfgrass.com/img/201708_amClip_Keya.svg).
+Actually, that's a bit messy. One isn't going to be able to make many decisions from that set of data. And I only want to collect data if I can use it as a decision-making tool. Of course, having the measurements from multiple greens allows one to check the variability in clipping volume from green to green, as I've described in [*morning clipping volume during tournament week*](http://www.asianturfgrass.com/2017-08-14-morning-clipping-volume/) and shown in [this chart](http://www.asianturfgrass.com/img/201708_amClip_Keya.svg).
 
 But what I'm most interested in is how much the grass is growing. To do that, I like to look at a moving average. This next chart takes the 189 days of mowing data this year and plots the daily average (from all 19 greens) and has a line showing the 5 day moving average (4 previous days, plus today, averaged). 
 
