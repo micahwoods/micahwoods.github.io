@@ -21,7 +21,7 @@ The joyplot above uses the same data as this chart I made last year.
 For more about this topic, see:
 
 * [Clipping volume variation green to green](http://www.blog.asianturfgrass.com/2016/08/clipping-volume-variation-from-green-to-green.html) about clipping volume during the 2016 KBC Augusta tournament
-* [Tournament week clipping volume](http://www.blog.asianturfgrass.com/2015/09/tournament-week-clipping-volume.html) about clipping wolume during the 2015 KBC Augusta tournament
+* [Tournament week clipping volume](http://www.blog.asianturfgrass.com/2015/09/tournament-week-clipping-volume.html) about clipping volume during the 2015 KBC Augusta tournament
 * [An easy technique for monitoring the growth rate](http://www.blog.asianturfgrass.com/2015/07/an-easy-technique-for-monitoring-the-growth-rate.html) with a link to download my article about clipping volume from *GCM China*.
 
 
