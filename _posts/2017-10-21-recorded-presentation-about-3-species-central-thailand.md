@@ -18,4 +18,6 @@ I gave a presentation about research conducted with Rujira Deewatthanawong and S
 <source type="video/mp4" src="https://ashs.confex.com/recording/ashs/2017/mp4/free/4db77adf5df9fff0d3caf5cafe28f496/paper27386_1.mp4">
 </video>
 
+There was a question at the end of the presentation about the method used to measure N in the grass clippings. I have checked with Brookside Labs, and found that "nitrogen is analyzed by Carlo Erba or Elementar Carbon/Nitrogen Analyzers."
+
 		    
