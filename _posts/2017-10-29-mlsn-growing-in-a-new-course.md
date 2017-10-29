@@ -28,5 +28,6 @@ For some example calculations of fertilizer rates based on the MLSN guidelines, 
 * [Calculating potassium fertilizer requirement using the MLSN guideline](http://www.blog.asianturfgrass.com/2014/06/calculating-potassium-fertilizer-requirement-using-the-mlsn-guideline.html)
 * [Preventing nutrient deficiencies](http://www.blog.asianturfgrass.com/2017/01/preventing-nutrient-deficiencies.html)
 * [MLSN webinar on TurfNet](http://www.blog.asianturfgrass.com/2015/05/mlsn-webinar-on-turfnet.html)
-* [An MLSN refersher](http://www.blog.asianturfgrass.com/2017/04/an-mlsn-refresher.html)
+* [An MLSN refresher](http://www.blog.asianturfgrass.com/2017/04/an-mlsn-refresher.html)
 * [Why I don't worry about micronutrients](http://www.blog.asianturfgrass.com/2017/01/why-i-dont-worry-about-micronutrients.html)
+
