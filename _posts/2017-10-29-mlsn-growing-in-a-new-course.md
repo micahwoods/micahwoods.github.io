@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"As to the MSLN guidelines ... how do they apply to growing in a new course?"'
+title: '"As to the MLSN guidelines ... how do they apply to growing in a new course?"'
 subtitle: "This was a really good question, so I'm sharing it, and my answer to it, here"
 share-img: "https://c2.staticflickr.com/2/1022/3173105395_4030c4e291_b_d.jpg"
 tags: [MLSN, fertilizer]
@@ -8,7 +8,7 @@ tags: [MLSN, fertilizer]
 
 This question came in the mail:
 
-> As to the MSLN guidelines that you have been a big proponent of, how do they apply to growing in a new course.  I have wondered if they are more geared toward once a turfgrass becomes established and you are in maintenance mode.
+> As to the MLSN guidelines that you have been a big proponent of, how do they apply to growing in a new course.  I have wondered if they are more geared toward once a turfgrass becomes established and you are in maintenance mode.
 
 > I have a new course that I have been supplying our [grass variety] and they are practicing the MSLN approach using only liquid applications (via tank applications as they haven’t installed their fertigation yet).  I would like to see the course further along in coverage of the [grass] based on the amount of time it has been planted.  Just would like your thoughts on this program as it relates to a grow-in.  I have always subscribed to applying fertilizer and push the turf so as to maximize establishment then go into maintenance mode once grown in.
 
