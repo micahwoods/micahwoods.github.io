@@ -16,7 +16,7 @@ This question came in the mail:
 
 My reply:
 
-> I agree with you that for grow-in I would be pushing turf to get establishment in a reasonable amount of time and after that I would slow the growth to produce whatever growth rate is required for the amount of traffic on that surface. The MLSN approach is independent of growth rate, and is a way to ensure that no matter how fast the grass is growing, it will certainly be supplied with enough K, P, Ca, Mg, and S.
+> I agree with you that for grow-in I would be pushing turf to get establishment in a reasonable amount of time and after that I would slow the growth to produce whatever growth rate is required for the amount of traffic on that surface. The MLSN approach is a way to ensure that no matter how fast the grass is growing, it will certainly be supplied with enough K, P, Ca, Mg, and S.
 
 > Adjusting the N rate during a grow-in will change the rate at which the turf establishes. MLSN makes no recommendation for N rate, and simply links expected nutrient use to the growth rate to ensure that the elements other than N are supplied in adequate amounts at whatever rate the grass is growing. Thus, I think the MLSN approach is fine for a grow-in, but I would be especially sure to make the calculations correctly, especially for P, and in the case of [grass variety], for K as well, to make sure there remains a buffer in the soil of those elements no matter what the grow-in rate is.
 
@@ -31,3 +31,4 @@ For some example calculations of fertilizer rates based on the MLSN guidelines, 
 * [Preventing nutrient deficiencies](http://www.blog.asianturfgrass.com/2017/01/preventing-nutrient-deficiencies.html)
 * [MLSN webinar on TurfNet](http://www.blog.asianturfgrass.com/2015/05/mlsn-webinar-on-turfnet.html)
 * [An MLSN refersher](http://www.blog.asianturfgrass.com/2017/04/an-mlsn-refresher.html)
+* [Why I don't worry about micronutrients](http://www.blog.asianturfgrass.com/2017/01/why-i-dont-worry-about-micronutrients.html)
