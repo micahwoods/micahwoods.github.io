@@ -15,7 +15,7 @@ In a [recent discussion](https://twitter.com/paceturf/status/925856403213901824)
 
 I downloaded temperature data from the NOAA's [climate data online](https://www.ncdc.noaa.gov/cdo-web/search) site, and I've put the code and described what I did to make these calculations at [GitHub](https://github.com/micahwoods/gp_inflection). To keep things simple, and consistent, I omitted all the years in the final analysis in which there were any days with missing temperature data in the period from August 1 to November 30 in all the years from 1922 to 2017. This series of charts shows how temperature is related to that time (or inflection point) at which the cool-season GP starts to exceed the warm-season GP in autumn.
 
-Here's the temperature for 55 years (the years from 1922 to 2017 with no missing data) from August 1 to November 30. Each line is a year. That's kind of a mess. But I'd like to take those temperature data and get some idea of when an optimum date to overseed might be.
+Here's the temperature for 55 years (the years from 1922 to 2016 with no missing data) from August 1 to November 30. Each line is a year. That's kind of a mess. But I'd like to take those temperature data and get some idea of when an optimum date to overseed might be.
 
 ![temperature 55 years Palm Springs](/img/temperature_55_palm_springs.png)
 
