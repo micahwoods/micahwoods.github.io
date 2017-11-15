@@ -5,7 +5,7 @@ share-img: "http://www.asianturfgrass.com/img/2017_flight_map_ytd.png"
 tags: [seminar]
 ---
 
-When I led a seminar in Idaho last month about *Turf Around the World*, I wanted to show a map of the flights I'd taken this year. I didn't have a map to show then, however, because of some software problems. I fixed that problem and am now back to making maps again. The maps I show here are made with code modified from [this example](http://strimas.com/spatial/long-flights/). This is the map I would have shown in Idaho, minus the flights I've taken since then. 
+When I led a seminar in Idaho last month about *Turf Around the World*, I wanted to show a map of the flights I'd taken this year. I didn't have a map to show then, however, because of some software problems. I fixed that problem and am now back to making maps again. The maps I show here are made with code modified from [this example](http://strimas.com/spatial/long-flights/).
 
 ![map of flights ytd in 2017](/img/2017_ytd_flight_map.svg)
 
