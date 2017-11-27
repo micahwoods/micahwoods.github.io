@@ -7,7 +7,7 @@ tags: [seminar, fertilizer, MLSN]
 
 That's the title of my seminar today at the Alberta Property Manager's Conference. *Minimalist* is not a word I would often use, but when I looked at the conference program, that was the title I saw. Rather than requesting a change, I decided to talk about it. [These are the slides](https://speakerdeck.com/micahwoods/minimalist-turfgrass-nutrition) -- also embedded below -- and this is what I'm going to discuss.
 
-1. We can start by thinking about what we are trying to accomplish with turfgrass nutrition. We do that by adjusting the growth rate of the grass to produce the desired surface, and by preventing nutrient deficiencies. To prevent nutrient deficiencies, one needs to ensure the grass is supplied with all of each nutrient that it can use. Excepting nitrogen of course, which is what we will use to adjust the growth rate.
+1. We can start by thinking about what we are trying to accomplish with turfgrass nutrition. We want to produce a surface, and that is done by adjusting the growth rate of the grass while preventing nutrient deficiencies. To prevent nutrient deficiencies, one needs to ensure the grass is supplied with all of each nutrient that it can use. Excepting nitrogen of course, which is what we will use to adjust the growth rate.
 
 2. It follows that the **minimum amount to supply** is all that the grass can use. 
 
