@@ -21,6 +21,6 @@ That's the title of my seminar today at the Alberta Property Manager's Conferenc
 
 7. I use the [MLSN guidelines](https://www.paceturf.org/journal/minimum_level_for_sustainable_nutrition) to make these calculations, because the MLSN guideline level gets added to the grass use amount. In this way it acts as an extra amount of nutrients that will remain in the soil, never touched by the grass.
 
-8. This is a simple calculation that can be demonstrated by an analogy about apples, or about beer. You can read about the apple or beer analogy in the [4th MLSN newsletter](http://files.asianturfgrass.com/201711_mlsn_newsletter.pdf).
+8. This is a simple calculation that can be demonstrated by an analogy about apples, or about beer. You can read about the apple or beer analogy in the [4th MLSN newsletter](http://files.asianturfgrass.com/201711_mlsn_newsletter.pdf). Also, sign up for [the MLSN or other ATC newsletters here](http://www.asianturfgrass.com/lists/).
 
 <script async class="speakerdeck-embed" data-id="70506c66294a4f6486dec53c3be23016" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
