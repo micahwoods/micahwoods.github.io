@@ -3,6 +3,8 @@ layout: post
 title: "Monthly Turfgrass Roundup: November 2017"
 subtitle: "Dew from fairways, Curvularia, groundwater, thatch, herd immunity, overseeding, social research and golf, the Adventures in Golf show went to Thailand, and more"
 share-img: "https://c1.staticflickr.com/5/4529/37614130244_ac6863812a_b_d.jpg"
+bigimg:
+- "/img/highlands_fwy.jpg" : "manilagrass fairway and rough, Tagaytay, Philippines"
 tags: [roundup]
 ---
 
@@ -40,6 +42,8 @@ Jason Haines wrote about turfgrass disease and [herd immunity](http://www.turfha
 Adventures in Golf [went to Thailand](https://youtu.be/_JAQHi_WVA8):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_JAQHi_WVA8?rel=0" frameborder="0" allowfullscreen></iframe>
+
+The 4th MLSN newsletter went out this month. It's available for download at the [archive page](http://www.asianturfgrass.com/archive/).
 
 If you would like to subscribe to the [ATC updates mailing list](http://www.subscribepage.com/atcupdate), or the [MLSN newsletter list](http://www.subscribepage.com/mlsn), you can do so at those links. Each is sent with new information about 6 times a year. 
 
