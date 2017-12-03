@@ -27,6 +27,8 @@ If we look at the conventional guidelines for those same elements, at the bottom
 
 The MLSN guideline is set at the 0.1 level. That is, 10% of soils producing good turf are expected to have that element at a level below MLSN.
 
+Rather than applying fertilizer to keep the soil nutrient levels higher than about 80% of other soils producing good turf, we think it makes sense to set a lower level that one doesn't want to drop below. 
+
 
 
 
