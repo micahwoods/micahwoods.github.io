@@ -5,13 +5,13 @@ share-img: "http://www.asianturfgrass.com/img/fifty_si.png"
 tags: [seminar, soil test]
 ---
 
-Matt Nelson asked about this in a recent seminar. I was explaining that conventional nutrient guidelines, as described in [this article by Carrow et al.](http://tic.msu.edu/tgif/flink?recno=93213), classify soils as low, medium or high. From the article, these are the definitions:
+Matt Nelson asked about this in a recent seminar. I was explaining that conventional nutrient guidelines, as described in [this article by Carrow et al.](http://tic.msu.edu/tgif/flink?recno=93213), classify soils as low, medium or high. From the article, these are the definitions.
 
-*Low range:* a high probability (80-100%) that applying the element will elicit a growth response.
+* *Low range:* a high probability (80-100%) that applying the element will elicit a growth response.
 
-*Medium range:* approximately a 50% change of getting a plant growth response from application of the nutrient; if supplemental fertilizer is not applied, growth will probably be limited, especially as the season progresses.
+* *Medium range:* approximately a 50% change of getting a plant growth response from application of the nutrient; if supplemental fertilizer is not applied, growth will probably be limited, especially as the season progresses.
 
-*High range:* little or no crop response is expected from applying the particular nutrient.
+* *High range:* little or no crop response is expected from applying the particular nutrient.
 
 Reading those definitions, it seems to me that no turf manager would want to grow turf with soil in the low or medium range. If there is a 50% or 80-100% chance of getting a plant growth response from adding that element, then I would want to add it. I want to manage turf in soils that are at least at the bottom end of the high range, where there is little or no crop response expected. 
 
