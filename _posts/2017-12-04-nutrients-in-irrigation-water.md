@@ -25,7 +25,7 @@ This was my response:
 > I don't think this is over analyzing. One can calculate these amounts and adjust fertilizer inputs accordingly, if one wants to. I think in most cases one can be aware of this, make some quick calculations to keep in the back of one's mind, and then ignore the irrigation nutrient supply, for two reasons:
 
 > 1. the aforementioned probability of leaching
-> 2. the assumed annual soil testing, in which one can see if Ca went up or down, if Mg went up or down, K went up or down, etc., compared to the soil testing 12 months previously. From this check at whether the nutrient went up or down, vs. where one would have expected the nutrient to be given the amount of irrigation and fertilizer applied, one can get an idea of what actually is happening, and then make necessary adjustments for the upcoming year.
+> 2. the assumed annual soil testing, in which one can see if Ca went up or down, if Mg went up or down, K went up or down, etc., compared to the soil testing 12 months previously. From this check of whether the nutrient went up or down, vs. where one would have expected the nutrient to be given the amount of irrigation and fertilizer applied, one can get an idea of what actually is happening, and then make necessary adjustments for the upcoming year.
 
 > Please have a look at these blog posts about waterfall charts too. These explain more about these quantities of nutrients.
 
