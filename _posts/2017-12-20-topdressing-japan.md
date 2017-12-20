@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Topdressing frequency on golf course putting greens in Japan
-subtitle: In 
 share-img: "http://www.asianturfgrass.com/img/gk_2018_map.png"
 bigimg:
 - "/img/topdress_shimane.jpg" : "sand topdressing, Shimane, Japan"
@@ -12,10 +11,18 @@ A recent conversation about [putting surfaces in Japan](https://twitter.com/GCIM
 
 *[The Greenkeeper 2018](https://twitter.com/asianturfgrass/status/942405511076462594)* has course maintenance summaries for 17 courses in Japan. I mapped the locations of those courses by zip code.
 
-![map of Greenkeeper 2018](/img/gk_2018_map.png)
-<p style="font-size: smaller;">Map tiles by [Stamen Design](http://stamen.com), under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0). Data by [OpenStreetMap](http://openstreetmap.org), under [ODbL](http://www.openstreetmap.org/copyright).</p>
+![map of Greenkeeper 2018](/img/gk_2018_map.png)<sub>Map tiles by [Stamen Design](http://stamen.com), under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0). Data by [OpenStreetMap](http://openstreetmap.org), under [ODbL](http://www.openstreetmap.org/copyright).</sub>
 
-All those courses have bentgrass greens. Eight of them reported the variety as Pencross, three as L-93, and the other varieties were Penncross/L-93, SR1020, Penncross/Imperial/SR1019/L-93/Tyee, 962/Crenshaw, Penncross/L-93/Shark and Penncross/L-93/007/Mackenzie. These additional varieties are the grass/es used for interseeding.
+All those courses have bentgrass greens. Eight of them reported the variety as Pencross, three as L-93, and the other varieties were:
+
+* Penncross/L-93
+* SR1020
+* Penncross/Imperial/SR1019/L-93/Tyee
+* 962/Crenshaw
+* Penncross/L-93/Shark
+* Penncross/L-93/007/Mackenzie
+
+Except for the 962/Crenshaw and SR1020, I expect these additional varieties are the grass/es used for interseeding into a Penncross base.
 
 The median annual rounds on these 17 courses was 40,255. The median annual topdressing amount was 7.7 mm. The median number of topdressing events per year was 17. The median N application was was 10 g/m<sup>2</sup> (2 lbs/1000 ft<sup>2</sup>).
 
