@@ -12,7 +12,8 @@ A recent conversation about [putting surfaces in Japan](https://twitter.com/GCIM
 *[The Greenkeeper 2018](https://twitter.com/asianturfgrass/status/942405511076462594)* has course maintenance summaries for 17 courses in Japan. I mapped the locations of those courses by zip code.
 
 ![map of Greenkeeper 2018](/img/gk_2018_map.png)
-<sub>Map tiles by [Stamen Design](http://stamen.com), under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0). Data by [OpenStreetMap](http://openstreetmap.org), under [ODbL](http://www.openstreetmap.org/copyright).</sub>
+
+<sup>Map tiles by [Stamen Design](http://stamen.com), under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0). Data by [OpenStreetMap](http://openstreetmap.org), under [ODbL](http://www.openstreetmap.org/copyright).</sup>
 
 All those courses have bentgrass greens. Eight of them reported the variety as Pencross, three as L-93, and the other varieties were:
 
