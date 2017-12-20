@@ -26,10 +26,10 @@ All those courses have bentgrass greens. Eight of them reported the variety as P
 
 Except for the 962/Crenshaw and SR1020, I expect these additional varieties are the grass/es used for interseeding into a Penncross base.
 
-The median annual rounds on these 17 courses was 40,255. The median annual topdressing amount was 7.7 mm. The median number of topdressing events per year was 17. The median N application was was 10 g/m<sup>2</sup> (2 lbs/1000 ft<sup>2</sup>).
+The median annual rounds on these 17 courses was 40,255. The median annual topdressing amount was 7.7 mm. The median number of topdressing events per year was 17. The median N application was was 10 g/m<sup>2</sup> (2 lbs/1000 ft<sup>2</sup>). The median N for greens in the USA is [3.7 lbs/1000 ft<sup>2</sup>](https://dl.sciencesocieties.org/publications/cftm/pdfs/2/1/cftm2015.0225).
 
 Is there survey data for the average number of topdressing events on golf courses in the USA? I would guess the median course in the USA would topdress more than 17 times a year.
 
-The median amount of sand applied on courses in Japan is close -- actually, it is 25% more -- than the 20.3 ft<sup>3</sup>/1000 ft<sup>2</sup> minimum recommended by [Schmid et al.](https://turf.unl.edu/pdfctarticles/ATSOMSurvey2014.pdf) and is about half the amount recommended by [O'Brien and Hartwiger](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2003/030301.pdf).
+The median amount of sand applied on these courses in Japan is close -- actually, it is 25% more -- than the 20.3 ft<sup>3</sup>/1000 ft<sup>2</sup> minimum recommended by [Schmid et al.](https://turf.unl.edu/pdfctarticles/ATSOMSurvey2014.pdf) and is about half the amount recommended by [O'Brien and Hartwiger](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2003/030301.pdf).
 
 
