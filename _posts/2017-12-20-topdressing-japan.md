@@ -30,6 +30,6 @@ The median annual rounds on these 17 courses was 40,255. The median annual topdr
 
 Is there survey data for the average number of topdressing events on golf courses in the USA? I would guess the median course in the USA would topdress more than 17 times a year.
 
-The median amount of sand applied on these courses in Japan is close -- actually, it is 25% more -- than the 20.3 ft<sup>3</sup>/1000 ft<sup>2</sup> minimum recommended by [Schmid et al.](https://turf.unl.edu/pdfctarticles/ATSOMSurvey2014.pdf) and is about half the amount recommended by [O'Brien and Hartwiger](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2003/030301.pdf).
+The median amount of sand applied on these courses in Japan is close to -- actually, it is 25% more than -- the 20.3 ft<sup>3</sup>/1000 ft<sup>2</sup> minimum recommended by [Schmid et al.](https://turf.unl.edu/pdfctarticles/ATSOMSurvey2014.pdf) and is about half the amount recommended by [O'Brien and Hartwiger](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2003/030301.pdf).
 
 
