@@ -6,7 +6,7 @@ share-img: "https://c1.staticflickr.com/9/8683/15913288945_d7c4e4064c_b_d.jpg"
 tags: [Web/Tech]
 ---
 
-I've written more than 100 blog posts this year. A few of them get read by a lot -- hundreds, and very rarely, more than 1,000 -- people. The median post from 2017 got 184 pageviews. The middle 50% of the posts had pageviews from 112 on the low end to 299 on the high end.
+I've written more than 100 blog posts this year. A few of them were read by many -- hundreds, and for a few posts, more than 1,000 -- people. The median post from 2017 got 184 pageviews. The middle 50% of the posts had pageviews from 112 on the low end to 299 on the high end.
 
 ![histogram of ATC blog pageviews in 2017](/img/blog_2017_histogram.png)
 
