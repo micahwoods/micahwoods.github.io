@@ -9,17 +9,17 @@ I'm taking this idea from Jeff Leek at the [Simply Statistics](https://simplysta
 
 * The [Greenkeeper](http://greenkeeperapp.com/marketing/) app by Bill Kreuser keeps getting better.
 * Kreuser also wrote about PGR over-regulation on [putting green collars](https://turf.unl.edu/turfinfo/5_4_PGR_Collars.pdf) and about the nuance of [GDD calculations](https://turf.unl.edu/turfinfo/9-28_GDD_Calcs.pdf).
-* Beth Guertal was voted president-elect of the [Crop Science Society of America](http://ocm.auburn.edu/newsroom/news_articles/2017/05/guertal-president-elect-of-crop-science-society-of-america.htm).
+* Beth Guertal was voted [president-elect of the Crop Science Society of America](http://ocm.auburn.edu/newsroom/news_articles/2017/05/guertal-president-elect-of-crop-science-society-of-america.htm).
 * Sue Crawford shared one of the best photos of [roots out the bottom of the plug](https://twitter.com/eastcoastsue1/status/869182841048977410).
 * Kasey Kauff put the Underdogs of Turf calendar together with the support of Rain Bird Golf. You can get a [copy of the calendar here](https://twitter.com/RainBirdGolf/status/942842583780179968).
 * Joe Gulotti started [a blog](http://www.thewalkinggreenkeeper.com/), The Walking Greenkeeper. You won't find anything like it. The first post, as an introduction, was titled ["I was a total sellout"](http://www.thewalkinggreenkeeper.com/2017/03/i-was-total-sellout.html). And he spoke at the Penn State Golf Turf Conference. 
 * Jason Haines wrote 23 posts at the [Turf Hacker blog](http://www.turfhacker.com/). I enjoyed reading all of them.
-* the USGA Green section put together [a compendium of every article](https://cloud.3dissue.com/73035/73358/177943/2017Compendium/index.html) from the previous year
-* Jon Wall went back to Nepal and shared [stunning photos](https://twitter.com/DirtyBulk/status/824231111899254784) of the Himalayan GC
+* the USGA Green section put together [a compendium of every article](https://cloud.3dissue.com/73035/73358/177943/2017Compendium/index.html) from the previous year.
+* Jon Wall went back to Nepal and shared [stunning photos](https://twitter.com/DirtyBulk/status/824231111899254784) of the Himalayan GC.
 * Leasha Schwab wrote about [women in golf](http://www.golfcourseindustry.com/article/women-in-turf-superintendent/).
 * Doug Soldat continued his surprising photos of turf diseases on bentgrass after the [snow melts](https://twitter.com/djsoldat/status/833702016652365824). He also had some amazing tall fescue [surrounded by dandelions](https://twitter.com/djsoldat/status/864137586503299075).
 * Aaron Hathaway showed [weeds with herbicide, nothing, and N](https://twitter.com/Turficidal/status/885163342150721536).
-* Jonathan Wood shared [more amazing photos](https://twitter.com/jonwood1978/status/845848598893998080) from St. Andrews
+* Jonathan Wood shared [more amazing photos](https://twitter.com/jonwood1978/status/845848598893998080) from St. Andrews.
 * PACE Turf made a [GP Avatar app](https://paceturf.shinyapps.io/GPAvatar/), among many other awesome things [they did this year](https://www.paceturf.org/).
 * The [Golf Environment Organization (GEO)](https://www.golfenvironment.org/) continued to provide great resources to the industry, including the brand new [On Course](https://getoncourse.golf/) site.
 * Golf course architect [Paul Jansen](https://twitter.com/pauljansengolf/status/859888599063343104) traveled around South and Southeast Asia to study unconventional and sustainable golf.
