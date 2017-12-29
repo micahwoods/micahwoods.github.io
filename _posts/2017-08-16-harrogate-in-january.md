@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "I just bought a plane ticket to Manchester"
-share-img: "https://c1.staticflickr.com/7/6175/6268465278_efe52b34bc_b_d.jpg"
+share-img: "http://www.asianturfgrass.com/img/minchinhampton_cow.jpg"
 tags: [seminar, BIGGA, England, BTME]
 bigimg:
 - "/img/minchinhampton_cow.jpg" : "cool-season mix, Gloucestershire"
 ---
 
-I'll be making my second trip to Harrogate in January, and [this time](http://www.bigga.org.uk/about-us/news/first-wave-onue-to-learn/00947.html) I get to lead some discussions about turfgrass management. I've been wanting to do this for a long time, and I'm really excited about this opportunity to share, in person, many of the ideas I've been working on recently.
+I'll be making my second trip to Harrogate next month, and this time I get to lead some discussions about turfgrass management. The [seminar schedule and booking form is here](http://www.btme.org.uk/education/seminars/). I've been wanting to do this for a long time, and I'm really excited about this opportunity to share, in person, many of the ideas I've been working on recently.
 
 Here's a quick preview of my talks. 
 
