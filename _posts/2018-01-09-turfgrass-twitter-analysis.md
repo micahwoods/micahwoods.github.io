@@ -5,7 +5,9 @@ share-img: "https://farm3.staticflickr.com/2495/3810887415_53768f0494_b_d.jpg"
 tags: [Web/Tech]
 ---
 
-I used the [rtweet](https://cran.r-project.org/web/packages/rtweet/index.html) package to collect turfgrass community tweets from 2017. I wondered which accounts had the most impact, or influence. To figure that out, I looked at these data:
+I used the [rtweet](https://cran.r-project.org/web/packages/rtweet/index.html) package to collect turfgrass community tweets from 2017. I had learned of this package from [Bob Rudis' blog post about rtweet](https://rud.is/b/2017/10/22/a-call-to-tweets-blog-posts/).
+
+At the end of the year, I had a bit of time, and a lot of curiosity, so I finally tried it. I wondered if I could find which turfgrass industry accounts had the most impact, or influence. To figure that out, I looked at these data:
 
 * the number of followers
 * how often the account tweeted (tweet creation rate)
@@ -18,9 +20,9 @@ The results of the calculations are in this searchable and sortable [Turfgrass T
 
 The code I used is in the [turf_twitter_2017](http://www.asianturfgrass.com/turf_twitter_2017/) repository on GitHub, so you can see exactly what I did.
 
-The 6,271 accounts I studied as "turf twitter" in this analysis were selected with these rules:
+The 6,271 accounts I studied as "turf twitter" in this analysis were selected using these criteria.
 
-Following at least one of seven turf scientists. I wanted to study accounts that are interested in new developments in turfgrass, and I figured that almost everyone interested in that would be following one of these accounts.
+First, I got the list of followers of seven turf scientists. I wanted to study accounts that are interested in new developments in turfgrass, and I figured that almost everyone interested in that topic would be following at least one of these accounts.
 
 ```r
 # get id of accounts following 
