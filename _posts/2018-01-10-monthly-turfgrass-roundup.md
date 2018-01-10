@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Turfgrass Roundup: December 2017"
-subtitle: ""
+subtitle: "Drought, potassium, seaweed extracts, year-end lists and reviews, unique golf courses in Asia, nutrients in irrigation, topdressing in Japan, and more"
 share-img: "https://c1.staticflickr.com/5/4635/39361562101_9463a7da53_b_d.jpg"
 bigimg:
 - "/img/hakone.jpg" : "noshiba fairways and bentgrass greens, Kanagawa, Japan"
