@@ -7,7 +7,7 @@ tags: [fertilizer, soil, MLSN]
 
 This inquiry came to my inbox:
 
-> "I've been asked to give a seminar on MLSN guidelines for the []. I intend to keep the explanation fairly simple. Are there any frequently asked questions that you have encountered that I could use in my presentations to help me make sure I'm explaining it clear enough. I am making it clear at the beginning and end of the 45 min seminar that I am only relaying the research that you and Dr. Stowell and Dr. Gelernter have conducted. On a side note...I have been teaching this method of soil fertility interpretations for two years to my [] turf students and I can't quite understand the resistance I get from superintendents.... any thoughts on that?"
+> "I've been asked to give a seminar on MLSN guidelines for the [ ]. I intend to keep the explanation fairly simple. Are there any frequently asked questions that you have encountered that I could use in my presentations to help me make sure I'm explaining it clear enough ... On a side note...I have been teaching this method of soil fertility interpretations for two years to my [ ] turf students and I can't quite understand the resistance I get from superintendents.... any thoughts on that?"
 
 This was my response.
 
