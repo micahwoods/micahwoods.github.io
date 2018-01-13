@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"I can't quite understand the resistance I get from superintendents ... any thoughts on that?"'
+title: ' "I can't quite understand the resistance I get from superintendents ... any thoughts on that?" '
 share-img: "https://c2.staticflickr.com/6/5482/11377990553_d2d8f281f3_b_d.jpg"
 tags: [fertilizer, soil, MLSN]
 ---
