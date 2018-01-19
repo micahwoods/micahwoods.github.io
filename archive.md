@@ -2,7 +2,8 @@
 layout: page
 title: ATC update and newsletter archives
 subtitle: PDF versions of old newsletters
-share-img: "https://c1.staticflickr.com/9/8641/15727712247_80643ab63b_b_d.jpg"
+# scope_pepper share-img: "https://c1.staticflickr.com/9/8641/15727712247_80643ab63b_b_d.jpg"
+share-img: "https://c1.staticflickr.com/3/2899/14723831026_7b6f342d68_b_d.jpg"
 ---
 
 ATC newsletters sent since January 2017 are listed and can be downloaded below. 
