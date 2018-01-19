@@ -11,6 +11,7 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 [Subscribe to ATC updates here](http://www.subscribepage.com/atcupdate).
 
+* [January 2018](http://files.asianturfgrass.com/201801_atc_update.pdf), ATC update: clipping volume, soil tests, & yearly review
 * [October 2017](http://files.asianturfgrass.com/201710_atc_update.pdf), ATC update: new website, upcoming seminars, & new turf info 
 * [June 2017](http://files.asianturfgrass.com/201706_atc_update.pdf), ATC update: grass roots, seminars, and turf reading 
 * [January 2017](http://files.asianturfgrass.com/201701_atc_update.pdf), ATC update & March conference in Pattaya 
