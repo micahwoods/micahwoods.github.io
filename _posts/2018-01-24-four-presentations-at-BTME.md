@@ -15,7 +15,7 @@ These are the slides from my workshops and presentations at BTME this week. You 
 
 This full day workshop on 21 January covered the system described in my book [*A Short Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping).
 
-<iframe width="160" height="400" src="https://leanpub.com/short_grammar_of_greenkeeping/embed" frameborder="0" allowtransparency="true"></iframe>
+<iframe width="190" height="495" src="https://leanpub.com/short_grammar_of_greenkeeping/embed" frameborder="0" allowtransparency="true"></iframe>
 
 ## Green Speed is More Than a Number
 
