@@ -15,9 +15,9 @@ Now to answer the question.
 
 First, please have a look at the [MLSN cheat sheet](http://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/). I wrote it just for this type of question.
 
-Assuming you don't measure the nutrient use, an easy way to get a maximum estimate of use is by looking at N supply to healthy turf. Grass can't grow more than the quantity of N supplied. Also, the N uptake is not 100% efficient. So looking at N supply will be a maximum use. 
+Assuming you don't measure the nutrient use, an easy way to get a maximum estimate of use is by looking at N supply. Grass can't grow more than the quantity of N supplied. Also, the N uptake is not 100% efficient. So looking at N supply will be a maximum use. 
 
-Let's say you apply 2 pounds of N per 1000 square feet in the next 5 months. And let's say healthy grass of that species has 4% N in the leaves -- we'll work with numbers for a typical cool-season grass. And the soil mineralization of N is expected to be 0.4 pounds. N supply then is 2.4 pounds, and the maximum growth of the grass is 2.4 divided by 4%, or 0.04. Thus, the maximum clipping yield in that situation is 60 pounds per 1000 square feet. 
+Let's say you apply 2 pounds of N per 1000 square feet in the next 5 months. And let's say healthy grass of that species has 4% N in the leaves -- we'll work with numbers for a typical cool-season grass. And the soil mineralization of N is expected to be 0.4 pounds. N supply then is 2.4 pounds, and the maximum growth of the grass is 2.4 divided by 4%, or 0.04. Thus, the maximum clipping yield in that situation is 60 pounds per 1000 square feet. And if it is unhealthy turf? It will use *less*. So our estimate is still the maximum we could possibly need.
 
 Now we multiply the total clipping yield by the percentage of each element in the leaves. In 60 pounds of clippings from healthy grass, you can expect to find:
 
