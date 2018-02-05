@@ -25,7 +25,7 @@ What I've written above applies to sand rootzones. For turf growing on soil root
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1LV77z_Ziw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-When growing on soil, then I expect the surfaces to be harder than if on sand, assuming the soil is allowed to dry. So if you have turf growing in relatively dry soil, and want to make it the surface softer, I suggest adding more water and more sand.
+When growing on soil, then I expect the surfaces to be harder than if on sand, assuming the soil is allowed to dry. So if you have turf growing in relatively dry soil, and want to make the surface softer, I suggest adding more water and more sand.
 
 
 
