@@ -25,6 +25,6 @@ This isn't a forecast, but it is how much and when the rain typically falls at t
 
 <hr>
 
-Technical note: I was having a problem getting the data with an error message about "expecting an integer." I solved it with `ghcnd_clear_cache(force = TRUE)` as [explained here](https://discuss.ropensci.org/t/ghcn-and-meteo-tidy-ghcnd-not-pulling-most-recent-data/712/7).
+Technical note: I was having a problem getting the data with an error message about "expecting an integer." I'd been having that problem for a few months, and I was please to find the solution. I solved it with `ghcnd_clear_cache(force = TRUE)` as [explained here](https://discuss.ropensci.org/t/ghcn-and-meteo-tidy-ghcnd-not-pulling-most-recent-data/712/7).
 
 
