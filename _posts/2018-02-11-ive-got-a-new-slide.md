@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've got a new slide
+title: "I've got a new slide"
 subtitle: 'From Madison (1971): "In recent years Liebig's Law has been presented to turf audiences in a different and incorrect form"'
 share-img: "http://www.asianturfgrass.com/img/fertilizer_madison.png"
 tags: [fertilizer, soil, seminar]
