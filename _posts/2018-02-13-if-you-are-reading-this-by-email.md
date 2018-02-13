@@ -11,7 +11,7 @@ This blog e-mail update is the most frequent of the e-mails from ATC. I checked 
 
 If you would like to sign up to that, you can [do so here](http://www.subscribepage.com/atc_blog_email).
 
-[![img of the atc blog update sign-up form](/img/blog_email_page.png)]](http://www.subscribepage.com/atc_blog_email)
+[<img src="http://www.asianturfgrass.com/img/blog_email_page.png">](http://www.subscribepage.com/atc_blog_email)
 
 ATC has less frequent newsletters as well.
 
