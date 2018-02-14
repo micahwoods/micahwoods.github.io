@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Turf conditions, efficiency, and the *Grammar of Greenkeeping*"
+title: "Turf conditions, efficiency, and the 'Grammar of Greenkeeping'"
 share-img: "https://c2.staticflickr.com/4/3596/3768176490_f67b781c25_o_d.jpg"
 tags: [seminar, turf info]
 ---
