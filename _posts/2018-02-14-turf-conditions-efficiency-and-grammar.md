@@ -19,7 +19,7 @@ The slides for the seminar are [here](https://speakerdeck.com/micahwoods/turf-co
 
 This approach to turfgrass management work is described in [*A Short Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping).
 
-<iframe width="200" height="450" src="https://leanpub.com/short_grammar_of_greenkeeping/embed" frameborder="0" allowtransparency="true"></iframe>
+<iframe width="180" height="480" src="https://leanpub.com/short_grammar_of_greenkeeping/embed" frameborder="0" allowtransparency="true"></iframe>
 
 This provides a somewhat standardized language for thinking about and communicating about greenkeeping work. One can use this grammar to compare the work done on different areas of the same site -- greens and fairways, for example, almost certainly require a different growth rate and require different amounts of work -- and to compare the work that is done to turfgrass anywhere in the world. By doing this, one can see improving turf conditions, can make those improvements systematically and in full control of the turf, and maybe even do so with less work.
 
