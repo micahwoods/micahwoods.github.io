@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'After a pimento cheese sandwich and a Masters club ...'"
+title: '"After a pimento cheese sandwich and a Masters club ..."'
 share-img: "http://www.asianturfgrass.com/img/atm_cover.png"
 tags: [turf info, Australia]
 ---
