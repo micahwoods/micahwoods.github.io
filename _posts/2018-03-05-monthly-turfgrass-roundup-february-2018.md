@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Turfgrass Roundup: February 2018"
-subtitle: "Microdochium, snow and melting it, naps, taking fun out of golf, cheat sheets, spreadsheets, soil biology, hollow tine recovery time, soft greens, & more"
+subtitle: "Microdochium, snow and melting it, naps, sandwiches, taking fun out of golf, cheat sheets, spreadsheets, soil biology, hollow tine recovery time, soft greens, new USGA recommendations, & more"
 share-img: "https://c1.staticflickr.com/5/4401/36934699905_ee7f73082a_b_d.jpg"
 bigimg:
 - "/img/mnl_pano.jpg" : "seashore paspalum at Manila Golf Club"
@@ -20,6 +20,8 @@ King went for a [run in the snow](https://twitter.com/drumcturf/status/960856878
 Jim Murphy wrote about [rectangles of melting snow](http://turfblog.rutgers.edu/?p=1111).
 
 There is now a [cheat sheet for MLSN](http://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/).
+
+Dan Cook wrote [about sandwiches and our April conversations](http://www.asianturfgrass.com/2018-02-28-gdd-atm-models-consistency/).
 
 Benjamin Warren explained how [caddies can help melt snow](https://twitter.com/benjaminwarren/status/959983378186424321):
 
@@ -62,8 +64,6 @@ Albert Bancroft shows it's all about [melting the snow](https://twitter.com/alba
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I spoke about the [grammar of greenkeeping in Vancouver](http://www.asianturfgrass.com/2018-02-14-turf-conditions-efficiency-and-grammar/).
-
-Dan Cook wrote [about sandwiches and our April conversations](http://www.asianturfgrass.com/2018-02-28-gdd-atm-models-consistency/).
 
 If you would like to subscribe to the [ATC updates mailing list](http://www.subscribepage.com/atcupdate), or the [MLSN newsletter list](http://www.subscribepage.com/mlsn), you can do so at those links. Each is sent with new information about 6 times a year. 
 
