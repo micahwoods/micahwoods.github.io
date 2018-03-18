@@ -22,7 +22,7 @@ The [Kew Grassbase entry](https://www.kew.org/data/grasses-db/www/imp08657.htm) 
 
 There are more patches of javagrass in other lawns. From a distance I notice a russet color of the javagrass patches in this primarily manilagrass lawn at the [Bang Pa-In Royal Palace](https://en.wikipedia.org/wiki/Bang_Pa-In_Royal_Palace).
 
-![hedge elephants at Bang Pa-In](img/chang_bang-pa-in_palace.jpg)
+![hedge elephants at Bang Pa-In](/img/chang_bang-pa-in_palace.jpg)
 
 "This grass forms the natural covering of lawns and parks on the heavy soils of western Java, making a pure turf in which few weeds appear," Piper wrote, in [*Golf course grasses in tropical and subtropical regions*](http://tic.msu.edu/tgif/flink?recno=49328). "It is a low-growing grass ... The turf is very dense, but is inclined to be a little loose like short-mowed crab grass." I've noticed that the leaves are softer than other common turfgrasses in Thailand, and I expect that this characteristic, and the green color when supplied with irrigation, are a primary reason for the use of this species on the palace lawns.
 
