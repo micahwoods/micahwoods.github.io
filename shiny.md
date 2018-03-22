@@ -17,6 +17,10 @@ Returns the reference and crop evapotranspiration for a day given inputs of lati
 
 Returns the sustainability index (SI) based on soil test inputs. This is a direct comparison of input soil test results to the MLSN data.
 
+### [Turf Twitter](https://asianturfgrass.shinyapps.io/turf_twitter/)
+
+This app shows searchable calculations and rankings related to turfgrass industry Twitter accounts in calendar year 2017.
+
 ### [Irrigation requirement at Manila, Cebu, and Baguio: 2013 to 2016](https://asianturfgrass.shinyapps.io/irr_ph/)
 
 Calculates the daily soil water balance using precipitation and evapotranspiration data for three locations in the Philippines, matching a user-specified set of irrigation *rules*.
