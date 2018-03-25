@@ -15,7 +15,7 @@ In this post I've got something new and something old.
 
 First, the new. I am going to start using a standard unit of mL/m<sup>2</sup> to express the clipping volume. This is milliliters per square meter. I have previously used units of L/100 m<sup>2</sup>. This is an easy change to make. 1 L/100 m2 is 10 mL/m<sup>2</sup>.
 
-Why the change? Because this gives a number for almost all measurements that will be between 0 and 100. Vigorously growing turf may be from 20 to 50 mL/m<sup>2</sup>. Haven't mown for a few days? You may get more than 50 mL/m<sup>2</sup>. Under tournament conditions, one might have less than 10 mL/m<sup>2</sup> from a double cut of the surfaces. Using a unit on a scale from 0 to 100 is easier because it avoids decimal points. And it expressed the volume per square meter, rather than per 100 m<sup>2</sup>, which I prefer.
+Why the change? Because this gives a number for almost all measurements that will be between 0 and 100. Vigorously growing turf may be from 20 to 50 mL/m<sup>2</sup>. Haven't mown for a few days? You may get more than 50 mL/m<sup>2</sup>. Under tournament conditions, one might have less than 10 mL/m<sup>2</sup> from a double cut of the surfaces. Using a unit on a scale from 0 to 100 is easier because it avoids decimal points. And it expresses the volume per square meter, which is the base area unit I prefer.
 
 When I was in graduate school, I read a paper by [John Monteith](https://en.wikipedia.org/wiki/John_Monteith)---you'll recognize that name from the "Penman-Monteith" equation for evapotranspiration---entitled 
 [*Consistency and convenience in the choice of units for agricultural science*](https://doi.org/10.1017/S0014479700000946). Here's his advice:
