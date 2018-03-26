@@ -13,7 +13,7 @@ In this post I've got something new and something old.
 
 ### Something new
 
-First, the new. I am going to start using a standard unit of mL/m<sup>2</sup> to express the clipping volume. This is milliliters per square meter. I have previously used units of L/100 m<sup>2</sup>. This is an easy change to make. 1 L/100 m2 is 10 mL/m<sup>2</sup>.
+First, the new. I am going to start using a standard unit of mL/m<sup>2</sup> to express the clipping volume. This is milliliters per square meter. I have previously used units of L/100 m<sup>2</sup>. This is an easy change to make. 1 L/100 m<sup>2</sup> is 10 mL/m<sup>2</sup>.
 
 Why the change? Because this gives a number for almost all measurements that will be between 0 and 100. Vigorously growing turf may be from 20 to 50 mL/m<sup>2</sup>. Haven't mown for a few days? You may get more than 50 mL/m<sup>2</sup>. Under tournament conditions, one might have less than 10 mL/m<sup>2</sup> from a double cut of the surfaces. Using a unit on a scale from 0 to 100 is easier because it avoids decimal points. And it expresses the volume per square meter, which is the base area unit I prefer.
 
@@ -22,7 +22,7 @@ When I was in graduate school, I read a paper by [John Monteith](https://en.wiki
 
 > "How should an appropriate multiple or sub-multiple of a unit be chosen? When repeated measurements of a quantity are to be reported, it is worth looking carefully for a unit which will avoid the frequent quotation of unnecessary zeros or decimal points. For example, the mean weight of a cereal grain should obviously be reported as 38.2 mg rather than 0.0382 g or 38200 μg. In general, when a quantity is quoted to two or more significant figures, the choice of unit should preferably allow its numerical component to fall between 1 and 100; but when only one significant figure is available, it should normally lie between 1 and 10."
 
-I try to work with units fall in that range, and I intend to start doing so in my discussion of clipping volume. 
+I try to work with units that fall in that range, and I intend to start doing so in my discussion of clipping volume. 
 
 ### Something old
 
