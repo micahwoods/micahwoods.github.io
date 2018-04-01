@@ -15,7 +15,7 @@ When we first study turfgrass management, we tend to learn a proactive approach.
 
 Here's the problem. When we make things happen with the grass, we invariably overdo things. That's the only safe way to take a proactive approach. We don't know exactly what is going to happen with the weather, or with the grass conditions, so we must put a little too much fertilizer, proactively apply a little too much sand, and do a little too much aeration---remember we've added a little too much fertilizer already---and we must mow more than we otherwise would. This is more work. Can we get great turf conditions this way? Absolutely, but this is about making things happen with the grass and by all the extra work done, creating a surface.
 
-[Grant Saunders](https://twitter.com/gslefty) has asked a few questions over the past few years that has made me think this proactive approach may not be ideal. 
+[Grant Saunders](https://twitter.com/gslefty) has asked a few questions over the past few years that have made me think this proactive approach may not be ideal. 
 
 First there was [this one about fertilizer](https://twitter.com/gslefty/status/573364242662883329):
 
