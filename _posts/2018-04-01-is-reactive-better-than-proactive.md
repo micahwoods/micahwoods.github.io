@@ -11,9 +11,9 @@ bigimg:
 
 I've been sitting on this idea for a long time, and I decided today would be a great day to write about it. You can decide if I'm serious.
 
-When we learn about turfgrass management, we tend to learn a proactive approach. This approach involves growing grass and regularly doing work such as fertilization, mowing, topdressing, and cultivation. These practices are generally done on a calendar schedule, albeit a flexible one, and are designed to be *proactive*---from the OED, "creating or controlling a situation by taking the initiative and anticipating events or problems ... innovative, tending to make things happen."
+When we first study turfgrass management, we tend to learn a proactive approach. This approach involves growing grass and regularly doing work such as fertilization, mowing, topdressing, and cultivation. These practices are generally done on a calendar schedule, albeit a flexible one, and are designed to be *proactive*---from the OED, "creating or controlling a situation by taking the initiative and anticipating events or problems ... innovative, tending to make things happen."
 
-Here's the problemm. When we make things happen with the grass, we invariably overdo things. That's the only safe way to take a proactive approach. We don't know exactly what is going to happen with the weather, or with the grass conditions, so we must put a little too much fertilizer, proactively apply a little too much sand, and do a little too much aeration---remember we've added a little too much fertilizer already---and we must mow more than we otherwise would. This is more work. Can we get great turf conditions this way? Absolutely, but this is about making things happen with the grass and by all the extra work done, creating a surface.
+Here's the problem. When we make things happen with the grass, we invariably overdo things. That's the only safe way to take a proactive approach. We don't know exactly what is going to happen with the weather, or with the grass conditions, so we must put a little too much fertilizer, proactively apply a little too much sand, and do a little too much aeration---remember we've added a little too much fertilizer already---and we must mow more than we otherwise would. This is more work. Can we get great turf conditions this way? Absolutely, but this is about making things happen with the grass and by all the extra work done, creating a surface.
 
 [Grant Saunders](https://twitter.com/gslefty) has asked a few questions over the past few years that has made me think this proactive approach may not be ideal. 
 
@@ -33,9 +33,9 @@ When one can get better playing surfaces with less sand, why is the industry so 
 
 And *reactive* isn't such a bad word. From the OED, it means "responds or reacts to a situation, event, etc., especially that reacts to existing circumstances, rather than anticipating or initiating new ones." Isn't that what one has to deal with in turfgrass management? Unpredictable weather, and grass that responds to that just as much as it does to any proactive greenkeeping? What if one was more reactive in responding to the grass and adjusting the work based on *existing circumstances*. That sounds like an excellent approach.
 
-I predict the reactive approach to greenkeeping produces equivalent or better turf conditions than a proactive approach, and does so with less work.
+I predict the reactive approach to greenkeeping produces equivalent or better turf conditions than a proactive approach, and does so with less work. 
 
-One way to be reactive? Measure how much the grass grows, from that estimate nutrient use and organic matter production, and react to existing circumstances.
+One way to be reactive? Measure how much the grass grows, from that estimate nutrient use and organic matter production, and react to existing circumstances. 
 
 
 
