@@ -5,7 +5,7 @@ share-img: "http://www.asianturfgrass.com/img/stenotaphrum_hi.jpg"
 tags: [clipvol, fertilizer, topdress]
 bigimg:
 - "/img/habu_9irr.jpg"   :  "putting green irrigation, Chiba"
-- "/img/krabi.jpg"       "  "tropical carpetgrass and manilagrass, Krabi"
+- "/img/krabi.jpg"       " : "tropical carpetgrass and manilagrass, Krabi"
 - "/img/topdress_eagle.jpg" : "topdressing a Tifeagle green, Prachuap Khiri Khan"
 ---
 
