@@ -2,7 +2,7 @@
 layout: post
 title: "The case for reactive greenkeeping"
 share-img: "http://www.asianturfgrass.com/img/stenotaphrum_hi.jpg"
-tags: []
+tags: [clipvol, fertilizer, topdress]
 bigimg:
 - "/img/habu_9irr.jpg"   :  "putting green irrigation, Chiba"
 - "/img/krabi.jpg"       "  "tropical carpetgrass and manilagrass, Krabi"
