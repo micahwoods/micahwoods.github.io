@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three recent conversations
-share-img: "www.asianturfgrass.com/img/blog_email_page.png"
+share-img: "http://www.asianturfgrass.com/img/blog_email_page.png"
 tags: [Web/Tech, clipvol, climate, MLSN]
 ---
 
