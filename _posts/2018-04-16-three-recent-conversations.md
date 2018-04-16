@@ -5,9 +5,9 @@ share-img: "www.asianturfgrass.com/img/blog_email_page.png"
 tags: [Web/Tech, clipvol, climate, MLSN]
 ---
 
-This is a friendly reminder that the information here can be obtained automatically by [RSS](http://www.asianturfgrass.com/feed.xml) or [email](http://www.subscribepage.com/atc_blog_email) every time there is an update, and then can be read or deleted at one's leisure. If you are reading this, you probably already know this. But I'm sending out another reminder, for those who don't know about this automation.
+This is a friendly reminder that the information here can be obtained automatically by [RSS](http://www.asianturfgrass.com/feed.xml) or [email](http://www.subscribepage.com/atc_blog_email) every time there is an update, and then can be read or deleted at one's leisure. If you are reading now, you likely already know this. I'm sending out another reminder, for those who don't know about this automation.
 
-I make this reminder because in the past month I had three separate conversations with colleagues in which we discussed topics I thought they would have been aware of. But they weren't aware of them.
+I make this reminder because in the past month I had three separate conversations with colleagues in which we discussed topics I mistakenly thought they would have been aware of.
 
 ### Conversation 1
 
