@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recording of my #ClipVol webinar at TurfNet
+title: "Recording of my #ClipVol webinar at TurfNet"
 share-img: "http://www.asianturfgrass.com/img/turfnet_slides.png"
 tags: [clipvol, video, seminar]
 ---
