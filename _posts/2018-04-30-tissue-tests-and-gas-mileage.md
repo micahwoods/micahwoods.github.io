@@ -28,7 +28,9 @@ Let's consider some objectives of driving. Off the top of my head, I think of th
 
 3. Be able to transport the items I want to transport.
 
-Is gas mileage an important number? Well, it is a useful number. It certainly would be useful in the research I do before I select my vehicle. I will also evaluate this before I get my next vehicle. Howevere, the mileage fluctuates day to day based on the driving route, the traffic, the materials transported, the driving style, etc. But would it make sense to check the gas mileage at the end of the day, and based on that, adjust how I'm going to drive tomorrow? I don't think that makes sense, because I want to have a safe and timely drive, as comfortably as possible, while transporting the items I want to transport. Gas mileage isn't going to affect any of those, but rather is going to be the result of those.
+Is gas mileage an important number? Well, it is a useful number. It certainly would be useful in the research I do before I select my vehicle. 
+
+However, the mileage fluctuates day to day based on the driving route, the traffic, the materials transported, the driving style, etc. But would it make sense to check the gas mileage at the end of the day, and based on that, adjust how I'm going to drive tomorrow? I don't think that makes sense, because I want to have a safe and timely drive, as comfortably as possible, while transporting the items I want to transport. Gas mileage isn't going to affect any of those, but rather is going to be the result of those.
 
 This is similar to making fertilizer recommendations for turfgrass based on tissue testing. What are some objectives of turfgrass management? Off the top of my head:
 
