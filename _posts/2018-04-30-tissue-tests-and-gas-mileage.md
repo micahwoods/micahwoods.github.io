@@ -41,3 +41,5 @@ This is similar to making fertilizer recommendations for turfgrass based on tiss
 3. Maintain a surface with the desired playability and with grass plants that are as healthy and stress tolerant/resistant as possible given those playability requirements.
 
 Yesterday's leaf nutrient content doesn't help achieve any of that. Knowing the leaf nutrient content, and adjusting fertilizer inputs going forward based on that, is just as useful as checking the gas mileage tonight to decide how I'm going to load my vehicle and drive tomorrow.
+
+Instead of making decisions about what to apply based on tissue testing, what does make sense is applying nutrients based on what is in the soil, or based on the growth rate. The analogy for those techniques would be like adding fuel based on how much is in the tank. That makes much more sense.
