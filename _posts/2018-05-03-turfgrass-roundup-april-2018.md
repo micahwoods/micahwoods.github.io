@@ -45,7 +45,7 @@ Is morning sun the most important for turf? I moved an explanation from Storify 
 
 I explain how fertilizer decisions based on tissue testing are like adjusting the way one drives based on [yesterday's gas mileage](http://www.asianturfgrass.com/2018-04-30-tissue-tests-and-gas-mileage/).
 
-Bill Kreuser with an update about [GDD schedule of PGRs on greens](https://twitter.com/UNLturf/status/978259098339815424):
+Bill Kreuser with an update about [GDD scheduling of PGRs on greens](https://twitter.com/UNLturf/status/978259098339815424):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Are you interested in tracking growing degree days for plant growth regulators on your greens (warm- or cool-season)? If you want to learn more and see our latest research, watch this short webinar.<a href="https://t.co/Bd3z4n1VuS">https://t.co/Bd3z4n1VuS</a></p>&mdash; Bill Kreuser (@UNLturf) <a href="https://twitter.com/UNLturf/status/978259098339815424?ref_src=twsrc%5Etfw">March 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
