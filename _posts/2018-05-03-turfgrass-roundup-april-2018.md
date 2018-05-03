@@ -41,7 +41,7 @@ Paul Van Buren showed a [technique for dealing with hydrophobic areas](https://t
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is how I deal with chronic hydrophobic areas on our edges. 🏖 <a href="https://t.co/JRu29HcQdy">pic.twitter.com/JRu29HcQdy</a></p>&mdash; Paul Van Buren, MBA (@HarryLigule) <a href="https://twitter.com/HarryLigule/status/986953884651413505?ref_src=twsrc%5Etfw">April 19, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Is morning sun the most important for turf? I moved an explanation of this from Storify to [this Twitter moment](http://www.asianturfgrass.com/2018-04-28-morning-sun-most-important-for-turf/).
+Is morning sun the most important for turf? I moved an explanation from Storify to [this Twitter moment](http://www.asianturfgrass.com/2018-04-28-morning-sun-most-important-for-turf/).
 
 I explain how fertilizer decisions based on tissue testing are like adjusting the way one drives based on [yesterday's gas mileage](http://www.asianturfgrass.com/2018-04-30-tissue-tests-and-gas-mileage/).
 
