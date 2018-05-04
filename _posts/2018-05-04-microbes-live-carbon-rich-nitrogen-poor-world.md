@@ -7,7 +7,7 @@ bigimg:
 - "/img/too_much_om.jpg"   :  "grass produces carbon rich organic matter"
 ---
 
-I came across an interesting example as I was reading the 'Internal Structure' chapter in Joshua Schimel's [*Writing Science*](http://a.co/7b6ws0T). The example is a quotation from [Nitrogen and Nature](http://dx.doi.org/10.1579/0044-7447-31.2.97) by Vitousek et al., and it has some relevance to the idea that carbon supplements to turfgrass soils would somehow stimulate soil microbes. 
+I came across an interesting example as I was reading the 'Internal Structure' chapter in Joshua Schimel's [*Writing Science*](http://a.co/7b6ws0T). The example is a quotation from [Nitrogen and Nature](http://dx.doi.org/10.1579/0044-7447-31.2.97) by Vitousek et al., and it has some relevance to the idea that carbon supplements applied to turfgrass soils would stimulate soil microbes. 
 
 Here's the quotation, with emphasis mine.
 
