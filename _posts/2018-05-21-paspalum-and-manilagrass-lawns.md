@@ -7,7 +7,7 @@ bigimg:
 - "/img/paspalum_kradan.jpg"   :  "seashore paspalum lawn at Ko Kradan, Thailand, January"
 - "/img/paspalum_mtt.jpg"      :  "seashore paspalum football pitch at Muang Thong Thani, Thailand, November"
 - "/img/manilagrass_seed.jpg"  :  "manilagrass fairway at Phuket, Thailand, June"
-- "/img/lamlukka_nursery.jpg"  :  "planting a manilagrass nursery at Phatum Thani, Thailand, May"
+- "/img/lamlukka_nursery.jpg"  :  "planting a manilagrass nursery at Pathum Thani, Thailand, May"
 ---
 
 I noticed something interesting on the lawn of a resort at [Ko Kood](https://www.travelfish.org/location/thailand/eastern_thailand/trat/ko_kut) earlier this month. Looking down from the "Beware of falling coconuts" signs, I noticed that the southern section of lawn was primarily seashore paspalum, and that section of lawn was infested with a variety of weeds.
