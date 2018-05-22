@@ -35,6 +35,8 @@ In August 2016, [Travis Shaddox](https://twitter.com/TravisShaddox) sent a strea
 
 Measuring grass growth by taking a quick and routine measurement of clipping volume, or [#ClipVol](https://twitter.com/hashtag/clipvol?src=hash), is a useful technique. This moment brings together a series of tweets describing how this was done at the 2016 KBC Augusta tournament in Japan.
 
+---
+
 John Kaminski has put together a [few moments too](https://twitter.com/iTweetTurf/moments). Do you know any other good turfgrass stories told or archived this way? This seems like it could be a useful way to organize the best tweets from a particular event, or to describe a particular project or maintenance practice.
 
 
