@@ -32,6 +32,10 @@ The calculations are easy once one has put the equations into a file, or written
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/asianturfgrass/27583804437/in/dateposted-public/" title="command line weather data"><img src="https://farm2.staticflickr.com/1731/27583804437_37cf256061_b.jpg" width="1024" height="576" alt="command line weather data"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+I was running that script to get hourly data from Guelph, Ontario. After downloading eleven years of data---that's a lot of hours---I then ran the temperature and humidity through the model to generate a dollar spot probability. I wanted to look especially at September and October---those months are highlighted on [this chart](https://www.flickr.com/photos/asianturfgrass/42403786232/sizes/h/)---to see what type of disease probability tends to occur. 
+
+![11 years of Smith-Kerns dollar spot prediction model output for Guelph, Ontario](https://c2.staticflickr.com/2/1736/42403786232_687a30aa81_h_d.jpg)
+
 Relative humidity has a big impact on the model probability. When the humidity is 100%, even at low temperatures, the probability of a dollar spot epidemic is nearly 50%. However, when the humidity is 20% or below, even when air temperature is extremely high, the probability of dollar spot is less than 10%.
 
 ![relative humidity has a big impact on the model probability as shown in this chart](https://c2.staticflickr.com/2/1727/40645377050_964dc0cf2c_b_d.jpg)
