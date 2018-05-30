@@ -8,7 +8,7 @@ tags: [disease, weather, science]
 
 I've written about [reactive greenkeeping](https://www.asianturfgrass.com/2018-04-01-is-reactive-better-than-proactive/) being at least a viable option, and have implied that it is preferable to proactive greenkeeping. With a little effort, one can get information (data) about the weather, the amount of water in the soil, the quantity of nutrients in the soil and the quantity of nutrients used by the grass, the growth rate of the grass, and so on. Even if one doesn't have an exact number, one can estimate these and other pieces of useful information.
 
-An exciting addition to the turfgrass manager's toolkit in this regard is the [Smith-Kerns Dollar Spot Prediction Model](https://tdl.wisc.edu/dollar-spot-model/). For cool-season grasses, I've always recommended a proactive approach to dollar spot prevention. Specifically, I've looked at long-term average of average air temperatures, identified those months at a location during which the average temperature is above the optimum---that is, when the grass is expected to suffer from heat stress---and have suggested that preventative fungicides be applied during those months. 
+An exciting addition to the turfgrass manager's toolkit in this regard is the [Smith-Kerns Dollar Spot Prediction Model](https://tdl.wisc.edu/dollar-spot-model/). For cool-season grasses, I've always recommended a proactive approach to dollar spot prevention. Specifically, I've looked at the long-term average of air temperatures, identified those months at a location during which the average temperature is above the optimum---that is, when the grass is expected to suffer from heat stress---and have suggested that preventative fungicides be applied during those months. 
 
 But the weather isn't the same as the average conditions. It would be *inefficient* to be proactive in these preventative applications when the weather is not conducive to dollar spot, and it would be *ineffective* to rely on this proactive approach based on averages when the weather conditions stray from the averages, as is sure to happen.
 
@@ -39,6 +39,8 @@ I was running that script to get hourly data from Guelph, Ontario. After downloa
 Relative humidity has a big impact on the model probability. When the humidity is 100%, even at low temperatures, the probability of a dollar spot epidemic is nearly 50%. However, when the humidity is 20% or below, even when air temperature is extremely high, the probability of dollar spot is less than 10%.
 
 ![relative humidity has a big impact on the model probability as shown in this chart](https://c2.staticflickr.com/2/1727/40645377050_964dc0cf2c_b_d.jpg)
+
+More information about the model, and some spreadsheets to get started, are available from the [University of Wisconsin Turfgrass Diagnostic Lab](https://tdl.wisc.edu/dollar-spot-model/).
 
 
 
