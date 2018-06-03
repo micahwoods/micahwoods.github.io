@@ -18,7 +18,7 @@ I've shared a lot of charts about clipping volume, and as this growing season ge
 
 I continued to think about that and then made an annotated animated chart to describe it.
 
-![annotated animated chart of clip vol](/img/y2018.gif)
+![annotated animated chart of clip vol](img/y2018.gif)
 
 ### Clipping volume and green speed
 
