@@ -12,13 +12,9 @@ This week I've thought of a couple things about [#ClipVol](https://twitter.com/h
 
 ### Clipping volume data on a calendar timeline
 
-I've shared a lot of charts about clipping volume, and as this growing season gets underway in the northern hemisphere, I thought of how I really think of this, and wondered if I could describe it on an animated chart. I wrote about this to a correspondent:
+![annotated animated chart of clip vol](/img/y2018.gif)
 
-> "I think what I really would like to see, or what I am imagining, is showing the raw data (all the greens) like a shadow in the background, and then have a 5 or 7 day average moving through that, as a line that is smoother but it is either trending up, or trending down."
-
-I continued to think about that and then made an annotated animated chart to describe it.
-
-![annotated animated chart of clip vol](img/y2018.gif)
+I've shared a lot of charts about clipping volume, and as this growing season gets underway in the northern hemisphere, I thought of how I really think of this, and wondered if I could describe it on an animated chart.
 
 ### Clipping volume and green speed
 
