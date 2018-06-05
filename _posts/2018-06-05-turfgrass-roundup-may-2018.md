@@ -24,6 +24,8 @@ Bill Kresuer showed just how low the soil test needs to be before one will see [
 
 *Golf Digest India* wrote about the [India Golf Expo](http://www.asianturfgrass.com/2018-05-04-you-have-been-featured/) and published one of my articles.
 
+Joe Gulotti [wrote about MLSN](http://www.golfdom.com/insights-from-great-white-north/) and about his first trip to Canada since a 1992 Grateful Dead show in Hamilton. 
+
 Enrico Tobio shows that [MLSN works great for lawns](https://twitter.com/EnricoTobio2/status/1001540899527110658):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Rhambler tall fescue home lawn managed following <a href="https://twitter.com/asianturfgrass?ref_src=twsrc%5Etfw">@asianturfgrass</a> <a href="https://twitter.com/hashtag/MLSN?src=hash&amp;ref_src=twsrc%5Etfw">#MLSN</a>.<br>6 blades reel mower at 22mm mowing height <a href="https://t.co/Jz3xcUxVLh">pic.twitter.com/Jz3xcUxVLh</a></p>&mdash; Enrico Tobio (@EnricoTobio2) <a href="https://twitter.com/EnricoTobio2/status/1001540899527110658?ref_src=twsrc%5Etfw">May 29, 2018</a></blockquote>
@@ -45,6 +47,8 @@ Sue Crawford is in the second year of [measuring the clipping volume](https://tw
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Back at it for a second year. <a href="https://twitter.com/hashtag/clipvol?src=hash&amp;ref_src=twsrc%5Etfw">#clipvol</a> <a href="https://t.co/dh6CxTuTK7">pic.twitter.com/dh6CxTuTK7</a></p>&mdash; Sue Crawford (@eastcoastsue1) <a href="https://twitter.com/eastcoastsue1/status/998502430005489664?ref_src=twsrc%5Etfw">May 21, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Bill Kreuser and Frank Rossi [talked about clipping yield and managing turfgrass growth](http://www.turfnet.com/blog/4/entry-1588-dr-bill-kreuser-clipping-yield-and-managing-turfgrass-growth/). Highly recommended.
+
 Is carbon ["the next frontier in fertilization?"](http://www.asianturfgrass.com/2018-05-31-is-carbon-the-next-frontier-in-fertilization/)
 
 Mike Besa noted that [the Philippines has been blessed with some of the most beautiful and challenging golf courses on the planet.](https://golflifeatbp.wordpress.com/2018/05/21/eastridge-golf-club-the-gem-of-the-east/)
@@ -61,15 +65,22 @@ Kurt Hockemeyer found where snow was removed in winter, less [*Poa annua* was se
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Winter study conducted here in which we shoveled snow off of certain plots and on to the other plots for extra snow cover.  Today seeing differences in Poa annua infestation. Where snow was removed, much less poa. <a href="https://t.co/12tlPXW6Cb">pic.twitter.com/12tlPXW6Cb</a></p>&mdash; Kurt Hockemeyer (@kurtaculous) <a href="https://twitter.com/kurtaculous/status/1001912019107409920?ref_src=twsrc%5Etfw">May 30, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-If you would like to get an e-mail with each new post on the ATC blog, you can [sign up here](http://www.subscribepage.com/atc_blog_email). This will be something like 50 to 100 posts a year, usually.
+Darren Jones showed [burning bunker faces](https://twitter.com/haylinggreens/status/994210490564956160):
 
-If you would like to subscribe to the [ATC updates mailing list](http://www.subscribepage.com/atcupdate), that is about 6 times a year, with just the highlights.
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Get those bunkers faces burnt off!! Don&#39;t have to worry about them for a while 👍😎🔥 <a href="https://t.co/cIJ6tAndmN">pic.twitter.com/cIJ6tAndmN</a></p>&mdash; Darren Jones (@haylinggreens) <a href="https://twitter.com/haylinggreens/status/994210490564956160?ref_src=twsrc%5Etfw">May 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-There is also a [MLSN newsletter list](http://www.subscribepage.com/mlsn), also sent about 6 times a year.
+A reminder about [the importance of nozzles](http://blogs.k-state.edu/turf/nozzles-more-interesting-and-important-than-you-think/) from Megan Kennelly. 
+
+I usually write 50 to 100 new posts on the ATC blog each year. If you would like to get an e-mail containing each new post, you can [sign up here](http://www.subscribepage.com/atc_blog_email).
+
+If you would like to subscribe to the [ATC updates mailing list](http://www.subscribepage.com/atcupdate), that is sent about 6 times a year with just the highlights.
+
+Did you know there is a [MLSN newsletter list](http://www.subscribepage.com/mlsn), also sent about 6 times a year?
 
 For more about turfgrass management from ATC:
 
-* browse articles available for download on the [ATC Turfgrass Information page](http://www.micahwoods.typepad.com/test_static/turf-information.html).
-* follow [asianturfgrass](https://twitter.com/asianturfgrass) on Twitter.
+* browse articles available for download on the [ATC Turfgrass Information page](http://www.micahwoods.typepad.com/test_static/turf-information.html)
+* follow [asianturfgrass](https://twitter.com/asianturfgrass) on Twitter
 * see articles by Micah Woods at the [Turfgrass Information File](http://tic.lib.msu.edu/tgif/flink?name=Woods,%20Micah)
 * read [*A Short Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping)
