@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Turfgrass Roundup: May 2018"
-subtitle" "Silicon, carbon, P, #MLSN, #CLipVol, Smith-Kerns dollar spot model, sluggish Cynodon, snow removal & Poa, golf in the Philippines, & much more"
+subtitle: "Silicon, carbon, P, #MLSN, #CLipVol, Smith-Kerns dollar spot model, sluggish Cynodon, snow removal & Poa, golf in the Philippines, & much more"
 share-img: "https://c1.staticflickr.com/1/951/41343756505_2e744226c1_b_d.jpg"
 tags: [roundup]
 ---
