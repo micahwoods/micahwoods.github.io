@@ -27,18 +27,18 @@ This is especially useful if one finds the optimum growth for one's site, and ca
 
 Three recent conversations, or things I've seen, are related to this.
 
-1. A superintendent wrote to me, "I %#!&^% love #ClipVol. What a useful tool it's been for us this season ... We'll mow tomorrow but I'll skip green 14 because of its slow growth rate. I also want to increase the growth rate so that's why I'm applying N tomorrow." 
+First, a superintendent wrote to me, "I %#!&^% love #ClipVol. What a useful tool it's been for us this season ... We'll mow tomorrow but I'll skip green 14 because of its slow growth rate. I also want to increase the growth rate so that's why I'm applying N tomorrow." 
 
 That's good use of these data. I predict turf on 14 green will be better for not having been mowed, and of course applying N is going to move the growth rate closer to what this superintendent wants. With a number for the growth rate, it's easy to make these adjustments. 
 
-2. Jon Merchant is measuring the clipping volume and finds the grass keeps on growing even more than desired, even with ["no N since May 4th"](https://twitter.com/Walsall_Greens/status/1004339720032309248):
+Second, Jon Merchant is measuring the clipping volume and finds the grass keeps on growing even more than desired, even with ["no N since May 4th"](https://twitter.com/Walsall_Greens/status/1004339720032309248):
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Was hoping to get the <a href="https://twitter.com/hashtag/clipvol?src=hash&amp;ref_src=twsrc%5Etfw">#clipvol</a> down to 10ml/m2 for weekend but greens just keep on growing. No N since May 4th..🤷🏻‍♂️ <a href="https://t.co/jHivkq3SYB">pic.twitter.com/jHivkq3SYB</a></p>&mdash; Jon Merchant (@Walsall_Greens) <a href="https://twitter.com/Walsall_Greens/status/1004339720032309248?ref_src=twsrc%5Etfw">June 6, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Here's a case where N applications seem to be delayed, skipped, or reduced in order to bring the growth rate to a desired level.
 
-3. Allan Dewald showed how temperature---and the associated increase in turfgrass growth potential---are ["interacting"](https://twitter.com/allan_dewald/status/1002037683189792774) with clipping yields:
+Third, Allan Dewald showed how temperature---and the associated increase in turfgrass growth potential---are ["interacting"](https://twitter.com/allan_dewald/status/1002037683189792774) with clipping yields:
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">A good illustration on how temp is interacting with this years clipping yields using the  <a href="https://twitter.com/paceturf?ref_src=twsrc%5Etfw">@paceturf</a> Gp Model.  Change of height marks spikes at April 17, 27, May 19.  May 30th 2xMow.  Fert apps labeled.  Note the double Y axis chart. <a href="https://twitter.com/hashtag/Clipvol?src=hash&amp;ref_src=twsrc%5Etfw">#Clipvol</a>  <a href="https://twitter.com/hashtag/GP?src=hash&amp;ref_src=twsrc%5Etfw">#GP</a> <a href="https://t.co/b4pUFrrhdX">pic.twitter.com/b4pUFrrhdX</a></p>&mdash; Allan Dewald (@allan_dewald) <a href="https://twitter.com/allan_dewald/status/1002037683189792774?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
