@@ -413,12 +413,12 @@ footer .theme-by {
 }
 
 .tag:hover {
-  background-color: crimson;
-  color: white;
+  background-color: #3f7300;
+  color: #D1E80C;
 }
 
 .tag:hover::after {
-   border-left-color: crimson; 
+   border-left-color: #3f7300; 
 }
 
 
