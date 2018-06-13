@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tags
+share-img: "https://c2.staticflickr.com/2/1753/42051209314_7ddb8e9c39_b_d.jpg"
 ---
 
 <!-- Get the tag name for every tag on the site and set them
