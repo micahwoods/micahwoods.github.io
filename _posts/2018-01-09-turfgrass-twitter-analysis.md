@@ -2,7 +2,7 @@
 layout: post
 title: "Turfgrass Twitter Analysis"
 share-img: "https://farm3.staticflickr.com/2495/3810887415_53768f0494_b_d.jpg"
-tags: [Web/Tech]
+tags: [web/tech]
 ---
 
 I used the [rtweet](https://cran.r-project.org/web/packages/rtweet/index.html) package to collect turfgrass community tweets from 2017. I had learned of this package from [Bob Rudis' blog post about rtweet](https://rud.is/b/2017/10/22/a-call-to-tweets-blog-posts/).

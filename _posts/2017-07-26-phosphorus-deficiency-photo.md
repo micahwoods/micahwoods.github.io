@@ -3,7 +3,7 @@ layout: post
 title: "Can we guess how low the P is here"
 subtitle: Ben Pease shared a remarkable photo, and you won't believe how low the P is
 share-img: "http://www.paceturf.org/photo/data/503/Pease_P.jpg"
-tags: [fertilizer, soil test, bentgrass, phosphorus, MLSN]
+tags: [fertilizer, soil test, bentgrass, phosphorus, mlsn]
 ---
 
 Every time I see a photo like [the one shared by Ben Pease](https://twitter.com/Ben_Pease/status/878271403644116992) last month, I get really curious to know the soil test levels of the element. 

@@ -2,7 +2,7 @@
 layout: post
 title: ATC website visits by device type
 share-img: "http://www.asianturfgrass.com/img/device_2018.png"
-tags: [Web/Tech]
+tags: [web/tech]
 ---
 
 There were 30,874 visitors to [www.asianturfgrass.com](http://www.asianturfgrass.com/) and [www.blog.asianturfgrass.com](http://www.blog.asianturfgrass.com/) since April 23 last year. Of those, 60% were from a mobile device, 33% from a desktop/notebook, and 7% were from a tablet.

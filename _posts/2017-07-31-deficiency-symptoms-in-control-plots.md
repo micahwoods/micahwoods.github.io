@@ -3,7 +3,7 @@ layout: post
 title: "Phosphorus deficiency symptoms in the control plots"
 subtitle: Paul Johnson reminded me of another experiment about P deficiency, soil test P, and fertilizer
 share-img: "http://www.asianturfgrass.com/img/johnson_et_al_fig3.png"
-tags: [fertilizer, soil test, bentgrass, phosphorus, MLSN]
+tags: [fertilizer, soil test, bentgrass, phosphorus, mlsn]
 ---
 
 After last week's post about the soil test levels where [P deficiency symptoms](http://www.asianturfgrass.com/2017-07-26-phosphorus-deficiency-photo/) were seen, Paul Johnson wrote to remind me about another experiment:

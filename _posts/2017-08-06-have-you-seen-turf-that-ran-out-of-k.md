@@ -2,7 +2,7 @@
 layout: post
 title: "Have you seen turf that ran out of potassium?"
 share-img: "http://www.asianturfgrass.com/img/conetainerK.jpg"
-tags: [fertilizer, MLSN, soil testing, potassium]
+tags: [fertilizer, mlsn, soil testing, potassium]
 bigimg:
 - "/img/conetainerK.jpg" : "Penn A-1 bentgrass, K decreasing from left to right"
 ---

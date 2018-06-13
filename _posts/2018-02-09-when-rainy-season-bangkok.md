@@ -4,7 +4,7 @@ title: "When does it usually rain in Bangkok?"
 share-img: "http://www.asianturfgrass.com/img/precip_smooth.png"
 bigimg:
 - "/img/bkk_cloud.jpg" : "view of approaching clouds and rain in September, Bang Na, Thailand"
-tags: [Thailand, climate]
+tags: [thailand, climate]
 ---
 
 I was wondering when it usually rains in Bangkok. My usual quick source for temperature, precipitation, and sunshine data is the extraordinarily useful ["Climatological Information of World Cities for Travellers"](http://www.hko.gov.hk/wxinfo/climat/world/eng/world_climat_e.htm) from the Hong Kong Observatory. This is a clickable map-based interface to the World Meteorological Organization's climatological normals dataset.

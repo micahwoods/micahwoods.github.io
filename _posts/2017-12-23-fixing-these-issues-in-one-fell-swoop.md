@@ -3,7 +3,7 @@ layout: post
 title: Fixing these issues in one fell swoop
 subtitle: This quote from a 1978 article identifies a slew of problems with conventional soil test interpretation for turfgrass. MLSN fixes them.
 share-img: "https://farm8.staticflickr.com/7165/6446328665_d4bb138ba8_b_d.jpg"
-tags: [MLSN, fertilizer, soil test]
+tags: [mlsn, fertilizer, soil test]
 ---
 
 I was writing an article yesterday about MLSN and reading some articles about soil testing and turfgrass nutrition. I came across this gem from Turner & Waddington ([1978](https://doi.org/10.1080/00103627809366789)).

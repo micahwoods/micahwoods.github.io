@@ -3,7 +3,7 @@ layout: post
 title: "The growth, nutrient use, and water use of 3 grasses in central Thailand"
 subtitle: "How did nuan noi zoysia, Tifway 419 bermuda, and salam paspalum grow in this experiment?"
 share-img: "https://c1.staticflickr.com/5/4429/37062639090_f08ee322d1_b_d.jpg"
-tags: [zoysia, Thailand, paspalum, bermuda]
+tags: [zoysia, thailand, paspalum, bermuda]
 ---
 
 There are a variety of grasses used for lawns and sports turf in central Thailand. I gave a presentation last week at the American Society for Horticultural Science annual meeting about the growth of three of those grasses:

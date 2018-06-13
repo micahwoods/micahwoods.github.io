@@ -2,8 +2,8 @@
 layout: post
 title: "Thailand putting green performance in July: a summary"
 subtitle: Measurements of green speed and surface hardness from 19 golf courses
-tags: [Thailand, research]
-share-img: "/img/201607_stimp.png"
+tags: [thailand, research]
+share-img: "https://www.asianturfgrass.com/img/201607_stimp.png"
 
 ---
 

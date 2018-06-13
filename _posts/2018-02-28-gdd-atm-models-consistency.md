@@ -2,7 +2,7 @@
 layout: post
 title: '"After a pimento cheese sandwich and a Masters club ..."'
 share-img: "http://www.asianturfgrass.com/img/atm_cover.png"
-tags: [turfinfo, australia]
+tags: [turf info, australia, gdd]
 ---
 
 I enjoyed the article about growing degree days in the [*Australian Turfgrass Management Journal*](https://issuu.com/agcsa/docs/atm_20.1_e-book/18). Dan Cook wrote about our discussions of this and how it has been implemented at Elanora Country Club.

@@ -3,7 +3,7 @@ layout: post
 title: '"As to the MLSN guidelines ... how do they apply to growing in a new course?"'
 subtitle: "This was a really good question, so I'm sharing it, and my answer to it, here"
 share-img: "https://c2.staticflickr.com/2/1022/3173105395_4030c4e291_b_d.jpg"
-tags: [MLSN, fertilizer]
+tags: [mlsn, fertilizer]
 ---
 
 This question came in the mail:

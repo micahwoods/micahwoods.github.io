@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Sorry if this is a rubbish question"'
-tags: [MLSN, fertilizer]
+tags: [mlsn, fertilizer]
 bigimg:
 - "/img/noshiba_gang.jpg"        : "noshiba, Kanagawa"
 - "/img/fine_fescue_47.jpg"      : "fine fescue, Washington"

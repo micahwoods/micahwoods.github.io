@@ -3,7 +3,7 @@ layout: post
 title: "More than a success story"
 subtitle: "Joe Gulotti wrote on the Walking Greenkeeper blog about his experience using MLSN in 2017. But it is a lot more than that."
 share-img: "http://www.asianturfgrass.com/img/wg_jan2018.png"
-tags: [MLSN, soil, fertilizer]
+tags: [mlsn, soil, fertilizer]
 ---
 
 This isn't just a story about the fertilizer choices or the costs. There is a lot more to it, and I encourage you to read the entire post at Gulotti's [The Walking Greenkeeper](http://www.thewalkinggreenkeeper.com/2018/01/near-end-of-summer-last-season-john.html) blog.

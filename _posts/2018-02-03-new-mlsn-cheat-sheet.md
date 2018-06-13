@@ -2,7 +2,7 @@
 layout: post
 title: "New MLSN cheat sheet"
 share-img: "http://www.asianturfgrass.com/img/mlsn_cheat_sheet1.png"
-tags: [MLSN, soil, fertilizer]
+tags: [mlsn, soil, fertilizer]
 ---
 
 I thought it might be useful to summarize the key details of MLSN in a cheat sheet. For people using MLSN, or wanting to use it, this 2 page cheat sheet is intended to be a handy reference. 

@@ -4,7 +4,7 @@ title: "Javagrass lawns in Bangkok"
 share-img: "https://c1.staticflickr.com/1/790/40831344112_07191f09ea_b_d.jpg"
 bigimg:
 - "/img/indica_bangkok_lawn.jpg" : "javagrass lawn, Bangkok"
-tags: [Thailand, javagrass, parks, lawns]
+tags: [thailand, javagrass, parks, lawns]
 ---
 
 This is an interesting story about a common grass that rarely appears in a lawn as just a single species -- as a monostand. But at an especially high profile location in Bangkok, the lawns are almost pure javagrass (*Polytrias indica*). The [Grand Palace](https://en.wikipedia.org/wiki/Grand_Palace) is the only place I've seen this grass maintained as a single species lawn.

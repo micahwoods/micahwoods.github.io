@@ -2,7 +2,7 @@
 layout: post
 title: "Minimalist turfgrass nutrition"
 share-img: "https://c1.staticflickr.com/9/8039/8002502977_f815ec15d3_b_d.jpg"
-tags: [seminar, fertilizer, MLSN]
+tags: [seminar, fertilizer, mlsn]
 ---
 
 That's the title of my seminar today at the Alberta Property Manager's Conference. *Minimalist* is not a word I would often use, but when I looked at the conference program, that was the title I saw. Rather than requesting a change, I decided to talk about it, and explain why *minimalist* isn't the way I would describe this. [These are the slides](https://speakerdeck.com/micahwoods/minimalist-turfgrass-nutrition) -- also embedded below -- and this is what I'm going to discuss.

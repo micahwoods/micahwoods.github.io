@@ -3,7 +3,7 @@ layout: post
 title: "An economic case study"
 subtitle: The article about turfgrass fertilization includes an incredible case study
 share-img: "http://www.asianturfgrass.com/img/vermi_th_small.jpg"
-tags: [fertilizer, MLSN, soil]
+tags: [fertilizer, mlsn, soil]
 bigimg:
 - "/img/chang_bang-pa-in_palace.jpg"    : "lawn of manilagrass and javagrass, Ayutthaya"
 ---

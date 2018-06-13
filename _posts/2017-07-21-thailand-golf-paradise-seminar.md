@@ -3,7 +3,7 @@ layout: post
 title: "Turfgrass at a Tourism Convention"
 subtitle: My presentation is about playing conditions on Thailand's golf courses
 share-img: "https://c2.staticflickr.com/4/3082/5803290099_b2088c4827_b_d.jpg"
-tags: [seminar, Thailand, sustainability, golf]
+tags: [seminar, thailand, sustainability, golf]
 bigimg:
 - "/img/banyan_pano.jpg"    : "Banyan GC, Prachuap Khiri Khan"
 ---

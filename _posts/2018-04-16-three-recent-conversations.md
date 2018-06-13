@@ -2,7 +2,7 @@
 layout: post
 title: Three recent conversations
 share-img: "http://www.asianturfgrass.com/img/blog_email_page.png"
-tags: [Web/Tech, clipvol, climate, MLSN]
+tags: [web/tech, clipvol, climate, mlsn]
 ---
 
 This is a friendly reminder that the information here can be obtained automatically by [RSS](http://www.asianturfgrass.com/feed.xml) or [email](http://www.subscribepage.com/atc_blog_email) every time there is an update, and then can be read or deleted at one's leisure. If you are reading now, you likely already know this. I'm sending out another reminder, for those who don't know about this automation.

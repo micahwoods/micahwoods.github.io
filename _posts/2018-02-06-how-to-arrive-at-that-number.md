@@ -2,7 +2,7 @@
 layout: post
 title: "How to get a quick estimate of grass nutrient use"
 share-img: "https://c2.staticflickr.com/4/3863/15227265181_6b058b127d_b_d.jpg"
-tags: [fertilizer, MLSN]
+tags: [fertilizer, mlsn]
 ---
 
 This is an excellent question:
