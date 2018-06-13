@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags
+title: Post archive
 share-img: "https://c2.staticflickr.com/2/1753/42051209314_7ddb8e9c39_b_d.jpg"
 ---
 
