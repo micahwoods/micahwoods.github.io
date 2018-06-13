@@ -3,7 +3,7 @@ layout: post
 title: "MLSN in use: soil tests, fertilizer, and the results"
 subtitle: "This shows how the MLSN guidelines are used"
 share-img: "https://c1.staticflickr.com/5/4438/36605267392_88096ab46c_b_d.jpg"
-tags: [MLSN, Japan, soil, fertilizer]
+tags: [mlsn, japan, soil, fertilizer]
 bigimg:
 - "/img/3balls_11.jpg" : "korai at Keya GC in Fukuoka, August 2017"
 ---

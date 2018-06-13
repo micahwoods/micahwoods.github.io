@@ -4,7 +4,7 @@ title: Flights and favorite turf photos of 2017
 share-img: "https://c1.staticflickr.com/5/4684/39361563541_69c464dd88_b_d.jpg"
 bigimg:
 - "/img/2017_map.png" : "flights in 2017"
-tags: [Thailand, Japan, Australia, Philippines, Portugal, zoysia, carpetgrass, bermudagrass]
+tags: [thailand, japan, australia, philippines, portugal, zoysia, carpetgrass, bermudagrass]
 ---
 
 As I say at the end of every year, it has been another extraordinary year for studying grass around the world. See these links for some of my favorite photos (and flight maps) from [2015](http://www.blog.asianturfgrass.com/2015/12/map-of-all-the-flights-i-took-this-year.html) and [2016](http://www.blog.asianturfgrass.com/2016/12/map-of-all-the-flights-i-took-in-2016.html).

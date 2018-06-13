@@ -3,7 +3,7 @@ layout: post
 title: '"You have been featured - Golf Digest India May 2018"'
 subtitle: That was the subject line of an e-mail I received today
 share-img: "http://www.asianturfgrass.com/img/india_golf_expo_2018.png"
-tags: [India, seminar, article]
+tags: [india, seminar, article]
 ---
 
 The India Golf Expo was held in Bangalore last month, and I was there to speak at the R&A seminar on sustainable golf course renovation and maintenance in India.

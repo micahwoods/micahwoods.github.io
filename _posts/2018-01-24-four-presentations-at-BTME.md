@@ -2,7 +2,7 @@
 layout: post
 title: "My four presentations at BTME"
 share-img: "http://www.asianturfgrass.com/img/btme_snow.jpg"
-tags: [seminar, BIGGA, England, BTME]
+tags: [seminar, bigga, england, btme]
 bigimg:
 - "/img/btme_snow.jpg" : "Harrogate, January"
 ---

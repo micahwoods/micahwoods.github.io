@@ -3,7 +3,7 @@ layout: post
 title: "How to spend less than $5,000 on tournament green fertilizer"
 subtitle: "It doesn't have to cost a lot of money to get great greens"
 share-img: "https://c1.staticflickr.com/5/4442/36578960112_5f2f585c30_b_d.jpg"
-tags: [Japan, tournament, zoysia, korai, fertilizer]
+tags: [japan, tournament, zoysia, korai, fertilizer]
 ---
 
 I don't often write about this, because I assume everyone knows it. But I've read a few things recently about amazing sums of money being saved by changing the way of fertilizing, all while getting the same or better turf conditions. See for example [this (69% savings)](https://www.bradrevillturf.com/goingagainstthegrain/23/5/2017/mlsn-nikanti-gc-reducing-expenses-and-inputs-since-2016) or [this (~$150,000 reduction)](http://www.blog.asianturfgrass.com/2017/01/this-is-one-more-post-the-financial-controllers-might-not-want-to-see.html) or [this (82% savings)](http://www.asianturfgrass.com/2017-07-05-saving-82-percent-gsr/). 

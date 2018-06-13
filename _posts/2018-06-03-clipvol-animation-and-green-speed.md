@@ -3,7 +3,7 @@ layout: post
 title: "Two more things about clipping volume: timelines & ball roll"
 subtitle: "An animation of clipping volume through the year shows how I think of these data, and the relationship between clipping volume and green speed might be clearer if one thinks of clipping volume per mow."
 share-img: "https://c1.staticflickr.com/5/4386/37068317162_7fcb5da03c_b_d.jpg"
-tags: [ClipVol, green speed]
+tags: [clipvol, green speed]
 ---
 
 This week I've thought of a couple things about [#ClipVol](https://twitter.com/hashtag/ClipVol?src=hash).

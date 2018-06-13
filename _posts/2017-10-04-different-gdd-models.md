@@ -3,7 +3,7 @@ layout: post
 title: '"The difference between a model working great and being a massive failure"'
 subtitle: "Understanding the subtle differences between many GDD models in turf"
 share-img: "http://www.asianturfgrass.com/img/ice_cube_bentgrass.jpg"
-tags: [growing degree days, GDD]
+tags: [gdd]
 bigimg:
 - "/img/ice_cube_bentgrass.jpg" : "bentgrass canopy temperature, Japan"
 ---

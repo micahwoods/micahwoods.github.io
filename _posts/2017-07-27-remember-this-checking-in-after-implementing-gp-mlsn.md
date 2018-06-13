@@ -3,7 +3,7 @@ layout: post
 title: "Remember this? Saving $150,000 in a year? I checked the results 8 months later"
 subtitle: How things are going in the second year of using MLSN and GP
 share-img: "http://www.asianturfgrass.com/img/mazagan.jpg"
-tags: [MLSN, paspalum, GP]
+tags: [mlsn, paspalum, gp]
 bigimg:
 - "/img/mazagan.jpg"              : "seashore paspalum, Morocco [photo by Thomas Sedlmeier]"
 ---

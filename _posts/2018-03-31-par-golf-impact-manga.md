@@ -2,7 +2,7 @@
 layout: post
 title: "Par Golf's Impact manga, media, and golf course maintenance"
 share-img: "http://www.asianturfgrass.com/img/par_cover.jpg"
-tags: [Japan]
+tags: [japan]
 ---
 
 There is a really interesting [manga comic](https://en.wikipedia.org/wiki/Manga) this year in the Japanese weekly パーゴルフ (Par Golf) magazine.

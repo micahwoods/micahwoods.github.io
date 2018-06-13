@@ -3,7 +3,7 @@ layout: post
 title: "A lot more than your average tournament"
 subtitle: "Zoysia greens, free beer, HKT48, and much more"
 share-img: "https://c2.staticflickr.com/4/3922/14958084240_9440e969d8_b_d.jpg"
-tags: [Japan, tournament, zoysia, korai]
+tags: [japan, tournament, zoysia, korai]
 bigimg:
 - "/img/keya_tower.jpg" : "Keya GC, Fukuoka"
 - "/img/keya_18.jpg"    : "korai and noshiba, Fukuoka"

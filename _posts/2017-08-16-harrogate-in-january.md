@@ -2,7 +2,7 @@
 layout: post
 title: "I just bought a plane ticket to Manchester"
 share-img: "http://www.asianturfgrass.com/img/minchinhampton_cow.jpg"
-tags: [seminar, BIGGA, England, BTME]
+tags: [seminar, bigga, england, btme]
 bigimg:
 - "/img/minchinhampton_cow.jpg" : "cool-season mix, Gloucestershire"
 ---

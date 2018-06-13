@@ -3,7 +3,7 @@ layout: post
 title: "A greenkeeping discussion"
 subtitle: "3 links to more information"
 share-img: "https://c1.staticflickr.com/5/4438/36605267392_88096ab46c_b_d.jpg"
-tags: [Japan, bentgrass, irrigation]
+tags: [japan, bentgrass, irrigation]
 ---
 
 I had an open discussion today with a group of greenkeepers in Japan. We talked about a lot of things -- bentgrass in summer, irrigation, fertilizer, organic matter management, roots, etc. Here are three links to more information:

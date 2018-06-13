@@ -4,7 +4,7 @@ title: Topdressing frequency on golf course putting greens in Japan
 share-img: "http://www.asianturfgrass.com/img/gk_2018_map.png"
 bigimg:
 - "/img/topdress_shimane.jpg" : "sand topdressing, Shimane, Japan"
-tags: [sand, topdress, Japan]
+tags: [sand, topdress, japan]
 ---
 
 A recent conversation about [putting surfaces in Japan](https://twitter.com/GCIMagazineGuy/status/942017294586216449) led to discussion of topdressing amounts and frequency.

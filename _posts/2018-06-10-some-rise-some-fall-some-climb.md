@@ -2,7 +2,7 @@
 layout: post
 title: "Some rise, some fall, some climb"
 share-img: "https://c2.staticflickr.com/2/1747/40825446210_85184cda3b_b_d.jpg"
-tags: [ClipVol, mowing, fertilizer]
+tags: [clipvol, mowing, fertilizer]
 ---
 
 A full year of putting green clipping volume measurements looks [like this](https://c2.staticflickr.com/2/1751/28818470698_aaea9a9700_o_d.gif).
