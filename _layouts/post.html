@@ -12,18 +12,13 @@ layout: base
         {{ content }}
       </article>
 
-      {% if page.tags.size > 0 %}
-        <div class="blog-tags">
-          Tags:
-          {% if site.link-tags %}
-          {% for tag in page.tags %}
-            <a href="/tag/{{ tag }}">{{ tag }}</a>
-          {% endfor %}
-          {% else %}
-            {{ page.tags | join: ", " }}
-          {% endif %}
-        </div>
-      {% endif %}
+      
+
+	<ul class="tags">
+  {% for tag in page.tags %}
+    <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
+  {% endfor %}
+</ul>
 
       {% if page.social-share %}
         {% include social-share.html %}
