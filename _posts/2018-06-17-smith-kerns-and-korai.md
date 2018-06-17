@@ -5,7 +5,7 @@ share-img: "https://c2.staticflickr.com/2/1763/27979558367_b5f62014e3_b_d.jpg"
 tags: [disease, weather, japan, zoysia]
 ---
 
-Yesterday I saw some dollar spot on a korai (*Zoysia matrella*) fairway in Kyushu, Japan. I wondered what the [Smith-Kern model](https://doi.org/10.1371/journal.pone.0194216) probability for dollar spot had been.
+Yesterday I saw some dollar spot on a korai (*Zoysia matrella*) fairway in Kyushu, Japan. I wondered what the [Smith-Kerns model](https://doi.org/10.1371/journal.pone.0194216) probability for dollar spot had been.
 
 ![dollar spot on a korai fairway in kyushu](https://c2.staticflickr.com/2/1763/27979558367_b5f62014e3_b_d.jpg)
 
