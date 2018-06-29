@@ -2,7 +2,7 @@
 layout: post
 title: Predicting organic matter in turfgrass soils
 share-img: "https://c2.staticflickr.com/2/1724/42790052781_7b3cf2ba18_b_d.jpg"
-tags: [organic matter, soil, clipvol]
+tags: [organic matter, soil, clipvol, topdress]
 ---
 
 Jason Haines has been sharing some interesting ideas on his [Turf Hacker](https://www.turfhacker.com/) blog, and one that I think is especially interesting is the idea that one can precisely [match the topdressing sand quantity](https://www.turfhacker.com/2018/06/sand-o-meter.html) to the growth of the grass.
@@ -18,3 +18,6 @@ For more information about this type of thinking, see:
 * [Data to support an anecdote](http://www.blog.asianturfgrass.com/2016/05/data-to-support-an-anecdote.html)
 * [More data to support an anecdote](http://www.blog.asianturfgrass.com/2016/05/a-little-more-data-to-support-an-anecdote.html)
 * The [Turf Hacker Sand-O-Meter](https://www.turfhacker.com/2018/06/sand-o-meter.html)
+* [Topdressing frequency on golf course putting greens in Japan](https://www.asianturfgrass.com/2017-12-20-topdressing-japan/)
+* [Sand topdressing to match grass growth](https://www.asianturfgrass.com/2017-08-20-topdress-and-growth-potential/)
+* [The case for Reactive Greenkeeping](https://www.asianturfgrass.com/2018-04-01-is-reactive-better-than-proactive/)
