@@ -5,7 +5,7 @@ share-img: "https://c2.staticflickr.com/2/1724/42790052781_7b3cf2ba18_b_d.jpg"
 tags: [organic matter, soil, clipvol, topdress]
 ---
 
-Jason Haines has been sharing some interesting ideas on his [Turf Hacker](https://www.turfhacker.com/) blog, and one that I think is especially interesting is the idea that one can precisely [match the topdressing sand quantity](https://www.turfhacker.com/2018/06/sand-o-meter.html) to the growth of the grass.
+Jason Haines has been sharing some ideas on his [Turf Hacker](https://www.turfhacker.com/) blog, and one that I think is especially interesting is the idea that one can precisely [match the topdressing sand quantity](https://www.turfhacker.com/2018/06/sand-o-meter.html) to the growth of the grass.
 
 I think this equation, or one similar to it, might predict what the soil organic matter content in turfgrass soils will be.
 
