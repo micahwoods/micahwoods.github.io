@@ -21,7 +21,7 @@ Second, this is notable because sand topdressing has only been applied three tim
 
 ![mean clegg readings for 6 years at Keya GC](https://c2.staticflickr.com/2/1764/29447847978_be5053de6e_b_d.jpg)
 
-A boxplot with all individual measurements overlaid is shown in [this more detailed chart](https://c2.staticflickr.com/2/1790/42600127004_163d12d567_b_d.jpg).
+A boxplot with all individual measurements overlaid is shown in [this more detailed chart](https://flic.kr/p/27UqMAm).
 
 You might say that such a result---firmer surfaces with less topdressing---would not work everywhere. I agree. But with that same line of thinking, surely this is not the only place where this can happen?
 
