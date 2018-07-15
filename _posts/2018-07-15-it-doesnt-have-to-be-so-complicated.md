@@ -6,7 +6,7 @@ share-img: "https://c1.staticflickr.com/1/843/28417208667_ba7d4f694c_b_d.jpg"
 tags: [salinity, soil, sand, irrigation]
 ---
 
-Irrigation water quality, salinity, gypsum, and sodium---I'm not even going to mention the problems that bicarbonate doesn't cause---are topics that are sure to stir up some discussion. I shared a couple old blog posts last week, related to sodium, sodicity, and gyspum, and sure enough, there were all kinds of responses, with much of it taking a tangent from what the blog posts were about. 
+Irrigation water quality, salinity, gypsum, and sodium---I'm not even going to mention the problems that bicarbonate doesn't cause---are topics that are sure to stir up some discussion. I shared a couple old blog posts last week, related to sodium, sodicity, and gypsum, and sure enough, there were all kinds of responses, with much of it taking a tangent from what the blog posts were about. 
 
 I'm writing this post to put links to those old posts into one place, and to share excerpts from three recent conversations that might clarify some solutions, and the simplicity of the solutions, *especially* when dealing with turf growing in a sand rootzone.
 
