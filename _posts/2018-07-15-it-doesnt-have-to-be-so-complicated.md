@@ -28,9 +28,7 @@ From that last one, I wrote about how to classify the problems, and how to find 
 
 ### Three recent conversations
 
-1) Take home message: understand the difference between salinity and sodicity, and apply that to water movement in sand rootzones.
-
-I've written that "No matter how much sodium one puts into a sand rootzone, the soil structure cannot be affected, so gypsum won't be required." 
+1) I've written that "No matter how much sodium one puts into a sand rootzone, the soil structure cannot be affected, so gypsum won't be required." 
 
 A correspondent asked, "Is it because the salt water passes thru rather than staying in the sand, i.e. no salt water no salt?
 
@@ -40,9 +38,9 @@ The reason for applying gypsum to sodic soils is to replace sodium on cation exc
 
 Sands don't have any of these problems because the soil structure does not change no matter what type of sodium or salt is in the irrigation water or the soil. Thus, any salt can be leached simply by adding water, and there will be no improvement in soil structure, whether one adds gypsum or does not add gypsum."
 
-2) Take home message: understand threshold salinity levels that might cause problems, and stay safely away from them.
+Take home message: understand the difference between salinity and sodicity, and apply that to water movement in sand rootzones.
 
-A correspondent wrote, about Mehlich 3 soil test results, and how to apply the [MLSN](http://www.asianturfgrass.com/2016_mlsn_paper/) approach in this situation.
+2) A correspondent wrote, about Mehlich 3 soil test results, and how to apply the [MLSN](http://www.asianturfgrass.com/2016_mlsn_paper/) approach in this situation.
 
 "Our sodium levels are on the high end at 30 ppm on average. Our irrigation water is extremely high in bi-carbs as well. K average [in the soil] is 64, Mg 160, Ca 1,627. So to combat the growing sodium levels fo I just disregard our Ca numbers and push gypsum to flush Na out?"
 
@@ -62,13 +60,15 @@ I concluded with this: "Those are negligible salt levels. I'd worry about total 
 
 See Harivandi's [Interpreting Turfgrass Irrigation Water Test Results](http://anrcatalog.ucanr.edu/pdf/8009.pdf) for more details. Water with that much salt is classified as **Degree of restriction on use: none**.
 
-3) Take home message: understand what salinity does, and (going back to the point I made above), be sure to know the difference between salinity and sodicity.
+Take home message: understand threshold salinity levels that might cause problems, and stay safely away from them.
 
-Tom Calder [asked](https://twitter.com/tomosocanoso/status/1017892794751336448), "if we do have salts in our soils, is the concern/problem more about the salts almost stealing the water from the plant like a sponge?" 
+3) Tom Calder [asked](https://twitter.com/tomosocanoso/status/1017892794751336448), "if we do have salts in our soils, is the concern/problem more about the salts almost stealing the water from the plant like a sponge?" 
 
 That's kind of the problem, although I like to think of it more in terms of salinity reduces the availability of water the grass, and because of that it reduces the growth rate of the grass. Here are two technical descriptions of this from textbooks:
 
 ![salinity textbook quote definitions](/img/salinity.png)
+
+Take home message: understand what salinity does, and (going back to the point I made above), be sure to know the difference between salinity and sodicity.
 
 
 
