@@ -42,7 +42,7 @@ Take home message: understand the difference between salinity and sodicity, and 
 
 2) A correspondent wrote, about Mehlich 3 soil test results, and how to apply the [MLSN](http://www.asianturfgrass.com/2016_mlsn_paper/) approach in this situation.
 
-"Our sodium levels are on the high end at 30 ppm on average. Our irrigation water is extremely high in bi-carbs as well. K average [in the soil] is 64, Mg 160, Ca 1,627. So to combat the growing sodium levels fo I just disregard our Ca numbers and push gypsum to flush Na out?"
+"Our sodium levels are on the high end at 30 ppm on average. Our irrigation water is extremely high in bi-carbs as well. K average [in the soil] is 64, Mg 160, Ca 1,627. So to combat the growing sodium levels do I just disregard our Ca numbers and push gypsum to flush Na out?"
 
 I wrote back, "30 ppm sodium is what I would call normal. For all the putting green samples ATC has done in the past 12 years, the average is right around 30. 
 
@@ -64,7 +64,7 @@ Take home message: understand threshold salinity levels that might cause problem
 
 3) Tom Calder [asked](https://twitter.com/tomosocanoso/status/1017892794751336448), "if we do have salts in our soils, is the concern/problem more about the salts almost stealing the water from the plant like a sponge?" 
 
-That's kind of the problem, although I like to think of it more in terms of salinity reduces the availability of water the grass, and because of that it reduces the growth rate of the grass. Here are two technical descriptions of this from textbooks:
+That's kind of the problem, although I like to think of it more in terms of salinity reduces the availability of water to the grass, and because of that it reduces the growth rate of the grass. Here are two technical descriptions of this from textbooks:
 
 ![salinity textbook quote definitions](/img/salinity.png)
 
