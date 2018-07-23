@@ -42,11 +42,11 @@ Of course, there are various ways to look at when it is "hot." This table shows 
 
 I included Vilobí d'Onyar because it is slightly warmer than Napa, and I've had a chance to see how manilagrass and bermudagrass performed there.
 
-Here's a mixed fairway of bermudagrass and bentgrass in May.
+Here's a mixed fairway of bermudagrass and bentgrass in Vilobí d'Onyar in May.
 
 ![cynodon and agrostis catalonia](https://c1.staticflickr.com/1/847/43518984262_733953933d_b_d.jpg)
 
-Here's a driving range tee of manilagrass in May.
+Here's a driving range tee of manilagrass there in May.
 
 ![manilagrass tee](https://c2.staticflickr.com/2/1789/41757665690_afa782c4f5_b_d.jpg)
 
