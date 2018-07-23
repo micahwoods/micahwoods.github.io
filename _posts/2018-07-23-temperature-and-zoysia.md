@@ -6,21 +6,21 @@ share-img: "https://c2.staticflickr.com/2/1809/43518984762_c21976855c_b_d.jpg"
 tags: [zoysia, climate, temperature]
 ---
 
-A few years ago, someone contacted me about the the use of zoysia in the Napa Valley. After describing places where he had seen zoysia---Austin, Tokyo---and been impressed with it, he asked what I thought about it in Napa. "I am hoping to learn your point of view. Please forgive the long treatise," he wrote, "but I wanted to give you proper context." 
+A few years ago, someone contacted me about the use of zoysia in the Napa Valley. After describing places where he had seen zoysia---Austin, Tokyo---and been impressed with it, he asked what I thought about it in Napa. "I am hoping to learn your point of view. Please forgive the long treatise," he wrote, "but I wanted to give you proper context." 
 
-The ensuing email conversation clarified that we were discussing manilagrass (*Zoysia matrella*, or *korai* as it is called in Japan). I've put more excerpts from that conversation at the very end, but for now I want to compare temperatures from 2017 at 11 locations, and discuss how that might have some relation to how well manilagrass might perform at a location.
+The ensuing email conversation clarified that we were discussing manilagrass (*Zoysia matrella*, or *korai* as it is called in Japan). I've put more excerpts from that conversation at the very end, but for now I want to compare temperatures from 2017 at 11 locations, and discuss how that might have some relation to how well manilagrass will perform at a location.
 
 I downloaded the daily temperature data for calendar year 2017 from these 11 locations. 
 
 ![map of 11 locations](/img/loc11.png)
 
-Some of these places, like Singapore, and Tokyo, and Hilo, have lots of thriving manilagrass.
+Some of these places, like Singapore, and Tokyo, and Hilo, have lots of thriving manilagrass. Here's a lawn in central Tokyo.
 
 ![tokyo korai](https://c2.staticflickr.com/2/1809/43518984762_c21976855c_b_d.jpg)
 
-Other places, like Ithaca (New York), don't, because it is considered too cold. And places like Avondale, Pennsylvania, may have a bit of *Zoysia japonica*, and some *Cynodon*, but are generally cool-season areas. If we consider Singapore as optimum for manilagrass, and Ithaca as unsuitable, we can then see how some other places (like Napa) compare. Are they closer to Singapore, which is optimum, and Tokyo, where manilagrass works well, or are they closer to Ithaca?
+Other places, like Ithaca (New York), don't have manilagrass, because it is too cold. And places like Avondale, Pennsylvania, may have a bit of *Zoysia japonica*, and some *Cynodon*, but are generally cool-season areas. If we consider Singapore as optimum for manilagrass, and Ithaca as unsuitable, we can then see how some other places (like Napa) compare. Are they closer to Singapore, which is optimum, and Tokyo, where manilagrass works well, or are they closer to Ithaca?
 
-Manilagrass thrives in a tropical climate; it really grows well when it is hot. To look at when it is hot, I calculated the GDD<sub>20</sub> for each day in 2017 at each of these locations, and summed them across the year. This is the sum of temperatures at 20 °C and above in 2017.
+Manilagrass thrives in a tropical climate; this species really grows well when it is hot, but it doesn't grow much in moderate temperatures. To look at when it is hot, I calculated the GDD<sub>20</sub> for each day in 2017 at each of these locations, and summed them across the year. This is the sum of temperatures at 20 °C and above in 2017.
 
 ![gdd20](/img/gdd20_2017.png)
 
