@@ -60,7 +60,7 @@ Here it is at the back of the same driving range tee in January, 2.5 years after
 
 Can it survive in those temperatures? Yes, although it isn't doing well on north-facing bunker slopes. The driving tee was especially well-drained, but large patch was thriving. Manilagrass is renowned for density, and it is difficult for weeds to invade manilagrass where it is actively growing. That, however, is not the case at Vilobí d'Onyar.
 
-In the data shown above, I only consider temperature. Once one does find that a warm-season grass works well, light should be considered also, and in the sunnier places, *Cynodon* is often the better choice. I wrote about that in this post:
+In the data shown above, I only consider temperature. After one does find that a warm-season grass can be used at a location, light should be considered also, and in the sunnier places (like California, or Catalonia), *Cynodon* is often the better choice. I wrote about that in this post:
 
 * [A note on light and grass selection in warm-season areas](http://www.blog.asianturfgrass.com/2014/05/a-note-on-light-and-grass-selection-in-warm-season-areas.html)
 
@@ -92,7 +92,7 @@ I replied with this:
 
 > Zoysia can give the look of the photos you sent. I think bermuda can too. In a sunny place like Napa, I'd probably go for bermuda rather than zoysia.
 
-> My approach is to choose the grass that doesn't die in a particular location. When we choose the grass that doesn't die, it then gives the greenkeeper the opportunity to do various things to the grass to get the playability and look that one wants. I'm still not quite sure what it is you are wanting to do with zoysia -- nursery or northern CA golf course -- but I would classify bermuda more in the "grass that won't die" category for that climate than I would zoysia. Zoysia won't die, but it will get overgrown by bermuda and cool-season grass more than bermuda, I guess.
+> My approach is to choose the grass that doesn't die in a particular location. When we choose the grass that doesn't die, it then gives the greenkeeper the opportunity to do various things to the grass to get the playability and look that one wants. I would classify bermuda more in the "grass that won't die" category for that climate than I would zoysia. Zoysia won't die, but it will get overgrown by bermuda and cool-season grass more than bermuda, I guess.
 
 > This is very much a climate specific choice. In Thailand I'd use a certain type of zoysia, not bermuda. In Japan I'd choose a different type of zoysia, not bermuda. In California I'd expect bermuda to be a better choice than zoysia.
 
