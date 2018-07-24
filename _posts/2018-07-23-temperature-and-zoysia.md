@@ -58,7 +58,7 @@ Here it is at the back of the same driving range tee in January, 2.5 years after
 
 ![manilagrass weeds](https://c1.staticflickr.com/1/925/43518983962_758ecaa2ae_b_d.jpg)
 
-Can it survive in those temperatures? Yes, although it isn't doing well on north-facing bunker slopes. The driving tee was especially well-drained, but large patch was thriving. Manilagrass is renowned for density, and it is difficult for weeds to invade manilagrass where it is actively growing. That, however, is not the case at Vilobí d'Onyar.
+Can it survive in those temperatures? Yes, although it isn't doing well on north-facing bunker slopes. The driving range tee was especially well-drained, but large patch was thriving. Manilagrass is renowned for density, and it is difficult for weeds to invade manilagrass where it is actively growing. That, however, is not the case at Vilobí d'Onyar.
 
 In the data shown above, I only consider temperature. After one does find that a warm-season grass can be used at a location, light should be considered also, and in the sunnier places (like California, or Catalonia), *Cynodon* is often the better choice. I wrote about that in this post:
 
