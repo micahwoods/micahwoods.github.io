@@ -11,7 +11,7 @@ These are [my slides](https://speakerdeck.com/micahwoods/managing-turfgrass-dise
 
 <script async class="speakerdeck-embed" data-id="8315b09e635e4a1c94d86a60f26f5ce1" data-ratio="1.77966101694915" src="//speakerdeck.com/assets/embed.js"></script>
 
-The [abstract for my presentation is here](https://apsnet.confex.com/apsnet/ICPP2018/meetingapp.cgi/Paper/3992). I'm not a plant pathologist, but what I'm talking about---and what I work on---is very much related to the theme of this year's Congress: *plant health in a global economy*.
+The [abstract for my presentation is here](https://apsnet.confex.com/apsnet/ICPP2018/meetingapp.cgi/Paper/3992). I'm not a plant pathologist, but what I've been invited to speak about---and what I work on---is very much related to the theme of this year's Congress: *plant health in a global economy*.
 
 For more information about the main points of my presentation, see:
 
