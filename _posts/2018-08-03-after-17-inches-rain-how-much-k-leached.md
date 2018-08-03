@@ -25,7 +25,9 @@ This week I got the results from post-rain soil tests. Here's a comparison of so
 * From May 27 to July 17, the K added as fertilizer was 1.1 g, and the expected harvest by the grass was 1.6 g. 
 * Based on that, there should be 1.7 g certainly leached, and the soil K should go down a further 0.5 g by grass use. So on July 17, I expected the soil K to be 9.8 g. Instead, the samples from last week were 8.8 g. The soil K is 1 g lower than I expected.
 
-Is that a big deal? Not at all. 1 g per square meter is equivalent to 0.2 lbs K/1000 ft<sup>2</sup>. Two-tenths of a pound. That's how much K is missing. And I don't include in my calculations the K removed by verticutting (twice, I think, between May 27 and July 217), nor to I include the normal variation in soil test results from the laboratory. My conversion between mass and soil test results in ppm is 1 g/m<sup>2</sup> = 6.7 ppm. That's the amount unaccounted for, just 7 ppm.
+Is that a big deal? Not at all. 1 g per square meter is equivalent to 0.2 lbs K/1000 ft<sup>2</sup>. Two-tenths of a pound. That's how much K is missing. 
+
+And I don't include in my calculations the K removed by verticutting (twice, I think, between May 27 and July 17), nor to I include the normal variation in soil test results from the laboratory. My conversion between mass and soil test results in ppm is 1 g/m<sup>2</sup> = 6.7 ppm. That's the amount unaccounted for, just 7 ppm.
 
 Not bad. It seems that cation exchange capacity is really a thing. 
 
