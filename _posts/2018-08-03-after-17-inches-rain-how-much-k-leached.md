@@ -8,7 +8,7 @@ bigimg:
 tags: [soil test, water, potassium, japan, leaching]
 ---
 
-When I was at Keya GC last month for the Japan Amateur Championship, it rained a lot. From June 29 to July, there was precipitation every day, and the total was 446 mm, or 17.6 inches.
+When I was at Keya GC last month for the Japan Amateur Championship, it rained a lot. From June 29 to July 8, there was precipitation every day, and the total was 446 mm, or 17.6 inches.
 
 [Andrew McDaniel](https://twitter.com/drumcturf) suggested that it would be interesting to see how much potassium (K) remained in the soil after that much rain.
 
