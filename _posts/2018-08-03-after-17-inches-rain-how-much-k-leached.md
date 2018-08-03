@@ -29,6 +29,8 @@ Is that a big deal? Not at all. 1 g per square meter is equivalent to 0.2 lbs K/
 
 Not bad. It seems that cation exchange capacity is really a thing. 
 
+![rain on pg at keya](/img/rain_pg.jpg)
+
 
 
 
