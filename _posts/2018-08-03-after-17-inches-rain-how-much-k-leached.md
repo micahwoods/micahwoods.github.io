@@ -27,7 +27,7 @@ This week I got the results from post-rain soil tests. Here's a comparison of so
 
 Is that a big deal? Not at all. 1 g per square meter is equivalent to 0.2 lbs K/1000 ft<sup>2</sup>. Two-tenths of a pound. That's how much K is missing. 
 
-And I don't include in my calculations the K removed by verticutting (twice, I think, between May 27 and July 17), nor to I include the normal variation in soil test results from the laboratory. My conversion between mass and soil test results in ppm is 1 g/m<sup>2</sup> = 6.7 ppm. That's the amount unaccounted for, just 7 ppm.
+And I don't include in my calculations the K removed by verticutting (twice, I think, between May 27 and July 17), nor do I include the normal variation in soil test results from the laboratory. My conversion between mass and soil test results in ppm is 1 g/m<sup>2</sup> = 6.7 ppm. That's the amount unaccounted for, just 7 ppm.
 
 Not bad. It seems that cation exchange capacity is really a thing. 
 
