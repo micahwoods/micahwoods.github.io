@@ -15,7 +15,7 @@ Allan Dewald, danger, mid-July sales pitches, [and self doubt](https://twitter.c
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Sometimes we have just enough knowledge to be dangerous. I offer a friendly counter balance 2 mid July sales pitches and self doubt. <a href="https://twitter.com/hashtag/mlsn?src=hash&amp;ref_src=twsrc%5Etfw">#mlsn</a> <a href="https://t.co/fz6uSjZMNY">https://t.co/fz6uSjZMNY</a></p>&mdash; Allan Dewald (@allan_dewald) <a href="https://twitter.com/allan_dewald/status/1021127391509450753?ref_src=twsrc%5Etfw">July 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Mike Besa wrote about Canlubang GC, says golf here is ["like entering a time capsule."](https://golflifeatbp.wordpress.com/2018/07/19/canlubang-golf-and-country-clubs-south-course-a-flamboyant-dazzling-layout/)
+Mike Besa wrote about Canlubang GC, says golf there is ["like entering a time capsule."](https://golflifeatbp.wordpress.com/2018/07/19/canlubang-golf-and-country-clubs-south-course-a-flamboyant-dazzling-layout/)
 
 Putting green firmness, organic matter management, and torrential rain. [How does that combination work?](https://www.asianturfgrass.com/2018-07-10-pleasant-day-unpleasant-termination/).
 
@@ -28,7 +28,7 @@ Maggie Reiter shared [this grid map](https://twitter.com/maggie_reiter/status/10
 
 There was [less brown patch](http://newprairiepress.org/cgi/viewcontent.cgi?article=7596&context=kaesrr) in a fescue-zoysia polystand than in a fescue monostand.
 
-Zoysia and temperature: [where is it most likely to faily, or more likely to work?](https://www.asianturfgrass.com/2018-07-23-temperature-and-zoysia/)
+Zoysia and temperature: [where is it most likely to fail, or more likely to work?](https://www.asianturfgrass.com/2018-07-23-temperature-and-zoysia/)
 
 "The Greenkeepers" short from [The Open](https://twitter.com/TheOpen/status/1020611298353188865):
 
