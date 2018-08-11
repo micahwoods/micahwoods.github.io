@@ -6,7 +6,7 @@ share-img: "https://www.asianturfgrass.com/img/soil_temperature_avondale.png"
 tags: [soil, turfhacks, temperature]
 ---
 
-It's always a good idea to know what the soil temperature is. One can measure it, or one can be confident that the average daily soil temperature close to the surface (5 cm, or 2 inch, depth) is higher than the daily low temperature, and lower than the daily high temperature.
+It's always a good idea to know what the soil temperature is. One can measure it, or one can be confident that the average daily soil temperature close to the surface (5 cm, or 2 inch depth) is higher than the daily low temperature, and lower than the daily high temperature.
 
 ![2017 temperatures at Avondale, Pennsylvania](/img/soil_temperature_avondale.png)
 
