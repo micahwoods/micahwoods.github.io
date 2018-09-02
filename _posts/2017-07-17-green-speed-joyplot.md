@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Green speed joyplot and the work to produce these conditions"
+title: "Green speed ridgeline plot and the work to produce these conditions"
 subtitle: More about the ease of producing green speeds by species
 share-img: "http://www.asianturfgrass.com/img/poa_green.jpg"
 tags: [green speed, mowing, fertilizer]
@@ -26,9 +26,9 @@ Table 1: Number of measurements and median green speed in feet, by species. Data
 | poa       |   19|    10.1|
 | serangoon |   24|     7.1|
 
-This shows those green speed data summarized in the form of a [joyplot](https://cran.rstudio.com/web/packages/ggjoy/vignettes/introduction.html).
+This shows those green speed data summarized in the form of a [ridgeline plot](https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html).
 
-![joyplot of green speed measurements by grass species](/img/joy_speed.svg)
+![ridgeline plot of green speed measurements by grass species](/img/joy_speed.svg)
 
 [I suggested yesterday](http://www.asianturfgrass.com/2017-07-16-species-ease-speed/) that I expect the amount of work required to produce the same speed for all the grasses (given mid-growing season conditions in a location where the grass is well-adapted) will be the greatest for zoysiagrass and the lowest for fine fescue.
 
