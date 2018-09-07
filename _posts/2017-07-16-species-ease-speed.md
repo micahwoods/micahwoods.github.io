@@ -2,7 +2,7 @@
 layout: post
 title: "Sward stimpmeter speed for seven species"
 subtitle: From annual bluegrass (A) to zoysiagrass (Z), this is what I expect
-share-img: "http://www.asianturfgrass.com/img/fescue_green.jpg"
+share-img: "https://www.asianturfgrass.com/img/fescue_green.jpg"
 tags: [green speed, mowing, fertilizer]
 bigimg:
 - "/img/serangoon_green.jpg"    : "serangoongrass green, Singapore"

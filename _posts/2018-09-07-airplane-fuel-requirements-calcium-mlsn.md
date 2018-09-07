@@ -25,11 +25,13 @@ When doing a soil nutrient analysis, the Mehlich 3 extractant---and most extract
 
 What do these nutrient pools have to do with the question Grant asked? They have to do with the 12 kg/ha present in the soil. What we are really doing with the soil test is making calculations about a pool of nutrients specific to a particular soil test extractant, and by testing the same soil with the same extractant over time, we then measure changes in quantities of nutrients in that particular pool. 
 
-More about that later. Now to what is normal.
+Now to what is normal.
 
 ### Normal amounts of nutrients in the soil
 
-It's not enough to make sure there is a quantity (or a pool) of nutrients in the soil, at the start of the season, that is equivalent to the amount the grass will use that season. Normal soils, even low cation exchange capacity (CEC) sands commonly used for turfgrass rootzones, have a normal amount of calcium that is many times more than the grass can use in a season. 
+It's not enough to make sure there is a quantity (or a pool) of nutrients in the soil, at the start of the season, that is equivalent to the amount the grass will use that season. See the analogy about airplane fuel at the end for more about that. 
+
+Normal soils, even low cation exchange capacity (CEC) sands commonly used for turfgrass rootzones, have a normal amount of calcium that is many times more than the grass can use in a season. 
 
 What is normal varies by element. And the relation to grass use obviously depends on climate, grass type, and growth rate. To look at what is normal in turfgrass soils, I suggest the [SI (sustainability index) app](https://asianturfgrass.shinyapps.io/turfsi/).
 
@@ -63,7 +65,7 @@ I thought for a long time about what type of analogy might make this clear. Airp
 
 It would be a big problem if turf would not have enough nutrients. It would be a disaster if an airplane would have insufficient fuel.
 
-Airplanes are not fueled with only the amount of fuel that it takes to get to the destination. 
+Airplanes are not fueled with only the amount of fuel that it takes to get to the destination. There are additional amounts required to ensure that airplanes don't run out of fuel.
 
 When calculating the fuel quantity for a flight, I found [these minimum requirements](https://aviation.stackexchange.com/a/3742) for commercial flights from the International Civil Aviation Organization (ICAO):
 
@@ -74,3 +76,19 @@ When calculating the fuel quantity for a flight, I found [these minimum requirem
 * Final reserve fuel (45 minutes of holding flight for reciprocating engines, 30 minutes for jets) plus
 * Additional fuel (if needed to guarantee ability to reach an alternate with an engine failure or at lower altitude due to a pressurization loss) plus
 * Discretionary fuel (if the pilot in command wants it)
+
+With turfgrass, it makes sense to me to have a minimum amount in the soil that never gets touched, that we are confident is enough to produce good turf, and then to make calculations based on changes in the pool of nutrients extracted by a particular soil test extractant.
+
+### If you've read this far
+
+Here are Ca data by the Mehlich 3 extractant for turfgrass soils tested by ATC clients in the past 8 months. Most of the density---that is, most of the samples---is less than 1000.
+
+![img of density all Ca samples](/img/y2018_atc_ca.png)
+
+After removing the calcareous samples with higher Ca, it's apparent that most of the samples are about 200 to 700. 
+
+![img of density of Ca samples with calcareous removed](/img/atc_ca_clean.png)
+
+The point I try to show with these plots is that although the grass may use only about 8 ppm or similarly low amounts of Ca in a year, soils naturally have a lot more Ca than that. 
+
+
