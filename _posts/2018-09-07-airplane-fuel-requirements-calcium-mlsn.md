@@ -43,7 +43,7 @@ Then if one finds a minimum level---we used 0.1, but there is nothing magic abou
 
 This approach is based on there being a pool of nutrients that are extracted by a particular extractant. And it is based on ensuring the soil has a normal amount of nutrients. 
 
-Now I can answer that question about 12 kg/ha, if that is the annual grass use, being enough (or not) in the soil at the start of the year. In absolute terms, 12 kg/ha is not enough. But if we are considering the pool of Ca extracted by the same soil test extractant at the start and the end of the year, and if we set the a minimum level already present in the soil, and then calculate the difference of 12 kg/ha in that pool from the start of the year to the end, while still remaining above that minimum, then 12 kg/ha is surely enough.
+Now I can answer that question about 12 kg/ha, if that is the annual grass use, being enough (or not) in the soil at the start of the year. In absolute terms, 12 kg/ha is not enough. But if we are considering the pool of Ca extracted by the same soil test extractant at the start and the end of the year, and if we ensure the soil already has a minimum level already present in the soil, and then calculate the difference of 12 kg/ha in that pool from the start of the year to the end, while still remaining above that minimum, then 12 kg/ha is surely enough.
 
 ### Two related questions
 
