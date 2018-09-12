@@ -14,9 +14,9 @@ tags: [nitrogen, weather, soil]
 
 Regular readers of this blog will be familar with some previous attempts to estimate the N mineralization in turfgrass soils. There was [this from 2010](http://www.blog.asianturfgrass.com/2015/01/i-wouldnt-explain-it-this-way-again.html), which I wrote about in 2015 saying "I wouldn't explain it this way again." 
 
-What I'd done then was estimate a maximum of 4 g N m<sup>-2</sup> could be mineralized in a year for each 1% of soil organic matter, and then I tried to spread that mineralization over the hottest 120 days (4 months) of the year, and used the [temperature-based growth potential---GP---](http://www.files.asianturfgrass.com/201306_growth_potential.pdf) to adjust for temperature. That was pretty crude, and I figured it must be something like that, but I wanted a better estimate.
+What I'd done then was estimate a maximum of 4 g N m<sup>-2</sup> could be mineralized in a year for each 1% of soil organic matter, and then I tried to spread that mineralization over the hottest 120 days (4 months) of the year, and used the [temperature-based growth potential---GP---](http://www.files.asianturfgrass.com/201306_growth_potential.pdf)to adjust for temperature. That was pretty crude, and I figured it must be something like that, but I wanted a better estimate.
 
-For the past few years I've been making a more general estimate, still crude, but expressed as an annual amount, based on organic matter being 5% N, and expecting that from 1 to 4% of that N would be mineralized each year. This is straight out of the *Soil Fertility and Fertilizers* textbook by Havlin et al. I've written about that more in my monthly ゴルフ場セミナー column than I have on this blog.
+For the past few years I've been making a more general estimate, still crude, but expressed as an annual amount, based on organic matter being 5% N, and expecting that from 1 to 4% of that N would be mineralized each year. This is straight out of the *Soil Fertility and Fertilizers* textbook by Havlin et al. I've written about that extensively in my monthly ゴルフ場セミナー column, more so than I have on this blog.
 
 ![gc seminar article nov 2016](/img/seminar_201611.jpg)
 
