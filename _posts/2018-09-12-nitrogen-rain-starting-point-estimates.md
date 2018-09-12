@@ -39,7 +39,7 @@ With temperature data through yesterday, assuming the top 10 cm of soil has 1.6%
 
 ![madeira park BC expected mineralization](/img/madeira_mineralization.png)
 
-What about the effect of rain? If the soil goes from 50% of field capacity up to 80% of field capacity, expected mineralization using these model equations goes up by 73%. Plus there is the expected increased growth from having more water available to the grass. And there is also flush of mineralization [when dried soils are rewetted](https://dx.doi.org/10.2136/sssaj1993.03615995005700010012x).
+What about the effect of rain? If the soil goes from 50% of field capacity up to 80% of field capacity, expected mineralization using these model equations **goes up by 73%**. Plus there is the expected increased growth from having more water available to the grass. And there is also flush of mineralization [when dried soils are rewetted](https://dx.doi.org/10.2136/sssaj1993.03615995005700010012x).
 
 One expects that the growth of the grass would double (or more) from the effect of increased water supply to the grass and with the substantial increase in mineralized N now available to the grass.
 
