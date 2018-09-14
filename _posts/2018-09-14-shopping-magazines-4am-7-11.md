@@ -27,7 +27,9 @@ The 200 page issue of *Weekly Golf Digest* that Andrew and I picked up is a nice
 
 ![digest with other books](/img/book_thickness.jpg)
 
-The new issues of *Weekly Golf Digest* come out early Thursday morning, and we were especially excited to see this one because it has a 4 page profile of Andrew and his work at Keya GC. This article was timed to come out the same week that Keya was hosting the [KBC Augusta tournament](https://www.asianturfgrass.com/2017-08-18-why-kbc-is-so-interesting/) on the [Japan men's tour](https://www.jgto.org/pc/TopPage.do). And that timing was convenient for us. We were already on the way to work at 4 in the morning, so we could get these issues before the other golf fans got them. 
+The new issues of *Weekly Golf Digest* are placed on the newsstands early each Thursday morning, and we were especially excited to see this one because it has a 4 page profile of Andrew and his work at Keya GC. The article was timed to come out the same week that Keya was hosting the [KBC Augusta tournament](https://www.asianturfgrass.com/2017-08-18-why-kbc-is-so-interesting/) on the [Japan men's tour](https://www.jgto.org/pc/TopPage.do). 
+
+That timing was convenient for us too. We were already on the way to work at 4 in the morning, so we could buy these new magazines before the other golf fans got them. 
 
 ![digest at 7-11](/img/magazines_711.jpg)
 
@@ -65,9 +67,9 @@ The surface performance data have been used to make adjustments in year-round ma
 
 In particular, the reduction in all types of aerification has led to a steady increase in surface hardness ([more details about that here](https://www.asianturfgrass.com/2018-07-10-pleasant-day-unpleasant-termination/)). Without the measurements of surface hardness, and noticing that topdressing and aerification was making the greens softer, rather than firmer, [these surface hardness levels](https://www.instagram.com/p/BmwzMQVA3qj/?utm_source=ig_web_copy_link) wouldn't have been achieved so easily.
 
-<style>.embed-container {position: relative; padding-bottom: 150%; height: 0; overflow: hidden;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 150%; }</style><div class='embed-container'><iframe src='//instagram.com/p/BmwzMQVA3qj/embed/' frameborder='0' scrolling='no' allowtransparency='true'></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 100%; height: 0; overflow: hidden;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='//instagram.com/p/BmwzMQVA3qj/embed/' frameborder='0' scrolling='no' allowtransparency='true'></iframe></div>
 
-I recommend to all golf clubs, if they are interested in improved playability and achieving the desired conditions in the most efficient way possible, to collect performance data on a regular basis and then make decisions that move the conditions (and the efficiency) in the desired direction. For tournaments I like measurements every day. For everyday play, I like to measure once a week.
+I recommend to all golf clubs, if they are interested in improved playability and achieving the desired conditions in the most efficient way possible, to collect performance data on a regular basis and then make decisions that move the conditions (and the efficiency) in the desired direction. For tournaments I like measurements every day. For everyday play, I prefer measurements once a week.
 
 Weekly measurements provide 52 data points a year for a course with a year-round season; I'm comfortable using statistical models to predict the conditions based on weekly performance data combined with some growth and weather data. That frees up a lot of time to read more magazines.
 
