@@ -13,7 +13,7 @@ On August 23 at 4 a.m., [Andrew McDaniel](https://twitter.com/drumcturf) and I w
 
 ![magazine browsing in 7-11](/img/reading_711.jpg)
 
-Golf magazines in Japan are pretty amazing to begin with. What was in that particular issue was of particular interest to Andrew and I. And it's even related to turfgrass, which I'll get to at the end.
+Golf magazines in Japan are pretty amazing to begin with. What was in that new issue was of particular interest to Andrew and I. And it's even related to turfgrass, which I'll get to at the end.
 
 There are all kinds of golf magazines, published at all kinds of intervals. *Weekly Golf Digest*, as far as I know, has the largest circulation.
 
@@ -47,7 +47,7 @@ Those grasses are really typical for Japan and for tournament golf in Japan. But
 
 We didn't realize how useful the data on surface performance and grass conditions would be when the first set of data were collected during the 2013 tournament. What we did know, however, is that the moderately-sloping greens at Keya GC would ideally be over 10 feet on the stimpmeter for the tournament---no easy task on korai in the heat of summer---and that it would be great to get the surfaces firmer than they were in 2013.
 
-As it has turned out, Andrew has used the data to make adjustments in the maintenance, and these adjustments have led to dramatic changes in the playing conditions of the surfaces. I updated the chart to include the data from tournament week in 2018, and that's reproduced here.
+As it has turned out, Andrew has used the data to make adjustments in the maintenance, and these adjustments have led to dramatic changes in the playing conditions of the surfaces. I updated the chart from the magazine to include the data collected during tournament week in 2018, and that's reproduced here.
 
 ![chart of tournament data 2013 to 2018](/img/years_en.png)
 
