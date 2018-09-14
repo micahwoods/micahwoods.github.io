@@ -29,7 +29,7 @@ The 200 page issue of *Weekly Golf Digest* that Andrew and I picked up is a nice
 
 The new issues of *Weekly Golf Digest* come out early Thursday morning, and we were especially excited to see this one because it has a 4 page profile of Andrew and his work at Keya GC. This article was timed to come out the same week that Keya was hosting the [KBC Augusta tournament](https://www.asianturfgrass.com/2017-08-18-why-kbc-is-so-interesting/) on the [Japan men's tour](https://www.jgto.org/pc/TopPage.do). And that timing worked good for us too. We were already on the way to work at 4 in the morning, so we could get these issues before the other golf fans got them. 
 
-![reading digest at 7-11](/img/reading_711.jpg)
+![digest at 7-11](/img/magazines_711.jpg)
 
 The article was about Andrew and his background, the [korai grass](https://www.asianturfgrass.com/tags/#korai) at Keya GC, and the maintenance work that Andrew leads there. There was also a discussion of some of the work I've been doing in the measurement of turf and playing conditions, especially during the KBC Augusta tournament, which is hosyed by Keya GC during the last week of August each year.
 
@@ -43,7 +43,7 @@ When Andrew started working at Keya GC in 2013, we thought it would be interesti
 
 Those grasses are really typical for Japan and for tournament golf in Japan. But what is really distinctive about Keya GC and the KBC Augusta tournament is the korai greens as well; there are hundreds of courses in Japan with korai greens, but for tournament golf on the men's tour, Keya GC is the only course with korai greens.
 
-![keya gc hole 18 korai green](keya_18_sunrise.jpg)
+![keya gc hole 18 korai green](/img/keya_18_sunrise.jpg)
 
 We didn't realize how useful the data on surface performance and grass conditions would be when the first set was collected in 2013. What we did know, however, is that the moderately-sloping greens at Keya GC would ideally be over 10 feet on the stimpmeter for the tournament---no easy task on korai in the heat of summer---and that it would be good if the surfaces could be made firmer than they were in 2013.
 
