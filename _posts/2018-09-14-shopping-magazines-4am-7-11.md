@@ -19,7 +19,7 @@ There are all kinds of golf magazines, published at all kinds of intervals. *Wee
 
 ![weekly golf digest](/img/digest_weekly.jpg)
 
-And these are substantial magazines with a lot of reading material. The September 4 issue that we were in search of has 200 pages. The previous week's issue was a special edition, running to 234 pages! One can read about fashion, equipment, travel, etiquette, swing advice, stories, manga, some beautiful shoes on page 191, and a lot of things that I don't fully understand. But it's all related to golf, and it's coming out with just this magazine at a couple hundred pages a week, about 800 a month. 
+And these are substantial magazines with a lot of reading material. The September 4 issue that we were in search of has 200 pages. The previous week's issue was a special edition, running to 234 pages! One can read about fashion, equipment, travel, etiquette, swing advice, stories, manga, some beautiful shoes on page 191, and a lot of things that I don't fully understand. But it's all related to golf, and these magazines are cumulatively publishing thousands of pages about golf every month.
 
 ![digest weekly pages](/img/weekly_pages.jpg)
 
