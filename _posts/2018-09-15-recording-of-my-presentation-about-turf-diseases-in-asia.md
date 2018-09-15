@@ -18,7 +18,7 @@ I gave this presentation as part of the session on "Precision Turf and Ornamenta
 * other recorded presentations [from the Congress](https://www.apsnet.org/publications/Webinars/Pages/2018.aspx) 
 * my slides without audio, [available for view or download](https://speakerdeck.com/micahwoods/managing-turfgrass-diseases-in-asia-with-minimal-input-1)
 * a blog post [with additional information and links](https://www.asianturfgrass.com/2018-07-30-managing-turfgrass-diseases-in-asia-with-minimal-inputs/) to things I discussed in the talk
-<br>
+***
 
 
 
