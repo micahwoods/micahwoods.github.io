@@ -10,7 +10,7 @@ The recording of my presentation on ["Managing turfgrass diseases in Asia with m
 
 [Watch it here](https://www.apsnet.org/publications/Webinars/Pages/2018videos.aspx?LID=Paper3992.mp4).
 
-I gave this presentation as part of the session on "Precision Turf and Ornamental Disease Management in the 21<sup>st</sup> Century" at the International Conference of Plant Pathology in July. For more about this, see:
+I gave this presentation as part of the session on "Precision Turf and Ornamental Disease Management in the 21<sup>st</sup> Century" at the International Congress of Plant Pathology in July. For more about this, see:
 
 * my [abstract for this talk](https://apsnet.confex.com/apsnet/ICPP2018/meetingapp.cgi/Paper/3992)
 * other recorded presentations [from the Congress](https://www.apsnet.org/publications/Webinars/Pages/2018.aspx) 
