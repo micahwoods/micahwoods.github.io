@@ -18,9 +18,9 @@ In the Gelman blog, the problem is described in a quote from [this article](http
 
 > At first glance, this sounds like great news. But there’s a problem: We have no idea if this means the drug **also** cuts the risk of bone fractures, which is the outcome that we really care about.
 
-The objective of turfgrass maintenance is to produce the desired surface for a particular site. The outcome that we really care about is producing those surfaces. For things to measure, then, it makes sense to either measure those surface conditions, or to measure surrogate markers that are closely---and consistently---correlated with the surface conditions.
+The objective of turfgrass maintenance is to produce the desired surface for a particular site. The outcome that we really care about is producing those surfaces. For things to measure, then, it makes sense to either measure those surface conditions, or to measure surrogate markers that are closely and consistently correlated with the surface conditions.
 
-Here are some examples of surrogate markers that are used pretty often in turfgrass management but that are not consistently correlated with the outcome that we really care about.
+Here are some examples of surrogate markers that are used pretty often in turfgrass management but that are not consistently correlated with the outcome that we really care about:
 
 * leaf tissue nutrient levels
 * surface area removal/displacement from aerification
