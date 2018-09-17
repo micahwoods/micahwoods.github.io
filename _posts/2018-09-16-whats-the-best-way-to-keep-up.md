@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's the best way to keep up with all you're doing?"
-share-img: "https://www.asianturfgrass.com/woods_kyoto.jpg"
+share-img: "https://www.asianturfgrass.com/img/woods_kyoto.jpg"
 tags: [turf info, web/tech]
 ---
 
