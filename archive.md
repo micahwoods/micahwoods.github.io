@@ -2,8 +2,7 @@
 layout: page
 title: ATC update and newsletter archives
 subtitle: PDF versions of old newsletters
-# scope_pepper share-img: "https://c1.staticflickr.com/9/8641/15727712247_80643ab63b_b_d.jpg"
-share-img: "https://c1.staticflickr.com/3/2899/14723831026_7b6f342d68_b_d.jpg"
+share-img: "https://c1.staticflickr.com/9/8641/15727712247_80643ab63b_b_d.jpg"
 ---
 
 ATC newsletters sent since January 2017 are listed and can be downloaded below. 
@@ -12,6 +11,7 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 [Subscribe to ATC updates here](http://www.subscribepage.com/atcupdate).
 
+* [September 2018](http://files.asianturfgrass.com/201809_atc_update.pdf), time on the road, MLSN, tournaments, magazines, & conferences 
 * [January 2018](http://files.asianturfgrass.com/201801_atc_update.pdf), ATC update: clipping volume, soil tests, & yearly review
 * [October 2017](http://files.asianturfgrass.com/201710_atc_update.pdf), ATC update: new website, upcoming seminars, & new turf info 
 * [June 2017](http://files.asianturfgrass.com/201706_atc_update.pdf), ATC update: grass roots, seminars, and turf reading 
