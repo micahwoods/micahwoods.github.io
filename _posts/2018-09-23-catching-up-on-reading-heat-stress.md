@@ -8,7 +8,7 @@ bigimg:
 tags: [bentgrass, temperature, japan]
 ---
 
-I've been writing a monthly column for *[Golf Course Seminar](http://www.blog.asianturfgrass.com/2016/06/99-article-titles.html)* (ゴルフ場セミナー) since May of 2008. The articles are usually 2 pages. I wrote a couple 4 pages articles when [マイカの時間 The BOOK](https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_cp_ep_dp_U-eyAbHH25ZNN) was published last year. But the first time I've written a 3 page article was for the September 2018 issue. 
+I've been writing a monthly column for *[Golf Course Seminar](http://www.blog.asianturfgrass.com/2016/06/99-article-titles.html)* (ゴルフ場セミナー) since May of 2008. The articles are usually 2 pages. I wrote a couple 4 page articles when [マイカの時間 The BOOK](https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_cp_ep_dp_U-eyAbHH25ZNN) was published last year. But the first time I've written a 3 page article was for the September 2018 issue. 
 
 The topic was a 12 point checklist for creeping bentgrass heat stress. Most golf courses in Japan have creeping bentgrass greens, and the summer of 2018 had record-setting high temperatures. I wrote about these things:
 
