@@ -33,4 +33,6 @@ I looked up some data for this summer from three locations: Kumagaya in Saitama 
 
 That's the type of heat stress I was writing about.
 
+In Avondale, the average temperature has been above 20 °C since mid-June, with just a short break a week or so ago. In Blackville, it's been above 20 °C since early May, and above 25 °C almost nonstop since late May. Kumagaya has been above 20 °C since mid-May, and in July and August had lots of time with the *average* temperature above 30 °C.
 
+I was writing about bentgrass greens in the article. In locations near Avondale, I expect most putting greens will be bentgrass or *Poa annua*. When the heat stress lasts as long as it does at locations near Blackville, there will be a lot more courses with warm-season turf on putting greens. And in locations near Kumagaya, it is still largely creeping bentgrass.
