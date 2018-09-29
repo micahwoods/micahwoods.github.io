@@ -7,13 +7,13 @@ tags: [clipping volume, podcast]
 
 I enjoyed listening to my friends Dave Wilber and Kevin Ross in their [TurfHead Jam Session](https://www.turfnet.com/blogs/entry/1797-turfhead-jam-session-with-kevin-ross-session-number-1/) this week. They'd put out some teasers that they would be discussing [#ClipVol](https://twitter.com/hashtag/clipvol?src=hash), so I made sure to listen as soon as the podcast came out, to see what these industry veterans had to say about that.
 
-That section about clipping volume starts at 49:55, and it starts out with lots of laughter too, and then these various observations:
+The section about clipping volume starts at 49:55, and they begin with lots of laughter and then these various observations:
 
 * an American superintendent used metric units
 * is this busy work?
 * Kevin was doing this 30 years ago, back then they just called it "clippings"
 * Kevin's given 8 or 10 presentations this year and only 1 person in the audience is doing this
-* older superintendents seem not to like this
+* older superintendents seem not to like this, in fact, one can really get them going (I assume this means in a bad way) if one would bring up clipping volume
 * they always knew what their clipping volume was, back in the day
 * they weren't desk jockeys when they were superintendents
 * it's all about playability
