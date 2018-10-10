@@ -63,6 +63,10 @@ When I scrambled down to the rocks behind the third tee, I found lots of noshiba
 
 ![noshiba by sea, Ojika, Nagasaki](https://c2.staticflickr.com/2/1970/44491948594_ec2ea97d92_b_d.jpg)
 
+These are great courses for botanizing, and pretty spectacular for golf too. 
+
+![tee off hole five Hamayu GC](/img/micah_tee_5.jpg)
+
 Our hosts treated us to a great post-round meal with local delicacies before we departed. The local food in Japan is one of the many reasons to make a point to travel to different regions and to explore golf courses such as these.
 
 ![post-round meal, Ojika](/img/meal.jpg)
