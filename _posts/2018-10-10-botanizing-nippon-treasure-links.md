@@ -9,7 +9,7 @@ bigimg:
 tags: [turf tourism, japan]
 ---
 
-There are a couple golf courses that you won't find on the usual maps of golf courses in Japan. Most golfers I talked with this year had no idea that there were courses there. I'd only recently heard about the golf courses at Ukushima and Ojika.
+There are a couple amazing courses that you won't find on the usual maps of golf clubs in Japan. Most golfers I talked with this year had no idea that there were courses there. I'd only recently heard about the golf courses at Ukushima and Ojika.
 
 After Andrew Thomson visited these courses in the Goto Islands of Nagasaki almost a year ago, he sent some photos, and I knew immediately that I'd love to go there. These are seaside courses, without irrigation, maintained by the members, and I wanted to see what grasses were growing, thriving, and surviving in these conditions.
 
