@@ -9,11 +9,11 @@ bigimg:
 tags: [turf tourism, japan]
 ---
 
-There are a couple amazing courses that you won't find on the usual maps of golf clubs in Japan. Most golfers I talked with this year had no idea that there were courses there. I'd only recently heard about the golf courses at Ukushima and Ojika.
+There are a couple amazing courses that you won't find on the usual maps of golf clubs in Japan. Most golfers I talked with this year had no idea that there were courses there. And I'd only recently learned about the golf courses at Ukushima and Ojika.
 
 After Andrew Thomson visited these courses in the Goto Islands of Nagasaki almost a year ago, he sent some photos, and I knew immediately that I'd love to go there. These are seaside courses, without irrigation, maintained by the members, and I wanted to see what grasses were growing, thriving, and surviving in these conditions.
 
-I wasn't disappointed. When our traveling party arrived at the Hirabaru Golf Club at Ukushima, cattle were grazing between holes, and before we walked to the first tee I'd already seen a species I hadn't expected to find---narrow-leaved carpetgrass (*Axonpus fissifolious*). And the landscape was windblown, clifftop---perfect ground for golf.
+I wasn't disappointed. When our traveling party arrived at the Hirabaru Golf Club at Ukushima, cattle were grazing between holes, and before we walked to the first tee I'd already seen a species I hadn't expected to find---narrow-leaved carpetgrass (*Axonopus fissifolious*). And the landscape was windblown, clifftop---perfect ground for golf.
 
 ![land for golf at Ukushima windblown flag](https://c2.staticflickr.com/2/1917/44302471075_2fcc1dd89a_b_d.jpg)
 
@@ -21,13 +21,13 @@ One can see (and usually hear) the ocean from wherever one is standing. The firs
 
 ![view from 3rd green Ukushima](https://c2.staticflickr.com/2/1935/44302465235_dc441f375c_b_d.jpg)
 
-Andrew Thomson was kind enough to bring an extra set of clubs for me to play with, and I have to say that the tee shot on the fourth, with a strong wind, and a long carry over wild grass, is a real challenge with a brassie.
+Andrew was kind enough to bring an extra set of clubs for me to play with, and I have to say that the tee shot on the fourth, with a strong wind, and a long carry over wild grass, is a real challenge with a brassie.
 
 ![4th tee Ukushima](https://c2.staticflickr.com/2/1927/44491947554_d7c6052053_b_d.jpg)
 
-As we discussed as we walked around these courses, and then continued talking over dinner, this would be what golf courses were like---what the conditions would have been like---prior to the First World War.
+As we discussed as we walked around these courses, and then continued talking over dinner, this would be what golf courses were like---what the playing surfaces would have been like---prior to the First World War.
 
-I tried to keep my eyes on the ground, to check the grasses, but with views like this, as one makes the approach to the fourth green, distracted me.
+I tried to keep my eyes on the ground, to check the grasses, but views like this, as one makes the approach to the fourth green, distracted me.
 
 ![4th approach Ukushima](https://c2.staticflickr.com/2/1906/44302470665_53fa92e751_b_d.jpg)
 
@@ -67,7 +67,7 @@ These are great courses for botanizing, and pretty spectacular for golf too.
 
 ![tee off hole five Hamayu GC](/img/micah_tee_5.jpg)
 
-Our hosts treated us to a great post-round meal with local delicacies before we departed. The local food in Japan is one of the many reasons to make a point to travel to different regions and to explore golf courses such as these.
+Our hosts treated us to a great post-round meal with local delicacies before we departed. The local food in Japan is one of the many reasons---gracious hospitality is another---to travel to different regions and to explore golf courses such as these.
 
 ![post-round meal, Ojika](/img/meal.jpg)
 
@@ -75,7 +75,7 @@ When we were walking around town, I saw this beautiful manilagrass. These grasse
 
 ![fine-bladed manilagrass](https://c2.staticflickr.com/2/1954/30274854467_8f37035eaf_b_d.jpg)
 
-We took this trip in early September, and Andrew Thomson wrote an article about this trip for [*Golf Digest Choice* magazine](http://gd.golfdigest.co.jp/choice/). When I was back in Japan this month, I went to the bookstore in Osaka, straight to the magazine rack, and got a couple copies.
+We took this trip in early September, and Andrew Thomson wrote an article about this trip for [*Golf Digest Choice* magazine](http://gd.golfdigest.co.jp/choice/). When I was back in Japan this month, I went to the bookstore in Osaka, straight to the magazine rack, got a couple copies, and a big smile came onto my face as I remembered this trip.
 
 ![magazine rack, Osaka](/img/magazine_rack.jpg)
 
