@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Golf and Health"
-sub-title: "
 share-img: "https://www.asianturfgrass.com/img/minchinhampton_cow.jpg"
 bigimg:
 - "/img/minchinhampton_cow.jpg" : "Minchinhampton Old Course, England"
