@@ -9,15 +9,15 @@ bigimg:
 tags: [turf tourism, japan]
 ---
 
-There are a couple amazing courses that you won't find on the usual maps of golf clubs in Japan. Most golfers I talked with this year had no idea that there were courses there. And I'd only recently learned about the golf courses at Ukushima and Ojika.
+There are a couple amazing courses that you won't find on the usual maps of golf clubs in Japan. Most golfers I talked with this year had no idea that there were courses there. And I'd only recently learned about these golf courses at Ukushima and Ojika.
 
-After Andrew Thomson visited these courses in the Goto Islands of Nagasaki almost a year ago, he sent some photos, and I knew immediately that I'd love to go there. These are seaside courses, without irrigation, maintained by the members, and I wanted to see what grasses were growing, thriving, and surviving in these conditions.
+After Andrew Thomson visited these courses in the Goto Islands of Nagasaki, he sent photos, and I knew immediately that I'd love to go there. These are seaside courses, without irrigation, maintained by the members, and I wanted to see what grasses were growing, thriving, and surviving in these conditions.
 
 I wasn't disappointed. When our traveling party arrived at the Hirabaru Golf Club at Ukushima, cattle were grazing between holes, and before we walked to the first tee I'd already seen a species I hadn't expected to find---narrow-leaved carpetgrass (*Axonopus fissifolious*). And the landscape was windblown, clifftop---perfect ground for golf.
 
 ![land for golf at Ukushima windblown flag](https://c2.staticflickr.com/2/1917/44302471075_2fcc1dd89a_b_d.jpg)
 
-One can see (and usually hear) the ocean from wherever one is standing. The first three holes are played up to the third green, which may be the highest point on the course. One then looks down to the challenging fourth which has the ocean in play all along the right side.
+At both of these courses, one can see (and usually hear) the ocean from wherever one is standing. The first three holes at Ukushima are played up to the third green, which may be the highest point on the course. One then looks down to the challenging fourth which has the ocean in play all along the right side.
 
 ![view from 3rd green Ukushima](https://c2.staticflickr.com/2/1935/44302465235_dc441f375c_b_d.jpg)
 
