@@ -7,7 +7,7 @@ tags: [light, climate]
 
 James Faust and Joanne Logan wrote a review of daily light integral (DLI) in the [September issue of *HortScience*](https://dx.doi.org/10.21273/HORTSCI13144-18).
 
-They have also prepared [high resolution maps of the United States](https://arcg.is/X4G4K). If you click on a location on the map, a table and chart will display with the average monthly DLI for that location and with the annual average DLI.
+They have also prepared [high resolution maps of the United States](https://arcg.is/X4G4K). If you click on a location on the map, a table and chart will display with the average annual and monthly DLI. 
 
 <iframe width="100%" height="800px" src="https://webgis.coe.clemson.edu/storymaps/light-integral-map/" frameborder="0" scrolling="no"></iframe>
 
