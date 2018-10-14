@@ -11,11 +11,11 @@ There's an interesting article by Zhang et al. about warm-season grass and what 
 
 Here are some quotes from the paper, with emphasis and interspersed notes mine:
 
-> The objectives of this study were to compare the above and below-ground responses during drought of four warm-season turfgrass species, follower be a period of recovery with irrigation resumed.
+> The objectives of this study were to compare the above and below-ground responses during drought of four warm-season turfgrass species, followed by a period of recovery with irrigation resumed.
 
 ---
 
-This is a three week dry-down during which it rained five times in 2013 and four times in 2014 (see Figure 1 in the paper. I estimate rain of about 32 mm in 2013 and about 22 mm in 2014). Even so,both species of zoysiagrass "completely entered dormancy."
+This is a three week dry-down during which it rained five times in 2013 and four times in 2014 (see Figure 1 in the paper. I estimate rain of about 32 mm in 2013 and about 22 mm in 2014). Even so, both species of zoysiagrass "completely entered dormancy."
 
 > Despite a few rain events ... , extensive drought stress developed in most of the species except for common bermudagrass. At the end of dry down, **Japanese lawngrass and manilagrass completely entered dormancy with turfgrass quality ratings less than 2** [on a scale from 1 to 9] ... But the turfgrass quality of common bermudagrass was 5.6 and had minimal leaf firing.
 
@@ -31,7 +31,7 @@ On one aspect of the data analysis:
 
 > Principal component analysis was performed on root characteristics, turfgrass quality and leaf firing at the end of drought ... in an attempt to reveal clusters of similar root morphological traits that were correlated with canopy traits.
 
-> Four warm-season turfgrass species formed distinct clusters, with common bermudagrass in the fourth quadrant ... , indicating **its lower surface root fraction, less leaf firing, combined with greater turfgrass quality, maximum root depth, root length and root surface aeea at 30-90 cm depth. Japanese lawngrass and manilagrass, with higher surface root depth, severe leaf firing, lower turfgrass quality, maximum root depth, root length and root surface area at 30-90 cm, were grouped in the second quadrant.**
+> Four warm-season turfgrass species formed distinct clusters, with common bermudagrass in the fourth quadrant ... , indicating **its lower surface root fraction, less leaf firing, combined with greater turfgrass quality, maximum root depth, root length and root surface area at 30-90 cm depth. Japanese lawngrass and manilagrass, with higher surface root depth, severe leaf firing, lower turfgrass quality, maximum root depth, root length and root surface area at 30-90 cm, were grouped in the second quadrant.**
 
 ---
 
