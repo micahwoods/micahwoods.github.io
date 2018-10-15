@@ -14,7 +14,7 @@ I've been asked about zoysia suitability for California, particularly northern p
 
 ### 1) Temperature
 
-Compared to places where Japanese lawngrass (*Zoysia japonica*) and manilagrass (*Zoysia matrella*) are an undisputably good choice, [northern California is cooler](https://www.asianturfgrass.com/2018-07-23-temperature-and-zoysia/). Locations along the coast in southern California are cooler too. 
+Compared to places where Japanese lawngrass (*Zoysia japonica*) and manilagrass (*Zoysia matrella*) are an indisputably good choice, [northern California is cooler](https://www.asianturfgrass.com/2018-07-23-temperature-and-zoysia/). Locations along the coast in southern California are cooler too. 
 
 The implication of this---if one chooses an inherently slow-growing grass and then plants it in a place where the temperatures are too cool for the grass to grow, it can't grow enough without intensive maintenance. Bermudagrass (*Cynodon*) can grow faster, and in a cooler climate, would be expected to outperform any type of zoysia.
 
