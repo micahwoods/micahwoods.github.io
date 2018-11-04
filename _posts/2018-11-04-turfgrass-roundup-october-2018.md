@@ -52,7 +52,7 @@ Adam Calver showed [rice harvest at Laguna Langco in Vietnam](https://twitter.co
 
 The [TurfTruth](https://www.asianturfgrass.com/2018-10-23-attacked-vigorously-from-every-quarter/) account showed up:
 
-<a href="https://twitter.com/TurfTruth?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TurfTruth</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/TurfTruth?ref_src=twsrc%5Etfw">Tweets by TurfTruth</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 And started a [long conversation](https://twitter.com/asianturfgrass/status/1054571472746799105) about the appropriateness of such an account.
 
