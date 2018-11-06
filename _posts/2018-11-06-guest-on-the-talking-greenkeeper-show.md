@@ -3,7 +3,7 @@ layout: post
 title: "Guest on the Talking Greenkeeper show"
 share-img: "https://www.asianturfgrass.com/img/fuji_elephant.jpg"
 bigimg:
-- "/img/fuji_elephant.jpg" : "elephant footprint (Rhizoctonia cerealis) on noshiba near Mt. Fuji, October"
+- "/img/fuji_elephant.jpg" : "elephant's footprint (Rhizoctonia cerealis) on noshiba near Mt. Fuji, October"
 tags: [mlsn, clipvol, podcast, greenkeeping]
 ---
 
