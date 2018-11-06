@@ -23,13 +23,11 @@ A few miscellaneous things come to mind.
 
 2. I mentioned a quote about difficulty convincing someone of something when their salary depends on them not understanding it. I was referring to Upton Sinclair's statement that "It is difficult to get a man to understand something, when his salary depends upon his not understanding it!"
 
-3.  We talked about the various ATC newsletters. [Sign-up links for newsletters here](https://www.asianturfgrass.com/lists/).
-
-4. We also discussed MLSN and math. If you want to have a closer look at this, I'd suggest these:
+3. We also discussed some posts about MLSN and math. If you want to have a closer look at this, I'd suggest these:
 
 * Jason Haines' post on [MLSN math step-by-step](http://www.turfhacker.com/2018/03/mlsn-math-step-by-step.html)
 * Joe's post on MLSN math, which he called [The keyboard is mightier than the fist: how MLSN will save middle class golf](http://www.thewalkinggreenkeeper.com/2018/01/near-end-of-summer-last-season-john.html)
-* Brad Revill's blogs about MLSN. There are [four posts here](https://www.bradrevillturf.com/goingagainstthegrain?category=MLSN), all with a little bit of calculation, perhaps most extensively demonstrated in [MLSN updated and calculations](https://www.bradrevillturf.com/goingagainstthegrain/9/1/2017/mlsn-update-and-calculations).
+* Brad Revill's blogs about MLSN. There are [four posts here](https://www.bradrevillturf.com/goingagainstthegrain?category=MLSN), all with a little bit of calculation, perhaps most extensively demonstrated in [MLSN update and calculations](https://www.bradrevillturf.com/goingagainstthegrain/9/1/2017/mlsn-update-and-calculations).
 * I mentioned the MLSN cheat sheets---those are [available for download here](https://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/).
 
 
