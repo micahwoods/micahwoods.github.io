@@ -19,7 +19,7 @@ Or use this [link to the show on iTunes](https://itunes.apple.com/us/podcast/the
 
 A few miscellaneous things come to mind. 
 
-1. Joe played one of my favorite songs at the end of the episode, and mentioned a blog post I'd written entitled "Some Rise, some fall, some climb." Here's a [direct link to that post](https://www.asianturfgrass.com/2018-06-10-some-rise-some-fall-some-climb/), which was about clipping volume, animated.
+1. Joe mentioned a blog post I'd written entitled "Some Rise, some fall, some climb." Here's a [direct link to that post](https://www.asianturfgrass.com/2018-06-10-some-rise-some-fall-some-climb/), which was about clipping volume, animated.
 
 2. I mentioned a quote about difficulty convincing someone of something when their salary depends on them not understanding it. I was referring to Upton Sinclair's statement that "It is difficult to get a man to understand something, when his salary depends upon his not understanding it!"
 
