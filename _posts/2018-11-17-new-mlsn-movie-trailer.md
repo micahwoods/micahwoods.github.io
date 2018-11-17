@@ -5,7 +5,7 @@ share-img: "https://www.asianturfgrass.com/img/yongling0.png"
 bigimg:
 - "/img/yongling1.jpg" : "MLSN movie set at Yongling Beach, Thailand"
 - "/img/yongling2.jpg" : "MLSN movie set at Yongling Beach, Thailand"
-- "/img/yongling0.png: " "on the MLSN movie set in Thailand"
+- "/img/yongling0.png" :  "on the MLSN movie set in Thailand"
 tags: [mlsn, video]
 ---
 
