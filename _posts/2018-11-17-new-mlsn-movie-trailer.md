@@ -13,7 +13,7 @@ This email arrived in September.
 
 > Hello Dr. Woods,
 
-> Just a quick introduction: I'm Niels Dokkuma, working for the golf federation in The Netherlands in the field of sustainability. ... I was wondering ig you would be available for a long-distance internet or pre-recorded presentation on MLSN fertilisation guidelines for Wednesday November 28 during our annual TURF (Turfgrass University Research Foundation Knowledge-day for practicioners (headgreenkeepers).
+> Just a quick introduction: I'm Niels Dokkuma, working for the golf federation in The Netherlands in the field of sustainability. ... I was wondering if you would be available for a long-distance internet or pre-recorded presentation on MLSN fertilisation guidelines for Wednesday November 28 during our annual TURF (Turfgrass University Research Foundation Knowledge-day for practicioners (headgreenkeepers).
 
 From that came the idea to make a movie about MLSN. The [trailer is here](https://vimeo.com/micahwoods/humbugshort), and you can watch the full 44 minute film at the premiere in The Netherlands on November 28, or on a screen near you after the worldwide release on November 29.
 
