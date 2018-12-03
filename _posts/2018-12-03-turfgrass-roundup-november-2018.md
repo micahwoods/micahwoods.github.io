@@ -17,7 +17,7 @@ I was a guest on [Joe Gulotti's Talking Greenkeeper show](http://thetalkinggreen
 
 Gulotti wrote [about #ClipVol in *Golfdom*]( https://www.golfdom.com/clipping-volume-nothing-to-snicker-at/).
 
-The [feature article](https://www.asianturfgrass.com/2018-11-18-kurofune-keeper/) about Keya GC greenkeeper Andrew McDaniel was translated to English.
+The [feature article in *Golf Digest*](https://www.asianturfgrass.com/2018-11-18-kurofune-keeper/) about Keya GC greenkeeper Andrew McDaniel was translated to English.
 
 Shinae Ahn [came to Keya](https://www.instagram.com/p/BqMJoiPgC3O/?utm_source=ig_web_copy_link):
 
