@@ -3,7 +3,7 @@ layout: post
 title: "Clipping volume, or clipping weight?"
 subtitle: I prefer volume for routine measurement because it reduces problems with sand contamination
 share-img: "http://www.asianturfgrass.com/img/keya_1_topdress.jpg"
-tags: [growth, japan, zoysia]
+tags: [growth, japan, zoysia, clipvol]
 bigimg:
 - "/img/korai_stimpmeter.jpg"    : "korai green speed measurement, Fukuoka"
 ---
