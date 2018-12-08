@@ -5,6 +5,8 @@ share-img: "https://www.asianturfgrass.com/img/6fwyball.jpg"
 tags: [mowing, research, environment, sustainability]
 ---
 
+Jason Haines has written recently about [The future of robot mowers today](http://www.turfhacker.com/2018/12/the-future-of-robot-mowers-today.html) and I recommend having a read of that post for more insight, and some videos of these types of machines.
+
 There was an article in the August 2018 issue of *HortTechnology* that surprised me. This article, by Pirchio et al., [Autonomous rotary mower versus ordinary reel mower---effects of cutting height and nitrogen rate on Manila Grass [*sic*] turf quality](https://doi.org/10.21273/HORTTECH04064-18), describes an experiment that had these results:
 
 > "Our prototype autonomous mower working at a 1.2-cm mowing height produced a higher quality turf and increased shoot density compared both with the reel mower and to the machines working at a 3.6-cm mowing height. The energy saving was also optimized by both autonomous mowers.
@@ -14,5 +16,3 @@ There was an article in the August 2018 issue of *HortTechnology* that surprised
 Manilagrass is notoriously difficult to mow, so that result with the autonomous rotary mower surprised me. Also, there was a big difference in energy use and cost. The autonomous mower at 12 mm used 1.9 kWh/week; the reel mower energy consumption was 5.4 kWh/week. And the estimated costs were 11 euros/week for the autonomous mower and 30 euros/week for the reel mower.
 
 The article by Pirchio et al. is really interesting and I suggest reading it to get all the details. For example, the reel mower at 12 mm had a cutting frequency of twice per week; the autonomous mower mowed daily, etc. That's the part that probably contributes to turf quality and shoot density differences. Even with the daily mowing, though, the autonomous mower had a lower energy consumption and lower operation cost.
-
-Jason Haines has written recently about [The future of robot mowers today](http://www.turfhacker.com/2018/12/the-future-of-robot-mowers-today.html) and I recommend having a read of that post for more insight, and some videos of these types of machines.
