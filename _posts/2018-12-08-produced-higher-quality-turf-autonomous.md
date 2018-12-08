@@ -9,7 +9,7 @@ There was an article in the August 2018 issue of *HortTechnology* that surprised
 
 > "Our prototype autonomous mower working at a 1.2-cm mowing height produced a higher quality turf and increased shoot density compared both with the reel mower and to the machines working at a 3.6-cm mowing height. The energy saving was also optimized by both autonomous mowers.
 
-> These enouraging results show that autonomous mowers have the potential to perform optimal turf maintenance not only of home lawns and large ornamental areas, but also of quality sports turfs, such as golf tees and golf roughts, even on tough-to-mow turfgrass species."
+> These enouraging results show that autonomous mowers have the potential to perform optimal turf maintenance not only of home lawns and large ornamental areas, but also of quality sports turfs, such as golf tees and golf roughs, even on tough-to-mow turfgrass species."
 
 Manilagrass is notoriously difficult to mow, so that result with the autonomous rotary mower surprised me. Also, there was a big difference in energy use and cost. The autonomous mower at 12 mm used 1.9 kWh/week; the reel mower energy consumption was 5.4 kWh/week. And the estimated costs were 11 euros/week for the autonomous mower and 30 euros/week for the reel mower.
 
