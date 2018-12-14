@@ -13,6 +13,8 @@ tags: [seminar, czech]
 
 I taught 3 seminars at the Czech Greenkeepers Association ([Český svaz greenkeeperů](http://www.czgreen.com/)) conference in Lednice. What a grand location for a conference! The [Lednice-Valtice Cultural Landscape](https://whc.unesco.org/en/list/763) is a UNESCO world heritage site and the conference was held at Lednice castle in the baroque (and very grand) riding hall.
 
+![riding hall at Lednice castle](/img/riding_hall.jpg)
+
 My slides can be viewed or downloaded at these links:
 
 * [Using the MLSN method for turfgrass nutrient requirements](https://speakerdeck.com/micahwoods/using-the-mlsn-method-for-turfgrass-nutrient-requirements)
