@@ -6,7 +6,7 @@ share-img: "https://www.asianturfgrass.com/buckets/img/cover2.jpg"
 tags: [clipvol, turfreads]
 ---
 
-Regular readers of this blog will have seen various posts about grass growth rate and the routine measurement of clipping volume. I've taken many of those posts, some new material, and a couple reports, and put them together into a book. A called it [*One Bucket at a Time*](https://www.asianturfgrass.com/buckets/).
+Regular readers of this blog will have seen various posts about grass growth rate and the routine measurement of clipping volume. I've taken many of those posts, some new material, and a couple reports, and put them together into a book. I called it [*One Bucket at a Time*](https://www.asianturfgrass.com/buckets/).
 
 [![cover image](https://www.asianturfgrass.com/buckets/img/cover2.jpg)](https://www.asianturfgrass.com/buckets/)
 
