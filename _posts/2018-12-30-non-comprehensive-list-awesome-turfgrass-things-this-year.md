@@ -41,7 +41,7 @@ Last year I made one of these lists [for the first time](https://www.asianturfgr
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Have you ever wondered what goes into making a golf course fit for The Open? We caught up with <a href="https://twitter.com/carnoustiegolf?ref_src=twsrc%5Etfw">@carnoustiegolf</a> head greenkeeper <a href="https://twitter.com/CraigBoath?ref_src=twsrc%5Etfw">@CraigBoath</a> 🚜 <a href="https://twitter.com/hashtag/TheOpen?src=hash&amp;ref_src=twsrc%5Etfw">#TheOpen</a> <a href="https://t.co/SAdVY3LOes">pic.twitter.com/SAdVY3LOes</a></p>&mdash; The Open (@TheOpen) <a href="https://twitter.com/TheOpen/status/1020611298353188865?ref_src=twsrc%5Etfw">July 21, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* And there was this [stunning video](https://vimeo.com/303374541) from the Ryder Cup:
+* And there was this [stunning video](https://vimeo.com/303374541) from the Ryder Cup, highlighting the work of Alejandro Reyes and the team there:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/303374541?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -75,6 +75,7 @@ Last year I made one of these lists [for the first time](https://www.asianturfgr
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * Joel Kachmarek's post about the [irrigation system history](http://www.tacomaturf.net/2018/08/the-irrigation-system-history.html) at Tacoma Country and Golf Club is superb.
+* Every superintendent (or staff members) who filled out the information for the [GCSAA Tournament Fact Sheets](https://www.gcsaa.org/media/tournament-fact-sheets). And the GCSAA for sharing this information. 
 
 I've missed a lot, I'm sure. Feel free to add more awesome things in the comments. And here's the [non-comprehensive awesome list](https://www.asianturfgrass.com/2017-12-24-a-non-comprehensive-list-of-awesome-things-other-people-did-in-turfgrass-this-year/) from last year. And this idea is based on [Jeff Leek's non-comprehensive awesome lists](https://simplystatistics.org/2017/12/20/a-non-comprehensive-list-of-awesome-things-other-people-did-in-2017/) from [Simply Statistics](https://simplystatistics.org/).
 
