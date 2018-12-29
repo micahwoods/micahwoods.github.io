@@ -30,7 +30,7 @@ Last year I made one of these lists [for the first time](https://www.asianturfgr
 
 * Joe Gulotti wrote some fine columns for *Golfdom* and started his [Talking Greenkeeper](https://itunes.apple.com/us/podcast/the-talking-greenkeeper/id1435947281?mt=2#episodeGuid=9a57de3fbe4448fb94e71d0572fc7783) podcast. It's been getting rave reviews.
 * Bill Kreuser shared the [latest PGR scheduling information](https://youtu.be/XbNv5WKcMvM).
-* Allan Dewald [showed how one way to collect clipping volume](https://twitter.com/allan_dewald/status/974735331500027904):
+* Allan Dewald [showed one way to collect clipping volume](https://twitter.com/allan_dewald/status/974735331500027904):
 
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">A quick video of how we are collecting and measuring clipping yield. Quick and easy, takes less than a min and provides great info. <a href="https://twitter.com/hashtag/clipvol?src=hash&amp;ref_src=twsrc%5Etfw">#clipvol</a> <a href="https://t.co/HGvTQoDIW0">pic.twitter.com/HGvTQoDIW0</a></p>&mdash; Allan Dewald (@allan_dewald) <a href="https://twitter.com/allan_dewald/status/974735331500027904?ref_src=twsrc%5Etfw">March 16, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -44,7 +44,6 @@ Last year I made one of these lists [for the first time](https://www.asianturfgr
 * And there was this [stunning video](https://vimeo.com/303374541) from the Ryder Cup:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/303374541?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/303374541">Le Golf National | Ryder Cup 2018</a> from <a href="https://vimeo.com/recuerdosfilms">Recuerdos Films</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 * Jim Brosnan has [great advice](https://medium.com/@UTTurfWeeds/preparing-for-poa-8b2afaa48da5) about *Poa* control.
 * Doug Karcher has the [best wetting agent photos](https://twitter.com/uarkturf/status/1034427142707335168).
