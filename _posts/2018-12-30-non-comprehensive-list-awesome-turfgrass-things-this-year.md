@@ -57,7 +57,7 @@ Last year I made one of these lists [for the first time](https://www.asianturfgr
 
 * The Hamilton GC Course Maintenance blog has some thoughtful posts. I really enjoyed this one about [decreasing organic matter without coring](https://hamiltongcmaintenance.blogspot.com/2018/08/organic-matter-and-other-geeky-stuff.html).
 * Not exactly turfgrass, but an important and related topic. Murray et al. wrote an international consensus statement on golf and health. You can read it in the [British Journal of Sports Medicine](https://bjsm.bmj.com/content/early/2018/08/20/bjsports-2018-099509).
-* Graeme Roberts shared some wonderful photos. I was especially improessed with [these trees](https://twitter.com/GJRobertsTurf/status/1050049326150500352):
+* Graeme Roberts shared some wonderful photos. I was especially impressed with [these trees](https://twitter.com/GJRobertsTurf/status/1050049326150500352):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Trees aren’t all bad on a golf course from a photography point of view. Still plenty that could be trimmed at ground level though. 🌲 <a href="https://t.co/UKmtxgApHN">pic.twitter.com/UKmtxgApHN</a></p>&mdash; Graeme Roberts (@GJRobertsTurf) <a href="https://twitter.com/GJRobertsTurf/status/1050049326150500352?ref_src=twsrc%5Etfw">October 10, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
