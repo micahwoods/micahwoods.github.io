@@ -65,9 +65,11 @@ The surface performance data have been used to make adjustments in year-round ma
 * sand topdressing
 * irrigation
 
-In particular, the reduction in all types of aerification has led to a steady increase in surface hardness ([more details about that here](https://www.asianturfgrass.com/2018-07-10-pleasant-day-unpleasant-termination/)). Without the measurements of surface hardness, and noticing that topdressing and aerification was making the greens softer, rather than firmer, [these surface hardness levels](https://www.instagram.com/p/BmwzMQVA3qj/?utm_source=ig_web_copy_link) wouldn't have been achieved so easily.
+In particular, the reduction in all types of aerification has led to a steady increase in surface hardness ([more details about that here](https://www.asianturfgrass.com/2018-07-10-pleasant-day-unpleasant-termination/)). Without the measurements of surface hardness, and noticing that topdressing and aerification was making the greens softer, rather than firmer, [these surface hardness levels](https://www.asianturfgrass.com/img/ball_12.mp4) wouldn't have been achieved so easily.
 
-<style>.embed-container {position: relative; padding-bottom: 100%; height: 0; overflow: hidden;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='//instagram.com/p/BmwzMQVA3qj/embed/' frameborder='0' scrolling='no' allowtransparency='true'></iframe></div>
+<video width="100%" controls>
+  <source src="https://www.asianturfgrass.com/img/ball_12.mp4" type="video/mp4">
+</video>
 
 I recommend to all golf clubs, if they are interested in improved playability and achieving the desired conditions in the most efficient way possible, to collect performance data on a regular basis and then make decisions that move the conditions (and the efficiency) in the desired direction. For tournaments I like measurements every day. For everyday play, I prefer measurements once a week.
 
