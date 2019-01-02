@@ -53,7 +53,7 @@ author:
   twitter: asianturfgrass   # eg. daattali
   linkedin: micah-woods-57a94522  # eg. daattali
   # stackoverflow: yourlink  # eg. "3943160/daattali"
-  instagram: asianturfgrass # eg. daattali
+  # instagram: asianturfgrass # eg. daattali
   youtube: user/AsianTurfgrassCenter # eg. user/daattali or channel/daattali
 
 # Select which links to show in the footer
@@ -66,7 +66,7 @@ footer-links-active:
   linkedin: true
  #  xing: false
   stackoverflow: false
-  instagram: true
+  # instagram: true
   youtube: true
   vimeo: true
 
