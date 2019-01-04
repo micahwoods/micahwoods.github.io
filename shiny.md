@@ -17,7 +17,11 @@ Returns the reference and crop evapotranspiration for a day given inputs of lati
 
 Returns the sustainability index (SI) based on soil test inputs. This is a direct comparison of input soil test results to the MLSN data.
 
-### [Turf Twitter](https://asianturfgrass.shinyapps.io/turf_twitter/)
+### [Turf Twitter in 2018](https://asianturfgrass.shinyapps.io/turf_twitter_2018/)
+
+This app shows searchable calculations and rankings related to turfgrass industry Twitter accounts in calendar year 2017.
+
+### [Turf Twitter in 2017](https://asianturfgrass.shinyapps.io/turf_twitter/)
 
 This app shows searchable calculations and rankings related to turfgrass industry Twitter accounts in calendar year 2017.
 
