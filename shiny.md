@@ -19,7 +19,7 @@ Returns the sustainability index (SI) based on soil test inputs. This is a direc
 
 ### [Turf Twitter in 2018](https://asianturfgrass.shinyapps.io/turf_twitter_2018/)
 
-This app shows searchable calculations and rankings related to turfgrass industry Twitter accounts in calendar year 2017.
+This app shows searchable calculations and rankings related to turfgrass industry Twitter accounts in calendar year 2018.
 
 ### [Turf Twitter in 2017](https://asianturfgrass.shinyapps.io/turf_twitter/)
 
