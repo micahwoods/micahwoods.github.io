@@ -5,6 +5,7 @@ share-img: "https://www.asianturfgrass.com/img/2018_random.png"
 bigimg:
 - "/img/2018_miles.png" : "flights in 2018"
 - "/img/2018_random.png" : "flights and some favorite photos of 2018"
+- "/img/oct18_kashima.jpg" : "south end of Kashima Soccer Stadium, October"
 tags: [thailand, usa, greece, czech, spain, japan, bentgrass, manilagrass, paspalum, turf tourism]
 ---
 
@@ -70,6 +71,11 @@ Another course in Asia with manilagrass greens. This is at Keya GC during the KB
 <small>*View from the tee on the 4<sup>th</sup> at Hirabaru GC in Nagasaki*</small>
 
 There are some amazing golf courses that one won't find on maps. This is one of them. You [can read about it here](https://www.asianturfgrass.com/2018-10-10-botanizing-nippon-treasure-links/).
+
+![south end of Kashima Soccer Stadium](/img/oct18_kashima.jpg)
+<small>*October: South end of Kashima Soccer Stadium, Ibaraki*</small>
+
+There was new turf installed in early 2018 at Kashima Soccer Stadium and it performed great through the summer and into the autumn. Even the most shaded section of the pitch, with warm-season turf, was providing a fine surface in autumn.
 
 ![777 bentgrass and Mt. Fuji](/img/oct_fuji.jpg)
 <small>*October: A 777 creeping bentgrass practice green near Mt. Fuji*</small>
