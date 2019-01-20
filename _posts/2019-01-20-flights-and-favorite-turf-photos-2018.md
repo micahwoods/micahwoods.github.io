@@ -10,7 +10,7 @@ tags: [thailand, usa, greece, czech, spain, japan, bentgrass, manilagrass, paspa
 
 As I say at the end of every year, it was another extraordinary year for studying grass around the world.
 
-In 2018 I took 107 flights for a total distance of 314,748 km (195,575 miles). That's a somewhat planned increase from 2017, when it was 78 flights and 205,043 km. 
+In 2018 I took 107 flights for a total distance of 314,748 km (195,575 miles). That's an increase from 2017, when it was 78 flights and 205,043 km. 
 
 ![2018 flight map](/img/2018_miles.png)
 
@@ -24,10 +24,10 @@ There are also lawns of tropical carpetgrass (*Axonopus compressus*) and of mani
 ![bentgrass at PGA Catalunya](/img/jan_girona.jpg)
 <small>*January: Creeping bentgrass putting green at the PGA Catalunya Resort*</small>
 
-I made a quick visit to Girona and was impressed at how much bentgrass there was, and how little *Poa annua* I could find, on the greens here. I first went to Girona in 2012, and I've learned a lot from David Bataller and the maintenance team there.
+I made a quick visit to Girona and was impressed at how much bentgrass there was, and how little *Poa annua* I could find, on the greens here. I first went to Girona in 2012, and since then I've learned a lot from David Bataller and the maintenance team there.
 
 ![March sunrise 4](/img/mar_sunrise_4.jpg)
-<small>*March: Native grasses (manilagrass, carpetgrass, golden false beradgrass, javagrass, and others that I don't know) on a golf course in southern Thailand*</small>
+<small>*March: Native grasses (manilagrass, carpetgrass, golden false beardgrass, javagrass, and others that I don't know) on a golf course in southern Thailand*</small>
 
 I bought an annual membership last week at this course in a beautiful part of southern Thailand. The course changes with the seasons, all kinds of colors from the rainy season to the dry season, and depending on which grasses are in flower and how recently the turf has been mown.
 
@@ -76,7 +76,7 @@ There are some amazing golf courses that one won't find on maps. This is one of 
 
 Japan has a lot of golf courses set in spectacular landscapes. 
 
-![Freud statue on a golf course](dec_czech.jpg)
+![Freud statue on a golf course](/img/dec_czech.jpg)
 <small>*December: Sculpture on a golf course near Brno, Czech Republic*</small>
 
 There is a sculpture of Sigmund Freud right near the first tee at the Kaskáda golf resort. Plenty of other stunning artwork at this facility. See [more here](https://www.asianturfgrass.com/2018-12-14-mlsn-grammar-gp-clipvol-czech/).
