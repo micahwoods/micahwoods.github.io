@@ -75,7 +75,7 @@ There are some amazing golf courses that one won't find on maps. This is one of 
 ![south end of Kashima Soccer Stadium](/img/oct18_kashima.jpg)
 <small>*October: South end of Kashima Soccer Stadium, Ibaraki*</small>
 
-There was new turf installed in early 2018 at Kashima Soccer Stadium and it performed great through the summer and into the autumn. Even the most shaded section of the pitch, with warm-season turf, was providing a fine surface in autumn.
+There was new turf installed in early 2018 at Kashima Soccer Stadium and it performed great through the summer and into the autumn. Even the most shaded section of the pitch, with warm-season turf, was providing a fine surface when I attended a game in October.
 
 ![777 bentgrass and Mt. Fuji](/img/oct_fuji.jpg)
 <small>*October: A 777 creeping bentgrass practice green near Mt. Fuji*</small>
