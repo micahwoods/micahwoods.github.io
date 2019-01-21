@@ -19,7 +19,7 @@ Steve Wilson indavertently did the same kind of experiment with grasses he'd gro
 
 The grasses used were manilagrass ('Zeon'), bermudagrass ('Tifway'), and seashore paspalum ('Salam'). At the seminar, all the grasses looked good, and manilagrass looked the best. That's no surprise. This species is well-adapted to this climate, and one can find it as a fine turfgrass all over East and Southeast Asia.
 
-So when Steve sent me a series of images of these same grass pots taken on January 10, with a note that "the pots have been left in the warehouse yard since early Dec. Just rainfall, no other water," I correctly identified the Zeon, Tifway, and Salam.
+So with this background knowledge about the grasses, when Steve sent me a series of images of these same grass pots taken on January 10, with a note that "the pots have been left in the warehouse yard since early Dec. Just rainfall, no other water," I correctly identified the Zeon, Tifway, and Salam.
 
 ![](/img/nutranta_jan_bermuda.jpg)
 <small>*Dormant 'Zeon' manilagrass with pots of 'Tifway' bermudagrass after 50 days with no irrigation other than rainfall.*</small>
@@ -30,7 +30,7 @@ So when Steve sent me a series of images of these same grass pots taken on Janua
 ![](/img/nutranta_jan_pas.jpg)
 <small>*Dormant 'Zeon' manilagrass with green and growing 'Salam' seashore paspalum after 50 days with no irrigation other than rainfall.*</small>
 
-This striking differential response between the species in response to reduced water supply is one of the four reasons I think zoysia should be a poor choice for California (see below).
+This striking differential response between the species in response to reduced water supply is one of the four reasons I think zoysia should be a poor choice for California (see below). 
 
 For more reading on this topic, and some observations related to the performance of manilagrass in response to temperature, light, and water, please have a look at these posts.
 
