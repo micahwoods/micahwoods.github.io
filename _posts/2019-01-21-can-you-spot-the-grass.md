@@ -4,7 +4,7 @@ title: "Can you spot the grass that did not get enough water?"
 share-img: "https://www.asianturfgrass.com/img/nutranta_seminar_grass.jpg"
 bigimg:
 - "/img/nutranta_seminar_grass.jpg" : "pots on 20 Nov 2018 after 2 months of regular irrigation"
-- "/img/nutranta_jan_pas.jpg : "dormant zoysia & green paspalum on 10 January 2019 after 50 days with no irrigation"
+- "/img/nutranta_jan_pas.jpg" : "dormant zoysia & green paspalum on 10 January 2019 after 50 days with no irrigation"
 tags: [zoysia, water, irrigation, paspalum, bermudagrass]
 ---
 
