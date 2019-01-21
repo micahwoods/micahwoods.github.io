@@ -12,7 +12,7 @@ One of the most interesting articles I read last year was [*Drought responses of
 
 > Despite a few rain events ... , extensive drought stress developed in most of the species except for common bermudagrass. At the end of dry down, **Japanese lawngrass and manilagrass completely entered dormancy with turfgrass quality ratings less than 2** [on a scale from 1 to 9] ... But the turfgrass quality of common bermudagrass was 5.6 and had minimal leaf firing.
 
-Steve Wilson indavertently did the same kind of experiment with grasses he'd grown in pots for a 20 November 2018 demonstration of Primo Maxx and Qualibra wetting agent effects.
+Steve Wilson indavertently did the same kind of experiment with grasses he'd grown in pots for a November 20 seminar last year that included a demonstration of Primo Maxx and Qualibra effects on the grasses.
 
 ![Nutranta seminar grass pots on Nov 20 in Manila](/img/nutranta_seminar_grass.jpg)
 <small>*Grass in pots at the 20 November 2018 seminar after two months of regular irrigation*</small>
