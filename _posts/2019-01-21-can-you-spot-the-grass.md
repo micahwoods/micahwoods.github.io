@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Can you spot the grass that didn't get enough water?"
+title: "Can you spot the grass that did not get enough water?"
 share-img: "https://www.asianturfgrass.com/img/nutranta_seminar_grass.jpg"
 bigimg:
 - "/img/nutranta_seminar_grass.jpg" : "pots on 20 Nov 2018 after 2 months of regular irrigation"
