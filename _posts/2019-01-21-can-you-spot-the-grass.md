@@ -25,10 +25,10 @@ So when Steve sent me a series of images of these same grass pots taken on Janua
 <small>*Dormant 'Zeon' manilagrass with pots of 'Tifway' bermudagrass after 50 days with no irrigation other than rainfall.*</small>
 
 ![](/img/nutranta_jan_bermuda2.jpg)
-<small>*Another pot of dormant 'Zeon' manilagrass with pots of 'Tifway' bermudagrass after 50 days with no irrigation other than rainfall.*</small>
+<small>*Another pot of dormant 'Zeon' manilagrass with pots of growing and green 'Tifway' bermudagrass after 50 days with no irrigation other than rainfall.*</small>
 
 ![](/img/nutranta_jan_pas.jpg)
-<small>*Another pots of dormant 'Zeon' manilagrass with pots of 'Tifway' bermudagrass after 50 days with no irrigation other than rainfall.*</small>
+<small>*Dormant 'Zeon' manilagrass with green and growing 'Salam' seashore paspalum after 50 days with no irrigation other than rainfall.*</small>
 
 This striking differential response between the species in response to reduced water supply is one of the four reasons I think zoysia should be a poor choice for California (see below).
 
