@@ -33,94 +33,74 @@ Lots of people were tweeting from iPhones.
 
 These were the top 10 tweets as ranked by their favorite count as of this morning.
 
--------------------------------------------------------------------
-screen_name       text                               favorite_count
------------------ -------------------------------- ----------------
-SeanPower747      Great weather to end the week.                100
-                  Now looking forward to                           
-                  harrogate next week #BTME2019                    
-                  #greenkeeping                                    
-                  https://t.co/Gr69GmWkG6                          
-
-Tracey_Maddison   Super proud to be part of the                  83
-                  @BIGGALtd #BTME2019 team. I                      
-                  loved every minute, thought                      
-                  the new halls &amp; layout                       
-                  were vibrant, gave a feeling                     
-                  of a ‘new’ show. Big 👏 to all                    
-                  exhibitors, stands looked                        
-                  amazing but bigger 👏👏 to all                     
-                  our 1,000’s of visitors.                         
-                  Here’s to 2020! #TeamBIGGA                       
-                  https://t.co/g3jtDdAsTe                          
-
-BIGGA_BTME        Winner of the #BTME2019                        56
-                  Outstanding Contribution of                      
-                  the Year award, sponsored by                     
-                  @JacobsenTurf, is                                
-                  @JackPercival99 of                               
-                  @ChipsteadGreens.                                
-                  https://t.co/tdYsOHRlN8                          
-
-ArkansasTurf      Which “Yank” is pulling off                    56
-                  the British look better?                         
-                  @CGCGreenkeeper or                               
-                  @ArkansasTurf ? I realize                        
-                  Matthew is way more handsome                     
-                  than me but my head is                           
-                  bigger!! @BIGGALtd @BIGGA_BTME                   
-                  #BTME2019                                        
-                  https://t.co/iZFMyxzupC                          
-
-BIGGA_BTME        The turnout today has been                     48
-                  fantastic once again here at                     
-                  #BTME2019.  Are you here?                        
-                  Having a good time? What's                       
-                  been your highlight? #TweetUs                    
-                  https://t.co/U1IpBoUnRL                          
-
-BIGGA_BTME        Congratulations to                             48
-                  @stevehirons7 of                                 
-                  @GreenkeepersKGC, winner of                      
-                  the #BTME2019 18 holes of                        
-                  golf! https://t.co/d3CnAaZriA                    
-
-BIGGALtd          Thank you to everyone who                      46
-                  attended #BTME2019 and helped                    
-                  to make it such a fantastic                      
-                  success.   Let’s get                             
-                  cracking with #BTME2020!                         
-                  https://t.co/3PzW8UEWid                          
-
-Aitkens_turf      Really pleased to win best                     44
-                  medium stand @BIGGA_BTME                         
-                  thanks to all who voted and                      
-                  attended the show. It was a                      
-                  great success #btme #BTME19                      
-                  #BTME2019                                        
-                  https://t.co/fmAmiVU9MG                          
-
-BIGGA_BTME        #BTME2019's Championship                       43
-                  Greenkeeping Performance of                      
-                  the Year, sponsored by                           
-                  @rigbytaylor, goes to Craig                      
-                  Earnshaw (@Harleyfordgreen)                      
-                  &amp; team.                                      
-                  https://t.co/CBtFLZn1IX                          
-
-cammymac23        If you want find out more                      42
-                  about #PCdrainage and our                        
-                  #Ventrac services come meet us                   
-                  at #BTME2019 in Green Zone 322                   
-                  #DJUKE looking forward to                        
-                  another productive week in                       
-                  Harrogate.                                       
-                  https://t.co/d47hQERNNo                          
--------------------------------------------------------------------
+<table style="width:93%;">
+<colgroup>
+<col width="25%" />
+<col width="45%" />
+<col width="22%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">screen_name</th>
+<th align="left">text</th>
+<th align="right">favorite_count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">SeanPower747</td>
+<td align="left">Great weather to end the week. Now looking forward to harrogate next week #BTME2019 #greenkeeping https://t.co/Gr69GmWkG6</td>
+<td align="right">100</td>
+</tr>
+<tr class="even">
+<td align="left">Tracey_Maddison</td>
+<td align="left">Super proud to be part of the <span class="citation">@BIGGALtd</span> #BTME2019 team. I loved every minute, thought the new halls &amp; layout were vibrant, gave a feeling of a â€˜newâ€™ show. Big ðŸ‘ to all exhibitors, stands looked amazing but bigger ðŸ‘ðŸ‘ to all our 1,000â€™s of visitors. Hereâ€™s to 2020! #TeamBIGGA https://t.co/g3jtDdAsTe</td>
+<td align="right">83</td>
+</tr>
+<tr class="odd">
+<td align="left">BIGGA_BTME</td>
+<td align="left">Winner of the #BTME2019 Outstanding Contribution of the Year award, sponsored by <span class="citation">@JacobsenTurf</span>, is <span class="citation">@JackPercival99</span> of <span class="citation">@ChipsteadGreens</span>. https://t.co/tdYsOHRlN8</td>
+<td align="right">56</td>
+</tr>
+<tr class="even">
+<td align="left">ArkansasTurf</td>
+<td align="left">Which â€œYankâ€ is pulling off the British look better? <span class="citation">@CGCGreenkeeper</span> or <span class="citation">@ArkansasTurf</span> ? I realize Matthew is way more handsome than me but my head is bigger!! <span class="citation">@BIGGALtd</span> <span class="citation">@BIGGA_BTME</span> #BTME2019 https://t.co/iZFMyxzupC</td>
+<td align="right">56</td>
+</tr>
+<tr class="odd">
+<td align="left">BIGGA_BTME</td>
+<td align="left">The turnout today has been fantastic once again here at #BTME2019. Are you here? Having a good time? What's been your highlight? #TweetUs https://t.co/U1IpBoUnRL</td>
+<td align="right">48</td>
+</tr>
+<tr class="even">
+<td align="left">BIGGA_BTME</td>
+<td align="left">Congratulations to <span class="citation">@stevehirons7</span> of <span class="citation">@GreenkeepersKGC</span>, winner of the #BTME2019 18 holes of golf! https://t.co/d3CnAaZriA</td>
+<td align="right">48</td>
+</tr>
+<tr class="odd">
+<td align="left">BIGGALtd</td>
+<td align="left">Thank you to everyone who attended #BTME2019 and helped to make it such a fantastic success. Letâ€™s get cracking with #BTME2020! https://t.co/3PzW8UEWid</td>
+<td align="right">46</td>
+</tr>
+<tr class="even">
+<td align="left">Aitkens_turf</td>
+<td align="left">Really pleased to win best medium stand <span class="citation">@BIGGA_BTME</span> thanks to all who voted and attended the show. It was a great success #btme #BTME19 #BTME2019 https://t.co/fmAmiVU9MG</td>
+<td align="right">44</td>
+</tr>
+<tr class="odd">
+<td align="left">BIGGA_BTME</td>
+<td align="left">#BTME2019's Championship Greenkeeping Performance of the Year, sponsored by <span class="citation">@rigbytaylor</span>, goes to Craig Earnshaw (<span class="citation">@Harleyfordgreen</span>) &amp; team. https://t.co/CBtFLZn1IX</td>
+<td align="right">43</td>
+</tr>
+<tr class="even">
+<td align="left">cammymac23</td>
+<td align="left">If you want find out more about #PCdrainage and our #Ventrac services come meet us at #BTME2019 in Green Zone 322 #DJUKE looking forward to another productive week in Harrogate. https://t.co/d47hQERNNo</td>
+<td align="right">42</td>
+</tr>
+</tbody>
+</table>
 
 These were the top 10 tweets ranked by number of retweets as of this morning.
-
-<body>
 
 <table style="width:90%;">
 <colgroup>
@@ -188,8 +168,6 @@ These were the top 10 tweets ranked by number of retweets as of this morning.
 </tr>
 </tbody>
 </table>
-
-</body>
 
 There were a lot of tweets with "media"---photos or videos---shared during BTME. [This was the media tweet](https://twitter.com/SeanPower747/status/1086336859347783681) with the most favorites:
 
