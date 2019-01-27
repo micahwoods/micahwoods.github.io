@@ -11,9 +11,9 @@ The median blog post on this site in 2018 got 217 views. A couple had more than 
 
 [These were the 10](https://www.asianturfgrass.com/2019-01-02-top-10-posts-2018/) that *everyone* read. And then there are *these ones* that almost no one read. 
 
-These are the 10 posts of 2018 that got the fewest views---all have had less than 106 views as of the end of the year.
+These 10 posts all had less than 106 views at the end of the year.
 
-Some are obviously of limited interest to the general public, and of more interest to me, such as those about details of the site's RSS feed, articles about me, or the analysis of device use. Others, such as those about health, carbon and nitrogen, and the topic index on the blog, might have slipped past many readers the first time around. Counting down from 10 to 1, here they are:
+Some are obviously of limited interest to the general public, such as those about details of the site's RSS feed, articles about me, or the analysis of device use. Others, such as those about health benefits of golf, carbon and nitrogen, and the topic index on the blog, might have slipped past many readers the first time around. Counting down from 10 to 1, here they are:
 
 [10, tie] August, [Piper and Pebble Beach](https://www.asianturfgrass.com/2018-08-20-piper-and-pebble-beach/), in which there is an intriguing link to Charles Vancouver Piper, the first director of the USGA Green Section, at Pebble Beach.
 
