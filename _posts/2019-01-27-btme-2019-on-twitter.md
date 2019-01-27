@@ -120,97 +120,76 @@ cammymac23        If you want find out more                      42
 
 These were the top 10 tweets ranked by number of retweets as of this morning.
 
------------------------------------------------------------------
-screen_name      text                               retweet_count
----------------- -------------------------------- ---------------
-BIGGA_BTME       "It's okay to talk."  One of a                14
-                 number charities in                             
-                 attendance, @andysmanclubuk                     
-                 have been spreading their                       
-                 message at #BTME2019.                           
-                 https://t.co/H9V3hHStTi                         
+<body>
 
-BIGGA_BTME       #BTME2019's Championship                      14
-                 Greenkeeping Performance of                     
-                 the Year, sponsored by                          
-                 @rigbytaylor, goes to Craig                     
-                 Earnshaw (@Harleyfordgreen)                     
-                 &amp; team.                                     
-                 https://t.co/CBtFLZn1IX                         
+<table style="width:90%;">
+<colgroup>
+<col width="23%" />
+<col width="45%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">screen_name</th>
+<th align="left">text</th>
+<th align="right">retweet_count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">BIGGA_BTME</td>
+<td align="left">&quot;It's okay to talk.&quot; One of a number charities in attendance, <span class="citation">@andysmanclubuk</span> have been spreading their message at #BTME2019. https://t.co/H9V3hHStTi</td>
+<td align="right">14</td>
+</tr>
+<tr class="even">
+<td align="left">BIGGA_BTME</td>
+<td align="left">#BTME2019's Championship Greenkeeping Performance of the Year, sponsored by <span class="citation">@rigbytaylor</span>, goes to Craig Earnshaw (<span class="citation">@Harleyfordgreen</span>) &amp; team. https://t.co/CBtFLZn1IX</td>
+<td align="right">14</td>
+</tr>
+<tr class="odd">
+<td align="left">GkErwan</td>
+<td align="left">Desperate call, if anyone at the #BTME2019 found a NASA cap, please please DM me! Iâ€™ve lost mine, and I really like it ðŸ˜ž <span class="citation">@BIGGALtd</span> <span class="citation">@BIGGA_BTME</span> https://t.co/dfbrzK5DcR</td>
+<td align="right">12</td>
+</tr>
+<tr class="even">
+<td align="left">BarenbrugUK</td>
+<td align="left"><span class="citation">@BarenbrugUK</span> are at <span class="citation">@BIGGA_BTME</span> 2019! Come and see us tomorrow on Stand 330, where we will be showcasing our industry-leading products. 1 day to go! â›³ï¸ðŸŒâš½ï¸ #BTME2019 #GrassExperts https://t.co/q4kyVSTPs8</td>
+<td align="right">12</td>
+</tr>
+<tr class="odd">
+<td align="left">BIGGA_BTME</td>
+<td align="left">Winner of the #BTME2019 Outstanding Contribution of the Year award, sponsored by <span class="citation">@JacobsenTurf</span>, is <span class="citation">@JackPercival99</span> of <span class="citation">@ChipsteadGreens</span>. https://t.co/tdYsOHRlN8</td>
+<td align="right">12</td>
+</tr>
+<tr class="even">
+<td align="left">AdamButler83</td>
+<td align="left">3rd Lorry loaded With <span class="citation">@baronessuk</span>, ready for <span class="citation">@BIGGA_BTME</span> #BTME19 #BTME2019, Just 3 vans to go ðŸ˜Š Come and say hello in Red Zone Stand 200. https://t.co/GWoEyQ7BCX</td>
+<td align="right">11</td>
+</tr>
+<tr class="odd">
+<td align="left">weldonmowers</td>
+<td align="left">Visit the John Deere stand at BTME 2019 and check out the new HD200 GPS Precison Sprayer, revolutionising spraying operations in turf maintenance. See you there ! https://t.co/KO1BsnLvJc <span class="citation">@BIGGA_BTME</span> #BTME2019 https://t.co/3IBOVbGIoC</td>
+<td align="right">10</td>
+</tr>
+<tr class="even">
+<td align="left">CampeyTurfCare</td>
+<td align="left">All set up.on the #CampeyTurfCare stand for #BTME2019 <span class="citation">@BIGGALtd</span> come &amp; see one of the biggest stands at the show filled with the latest #innovaticr #sportsrturf machinery #grenkeepers #groundsmen red zone of #BTME2019 is where you need to be! https://t.co/sMdtltImPU</td>
+<td align="right">10</td>
+</tr>
+<tr class="odd">
+<td align="left">BIGGALtd</td>
+<td align="left">Chat to other BIGGA Members a lot on social media but never actually met them in person? Come along to our #BTME2019 #TweetUp hosted by <span class="citation">@Gkbmachinesltd</span> on stand 406 in the Purple Zone at 2pm on Wednesday and finally put a face to that Twitter handle! #socialmedia https://t.co/1Uhrbo8KKO</td>
+<td align="right">9</td>
+</tr>
+<tr class="even">
+<td align="left">Aitkens_turf</td>
+<td align="left">Really pleased to win best medium stand <span class="citation">@BIGGA_BTME</span> thanks to all who voted and attended the show. It was a great success #btme #BTME19 #BTME2019 https://t.co/fmAmiVU9MG</td>
+<td align="right">9</td>
+</tr>
+</tbody>
+</table>
 
-GkErwan          Desperate call, if anyone at                  12
-                 the #BTME2019 found a NASA                      
-                 cap, please please DM me! I’ve                  
-                 lost mine, and I really like                    
-                 it 😞 @BIGGALtd @BIGGA_BTME                      
-                 https://t.co/dfbrzK5DcR                         
-
-BarenbrugUK      @BarenbrugUK are at                           12
-                 @BIGGA_BTME 2019!  Come and                     
-                 see us tomorrow on Stand 330,                   
-                 where we will be showcasing                     
-                 our industry-leading products.                  
-                 1 day to go! ⛳️🏌⚽️                                
-                 #BTME2019 #GrassExperts                         
-                 https://t.co/q4kyVSTPs8                         
-
-BIGGA_BTME       Winner of the #BTME2019                       12
-                 Outstanding Contribution of                     
-                 the Year award, sponsored by                    
-                 @JacobsenTurf, is                               
-                 @JackPercival99 of                              
-                 @ChipsteadGreens.                               
-                 https://t.co/tdYsOHRlN8                         
-
-AdamButler83     3rd Lorry loaded With                         11
-                 @baronessuk, ready for                          
-                 @BIGGA_BTME #BTME19 #BTME2019,                  
-                 Just 3 vans to go 😊 Come and                    
-                 say hello in Red Zone Stand                     
-                 200. https://t.co/GWoEyQ7BCX                    
-
-weldonmowers     Visit the John Deere stand at                 10
-                 BTME 2019 and check out the                     
-                 new HD200 GPS Precison                          
-                 Sprayer, revolutionising                        
-                 spraying operations in turf                     
-                 maintenance. See you there !                    
-                 https://t.co/KO1BsnLvJc                         
-                 @BIGGA_BTME #BTME2019                           
-                 https://t.co/3IBOVbGIoC                         
-
-CampeyTurfCare   All set up.on the                             10
-                 #CampeyTurfCare stand for                       
-                 #BTME2019 @BIGGALtd come &amp;                  
-                 see one of the biggest stands                   
-                 at the show filled with the                     
-                 latest #innovaticr                              
-                 #sportsrturf machinery                          
-                 #grenkeepers #groundsmen red                    
-                 zone of #BTME2019 is where you                  
-                 need to be!                                     
-                 https://t.co/sMdtltImPU                         
-
-BIGGALtd         Chat to other BIGGA Members a                  9
-                 lot on social media but never                   
-                 actually met them in person?                    
-                 Come along to our #BTME2019                     
-                 #TweetUp hosted by                              
-                 @Gkbmachinesltd on stand 406                    
-                 in the Purple Zone at 2pm on                    
-                 Wednesday and finally put a                     
-                 face to that Twitter handle!                    
-                 #socialmedia                                    
-                 https://t.co/1Uhrbo8KKO                         
-
-Aitkens_turf     Really pleased to win best                     9
-                 medium stand @BIGGA_BTME                        
-                 thanks to all who voted and                     
-                 attended the show. It was a                     
-                 great success #btme #BTME19                     
-                 #BTME2019                                       
-                 https://t.co/fmAmiVU9MG                         
------------------------------------------------------------------
+</body>
 
 There were a lot of tweets with "media"---photos or videos---shared during BTME. [This was the media tweet](https://twitter.com/SeanPower747/status/1086336859347783681) with the most favorites:
 
