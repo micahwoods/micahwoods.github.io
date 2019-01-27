@@ -5,11 +5,13 @@ share-img: "https://c1.staticflickr.com/9/8643/15291024964_c60525b7cc_b_d.jpg"
 tags: [web/tech]
 ---
 
-The median blog post on this site in 2018 got 217 views. A couple had more than 1,500. [These were the 10](https://www.asianturfgrass.com/2019-01-02-top-10-posts-2018/) that *everyone* read.
+The median blog post on this site in 2018 got 217 views. A couple had more than 1,500. 
 
 ![histogram of ATC blog pageviews in 2018](/img/views_2018.png)
 
-And then there are *these ones* that almost no one read. These are the 10 posts of 2018 that got the fewest views---all have had less than 106 views as of the end of the year.
+[These were the 10](https://www.asianturfgrass.com/2019-01-02-top-10-posts-2018/) that *everyone* read. And then there are *these ones* that almost no one read. 
+
+These are the 10 posts of 2018 that got the fewest views---all have had less than 106 views as of the end of the year.
 
 Some are obviously of limited interest to the general public, and of more interest to me, such as those about details of the site's RSS feed, articles about me, or the analysis of device use. Others, such as those about health, carbon and nitrogen, and the topic index on the blog, might have slipped past many readers the first time around. Counting down from 10 to 1, here they are:
 
