@@ -5,7 +5,7 @@ share-img: "https://c1.staticflickr.com/9/8643/15291024964_c60525b7cc_b_d.jpg"
 tags: [web/tech]
 ---
 
-The median blog post on this site in 2018 got 217 views. A couple had more than 1,500. 
+The median blog post on this site in 2018 got 217 views. A couple had more than 1,500. [These were the 10](https://www.asianturfgrass.com/2019-01-02-top-10-posts-2018/) that *everyone* read.
 
 ![histogram of ATC blog pageviews in 2018](/img/views_2018.png)
 
