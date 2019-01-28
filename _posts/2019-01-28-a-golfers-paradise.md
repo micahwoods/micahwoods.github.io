@@ -28,7 +28,7 @@ Here are some of those anecdotes, along with some photos of the places mentioned
 ![karuizawa bunker](/img/karuizawa_bunker.jpg)
 <small><strong>Karuizawa GC has some of the best playing conditions in all of Japan. This is a bunker at the practice area.</strong></small>
 
-> Of course the penalty of publicity could not be entirely avoided even in peaceful Karuizawa: he was continually recognized and pointed out; had to spend most of his time signing autographs, which he always did with excellent grace ...; and, of course, the Golf Club was thoroughly stirred, having its best caddies ready and a big group of onlookers at the first tee. Every day he sent his daily cablegram to Mary, who is to join him in Tokyo in a couple of months; he is a taking a house there for the time being as he wants to get to know the Japanese and have a lot of golf.
+> Of course the penalty of publicity could not be entirely avoided even in peaceful Karuizawa: he was continually recognized and pointed out; had to spend most of his time signing autographs, which he always did with excellent grace ...; and, of course, the Golf Club was thoroughly stirred, having its best caddies ready and a big group of onlookers at the first tee. Every day he sent his daily cablegram to Mary [Pickford], who is to join him in Tokyo in a couple of months; he is a taking a house there for the time being as he wants to get to know the Japanese and have a lot of golf.
 
 ![shuzenji arai](/img/shuzenji_sepia.jpg)
 <small><strong>A view out the window of the Arai ryokan in Shuzenji, a hot spring town in the mountains of the Izu Peninsula.</strong></small>
@@ -53,14 +53,14 @@ Grew had previously been the United States Ambassador to Turkey from 1927 until 
 
 > November 6, 1934
 
-> Motored Babe Ruth, Lefty O'Doul, and Shiro Akaboshi, champion of the Tokyo Golf Club, to Asaka for golf, where we managed to finish about fourteen holes in spite of the camera mean who pursued the Babe over the course. The Babe hits a tremendous ball, as does O'Doul, and both of them play sound golf but both were out of practice and their shots were not always straight. It amused me to hear the Bambino observe, when he said I was trying to hit the ball too hard (my usual weakness), that it was precisely the same principle in baseball and that if one tried to hit too hard (listen to the King of Swat) one was bound to take one's eyes off the ball. I haven't noticed the Babe letting up any at the home plate.
+> Motored Babe Ruth, Lefty O'Doul, and Shiro Akaboshi, champion of the Tokyo Golf Club, to Asaka for golf, where we managed to finish about fourteen holes in spite of the camera men who pursued the Babe over the course. The Babe hits a tremendous ball, as does O'Doul, and both of them play sound golf but both were out of practice and their shots were not always straight. It amused me to hear the Bambino observe, when he said I was trying to hit the ball too hard (my usual weakness), that it was precisely the same principle in baseball and that if one tried to hit too hard (listen to the King of Swat) one was bound to take one's eyes off the ball. I haven't noticed the Babe letting up any at the home plate.
 
 ![tokyo gc](/img/tokyo_sepia.jpg)
 <small><strong>Tokyo Golf Club in recent years.</strong></small>
 
 > But the real kick of the day for me was to listen to the Babe and Lefty discussing a hundred subjects in the baseball world while we motored out and in. Wish I had a stenographer present. After the game we had to sit on the steps of the Club, with our caddies behind us, and talk for the newsreels. Suddenly and unexpectedly told to say something, I observed, so far as I can remember, "Well Babe, it's fine to see you in Tokyo. I don't know if you realize what distinguished company you are in to-day. Mr. Akaboshi, champion of the Tokyo Golf Club, and---the worst golfer in the world---myself."
 
-> The Babe responded nobly that he must dispute that title with me as he had been in every blankety-blank trap on the course. He had. But he always got out with his first explosion shot, while I didn't. Of course the personnel and caddies at the Club were thrilled to the core, and I presented the Babe to such players as we met on the course; "Please to know you," said the Bambino. Of course all Japan has gone wild over him. He is a great deal more effective Ambassador than I could ever be.
+> The Babe responded nobly that he must dispute that title with me as he had been in every blankety-blank trap on the course. He had. But he always got out with his first explosion shot, while I didn't. Of course the personnel and caddies at the Club were thrilled to the core, and I presented the Babe to such players as we met on the course; "Pleased to know you," said the Bambino. Of course all Japan has gone wild over him. He is a great deal more effective Ambassador than I could ever be.
 
 ![softbank hawks game](/img/hawks.jpg)
 <small><strong>Baseball remains a popular sport in Japan. This is at a Softbank Hawks game in Fukuoka; the Hawks have won the Japan Series 5 times in the past 8 years, including in 2017 and 2018.</strong></small>
@@ -85,14 +85,14 @@ Grew had previously been the United States Ambassador to Turkey from 1927 until 
 
 > This was a black day indeed. As Mondays are generally easy days, owing to the comparative Sunday rest in Washington, we had planned a golfing day at Takenodai [<emph>sic</emph>] with several foreign colleagues and others, but as soon as I saw the morning flight of telegrams from China I gave up all thought of an outing, changed my clothes, and went to see Hirota at 11.30. The Japanese were shelling the retreating remnants of the Chinese troops fleeing from Nanking by way of the Yangtze and indiscriminately firing on all ships whether native or foreign, having repeatedly been instructed by the military command to do so.
 
-Grew goes on to describe the [USS *Panay sinking](https://en.wikipedia.org/wiki/USS_Panay_incident) that happened later that day.
+Grew goes on to describe the [USS *Panay* sinking](https://en.wikipedia.org/wiki/USS_Panay_incident) that happened later that day.
 
 ![takanodai](/img/takanodai_sepia.jpg)
 <small><strong>Takanodai Golf Club in Chiba prefecture has hosted many tournaments. This photo was taken when the fairways were narrowed in advance of the 2011 Japan Open.</strong></small>
 
 > July 1, 1938
 
-> We have analysed the changes in the cabinet. They indicate a realization that Japan is in for a long pull, and for the first time size the beginning of the hostilities a war-time psychology and economy are being created which remind us of the old war days in Germany. Food is not yet much interfered with but many materials are now to be taboo to the public, including leather, so that shoes will no longer be made and the people will be encouraged to return to the old wooden <emph>geta</emph>. At last they are really digging in. Golf balls, being made of rubber, are prohibited, and I foresee a dwindling if not a termination of golf in the not distant future, with probably all or most of the courses eventually closed. That, if anything, will bring home to many Japanese that their country is really at war.
+> We have analysed the changes in the cabinet. They indicate a realization that Japan is in for a long pull, and for the first time since the beginning of the hostilities a war-time psychology and economy are being created which remind us of the old war days in Germany. Food is not yet much interfered with but many materials are now to be taboo to the public, including leather, so that shoes will no longer be made and the people will be encouraged to return to the old wooden <emph>geta</emph>. At last they are really digging in. Golf balls, being made of rubber, are prohibited, and I foresee a dwindling if not a termination of golf in the not distant future, with probably all or most of the courses eventually closed. That, if anything, will bring home to many Japanese that their country is really at war.
 
 > September 1, 1940
 
@@ -156,5 +156,5 @@ The letter was dated March 29.
 
 ---
 
-
+Grew thought Japan was a golfers' paradise in the 1930s. Many of the courses that he played then still exist today, along with almost 2,000 more that have been built since then. If it was a golfers' paradise then, it is even more so now. 
 
