@@ -36,7 +36,7 @@ Here are some of those anecdotes, along with some photos of the places mentioned
 Grew, other embassy staff, and diplomats from other countries were often traveling to Karuizawa, Gotemba, Shuzenji; these places are still attractive summer destinations today.
 
 ![soba wasabi](/img/soba_wasabi.jpg)
-<small><strong>Soba noodles and a large piece of wasabi at a restaurant in Shuzenji on the Izu Peninsula, Shizuoka prefecture.</strong></small>
+<small><strong>Soba noodles and a large piece of wasabi with grater at a restaurant in Shuzenji on the Izu Peninsula, Shizuoka prefecture.</strong></small>
 
 > March 14, 1933
 
