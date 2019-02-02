@@ -9,11 +9,11 @@ Sean Heath wrote with [this question](https://twitter.com/MvccTurf/status/108236
 
 > "do you or anyone else know of data being tracked for sunlight or cloud cover? Specifically how much sunlight did Northern VA receive this year with all the rain and cloud cover? Curious how it compares to previous years"
 
-The most accurate data of this type are available from the NOAA, but they weren't available for some time because of the government shutdown. By the end of this week, I was able to get the data I was looking for. 
+Easily accessible (usually) and accurate data of this type are available from the NOAA, but those data weren't available for some time because of the USA's government shutdown. This week those data were available again. 
 
 ### What I did
 
-I downloaded daily data for the past decade from [USCRN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/us-climate-reference-network-uscrn) stations at Avondale, PA; Cape Charles, VA; and Charlottesville, VA. I then took the average daily global solar radiation, converted it to photosynthetically active radiation (PAR), and took the average of those stations to get estimates for northern Virginia.
+I downloaded daily data for the past decade from [USCRN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/us-climate-reference-network-uscrn) stations at Avondale, PA; Cape Charles, VA; and Charlottesville, VA. I then took the average daily global solar radiation, converted it to photosynthetically active radiation (PAR), and took the average of those stations to get estimates for northern Virginia. One can expect the data shown in the charts below to be the average PAR at somewhere south of Avondale, northeast of Charlottesville, and northwest of Cape Charles.
 
 For some background info on this, see [Estimating daily light integral (DLI) in 4 Tennessee cities](http://www.seminar.asianturfgrass.com/tn_dli_description.html).
 
