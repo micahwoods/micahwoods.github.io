@@ -4,7 +4,7 @@ title: "The turfgrass genki level, part 2: showing N applied in relation to stan
 share-img: "https://www.asianturfgrass.com/img/van_tri_2.jpg"
 bigimg:
 - "/img/genki_level.png" : ""
-- "/img/van_tri_2.jpg.jpg" : "seashore paspalum on the 2nd green at Van Tri GC in Hanoi"
+- "/img/van_tri_2.jpg" : "seashore paspalum on the 2nd green at Van Tri GC in Hanoi"
 - "/img/van_tri_12.jpg" : "seashore paspalum on the 12th green at Van Tri GC in Hanoi"
 tags: [growth potential, nitrogen, fertilizer, genki level]
 ---
