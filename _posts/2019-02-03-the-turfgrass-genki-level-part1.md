@@ -45,7 +45,7 @@ The GP makes it easy to compare locations. And it is also straightforward to mak
 
 I think it is useful to use the same *standard* N for the calculations, and then to express differences in the way turf is managed as the **genki level**. That makes it easy to compare the relative amount of pushing the grass, or pulling on the grass, between different seasons at the same location, or between different locations.
 
-I've shown here how the temperature can be expressed as a GP and how that GP can be expressed as a *standard* amount of N. Coming up in part 2, I'll show the genki level and how much the grass actually did grow. And I'll relate this to the [turfgrass speedo](https://www.turfhacker.com/2018/12/turfgrass-speedo.html) explained by Jason Haines.
+I've shown here how the temperature can be expressed as a GP and how that GP can be expressed as a *standard* amount of N. Coming up in part 2 and part 3, I'll show the genki level and how much the grass actually did grow. And I'll relate this to the [turfgrass speedo](https://www.turfhacker.com/2018/12/turfgrass-speedo.html) explained by Jason Haines.
 
 ### More reading
 
