@@ -40,11 +40,11 @@ But by October, the GL is now more than the speedo. That indicates that the gras
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">These Korai greens are ready to ride out the fall season into winter. <a href="https://twitter.com/hashtag/zoysiagreens?src=hash&amp;ref_src=twsrc%5Etfw">#zoysiagreens</a> 秋のコウライグリーン <a href="https://t.co/jwO8VBMj9e">pic.twitter.com/jwO8VBMj9e</a></p>&mdash; Andrew McDaniel (@drumcturf) <a href="https://twitter.com/drumcturf/status/790395640932995073?ref_src=twsrc%5Etfw">October 24, 2016</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-In the next charts, I show all the months in which the greens were mown, and I show also for Hazeltine National GC and for Van Tri GC. I've also normalized this in one more way; I've set the maximum growth for the speedo at 600 mL m<sup>-2</sup> month<sup>-1</sup> for all the locations.
+In the next charts, I show all the months in which the greens were mown, and I show also for Hazeltine National GC and for Van Tri GC. I've also normalized this in one more way; I've set the maximum growth for the speedo at 600 mL m<sup>-2</sup> month<sup>-1</sup> for all the locations. 
 
 ![speedo ratio 2](/img/speedo_ratio2.png)
 
-I find this to be a useful way to think of, and to visualize, the turfgrass response to the N supplied. I also find this especially useful in comparing how grass is managed at different locations.
+I find this to be a useful way to think of, and to visualize, the turfgrass response to the N supplied. I also find this especially useful in comparing how grass is managed at different locations, and that's another reason I've set the maximum N and the maximum growth at the same value for the speedo and GL calculations.
 
 Is there any take-home message from this? I expect these things:
 
