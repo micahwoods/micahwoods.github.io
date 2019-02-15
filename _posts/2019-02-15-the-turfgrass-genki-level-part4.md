@@ -22,7 +22,7 @@ When the clipping volume is 0, the turfgrass speedo is 0. And no N was applied i
 
 ![genki level plotted against speedo](/img/keya_ratio_jan.png)
 
-When the GL is the same as the speedo, the point will fall on the 1:1 line. What if the point would fall to the left (or above) the 1:1 line? That means that the growth for that time duration is more than would have been expected, given the amount of N supplied. And if the point falls to the right (or below) the 1:1 line? That means that one is pushing the grass with N fertilizer during that time duration but the growth response isn't happening yet.
+When the GL is the same as the speedo, the point will fall on the 1:1 line. What if the point would fall to the left of (or above) the 1:1 line? That means that the growth for that time duration is more than would have been expected, given the amount of N supplied. And if the point falls to the right of (or below) the 1:1 line? That means that one is pushing the grass with N fertilizer during that time duration but the growth response isn't happening yet.
 
 Here we can look at this for January, August, and October 2018.
 
