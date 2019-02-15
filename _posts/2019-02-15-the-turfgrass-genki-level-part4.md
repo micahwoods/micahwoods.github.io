@@ -48,6 +48,8 @@ I find this to be a useful way to think of, and to visualize, the turfgrass resp
 
 Is there any take-home message from this? I expect these things:
 
-* if one is consistently to the left of the 1:1 line, either the soil is supplying plenty of N, or the grass is going to need more N sometime in the future
-* if one is consistently to the right of the 1:1 line, you can probably cut back on the N applications
+1. if one is consistently to the left of the 1:1 line, either the soil is supplying plenty of N, or the grass is going to need more N sometime in the future
+2. if one is consistently to the right of the 1:1 line, you can probably cut back on the N applications
+3. if the speedo is almost always more than 1, I'd think about reducing N even further, restricting water supply, or increasing growth regulators
+4. if the speedo is almost always less than 1, I'd think about growing the grass a little more at some times of the year by doing the opposite of the items listed in point 3
 
