@@ -43,3 +43,11 @@ But by October, the the GL is now more than the speedo. That indicates that the 
 In the next charts, I show all the months in which the greens were mown, and I show also for Hazeltine National GC and for Van Tri GC. I've also normalized this in one more way; I've set the maximum growth for the speedo at 600 mL m<sup>-2</sup> month<sup>-1</sup> for all the locations.
 
 ![speedo ratio 2](/img/speedo_ratio2.png)
+
+I find this to be a useful way to think of, and to visualize, the turfgrass response to the N supplied. I also find this especially useful in comparing how grass is managed at different locations.
+
+Is there any take-home message from this? I expect these things:
+
+* if one is consistently to the left of the 1:1 line, either the soil is supplying plenty of N, or the grass is going to need more N sometime in the future
+* if one is consistently to the right of the 1:1 line, you can probably cut back on the N applications
+
