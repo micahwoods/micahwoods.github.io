@@ -2,7 +2,7 @@
 layout: post
 title: "A pleasant day, with an unpleasant termination"
 share-img: "https://c1.staticflickr.com/1/834/28448814697_ae28f6b1f3_b_d.jpg"
-tags: [tournament, japan, zoysia, aerify, korai, sand, topdress, playability]
+tags: [tournament, japan, zoysia, aerify, korai, sand, topdress, playability, video]
 ---
 
 Last week I spent a few days in Fukuoka. I was there for the 103<sup>rd</sup> Japan Amateur Golf Championship. On the the morning of July 5, I recorded [this video](https://www.asianturfgrass.com/img/ball_16.mp4) of a short iron shot landing on the 16<sup>th</sup> green at the host venue, [Keya Golf Club](http://www.keyagc.co.jp/index.html).
