@@ -39,9 +39,9 @@ The things that aren't real, but are calculated values that I find useful are:
 
 How are these useful? 
 
-First, for any location, these calculations provide an easy way to optimize conditions. This happens by consideri and then adjusting the growth rate of the grass to produce the desired conditions. Looking backward, evaluating the present, and planning ahead, these calculated values are easy to use as a way to make improvements.
+First, for any location, these calculations provide an easy way to optimize conditions. This happens by considering and then adjusting the growth rate of the grass to produce the desired conditions. Looking backward, evaluating the present, and planning ahead, these calculated values are easy to use as a way to make improvements. Or, if the grass is already perfect, to keep it that way when temperatures are different.
 
-Second, for any location, these calculations provide an easy way to integrate (or get started with) effective maintenance strategies from other locations. 
+Second, for any location, these calculations provide an easy way to integrate (or get started with) new maintenance strategies that have been learned from other turf managers. 
 
 I've written more about this in the [*Short Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping).
 
