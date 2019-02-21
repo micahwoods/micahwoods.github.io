@@ -7,6 +7,7 @@ bigimg:
 - "/img/keya_18_sunrise.jpg" : "The 18th at Keya GC in August"
 - "/img/keya_tower.jpg" : "The 9th and clubhouse at Keya GC from a TV tower in August"
 - "/img/korai_stimpmeter.jpg" : "korai greens at Keya GC in August"
+- "/img/habu10.jpg" : "the 10th at Habu CC in Chiba, Japan"
 tags: [podcast, japan, greenkeeping]
 ---
 
