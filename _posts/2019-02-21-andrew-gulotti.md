@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An important Conference takes place between Mr. Gulotti and Andrew McDaniel"
-share-img: "https://www.asianturfgrass.com/img/dru_tv.jpg.jpg"
+share-img: "https://www.asianturfgrass.com/img/dru_tv.jpg"
 bigimg:
 - "/img/dru_tv.jpg" : "Andrew McDaniel on the KBC Augusta television broadcast"
 - "/img/keya_18_sunrise.jpg" : "The 18th at Keya GC in August"
@@ -11,7 +11,7 @@ bigimg:
 tags: [podcast, japan, greenkeeping]
 ---
 
-Or at least they they had a captivating discussion on [The Talking Greenkeeper](https://itunes.apple.com/us/podcast/the-talking-greenkeeper/id1435947281?mt=2#episodeGuid=9a57de3fbe4448fb94e71d0572fc7783) show.
+Or at least they had a captivating discussion on [The Talking Greenkeeper](https://itunes.apple.com/us/podcast/the-talking-greenkeeper/id1435947281?mt=2#episodeGuid=9a57de3fbe4448fb94e71d0572fc7783) show.
 
 They talked about a lot of things:
 
