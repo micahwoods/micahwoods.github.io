@@ -25,11 +25,11 @@ They talked about a lot of things:
 * greenkeeping in Japan
 * much more
 
-I hope you enjoy listening to this episode of [The Talking Greenkeeper](http://thetalkinggreenkeeper.libsyn.com/website/episode-18-andrew-mcdaniel) as much as I did.
+I hope you enjoy this episode of [The Talking Greenkeeper](http://thetalkinggreenkeeper.libsyn.com/website/episode-18-andrew-mcdaniel) as much as I did.
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/8499059/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-Andrew has been featured in a manga series, and there was some discussion of that. I've never been in a manga, but Joe was wondering about that type of image; there are apps that can make a manga. This one says something like, translated, "My life is a double bogey." 
+Andrew has been featured in a [manga](https://en.wikipedia.org/wiki/Manga) series, and there was some discussion of that. I've never been in a manga, but Joe was wondering about that type of image; there are apps that can make a manga. This one says something like, translated, "My life is a double bogey." 
 
 ![micah double bogey manga](/img/double_bogey.jpg)
 
