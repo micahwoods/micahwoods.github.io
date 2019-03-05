@@ -11,4 +11,4 @@ There's an interesting blog post by Jim Orson titled ["Read this before leaf tis
 
 The entire post is worth reading. It describes his conclusions after studying the result of 15 trials with winter wheat. 
 
-"That's not turfgrass," you might say. And rightly so. But I couldn't help but notice that there are striking similarities between these results with wheat and the [four reasons](https://www.asianturfgrass.com/2017-08-09-not-tissue-test-3-reasons/) tissue testing is not recommended (by me) for determining what fertilizers to apply to turfgrass.
+"That's not turfgrass," you might say. And rightly so. But I couldn't help but notice that there are striking similarities between these results with wheat and the [four reasons](https://www.asianturfgrass.com/2017-08-09-not-tissue-test-3-reasons/) I recommend *not using* leaf nutrient analysis to choose which fertilizers to apply to turfgrass.
