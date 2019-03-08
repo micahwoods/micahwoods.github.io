@@ -17,7 +17,7 @@ A correspondent wrote with this inquiry:
 
 > I wasn't clear on what the soil test indicates basically, soluble nutrients/plant available forms of elements or a total contained elemental reading for the soil.
 
-> Any clarity you could offer would be much appreciated.
+> Any clarity you could offer would be much appreciated."
 
 I wrote this long reply:
 
@@ -31,7 +31,7 @@ So we are going to have a soil, or a range of different soils from all over a co
 
 By soil test I actually mean "extracting solution", although other things may vary also such as shaking time and ratio of soil sample to extracting solution.
 
-![soil mixed with two salt solutions](/img/salt_floccultate.jpg)
+![soil mixed with two salt solutions](/img/salt_flocculate.jpg)
 <small><strong>Soil samples mixed with water and mixed with a calcium chloride solution, showing the difference in clay flocculation depending on the salt in solution.</strong></small>
 
 Water as an extractant is only going to return the potassium that is in soil solution or would easily be in soil solution. It gets none of the K on exchange sites in the soil and none of the insoluble K.
