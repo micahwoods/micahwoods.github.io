@@ -20,7 +20,7 @@ First I got the average monthly temperatures from Tokyo since 1875.
 
 ![monthly temperature Tokyo](/img/tokyo_temperature.gif)
 
-Then, from those temperature data, I calculated the [temperature-based growth potential (GP)](http://www.files.asianturfgrass.com/201306_growth_potential.pdf) for cool-season grass and plotted that with a shadow.
+Then, from those temperature data, I calculated the [temperature-based growth potential (GP)](https://www.asianturfgrass.com/2017-09-01-gp-explained-photos/) for cool-season grass and plotted that with a shadow.
 
 ![c3 gp at Tokyo](/img/tokyo_c3.gif)
 
