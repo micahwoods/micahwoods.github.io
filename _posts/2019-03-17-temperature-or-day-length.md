@@ -25,7 +25,7 @@ That looks pretty good.
 
 I then got the temperature data from January 1 of 2018, up until yesterday, for each of the geolocated golf courses. 
 
-![temperatures 4 locations](temperature_4locs.png)
+![temperatures 4 locations](/img/temperature_4locs.png)
 
 Temperature seems to match the dormancy period pretty well, and as far as I can tell this is sufficient to explain when the zoysia will go dormant or will break dormancy. If anyone knows otherwise, please correct me. 
 
