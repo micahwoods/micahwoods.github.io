@@ -15,7 +15,7 @@ I geocoded the locations of Keya GC in Fukuoka Japan; Blessings GC in Fayettevil
 
 ![day length](/img/4loc_day_length.png)
 
-I told Andrew to please check the chart and see if the grass going dormant or awakening from dormancy seems to coincide with certain day lengths.
+I told Andrew to please check the chart and see if the grass going dormant or waking from dormancy seems to coincide with certain day lengths.
 
 Then I looked up the temperature data for those locations using [Dark Sky](https://darksky.net). To check that the Dark Sky temperature data are accurate, I compared temperatures from the JMA (Japan Meteorological Agency) station at Maebaru, which is the closest JMA station to Keya GC, with the Dark Sky data for the latitude and longitude coordinates of the Keya clubhouse. 
 
