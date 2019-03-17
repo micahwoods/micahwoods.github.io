@@ -29,6 +29,6 @@ I then got the temperature data from January 1 of 2018, up until yesterday, for 
 
 Temperature seems to match the dormancy period pretty well, and as far as I can tell this is sufficient to explain when the zoysia will go dormant or will break dormancy. If anyone knows otherwise, please correct me. 
 
-Plots of the temperature-based turfgrass growth potential (which I haven't shown here) can be a clear way to see those temperature data in a more defined way, separating the dormant season from the growing season.
+Plots of the [temperature-based turfgrass growth potential](https://www.asianturfgrass.com/2017-09-01-gp-explained-photos/) (which I haven't shown here) can be a clear way to see those temperature data in a more defined way, separating the dormant season from the growing season.
 
 Soil temperature may have something to do with it too, but [soil temperature is easily predicted](https://www.asianturfgrass.com/2018-08-10-soil-temperature-turf-hack/) from air temperature.
