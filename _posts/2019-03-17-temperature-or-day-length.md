@@ -31,4 +31,4 @@ Temperature seems to match the dormancy period pretty well, and as far as I can 
 
 Plots of the temperature-based turfgrass growth potential (which I haven't shown here) can be a clear way to see those temperature data in a more defined way, separating the dormant season from the growing season.
 
-Soil temperature may have something to do with it too, but [soil temperature is easily predicted](https://www.asianturfgrass.com/2018-08-10-soil-temperature-turf-hack/) from air temperature so I would not consider that separately; air temperature is probably sufficient.
+Soil temperature may have something to do with it too, but [soil temperature is easily predicted](https://www.asianturfgrass.com/2018-08-10-soil-temperature-turf-hack/) from air temperature.
