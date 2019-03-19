@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Half-aerified greens; sodded fairway stripes; with other interesting and informative matters"
-share-img: "https://www.asianturfgrass.com/img/"
+share-img: "https://www.asianturfgrass.com/img/panya_fwy_2006b.jpg"
 bigimg:
 - "/img/panya_fwy_2006a.jpg" : "fairway conversion from Cynodon to Paspalum without closing course, Bangkok"
 - "/img/shimane_frost.jpg" : "playing golf on frosted green, Japan"
@@ -93,4 +93,6 @@ I've written about my experience with frost delays, and the damage caused, a few
 
 ![playing golf on a snowy day](/img/snow_chubu.jpg)
 <small><strong>Golf during a snow squall in the Chubu region of Japan </strong></small>
+
+When a golf course is selling a product---a round of golf---and customers want to purchase that product, and their purchase and use of that product doesn't cause irreperable harm to the golf course ... well, what can you do? There are a lot of ways to produce the desired conditions. 
 
