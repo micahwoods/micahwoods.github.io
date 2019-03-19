@@ -23,14 +23,16 @@ When I was talking with Mike after the conference, we discussed that technique, 
 --- 
 
 ![half green scarify](/img/bkk_golf_graden_halfb.jpg)
-<small><strong>Tifeagle green in Bangkok, half of it scarified, half to be scarified at another time</strong></small>
+<small><strong>Tifeagle green in Bangkok, half of it recently scarified, half already recovered from scarification</strong></small>
 
 The scarification of half a green at a time is similar to the practice of aerifiying half the green. In this way, the hole can always be placed on an undisturbed section of the green.
 
 ![half green scarify up close](/img/bkk_golf_graden_halfa.jpg)
-<small><strong>Ball at the dividing point between unscarified and scarified surface on a Tifeagle green in Bangkok</strong></small>
+<small><strong>Ball at the dividing point between recovered (left) and scarified (right) surface on a Tifeagle green in Bangkok</strong></small>
 
-Moving to the fairways, one could do the same thing with practices such as scarifying or aerifying. At Panya Indra Golf Club in Bangkok, the fairways were converted from bermudagrass to seashore paspalum without closing the course. The maintenance staff established paspalum nurseries, then resodded half a fairway at a time. 
+Moving to the fairways, one could do the same thing with practices such as scarifying or aerifying. 
+
+Or one could do even more intensive work while keeping the course open. At Panya Indra Golf Club in Bangkok, the fairways were converted from bermudagrass to seashore paspalum without closing the course. The maintenance staff established paspalum nurseries, then resodded half a fairway at a time. 
 
 ![half fairway sodded paspalum](/img/panya_fwy_2006a.jpg)
 <small><strong>The fairway is being converted from bermudagrass to seashore paspalum</strong></small>
@@ -38,12 +40,12 @@ Moving to the fairways, one could do the same thing with practices such as scari
 The side of the fairway being converted to seashore paspalum was designated ground under repair. Play continued on the bermudagrass side.
 
 ![converting a faiway to paspalum](/img/panya_fwy_conversion.jpg)
-<small><strong>The course, and the hole being worked on, remained open while the grass was changed</strong></small>
+<small><strong>The course, and the hole being worked on, remained open while the grass was changed; paspalum will be planted on the right side and is now ground under repair; the bermudagrass on the left side remains open</strong></small>
 
 After the seashore paspalum was established, play was moved to that side of the fairway, and the remaining bermudagrass was replaced with paspalum.
 
 ![fairway paspalum left bermuda right](/img/panya_fwy_2006b.jpg)
-<small><strong>One side of the fairway was kept as ground under repair while the other side remained in play</strong></small>
+<small><strong>Paspalum at left is ground under repair; the bermudagrass at right remains in play</strong></small>
 
 A similar approach was taken when Alpine GC in Bangkok converted fairways from bermudagrass to seashore paspalum.
 
