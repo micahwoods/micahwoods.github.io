@@ -32,7 +32,7 @@ big-img: /img/library_banner.jpg
 * [Irrigation management in summer: timing, amount, syringing, and water quality](http://www.files.asianturfgrass.com/201306_summer_irrigation.pdf)
 * [Nutrient requirements of tropical turfgrass](http://www.files.asianturfgrass.com/20130311_woods_handout_nutrient_requirements_tropical_turfgrass.pdf)
 * [What fertilizer should I use?](http://www.files.asianturfgrass.com/20130313_woods_handout_fertilizer_choice.pdf)
-* [The (New) Fundamentals of Turfgrass Nutrition *and handouts for 4 other presentations on shade, light, fertilizer, and irrigation](http://seminar.asianturfgrass.com/2016_nge_handouts.pdf)
+* [The (New) Fundamentals of Turfgrass Nutrition *and handouts for 4 other presentations on shade, light, fertilizer, and irrigation*](http://seminar.asianturfgrass.com/2016_nge_handouts.pdf)
 * [Predicting turfgrass performance](http://www.files.asianturfgrass.com/20131007_cornell_horticulture_handout.pdf)
 * [Optimum golf course playing conditions with minimum inputs](http://www.seminar.asianturfgrass.com/201603_woods_sustainability_handout.pdf)
 * [Understanding turfgrass nutrient requirements](http://calendar.asianturfgrass.com/understanding_turfgrass_nutrient_requirements_5june2012.pdf)
@@ -53,14 +53,17 @@ big-img: /img/library_banner.jpg
 * [Turfgrass Management in SE Asia](http://files.asianturfgrass.com/2011_woods_gi_se_asia.pdf) 
 * [Do fairways need a sand cap?](http://files.asianturfgrass.com/woods_fairway_sandcap_agb_jan08.pdf)
 * [Seduced by metric units](http://files.asianturfgrass.com/201409_woods_gcm_metric.pdf)
-* [Charles Vancouver Piper: The Agrostologist](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2006/060317.pdf), *Green Section Record*, 2006
+* [Charles Vancouver Piper: The Agrostologist](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2006/060317.pdf)
 
-### Books & miscellaneous
+### Books 
 
 * [*A Short Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping)
 * [*One Bucket at a Time*](https://www.asianturfgrass.com/buckets/)
 * [芝草科学とグリーンキーピング: マイカの時間 The BOOK](https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_tw_dp_U_x_uwfRCbTZ69ACE)
-* [All records by or about Micah Woods in the Turfgrass Information File](http://ticpass.lib.msu.edu/cgi-bin/flinkbora.pl?name=Woods,%20Micah)
+
+### More information
+
+* [Records by or about Micah Woods in the Turfgrass Information File](http://ticpass.lib.msu.edu/cgi-bin/flinkbora.pl?name=Woods,%20Micah)
 * [Google Scholar](https://scholar.google.com/citations?user=JAlxOXEAAAAJ&hl=en)
 * [ORCID](http://orcid.org/0000-0002-9140-5147)
 
