@@ -2,28 +2,28 @@
 layout: page
 title: ATC turfgrass library
 share-img: "https://www.asianturfgrass.com/img/library_banner.jpg"
-big-img: /img/library_banner.jpg
+bigimg: /img/library_banner.jpg
 ---
 
 ### Technical reports
 
-* [Why manilagrass (*Zoysia matrella*) is the best choice for links-style golfing surfaces in East and Southeast Asia](http://www.files.asianturfgrass.com/201305_manilagrass_links_turf.pdf)
-* [How much to clouds affect photosynthetic irradiance? Measures of light at Thailand, Hong Kong, Vietnam, and Japan](http://www.files.asianturfgrass.com/irradiance.pdf) 
+* [The Turfgrass Genki Level](http://files.asianturfgrass.com/201904_genki_level.pdf)
+* [MLSN Cheat Sheet](http://files.asianturfgrass.com/mlsn_cheat_sheet.pdf)
 * [Using temperature to predict turfgrass growth potential (GP) and to estimate turfgrass nitrogen use](http://www.files.asianturfgrass.com/201306_growth_potential.pdf)
 * [A Report on Putting Green Performance Characteristics](http://www.files.asianturfgrass.com/20120802_data_report.pdf) 
-* [MLSN Cheat Sheet](http://files.asianturfgrass.com/mlsn_cheat_sheet.pdf)
-* [The Turfgrass Genki Level](http://files.asianturfgrass.com/201904_genki_level.pdf)
+* [How much to clouds affect photosynthetic irradiance? Measures of light at Thailand, Hong Kong, Vietnam, and Japan](http://www.files.asianturfgrass.com/irradiance.pdf) 
+* [Why manilagrass (*Zoysia matrella*) is the best choice for links-style golfing surfaces in East and Southeast Asia](http://www.files.asianturfgrass.com/201305_manilagrass_links_turf.pdf)
 * [Turfgrass nutrient guidelines, peer review, and potassium](http://files.asianturfgrass.com/20140615_mlsn_k.pdf)
-* [2014 Global Soil Survey Report](https://www.paceturf.org/PTRI/Documents/2014_gss_report.pdf)
 * [2015 Global Soil Survey Report](https://www.paceturf.org/PTRI/Documents/2015_gss_report.pdf)
+* [2014 Global Soil Survey Report](https://www.paceturf.org/PTRI/Documents/2014_gss_report.pdf)
 
 ### Scientific publications
 
 * [Effectiveness of standard soils tests for assessing potassium availability in sand rootzones](http://www.files.asianturfgrass.com/woods2005_soil_sci.pdf)
+* [Minimum soil nutrient guidelines for turfgrass developed from Mehlich 3 soil test results](https://peerj.com/preprints/2144.pdf)
 * [Potassium availability indices and turfgrass performance in a calcareous sand putting green](http://www.files.asianturfgrass.com/2006_woods_et_al_k_availability.pdf)
 * [Measuring the effects of potassium application on calcium and magnesium availability in a calcareous sand](http://files.asianturfgrass.com/woods_its05.pdf)
 * [Potassium supply rate as measured by exchange membranes in a calcareous sand](http://files.asianturfgrass.com/woods_ats06.pdf)
-* [Minimum soil nutrient guidelines for turfgrass developed from Mehlich 3 soil test results](https://peerj.com/preprints/2144.pdf)
 * [A simple method for estimating effective cation exchange capacity, cation saturation ratios, and sulfur across a wide range of soils](http://files.asianturfgrass.com/ketterings_cec14.pdf)
 * [Nonacid cation bioavailability in sand rootzones](http://tic.msu.edu/tgif/urltab?RECNO=109838)
 
@@ -61,7 +61,7 @@ big-img: /img/library_banner.jpg
 * [*One Bucket at a Time*](https://www.asianturfgrass.com/buckets/)
 * [芝草科学とグリーンキーピング: マイカの時間 The BOOK](https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_tw_dp_U_x_uwfRCbTZ69ACE)
 
-### More information
+### Publication databases
 
 * [Records by or about Micah Woods in the Turfgrass Information File](http://ticpass.lib.msu.edu/cgi-bin/flinkbora.pl?name=Woods,%20Micah)
 * [Google Scholar](https://scholar.google.com/citations?user=JAlxOXEAAAAJ&hl=en)
