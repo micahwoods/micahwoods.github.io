@@ -19,7 +19,7 @@ bigimg: /img/library_banner.jpg
 
 ### Scientific publications
 
-* [Effectiveness of standard soils tests for assessing potassium availability in sand rootzones](http://www.files.asianturfgrass.com/woods2005_soil_sci.pdf)
+* [Effectiveness of standard soil tests for assessing potassium availability in sand rootzones](http://www.files.asianturfgrass.com/woods2005_soil_sci.pdf)
 * [Minimum soil nutrient guidelines for turfgrass developed from Mehlich 3 soil test results](https://peerj.com/preprints/2144.pdf)
 * [Potassium availability indices and turfgrass performance in a calcareous sand putting green](http://www.files.asianturfgrass.com/2006_woods_et_al_k_availability.pdf)
 * [Measuring the effects of potassium application on calcium and magnesium availability in a calcareous sand](http://files.asianturfgrass.com/woods_its05.pdf)
