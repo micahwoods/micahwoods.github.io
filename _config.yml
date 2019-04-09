@@ -26,8 +26,7 @@ navbar-links:
   About: "about"
   Post archive: "tags"
   Turf Info:
-    - Articles: "http://www.micahwoods.typepad.com/test_static/turf-information.html"
-    - Climate charts: "http://climate.asianturfgrass.com/"
+    - ATC Library: "library"
     - MLSN @ PACE Turf: "https://www.paceturf.org/journal/minimum_level_for_sustainable_nutrition"
     - Old blog (Viridescent): "http://www.blog.asianturfgrass.com"
     - Photos: "https://www.flickr.com/photos/asianturfgrass/albums"
