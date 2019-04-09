@@ -11,7 +11,7 @@ bigimg: /img/library_banner.jpg
 * [MLSN Cheat Sheet](http://files.asianturfgrass.com/mlsn_cheat_sheet.pdf)
 * [Using temperature to predict turfgrass growth potential (GP) and to estimate turfgrass nitrogen use](http://www.files.asianturfgrass.com/201306_growth_potential.pdf)
 * [A Report on Putting Green Performance Characteristics](http://www.files.asianturfgrass.com/20120802_data_report.pdf) 
-* [How much to clouds affect photosynthetic irradiance? Measures of light at Thailand, Hong Kong, Vietnam, and Japan](http://www.files.asianturfgrass.com/irradiance.pdf) 
+* [How much do clouds affect photosynthetic irradiance? Measures of light at Thailand, Hong Kong, Vietnam, and Japan](http://www.files.asianturfgrass.com/irradiance.pdf) 
 * [Why manilagrass (*Zoysia matrella*) is the best choice for links-style golfing surfaces in East and Southeast Asia](http://www.files.asianturfgrass.com/201305_manilagrass_links_turf.pdf)
 * [Turfgrass nutrient guidelines, peer review, and potassium](http://files.asianturfgrass.com/20140615_mlsn_k.pdf)
 * [2015 Global Soil Survey Report](https://www.paceturf.org/PTRI/Documents/2015_gss_report.pdf)
