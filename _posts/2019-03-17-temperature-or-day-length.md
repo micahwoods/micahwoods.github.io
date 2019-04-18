@@ -6,7 +6,7 @@ bigimg:
 - "/img/temperature_4locs.png" : ""
 - "/img/4loc_day_length.png" : ""
 - "/img/keya_18_2gatsu.jpg" : "Keya GC in mid-February"
-tags: [climate, temperature, zoysia, Japan]
+tags: [climate, temperature, zoysia, japan]
 ---
 
 Andrew McDaniel asked me if day length or temperature has a bigger effect on zoysiagrass going into or coming out of dormancy. I hadn't really thought about that before. When I did think about it, I realized I pretty much only think of temperature, but I wondered if living in a tropical location where the grass doesn't go dormant might be blinding me to something that happens where day length varies. 
