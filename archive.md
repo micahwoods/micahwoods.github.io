@@ -11,6 +11,7 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 [Subscribe to ATC updates here](http://www.subscribepage.com/atcupdate).
 
+* [April 2019](http://www.files.asianturfgrass.com/201904_atc_update.pdf), another movie, a football seminar, and new research
 * [December 2018](http://www.files.asianturfgrass.com/201812_atc_update.pdf), a movie, a book, and happy holidays
 * [September 2018](http://files.asianturfgrass.com/201809_atc_update.pdf), time on the road, MLSN, tournaments, magazines, & conferences 
 * [January 2018](http://files.asianturfgrass.com/201801_atc_update.pdf), ATC update: clipping volume, soil tests, & yearly review
