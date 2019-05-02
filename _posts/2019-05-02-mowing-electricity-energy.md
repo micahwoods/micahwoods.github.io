@@ -25,9 +25,9 @@ Burning one liter of diesel [produces 2.7 kg of CO<sup>2</sup>](https://www.epa.
 
 Pirchio et al. reported that a Husqvarna model 310 automower modified to mow at 12 mm [used 0.86 kWh/week](https://journals.ashs.org/horttech/view/journals/horttech/28/4/article-p509.xml) to mow an area of 300 m<sup>2</sup>. That includes the electricity used to power the boundary wire and the electricity used to charge the batteries. The model 310 manual I found with a Google search states that the mower uses 8 kWh/month at maximum use to maintain 1,000 m<sup>2</sup>. 
 
-I'm going to use the Pirchio et al. number in these calculations. It comes to 12.3 kWh/month (for a 30 day month) for 1,000 m<sup>2</sup>. That's a bit more electricity use than reported by the manual, but the Pirchio et al. number is also from a study in which "autonomous mowing produced a superior turf quality compared with the reel mower" for "the entire duration of the trial."
+I'm going to use the Pirchio et al. number in these calculations. It comes to 12.3 kWh/month (for a 30 day month) for 1,000 m<sup>2</sup>. That's a bit more electricity use than reported by the manual, but the Pirchio et al. number is also from a study in which "autonomous mowing produced a superior turf quality compared with the reel mower" for "the entire duration of the trial." I'm going to need a fleet of these small mowers, because each will be set to mow 1,000 <sup>2</sup> or less (assuming this is the model I choose).
 
-The electricity use to mow 1 ha for 1 month would be 123 kWh/month.
+In total, the electricity use to mow 1 ha for 1 month would be 123 kWh/month. 
 
 At this point, we don't yet have directly comparable numbers between diesel fairway mowers and small electric autonomous mowers, but we are close. 
 
@@ -66,7 +66,7 @@ In British Columbia, the low emissions factor of 12.9 means the production of 12
 
 **Continuous mowing of 1 ha for 1 month by small autonomous mowers: from 1.6 to 67.4 kg CO<sub>2</sub>.**
 
-Based on these calculations, the CO<sub>2</sub> reduction ranges from a factor of 2 to a factor of 75 with small autonomous mowers, depending on the source of electricity. 
+Based on these calculations, the CO<sub>2</sub> reduction ranges from a factor of 2 to a factor of 75 with small autonomous mowers, depending on the source of electricity. And the reason for this, as I stated above, is the better efficiency of electric mowers compared to diesel mowers.
 
 Let's say one only mows fairways twice a week. Let's mow fairways with a conventional mower 8 times in a month. Now the CO<sub>2</sub> emissions are 64.8 kg CO<sub>2</sub> per ha per month. Now the CO<sub>2</sub> emissions from fairway mowing are comparable to the highest CO<sub>2</sub> emissions from a primarily coal-powered grid. But that's also with the fairways still getting mown daily with the electric mower.
 
