@@ -11,15 +11,15 @@ Yesterday I responded to two questions related to carbon emissions associated wi
 
 [Chuck Barber](https://twitter.com/chuck_stccc) asked "How is burning coal to power robots better?"
 
-I suggested to Richardson that the answer is yes, and one can find the calculations and reasoning behind that in David MacKay's [Sustainable Engery---Without the Hot Air](http://withouthotair.com/), specifically in chapter 20 where he discusses this specifically. And I told Barber that electricity, even generated from coal, is better because the efficiency of the mowers are better. I've worked through some calculations to check this for myself, and to better explain my answers.
+I suggested to Richardson that the answer is yes, and one can find the calculations and reasoning behind that in David MacKay's [Sustainable Engery---Without the Hot Air](http://withouthotair.com/), specifically in chapter 20 where he discusses that very question. And I told Barber that electricity, even generated from coal, is better because the efficiency of the mowers is better. I've worked through some calculations to check this for myself, and to better explain my answers.
 
-I'm going to describe how I made these calculations, trying to express in the same units what the expected CO<sub>2</sub> emissions would be to mow 1 hectare (2.47 acres) for a month. And I'll make the calculations for diesel fairway mowers, and then for small autonomous mowers with a range of different electricity generating sources. This takes a few steps to work through and get everything in the right units.
+I'm going to describe how I made these calculations, trying to express in the same units what the expected CO<sub>2</sub> emissions would be to mow 1 hectare (2.47 acres) of golf course fairways for a month. And I'll make the calculations for diesel fairway mowers, and then for small autonomous mowers with a range of different electricity generating sources. This takes a few steps to work through and get everything in the right units.
 
 ## CO<sub>2</sub> emissions from diesel fairway mowers
 
 I've calculated that the average fairway mower will use 3 liters of diesel to mow 1 hectare. I base this on the median of five numbers. Those numbers come from a 2013 Toro Reelmaster 3550-D brochure with fuel efficiency given in acres mown per gallon; the Reelmaster 3550-D mows 3.5 acres per gallon, Competitor A mows 3.1, and Competitor B mows 2.9. Converted to L/ha, those range from 2.7 to 3.2 L/ha. The other two numbers come from Tidåker et al.'s article on [Energy use and greenhouse gas emissions from turf management of two Swedish golf courses](https://doi.org/10.1016/j.ufug.2016.11.009), where fairway mowing used 3 L/ha at one course and 3.2 L/ha at the other.
 
-Burning one liter of diesel [produces 2.7 kg of CO<sup>2</sup>](https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references).
+Burning one liter of diesel [produces 2.7 kg of CO<sub>2</sub>](https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references).
 
 ## Electricity use by a small autonomous mower
 
