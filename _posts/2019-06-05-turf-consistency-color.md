@@ -44,12 +44,12 @@ Even though the course is in the middle of the town, it sits on a piece of land 
 The land in Hua Hin is rolling, too. There are wonderful ground contours. Walking the course is a pleasure, with gentle uphill stretches, an equivalent amount of downhills, big trees for shade, usually an ocean breeze, and tons of birds in the trees and flying through the air.
 
 ![](/img/royal_roll.jpg)
-<small><strong>Ground contours at Royal Hua Hin GC</strong></small>
+<small><strong>Ground contours at Royal Hua Hin GC, and a temple in the background</strong></small>
 
 Speaking of flying through the air ... I made a birdie and tried a new pose for my birdie dance photographs. A lot of people are saying this is [the best one ever](https://www.micahwoods.com/2019/05/a-lot-of-people-are-saying-.html). 
 
-![](/img/birdie_air.jpg)
-<small><strong>Introducing a new birdie dance at Royal Hua Hin</strong></small>
+![](/img/birdie_air.jpg)<p>
+<small><strong>Introducing a new birdie dance at Royal Hua Hin</strong></small></p>
 
 Of course the Royal is not the only course in town. There are a lot of golf courses in this popular holiday and retirement area. 
 
