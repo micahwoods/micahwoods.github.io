@@ -48,8 +48,9 @@ The land in Hua Hin is rolling, too. There are wonderful ground contours. Walkin
 
 Speaking of flying through the air ... I made a birdie and tried a new pose for my birdie dance photographs. A lot of people are saying this is [the best one ever](https://www.micahwoods.com/2019/05/a-lot-of-people-are-saying-.html). 
 
-![](/img/birdie_air.jpg)<p>
-<small><strong>Introducing a new birdie dance at Royal Hua Hin</strong></small></p>
+![](/img/birdie_air.jpg)
+
+<small><strong>Introducing a new birdie dance at Royal Hua Hin</strong></small>
 
 Of course the Royal is not the only course in town. There are a lot of golf courses in this popular holiday and retirement area. 
 
