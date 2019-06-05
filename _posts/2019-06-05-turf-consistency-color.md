@@ -5,7 +5,7 @@ share-img: "https://www.asianturfgrass.com/img/winery_elephant.jpg"
 bigimg:
 - "/img/winery_elephant.jpg" : "Monsoon Valley Vineyard"
 - "/img/royal_tree.jpg"      : "prayer tree at Royal Hua Hin GC"
-- "/img/royal_colour.jpg"    " "variety of colours at Royal Hua Hin GC"
+- "/img/royal_colour.jpg"    : "variety of colours at Royal Hua Hin GC"
 tags: [thailand, turf tourism]
 ---
 
