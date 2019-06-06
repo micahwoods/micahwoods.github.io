@@ -54,6 +54,7 @@ bigimg: /img/library_banner.jpg
 * [Do fairways need a sand cap?](http://files.asianturfgrass.com/woods_fairway_sandcap_agb_jan08.pdf)
 * [Seduced by metric units](http://files.asianturfgrass.com/201409_woods_gcm_metric.pdf)
 * [Charles Vancouver Piper: The Agrostologist](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2006/060317.pdf)
+* [The SportsTurf Interview: Dr. Micah Woods](http://www.files.asianturfgrass.com/201905_sports_turf_interview.pdf)
 
 ### Books 
 
