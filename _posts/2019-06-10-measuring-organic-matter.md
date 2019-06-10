@@ -7,13 +7,13 @@ tags: [organic matter, sand]
 
 In a previous post, I mentioned that I've [been thinking a lot about sand.](https://www.asianturfgrass.com/2019-06-09-thinking-about-sand/)
 
-I expect that sand is required for managing playability of sporting surfaces. I'll be discussing this in terms of golf course putting greens in this series of posts, but the principle applies to any turfgrass sports surface. And I expect that sand is specifically used as a way to modify the organic matter content of the soil, especially near the surface.
+I expect that sand is required for managing playability of sporting surfaces. I'll writing in terms of golf course putting greens in this series of posts, but the principle applies to any turfgrass sports surface. And I expect that sand is specifically used as a way to modify the organic matter content of the soil, especially near the surface.
 
 I would like to be able to give a good answer to the question, "How much sand is required," and I want to consider for a moment how organic matter is measured.
 
 The [Glossary of Soil Science Terms](https://www.soils.org/publications/soils-glossary) defines **soil organic matter** as "the organic fraction of the soil exclusive of undecayed plant and animal residues." Stardard soil nutrient analyses, and the organic matter reported on those reports, are providing a measurement meeting that definition. Undecayed plant and animal residues are removed by passing the soil through a 2 mm screen before tests are conducted.
 
-This unmown manilagrass is an extreme example. There is a lot of organic matter there. Let's say we cut off the above ground plant material, and just do a standard organic matter test on the thatch. A lot of that material will be removed from the sample. Almost all of it would be removed, actually, and not tested, because it won't pass through the screen.
+This unmown manilagrass is an extreme example. There is a lot of organic matter in that profile. Let's say we cut off the above ground plant material, and just do a standard organic matter test on the thatch. A lot of that material will be removed from the sample. Almost all of it would be removed, actually, and not tested, because it won't pass through the screen.
 
 ![grass with a lot of undecayed organic matter](/img/wana_om.jpg)
 <small><strong>The thatch layer of this unmown manilagrass would be almost enitrely removed before testing for organic matter. </strong></small>
