@@ -11,7 +11,7 @@ I've been thinking about [measuring organic matter](https://www.asianturfgrass.c
 
 For samples taken near the turfgrass surface, I would like to measure the mass loss on ignition, and call that the total organic matter. I don't want to screen the sample to remove any of the undecayed material.
 
-Of course there are different temperatures that one can ignite the sample at. Last year, I had some samples sent to Brookside Laboratories, asked for them to be held until my arrival, and then I checked them before they went into the muffle furnace, and again after they came out.
+Of course, one must ignite the sample at a specified temperature. Last year, I had some samples sent to Brookside Laboratories, asked for them to be held until my arrival, and then I checked the samples before they went into the muffle furnace, and again after they came out.
 
 ![korai plugs burned at 360 and 440 C, before and after appearance](/img/burn_temperature.jpg)
 <small><strong>Five soil plugs at a 0 to 20 mm depth below the surface from a korai (*Zoysia matrella*) golf course putting green were burned in a muffle furnace at 360 and 440 °C. These photos show the charred residue remaining after a 360 °C burn, and the complete ashing after a 440 °C burn.</strong></small>
