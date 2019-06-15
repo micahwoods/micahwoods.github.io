@@ -16,7 +16,7 @@ The [Glossary of Soil Science Terms](https://www.soils.org/publications/soils-gl
 This unmown manilagrass is an extreme example. There is a lot of organic matter in that profile. Let's say we cut off the above ground plant material, and just do a standard organic matter test on the thatch. A lot of that material will be removed from the sample. Almost all of it would be removed, actually, and not tested, because it won't pass through the screen.
 
 ![grass with a lot of undecayed organic matter](/img/wana_om.jpg)
-<small><strong>The thatch layer of this unmown manilagrass would be almost enitrely removed before testing for organic matter. </strong></small>
+<small><strong>The thatch layer of this unmown manilagrass would be almost enitrely removed before testing for organic matter.</strong></small>
 
 That was an extreme case. How about from a putting green?
 
