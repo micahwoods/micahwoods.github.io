@@ -11,7 +11,7 @@ After grass is mown, the remaining aboveground plant material is called verdure.
 
 It is customary to remove verdure from soil samples before measuring the organic matter. As I explained in the post about [measuring organic matter](https://www.asianturfgrass.com/2019-06-10-measuring-organic-matter/), standard procedures will remove the undecayed plant material (including the verdure) before measuring organic matter. I like to get a measure of the total organic matter in the soil, including the undecayed material. And for putting greens, there are three reasons I like to measure the total organic matter with the verdure *on* the sample.
 
-First, one of the main reasons for measuring organic matter is to evaluate and adjust sand topdressing. And the purpose of all of that is to adjust the way a ball reacts when it lands on a putting green. The ball reacts with the verdure. The amount of verdure probably affects the ball reaction. Why would one remove the very part of the sample that the ball reacts with? 
+First, one of the main reasons for measuring organic matter is to evaluate and adjust sand topdressing. And the purpose of all of that is to adjust the way a ball reacts when it lands on a putting green. The ball reacts with the verdure and with the underlying soil. The amount of verdure probably affects the ball reaction. Why would one remove the very part of the sample that the ball reacts with? 
 
 ![verdure on Tifeagle](/img/verdure_on.jpg)
 <small><strong>Verdure on the top of a soil profile collected from a Tifeagle putting green.</strong></small>
