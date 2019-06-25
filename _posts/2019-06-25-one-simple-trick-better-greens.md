@@ -21,7 +21,7 @@ One can't just send the sample to any lab and ask for a standard organic matter 
 [Brookside Laboratories](https://www.blinc.com/) now offers this as a standard test, and include a loss on ignition at 360 °C in this test too.
 
 ![verdure on an off a sample](/img/verdure_2cm.jpg)
-<small><strong>The golf ball reacts with the turfgrass at the top of the 0 to 2 cm profile. I prefer testing with the grass (the verdure, or turf canopy) left on the sample, as as right, rather than trimmed off as at left.</strong></small>
+<small><strong>The golf ball reacts with the turfgrass at the top of the 0 to 2 cm profile. I prefer testing with the grass (the verdure, or turf canopy) on the sample, as as right, rather than trimmed off as at left.</strong></small>
 
 The interpretation of the results is easy. One looks at three things. 
 
@@ -39,14 +39,14 @@ How much sand has been applied? What type of core removal, sand injection, or sc
 
 From these three things, the work can be adjusted to produce better surfaces in the future.
 
-If I think the surfaces have just the right firmness level and hold the right amount of water, then I want the total organic matter to stay the same over time, and I can adjust the sand topdressing and other organic matter management work accordingly.
+If the surfaces have just the right firmness level and hold the right amount of water, then I want the total organic matter to stay the same over time, and I can adjust the sand topdressing and other organic matter management work accordingly.
 
-If I think the surfaces are too soft, or hold too much water near the surface, and I would like them to be firmer in the future, then I want to see the total organic matter decrease over time, and I will increase the amount of sand topdressing and organic matter management.
+If the surfaces are too soft, or hold too much water near the surface, and I would like them to be firmer in the future, then I want to see the total organic matter decrease over time, and I will increase the amount of sand topdressing and organic matter management.
 
-If I think the surfaces are too firm, or don't hold enough water near the surface, and I would like them to be softer in the future, then I want to see the total organic matter increase over time. To do that, I will reduce the amount of sand topdressing and organic matter management.
+If the surfaces are too firm, or don't hold enough water near the surface, and I would like them to be softer in the future, then I want to see the total organic matter increase over time. To do that, I will reduce the amount of sand topdressing and organic matter management.
 
 ![hole 1 at keya gc in Fukuoka](/img/keya1.jpg)
-<small><strong>The putting greens at Keya GC in Japan have been tested for total organic matter at the 2, 4, and 6 cm depths for the past few years. This information has led to firmer and smoother putting surfaces with less disruption to play. </small></strong>
+<small><strong>The putting greens at Keya GC in Japan have been tested for total organic matter at the 2, 4, and 6 cm depths for the past few years. This information has led to firmer and smoother putting surfaces with less disruption to play.</strong></small>
 
 This simple trick makes a lot of sense to me. I hope you find it useful too.
 
