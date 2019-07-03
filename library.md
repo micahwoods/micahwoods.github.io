@@ -43,6 +43,7 @@ bigimg: /img/library_banner.jpg
 
 ### Popular & Trade press
 
+* [Measuring clipping volume is easier and more useful than I expected](http://www.files.asianturfgrass.com/201906_woods_migcsa_clipvol.pdf)
 * [The Park Grass experiment and the fight against dogma](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/article/woods-park-4-22-11.pdf) 
 * [Does potassium fertilizer *really* increase roots?](http://www.files.asianturfgrass.com/woods_potassium_roots_turfnet_nov04.pdf)
 * [Achieving the warm season links](http://www.files.asianturfgrass.com/woods_gca_links.pdf)
