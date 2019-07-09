@@ -13,7 +13,7 @@ tags: [nitrogen, clipvol, water, growth]
 The other day it rained at [ATC南店](https://twitter.com/search?src=typd&q=%23ATC%E5%8D%97%E5%BA%97). I knew that the grasses would grow at a faster rate after the rain than they had been growing prior to the rain.
 
 ![rain on pots at ATC南店](/img/atc_minami_rain.jpg)
-<small><strong>Some grass at ATC南店 after a tropical thunderstorm. I wondered about the subsequent grass growth, and how to partition the cause between N from the rain, increased N mineralization, or increased soil moisture content. </strong></small>
+<small><strong>Some grass at ATC南店 after a tropical thunderstorm. I wondered about the subsequent grass growth, and how to partition the cause of that growth between N from the rain, increased N mineralization, or increased soil moisture content.</strong></small>
 
 But I also wondered about the cause of that future growth. Would there be a substantial amount of nitrogen (N) supplied because of lightning in that storm? Almost certainly not. Would there have been a lot of N in the rain itself? Maybe. That's something I could check. Would there be a flush of N mineralization from soil organic matter? I could calculate that. Would the growth be from the water itself? Perhaps. I wondered if I could make some calculations to express the probable growth effects on the same scale.
 
@@ -29,7 +29,7 @@ I'll express all of these, eventually, in the same units---as the clipping volum
 
 I've [written about this before](https://www.blog.asianturfgrass.com/2017/06/how-much-n-is-in-rain-and-snow.html) and that post has links to actual data on N deposition. Check that out if you want to find out how much N you may receive from the sky where you are. In general, the N deposition will be less than 2 g N/m<sup>2</sup>/year (less than 0.4 lbs N/1000 ft<sup>2</sup>/year).
 
-A brief aside here about lightning and N. It might be less than you think. The N oxidized by lightning comes to about 0.002 g N/m<sup>2</sup>/year (0.0004 lbs N/1000 ft<sup>2</sup>/year)]. [Simpson et al.](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/98JD02747) have a recent discussion of this.
+A brief aside here about lightning and N: the amount of N produced by lightning might be less than you think. The N oxidized by lightning comes to about 0.002 g N/m<sup>2</sup>/year (0.0004 lbs N/1000 ft<sup>2</sup>/year). [Simpson et al.](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/98JD02747) have a recent discussion of this.
 
 I want to work through a semi-realistic example. Let's take our location for this example as [New Forest Golf Club](https://newforestgolfclub.co.uk/) in England, and consider what might happen on putting green turf.
 
@@ -42,7 +42,7 @@ Let's take a precipitation amount of 20 mm. 20 mm is 2.6% of the annual precipit
 
 What growth amount do I expect when the grass is supplied with 0.03 g of N? The grass on these greens will have about 40 g N/1000 g dry leaf matter. The 0.03 g of N from the rain will contribute to about 0.75 g dry leaf matter/m<sup>2</sup>. 
 
-To convert that dry matter to clipping volume, I expect that 1 g/m<sup>2</sup> of dried putting green clippings (from bentgrass, *Poa annua*, or bermudagrass) will have a [#ClipVol](https://twitter.com/search?src=typd&q=%23clipvol) of 16.67 mL/m<sup>2</sup>. If we have 0.75 g of clipping produced from this N added in the rain, then I expect the increase in clipping volume will be 12.5 mL/m<sup>2</sup>. I'm going to express this as the average over five days---the five days immediately after the 20 mm rain---so we get an expected increase in growth from N in the rain of 2.5 mL/m<sup>2</sup>/day.
+To convert that dry matter to clipping volume, I expect that 1 g/m<sup>2</sup> of dried putting green clippings (from bentgrass, *Poa annua*, or bermudagrass) will have a [#ClipVol](https://twitter.com/search?src=typd&q=%23clipvol) of 16.67 mL/m<sup>2</sup>. If we have 0.75 g of clippings produced from this N added in the rain, then I expect the increase in clipping volume will be 12.5 mL/m<sup>2</sup>. I'm going to express this as the average over five days---the five days immediately after the 20 mm rain---so we get an expected increase in growth from N in the rain of 2.5 mL/m<sup>2</sup>/day.
 
 ### b) the probable amount of N mineralized after a known amount of precipitation
 
@@ -52,7 +52,7 @@ I'm going to consider the mineralization in the top 10 cm (4 inches), make this 
 
 If, prior to the rain, the top 10 cm of the soil was maintained at a VWC of 15%, then the 20 mm of rain will take the soil right to field capacity. Prior to the rain, the soil was being maintained at 43% of field capacity (15/35). After the 20 mm of rain at the end of day 0, and with 4 mm ET each day, the soil is expected to be at 35% VWC at the start of day 1, then at 31, 27, 23, and 19% VWC on each of the next four days. This comes to an average over the five days of 27% VWC, or 77% of field capacity.
 
-Working through the calculations, with a 10 cm soil depth, 2% soil organic matter, soil temperature of 20 °C, and soil at 77% of field capacity, with soil maintained at 15% VWC pre-rain in a soil with field capacity of 35%, the mineralized N over a five day period is expected to be 0.1 g N/m<sup>2</sup>. Note that this increase in N mineralized from soil organic matter because of the rain produces approximately *three times as much* N as was supplied by the rain itself. 
+Working through the calculations, with a 10 cm soil depth, 2% soil organic matter, soil temperature of 20 °C, and soil at 77% of field capacity, with soil maintained at 15% VWC pre-rain in a soil with field capacity of 35%, the mineralized N over a five day period is expected to be 0.1 g N/m<sup>2</sup>. Note that this increase in N mineralized from soil organic matter because of the rain produces approximately **three times as much** N as was supplied by the rain itself. 
 
 Working through this expected effect on clipping volume gives an increase, because of the mineralized N, of 8 mL/m<sup>2</sup>/day over the five post-rain days.
 
