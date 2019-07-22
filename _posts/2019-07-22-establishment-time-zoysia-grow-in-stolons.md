@@ -27,4 +27,5 @@ For more about this topic, you can see:
 * My blog post [describing the start of this experiment](https://www.asianturfgrass.com/2019-04-27-temperature-turfhacks-zoysia-birds/)
 * Commercial sod production in Thailand (video), [1 month from planting to harvest](https://youtu.be/frUkAmBSKyg)
 * Another video of [zoysia sod production in Thailand](https://youtu.be/1uLkfBb5II0)
-* The surprisingly confusing topic of bushels of sprigs or stolons area---[warm-season grass planting rates](https://www.asianturfgrass.com/2017-09-23-converting-to-bushels-per-area/)
+* The surprisingly confusing topic of bushels of sprigs or stolons per area---[warm-season grass planting rates](https://www.asianturfgrass.com/2017-09-23-converting-to-bushels-per-area/)
+* [Turfgrass establishment: sprigging and stolonizing](https://extension.tennessee.edu/publications/Documents/W160-D.pdf) by Tom Samples and John Sorochan at the University of Tennessee
