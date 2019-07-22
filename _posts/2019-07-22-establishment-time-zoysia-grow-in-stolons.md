@@ -9,7 +9,7 @@ bigimg:
 tags: [thailand, zoysia, research, video]
 ---
 
-On April 22 I planted some 'Sena' manilagrass with the help of staff from the GolfEast company. We were careful to plant at an exact rate, and we documented the grow in through digital image analysis. The objective of this project was to measure the grow-in time---that is, how many days would it take after planting at this rate to get full grass coverage.
+On April 22 I planted some 'Sena' manilagrass with the help of staff from the GolfEast company. We were careful to plant at an exact rate, and we documented the grow-in through digital image analysis. The objective of this project was to measure the grow-in time---that is, how many days would it take after planting at this rate to get full grass coverage.
 
 I made [this video](https://vimeo.com/micahwoods/sena) to show the results.
 
