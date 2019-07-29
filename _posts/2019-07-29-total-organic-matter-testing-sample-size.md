@@ -5,7 +5,7 @@ share-img: "https://www.asianturfgrass.com/img/double_green_samples.jpg"
 bigimg:
 - "/img/double_green_pano.jpg" : "multiple samples were taken from greens and tested individually to check variability"
 - "/img/double_green.jpg" : "a double green in Bangkok was sampled for total organic matter in 42 locations"
-- "/img/double_green_sample.jpg" : "samples collected for individual testing"
+- "/img/double_green_samples.jpg" : "samples collected for individual testing"
 tags: [organic matter, sand, verdure, om246]
 ---
 
