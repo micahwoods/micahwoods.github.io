@@ -21,6 +21,7 @@ The quick answer is here.
 * I recommend testing a minimum of three greens
 * I recommend using a core sampler with a minimum diameter of 2 cm and a maximum diameter of 4 cm. I prefer 3 or 4 cm samplers; most golf courses have samplers closer to 2 cm in diameter.
 * Each subsample is approximately 6 cm<sup>3</sup> with a 2 cm sampler to a 2 cm depth, 14 cm<sup>3</sup> with a 3 cm sampler, and 25 cm<sup>3</sup> with a 4 cm sampler. The total sample size, then, comes to about 30, 70, or 125 cm<sup>3</sup>, respectively, when gathering five subsamples with 2, 3, or 4 cm diameter samplers.
+* Jim Murphy suggested to me that combined small subsamples should, at a minimum, sample a total area of 4 square inches (25 cm<sup>2</sup>). This suggests a minimum volume for these samples should be 50 cm<sup>3</sup>. The reason for this minimum is to capture the effect of aeration holes based on the typical spacing for those holes. 
 
 ---
 
@@ -53,11 +54,11 @@ There is variation in the OM<sub>T2</sub> on each of those greens. So if I take 
 At each number of subsamples---at 1, 2, 3 per green, all the way up to 40---I instructed the computer to calculate an 89% highest posterior density interval ([HPDI](https://en.wikipedia.org/wiki/Credible_interval)). That interval contains 89% of the probability mass for the posterior distribution of the parameter values in the model, given the data that I collected. 
 
 ![expected precision](/img/precision_om.png)
-<small><strong>Figure 2. Width of 89% highest posterior density intervals (HPDI) for 9 greens (the light grey lines) and the mean (blue line) of those greens for e1 to 40 subsamples.</strong></small>
+<small><strong>Figure 2. Width of 89% highest posterior density intervals (HPDI) for 9 greens (the light grey lines) and the mean (blue line) of those greens for 1 to 40 subsamples.</strong></small>
 
 I've plotted this in Figure 2 as lines that go from from left to right, for each of the nine greens that was tested for individual subsamples, and included the mean line (in blue) which is what I expect for the average green.
 
-What Figure 2 shows, in plain terms, is a width of the error margin on the verical y-axis and how this changes as more samples are collected. For the average green, when I take 5 subsamples, the 89% interval is about 18 g kg<sup>-1</sup>. That's plus or minus about 9 g kg<sup>-1</sup>. With 10 subsamples the interval is about 12 g kg<sup>-1</sup>. And at 15 subsamples the interval gets to what I'd like to see, which is plus or minus 5 g kg<sup>-1</sup>---an interval width of 10 g kg<sup>-1</sup>. 
+What Figure 2 shows, in plain terms, is a width of the error margin on the vertical y-axis and how this changes as more samples are collected. For the average green, when I take 5 subsamples, the 89% interval is about 18 g kg<sup>-1</sup>. That's plus or minus about 9 g kg<sup>-1</sup>. With 10 subsamples the interval is about 12 g kg<sup>-1</sup>. And at 15 subsamples the interval gets to what I'd like to see, which is plus or minus 5 g kg<sup>-1</sup>---an interval width of 10 g kg<sup>-1</sup>. 
 
 For any one green, it seems that collecting five subsamples will get an 89% interval for the mean within 10 g kg<sup>-1</sup> plus or minus. If there are five subsamples, and the OM<sub>T2</sub> is 8.3%, then I'm 89% confident that the mean of that area is within the 7.3% to 9.3% range. After one has measured three greens, each with five subsamples, now the 89% interval is about 10 g kg<sup>-1</sup>, so if I measured 8.3%, I now expect it to be within the 7.8% to 8.8% range.
 
