@@ -27,10 +27,10 @@ The quick answer is here.
 
 Here's the long answer, with some explanation of why I recommend that amount of sampling, and what type of precision to expect when a certain number of subsamples are collected.
 
-I'm using terminolgy here of **subsample** and **sample**. By subsample I mean the many cores I might take from a green, placing them all in the same bag to be measured at the lab in a single test. Each of the cores I'll call a subsample. The subsamples all combined together I call the sample. 
+I'm using terminolgy here of **subsample** and **sample**. By subsample I mean the many cores I might take from a green, placing them all in the same bag to be measured at the lab in a single test. Each of the cores I'll call a subsample. The subsamples all combined together I call the sample. And if I sometimes call a *subsample* a *sample*, I hope you'll be able to infer my meaning from the context.
 
 ![organic matter samples on a green](/img/double_green_samples.jpg)
-<small><strong>Individual samples were collected for testing from multiple greens; measuring the individual samples provides information about the variation from sample to sample, which can be used to estimate the number of subsamples required for a particular test.</strong></small>
+<small><strong>Individual subsamples were collected for testing from multiple greens; measuring the individual subsamples provides information about the variation from sample to sample, which can be used to estimate the number of subsamples required for a particular test.</strong></small>
 
 Kauffman et al. have an interesting article about this called ["Field sampling warm-season putting greens for thatch-mat depth and organic matter content."](https://doi.org/10.21273/HORTTECH.23.3.369) They measured organic matter to a depth of 1 inch (25 mm) using large (10 cm diameter) core samples, and they got standard deviations ranging from 1.9 to 5.2 g kg<sup>-1</sup> (that's 0.19% to 0.52% OM). When I've measured individual samples from greens, I've found standard deviations from 3 to 21 g kg<sup>-1</sup> (that's 0.3 to 2.1% OM).
 
