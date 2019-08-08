@@ -8,11 +8,11 @@ bigimg:
 tags: [organic matter, sand, verdure, om246]
 ---
 
-Here are three reasons I think it is best to express sand topdressing applied to turfgrass as a depth of sand applied.
+Here are three reasons I think it is best to express sand topdressing applied to turfgrass as a depth.
 
-1. Depth of sand standardizes the amount by mass and area.
+1. Depth of sand standardizes the amount applied, independent of the mass of the sand or the area over which the sand was spread.
 
-2. Sand is generally applied for the purpose of diluting soil organic matter; the sand expressed as a depth is in units that are directly comparable to organic matter (OM). For example, if total organic matter in the top 2 cm (OM<sub>T2</sub>) is at 8% by mass, adding 1 mm of sand will immediately reduce that by 1/20<sup>th</sup>---after adding 1 mm of sand the total organic matter in the top 2 cm will be about 7.6%.
+2. Sand is generally applied for the purpose of diluting soil organic matter; the sand expressed as a depth is in units that are directly comparable to organic matter (OM). For example, if total organic matter in the top 2 cm (OM<sub>T2</sub>) is at 8% by mass, adding 1 mm of sand will immediately reduce that by about 1/20<sup>th</sup>---after adding 1 mm of sand the total organic matter in the top 2 cm will be approximately 7.6%. The *about* and *approximately* here are because organic matter % in the soil is usually expressed as mass, and the sand expressed as depth is explicitly a volume divided by area. Also, the soil mass depends on how much organic matter is present and on the bulk density of the organic matter. I'll write more about this sometime. In the meantime, you might find it useful, as I do, to think that adding 10 mm of sand to a 20 mm depth of soil will cut the organic matter in half. 
 
 3. Communication of topdressing amounts in the same, standardized unit of depth (mm or inches), makes it easy to understand how others are getting the desired results at their location.
 
@@ -48,3 +48,4 @@ For more see:
 * [A Short Grammar of Greenkeeping](https://leanpub.com/short_grammar_of_greenkeeping)
 * [Topdressing frequency on golf course putting greens in Japan](https://www.asianturfgrass.com/2017-12-20-topdressing-japan/)
 * [Sand topdressing to match grass growth](https://www.asianturfgrass.com/2017-08-20-topdress-and-growth-potential/)
+* [Greens Organic Matter Management Tool](https://buckeyeturf.osu.edu/organicmattertool) from Ed McCoy at Ohio State University
