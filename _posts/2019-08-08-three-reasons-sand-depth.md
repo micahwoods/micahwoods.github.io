@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three reasons why sand topdressing is best expressed as a depth"
-share-img: "https://www.asianturfgrass.com/img/topdress_atc.jpg.jpg"
+share-img: "https://www.asianturfgrass.com/img/topdress_atc.jpg"
 bigimg:
 - "/img/topdress_atc.jpg" : "application of sand topdressing to a research green"
 - "/img/tdress2.jpg" : "sand topdressing in Japan reported as depth of sand"
