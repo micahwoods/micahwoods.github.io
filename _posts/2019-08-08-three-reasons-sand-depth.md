@@ -26,11 +26,13 @@ I looked at a few articles and messages and tweets and noted the units that I fo
 * tonnes
 * tonnes/ha
 * tons/ha
-* lbs/1000 ft<sup>2</sup>
+* lbs/1,000 ft<sup>2</sup>
 * weekly dusting
 * as needed
-* tons per 1000 ft<sup>2</sup>
+* tons per 1,000 ft<sup>2</sup>
 * tonnes/green
+
+Surprisingly, I didn't find any units of kg/ha, but I expect some out there are using that too.
 
 I prefer depth for the three reasons listed above. Depth is directly related to the desired result. Depth is also easy for anyone to understand because it already adjusts for the area to which the sand was applied. 
 
