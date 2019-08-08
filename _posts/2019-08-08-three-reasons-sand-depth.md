@@ -42,7 +42,7 @@ Like the surprisingly useful [#clipvol](https://twitter.com/search?q=%23Clipvol)
 <small><strong>This golf course reported topdressing of 0.4 mm in March, 0.3 mm in April, 2 mm in May, through to 0.3 mm in December. There was a total of 8.7 mm applied in 21 applications.</strong></small>
 
 ![sand topdressing as depth 2](/img/tdress2.jpg)
-<small><strong>This golf course reported 7.1 mm sand application in 12 applications.</strong></small>
+<small><strong>This golf course reported 7.1 mm sand added in 12 applications during the year.</strong></small>
 
 For more see:
 
