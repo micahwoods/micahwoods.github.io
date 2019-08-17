@@ -15,7 +15,7 @@ It was fascinating to hear from [John Ledwidge](https://twitter.com/johnledwidge
 John's description of his work made clear some differences between typical pitch construction and maintenance in Thailand, and the way such work is done at the Premier League level in England. He surprised everyone in the audience during the discussion when he was asked how many times a week he would typically mow the pitch. During this season, he said, 14 times. Cutting at 24 mm in the morning, typically, and then a dry cut in the afternoon at 22 mm.
 
 ![core sweeper on football pitch in Japan](/img/sweeper_football.jpg)
-<small><strong>Nobuo Suzuki spoke about football and rugby pitch preparation and assessment in Japan, and showed these photos of the core aerification and cleanup of 'Tifway' surfaces in Osaka.<i>Photos from Nobuo Suzuki</i>.</strong></small>
+<small><strong>Nobuo Suzuki spoke about football and rugby pitch preparation and assessment in Japan, and showed these photos of the core aerification and cleanup of 'Tifway' surfaces in Osaka. <i>Photos from Nobuo Suzuki</i>.</strong></small>
 
 Nobuo Suzuki explained the measurements he makes in Japan to assess the pitch performance, and he described the work done to make sure the surfaces meet the desired standard. I enjoyed seeing his sequence of photos explaining the core aerification process, and seeing how clean the core sweepers leave the surface.
 
