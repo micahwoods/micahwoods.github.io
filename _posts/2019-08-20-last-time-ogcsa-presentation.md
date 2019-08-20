@@ -5,7 +5,7 @@ share-img: "https://www.asianturfgrass.com/img/pl97.jpg"
 tags: [seminar]
 ---
 
-The last time the [Oregon GCSA](www.ogcsa.org) asked me to speak, the year was 1997, my topic was "An internship at Augusta National Golf Club," and I showed a carousel full of slides using a *real* slide projector. You can imagine how excited I am to be invited again, 22 years later, to their [fall meeting on November 6](http://www.ogcsa.org/event/2019-fall-meeting/) at Illahe Hills Country Club in Salem. 
+The last time the [Oregon GCSA](http://www.ogcsa.org/) asked me to speak, the year was 1997, my topic was "An internship at Augusta National Golf Club," and I showed a carousel full of slides using a *real* slide projector. You can imagine how excited I am to be invited again, 22 years later, to their [fall meeting on November 6](http://www.ogcsa.org/event/2019-fall-meeting/) at Illahe Hills Country Club in Salem. 
 
 Registration is [open to anyone, here](http://www.ogcsa.org/event/2019-fall-meeting/). I'll be traveling all the way from southern Thailand to attend this meeting, and I expect a lot of friends and turfgrass managers and students will be traveling to Salem on November 6 as well.
 
