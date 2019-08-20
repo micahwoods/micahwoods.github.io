@@ -11,7 +11,7 @@ There's an interesting discussion about this between Frank Rossi and Chris Trita
 
 The entire conversation is interesting but to jump right to this topic, go to the 9 minute mark, or if you are really impatient, skip to 11:30.
 
-<iframe width="100%" height="160" src="http://percolate.blogtalkradio.com/offsiteplayer?hostId=705817&episodeId=8971303&referrer=twitter" frameborder="0"></iframe>
+<iframe width="100%" height="160" src="http://percolate.blogtalkradio.com/offsiteplayer?hostId=705817&episodeId=8971303" frameborder="0"></iframe>
 
 You will hear statements like these:
 
