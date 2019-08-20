@@ -7,9 +7,9 @@ tags: [podcast, turfgrass management]
 
 This conversation keeps happening more and more, about which products are really required to produce the desired surfaces.
 
-There's an interesting discussion about this between Frank Rossi and Chris Tritabaugh in this [TurfNet Frankly Speaking episode](https://www.turfnet.com/podcasts/rossi/tritabaugh2/).
+There's an interesting discussion on this topic between Frank Rossi and Chris Tritabaugh in this [TurfNet Frankly Speaking episode](https://www.turfnet.com/podcasts/rossi/tritabaugh2/).
 
-The entire conversation is interesting but to jump right to this topic, go to the 9 minute mark, or if you are really impatient, skip to 11:30.
+The entire conversation is interesting but to jump right to products, go to the 9 minute mark, or if you are really impatient, skip to 11:30.
 
 <iframe width="100%" height="180px" src="//percolate.blogtalkradio.com/offsiteplayer?hostId=705817&episodeId=8971303" frameborder="0" allowfullscreen></iframe>
 
