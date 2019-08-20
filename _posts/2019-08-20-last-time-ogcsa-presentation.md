@@ -9,7 +9,7 @@ The last time the [Oregon GCSA](http://www.ogcsa.org/) asked me to speak, the ye
 
 Registration is [open to anyone, here](http://www.ogcsa.org/event/2019-fall-meeting/). I'll be traveling all the way from southern Thailand to attend this meeting, and I expect a lot of friends and turfgrass managers and students will be traveling to Salem on November 6 as well.
 
-I'll be speaking on three distinct topics.
+I'll be making some prepared remarks on three distinct topics.
 
 ### Soil conditions for the best turf today
 
