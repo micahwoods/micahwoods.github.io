@@ -11,7 +11,7 @@ I've been at Keya Golf Club for the [KBC Augusta tournament](https://www.asiantu
 
 I'm especially interested in how the ball reacts on the greens because there was 32 mm (1.25 inches) of rain yesterday morning. That was the seventh consecutive day with rainfall.
 
-Seven. That's one more time than the greens have been sand topdressed in the past three years. Because the greens have only been topdressed twice this year, twice in 2018, and twice in 2017, I wanted to confirm that the surface firmness of the greens was still fine for the tournament.
+Seven. That's one more time than the greens have been sand topdressed in the past three years. Because the greens have only been topdressed twice this year, twice in 2018, and twice in 2017, I wanted to confirm that the surface firmness of the greens was still fine for the tournament. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yesterday afternoon I watched some shots in the <a href="https://twitter.com/hashtag/KBC%E3%82%AA%E3%83%BC%E3%82%AC%E3%82%B9%E3%82%BF?src=hash&amp;ref_src=twsrc%5Etfw">#KBCオーガスタ</a> practice round to check ball reaction on the greens. This is on the 194 yard 17th (member 8th), and I slowed down and zoomed in the ball landing. <a href="https://t.co/5JoQve3OdP">pic.twitter.com/5JoQve3OdP</a></p>&mdash; Micah Woods (@asianturfgrass) <a href="https://twitter.com/asianturfgrass/status/1166125666330234880?ref_src=twsrc%5Etfw">August 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
