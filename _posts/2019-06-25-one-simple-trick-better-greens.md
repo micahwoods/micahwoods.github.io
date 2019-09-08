@@ -2,7 +2,7 @@
 layout: post
 title: "This one simple trick can transform putting greens from usually good to consistently great"
 share-img: "https://www.asianturfgrass.com/img/soil_sampler_depth.jpg"
-tags: [organic matter, sand, verdure]
+tags: [organic matter, sand, verdure, om246]
 ---
 
 What's the trick? It is measuring the soil organic matter in the green, over time, and then adjusting the maintenance work. The purpose of this is to simultaneously produce a putting surface with the desired characteristics while minimizing the amount of disruptive work done to the putting surface. Here's how it works.
