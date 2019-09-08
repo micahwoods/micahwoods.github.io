@@ -7,7 +7,7 @@ bigimg:
 - "/img/yellow.jpg" : "Kumamoto City Tram"
 - "/img/old_new.jpg" : "Kumamoto City Tram"
 
-tags: [Japan, equipment]
+tags: [japan, equipment]
 ---
 
 I went for a walk in Kumamoto yesterday morning to take a few photos of the grass on the Kumamoto City Tram. [This page](https://www.city.kumamoto.jp/hpKiji/pub/detail.aspx?c_id=5&id=1957&class_set_id=2&class_id=3078) shows how the grass sections are installed.
