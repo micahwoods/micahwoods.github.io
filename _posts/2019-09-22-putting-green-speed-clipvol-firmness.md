@@ -5,11 +5,11 @@ share-img: "https://www.asianturfgrass.com/img/firmness_speed.png"
 bigimg:
 - "/img/keya_11_2x_mow.jpg" : "mowing the 11th green during the 2019 KBC Augusta tournament"
 - "/img/keya_16_bunker_fix.jpg" : "repairing a greenside bunker during the 2019 KBC Augusta tournament"
-- "/img/keya_loader_11_bunker.jpg" : "mowing sand around during the 2019 KBC Augusta tournament"
+- "/img/keya_loader_11_bunker.jpg" : "moving sand around during the 2019 KBC Augusta tournament"
 tags: [tournament, green speed, japan, clipvol, mowing, surface hardness]
 ---
 
-Last week I had a couple conversations about green speed. These particular items may be general knowledge. I thought they were interesting and share the charts here.
+Last week I had a couple conversations about green speed. 
 
 ### Green speed and surface hardness
 
@@ -17,7 +17,7 @@ My column in the June 2018 issue of *Golf Course Seminar* magazine discusses the
 
 ![green speed and effective mowing height](/img/201806_gc_seminar.jpg)
 
-[Eric Reasor](https://twitter.com/TurfBlade) collected a fascinating set of data on green speed and effective mowing height (measured with a prism gauge. With green speeds from less than 7 to more than 14 feet, and effective mowing heights from less than 1 to more than 6 mm, it is clear that the length of the grass blades is a primary influence on green speed.
+[Eric Reasor](https://twitter.com/TurfBlade) collected a fascinating set of data on green speed and effective mowing height measured with a prism gauge. With green speeds from less than 7 to more than 14 feet, and effective mowing heights from less than 1 to more than 6 mm, it is clear that the length of the grass blades is a primary influence on green speed.
 
 "What about surface hardness and green speed?" That's a question I was asked last week. These two things aren't related. I looked at data from almost 400 putting greens from non-tournament conditions and made this chart.
 
@@ -33,13 +33,15 @@ First, I've always thought it obvious that this must be the case, with [no need 
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">I couldn&#39;t find any correlation between clipping yield &amp; green speed. Other factors more important. Measured 3x/day for 60 days over 2 years <a href="https://t.co/gkVBUe7QMK">pic.twitter.com/gkVBUe7QMK</a></p>&mdash; Bill Kreuser (@UNLturf) <a href="https://twitter.com/UNLturf/status/879015787524104194?ref_src=twsrc%5Etfw">June 25, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-I've wanted to explore this further, so I've continued to look at clipping volume and green speed. Here's a note about green speed at clipping volume at the recent KBC Augusta tournament in at Keya GC in Japan. If you followed the tournament with the [#KBCオーガスタ](https://twitter.com/hashtag/KBC%E3%82%AA%E3%83%BC%E3%82%AC%E3%82%B9%E3%82%BF?src=hashtag_click) hashtag you would have seen that there was lots of rain during the tournament week (and a lot of photos of the HKT48 performance).
+I've wanted to explore this further, so I've continued to look at clipping volume and green speed. 
+
+Here's a note about green speed at clipping volume at the recent KBC Augusta tournament in at Keya GC in Japan. If you followed the tournament with the [#KBCオーガスタ](https://twitter.com/hashtag/KBC%E3%82%AA%E3%83%BC%E3%82%AC%E3%82%B9%E3%82%BF?src=hashtag_click) hashtag you would have seen that there was lots of rain during the tournament week (and a lot of photos of the HKT48 performance).
 
 One thing I've noticed when measuring clipping volume is that it tends to be consistent when turf is intensively maintained. During the tournament week, even with considerable variation in rain amounts and sunshine and temperature, the average clipping volume per mow ranged from 3 to 5 mL/m<sup>2</sup>.
 
 ![gif of clip vol late aug](/img/clipvol_perMow_animate.gif)
 
-Another thing I've noticed is that when the clipping volume is consistent, the green speeds tend to be consistent too. During the tournament week, there was a lot of rain, and the morning maintenance included mowing on 6 days and rolling on 4 days. 
+Another thing I've noticed is that when the clipping volume is consistent, the green speeds tend to be consistent too. I think this has to do with the effective mowing height mentioned in the first section of this post. During the tournament week, there was a lot of rain, and the morning maintenance included mowing on 6 days and rolling on 4 days. 
 
 ![16 bunker fix](/img/keya_16_bunker_fix.jpg)
 
