@@ -1,10 +1,11 @@
 ---
 layout: page
 title: ATC media library
-share-img: "https://www.asianturfgrass.com/img/yongling2.jpg"
+share-img: "https://www.asianturfgrass.com/img/media.jpg"
+bigimg: /img/media.jpg
 ---
 
-There are a lot of videos and podcasts in which I've discussed various aspects of turfgrass management. I've organized some of them together here, and have also included links to more than 75 presentation slide decks and three books. For written articles, see the [ATC library](https://www.asianturfgrass.com/library/).
+There are a lot of videos and podcasts in which I have discussed various aspects of turfgrass management. I've organized some of them together here, and have also included links to more than 75 presentation slide decks and three books. For written articles, see the [ATC library](https://www.asianturfgrass.com/library/).
 
 ### Videos
 
