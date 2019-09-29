@@ -11,7 +11,7 @@ When they were discussing the book, John mentioned that [MLSN](https://www.asian
 
 You can listen (starting around minute 42:00) for the full discussion of *why* MLSN is not mentioned in the book. It revolves around the same trope I've heard many times over the years---research behind soil test interpretations for turfgrass, and peer-review of fertilizer recommendations based on soil tests.
 
-Existing soil test interpretation and fertilizer recommendations for turfgrass are poorly researched and are not peer reviewed. If someone doesn't like the MLSN approach, I'd love to hear a new objection.  
+Existing soil test interpretation and fertilizer recommendations for turfgrass are poorly researched and are not peer reviewed. If someone doesn't like the MLSN approach, I'd love to hear a new objection, because this one doesn't hold water.  
 
 ---
 
