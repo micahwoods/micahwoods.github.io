@@ -31,9 +31,11 @@ That's the standard recommendation. When I used to recommend that in 2006 and 20
 
 But I kept seeing these courses in various parts of the world, doing way less than 15-20% surface removal, and usually putting 3 to 7 mm of sand topdressing rather than the recommended 12 to 15 mm. And you know what I noticed? The surfaces didn't fail. In 2009 they were fine, and in 2010 they were fine, and in 2015 they were fine. In fact, I've seen (and written about extensively on the blog) the [surprising case of Keya GC](https://www.asianturfgrass.com/2019-08-27-ball-bounce-after-7-days-of-rain/) in Japan, where playing conditions actually got better when coring and topdressing were reduced.
 
-I couldn't keep teaching seminars and writing articles about the standard recommendations when I'd gone almost a decade seeing turf managers **not follow** these recommendations and still get terrific results. By 2016, I was writing an article for my column in [*Golf Course Seminar*](https://www.golfdigest.co.jp/digest/english/) magazine with the title *I'd recommend less coring and less topdressing sand than I used to*. 
+I couldn't keep teaching seminars and writing articles about the standard recommendations when I'd gone almost a decade seeing turf managers **not follow** these recommendations and still get terrific results. By 2016, I was writing an article for my column in [*Golf Course Seminar*](https://www.golfdigest.co.jp/digest/english/) magazine with the title *I'd recommend less coring and less topdressing sand than I used to*.
 
-I've given seminars about this too. I think [these slides](https://speakerdeck.com/micahwoods/thinking-differently-trying-to-reduce-topdressing-and-core-aerification-by-careful-adjustment-of-the-growth-rate-and-organic-matter) from my presentation at the Spanish Greenkeepers Congress in 2018 are especially easy to follow.
+I've given seminars about this too. I think [these slides](https://speakerdeck.com/micahwoods/thinking-differently-trying-to-reduce-topdressing-and-core-aerification-by-careful-adjustment-of-the-growth-rate-and-organic-matter) from my presentation at the Spanish Greenkeepers Congress in 2018 are especially easy to follow. 
+
+The [slide embedded below](https://speakerdeck.com/micahwoods/thinking-differently-trying-to-reduce-topdressing-and-core-aerification-by-careful-adjustment-of-the-growth-rate-and-organic-matter?slide=23) shows a creeping bentgrass green, very much in the transition zone, that hasn't seen coring tines for 13 years.
 
 <script async class="speakerdeck-embed" data-slide="23" data-id="2662418d203d44d7ab0150e613cd05a9" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
@@ -41,7 +43,7 @@ I've given seminars about this too. I think [these slides](https://speakerdeck.c
 
 When an article is written by USGA agronomists and is published in the *Green Section Record*, I consider that to be a somewhat official recommendation. As recently as 2016, the standard *official* recommendation continues to be 15 to 20% surface area removal and 12 to 15 mm of sand topdressing. 
 
-In the big scheme of things, nobody reads the ATC website. I can highlight things here all I want, but there just aren't a lot of visitors. The median visitor number per day in 2019 is 41. I keep making notes to myself that I should spend less time writing on the blog, and doing things that I can charge money for instead. But I have a lot of things I want to say and somehow prefer to keep writing things and sharing them, even if they largely go unread. 
+In the big scheme of things, nobody reads the ATC website. I can highlight things here all I want, but there just aren't a lot of visitors. The median visitor number per day in 2019 is 41. I keep making notes to myself that I should spend less time writing on the blog, and instead working on things that I can charge money for. But I have a lot of things I want to say and somehow prefer to keep writing things and sharing them, even if they largely go unread. 
 
 I think it is pretty easy to justify doing the work necessary to produce the desired conditions at any facility, and I would hope that some of the information here at the ATC website is useful in that regard. At the same time, when there are standard recommendations that I think are widely known, certainly more widely-known than the barely-read content that I produce, I find it worthwhile to share and highlight some of those situations where an alternative to the standard recommendation is producing good results.
 
