@@ -39,7 +39,7 @@ The [slide embedded below](https://speakerdeck.com/micahwoods/thinking-different
 
 <script async class="speakerdeck-embed" data-slide="23" data-id="2662418d203d44d7ab0150e613cd05a9" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-### 3. Why I think it is worthwhile to highlight less coring than the standard recommendation
+### 3. Why I think it is worthwhile to highlight alternatives to the standard recommendation
 
 When an article is written by USGA agronomists and is published in the *Green Section Record*, I consider that to be a somewhat official recommendation. As recently as 2016, the standard *official* recommendation continues to be 15 to 20% surface area removal and 12 to 15 mm of sand topdressing. 
 
