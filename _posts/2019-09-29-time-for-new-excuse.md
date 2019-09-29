@@ -7,9 +7,9 @@ tags: [MLSN, soil test, fertilizer]
 
 I really enjoyed listening to [John Kaminski on season 2 episode 3](http://thetalkinggreenkeeper.libsyn.com/website/3-john-kaminski) of the Talking Greenkeeper. It was fascinating to hear how the new edition of [*Turfgrass Management*](https://turfpath.com/book) by Turgeon and Kaminski came together.
 
-When they were discussing the book, John mentioned that [MLSN](https://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/) is not mentioned in the book, and I appreciate his comments that "I wanted to include it" and MLSN will "definitely make it into the next edition." 
+When they were discussing the book, host Joe Gulotti asked about MLSN, and John answered that [MLSN](https://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/) is not mentioned in the book. I appreciate his comments that "I wanted to include it" and MLSN will "definitely make it into the next edition." 
 
-You can listen (starting around minute 42:00) for the full discussion of *why* MLSN is not mentioned in the book. It revolves around the same trope I've heard many times over the years---research behind soil test interpretations for turfgrass, and peer-review of fertilizer recommendations based on soil tests.
+You can listen (starting around minute 42:00) for the full discussion of *why* MLSN is not in the book. It revolves around the same trope I've heard many times over the years---research behind soil test interpretations for turfgrass, and peer-review of fertilizer recommendations based on soil tests.
 
 Existing soil test interpretation and fertilizer recommendations for turfgrass are poorly researched and are not peer reviewed. If someone doesn't like the MLSN approach, I'd love to hear a new objection, because this one doesn't hold water.  
 
