@@ -45,9 +45,12 @@ MLSN might be a particularly bad way to make fertilizer recommendations, but tha
 
 For more about this, one could read just about anything about MLSN. I'll highlight these four:
 
-* [That's not the way it is supposed to work](https://www.blog.asianturfgrass.com/2016/03/thats-not-the-way-it-is-supposed-to-work.html): GCSAA survey respondents who used soil testing as a best management practice *to reduce reliance on fertilizers* ended up applying *more* fertilizer than those who did not soil test.
+* [That's not the way it is supposed to work](https://www.blog.asianturfgrass.com/2016/03/thats-not-the-way-it-is-supposed-to-work.html): GCSAA survey respondents who used soil testing as a best management practice "to reduce reliance on fertilizers" ended up applying *more* fertilizer than those who did not soil test.
+
 * [Turfgrass fertiliser recommendations with or without soil tests](https://www.asianturfgrass.com/2018-07-07-turfgrass-fertiliser-recommendations/): a summary with slides and a screencast of my keynote presentation at the European Turfgrass Society conference in Manchester last year.
+
 * [The 9th MLSN newsletter](https://preview.mailerlite.com/t2s8c8): I address the issue of MLSN vs conventional guidelines and work through a few calculations for comparison.
+
 * [Turfgrass nutrient guidelines, peer review, and potassium](http://files.asianturfgrass.com/20140615_mlsn_k.pdf): the most extensive discussion I've made of this topic, from all the way back in 2014.
 
 
