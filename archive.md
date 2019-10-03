@@ -11,6 +11,7 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 [Subscribe to ATC updates here](http://www.subscribepage.com/atcupdate).
 
+* [September 2019](http://www.files.asianturfgrass.com/201909_atc_update.pdf), a great new job, seminars on 3 continents, & turf articles galore
 * [April 2019](http://www.files.asianturfgrass.com/201904_atc_update.pdf), another movie, a football seminar, and new research
 * [December 2018](http://www.files.asianturfgrass.com/201812_atc_update.pdf), a movie, a book, and happy holidays
 * [September 2018](http://files.asianturfgrass.com/201809_atc_update.pdf), time on the road, MLSN, tournaments, magazines, & conferences 
@@ -23,6 +24,7 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 [Subscribe to MLSN newsletters here](http://www.subscribepage.com/mlsn).
 
+* [September 2019](http://www.files.asianturfgrass.com/201909_mlsn_newsletter.pdf), MLSN newsletter #9
 * [April 2019](http://www.files.asianturfgrass.com/201904_mlsn_newsletter.pdf), MLSN newsletter #8
 * [December 2018](http://files.asianturfgrass.com/201812_mlsn_newsletter.pdf), MLSN newsletter #7
 * [July 2018](http://files.asianturfgrass.com/201807_mlsn_newsletter.pdf), MLSN newsletter #6
