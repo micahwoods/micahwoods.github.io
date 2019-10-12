@@ -38,6 +38,7 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 [日本語のATCアップデートのメーリングリストに参加を申し込む](http://www.subscribepage.com/atcupdate_jp)。
 
+* [2019年9月](http://files.asianturfgrass.com/201910_atc_update_jp.pdf), ATC アップデート第4号
 * [2018年2月](http://files.asianturfgrass.com/201802_atc_update_jp.pdf), ATCアップデート: セミナー、会議、トーナメント、トラベル 
 * [2017年10月](http://files.asianturfgrass.com/201710_atc_update_jp.pdf), ATCアップデート 
 * [2017年1月](http://files.asianturfgrass.com/201701_atc_update_jp.pdf), ATC からブログ更新と3月のパタヤ会議のお知らせ 
