@@ -2,7 +2,7 @@
 layout: post
 title: "Time for a new excuse"
 share-img: "https://www.asianturfgrass.com/img/micah_iceland_seminar.jpg"
-tags: [MLSN, soil test, fertilizer]
+tags: [mlsn, soil test, fertilizer]
 ---
 
 I really enjoyed listening to [John Kaminski on season 2 episode 3](http://thetalkinggreenkeeper.libsyn.com/website/3-john-kaminski) of the Talking Greenkeeper. It was fascinating to hear how the new edition of [*Turfgrass Management*](https://turfpath.com/book) by Turgeon and Kaminski came together.
