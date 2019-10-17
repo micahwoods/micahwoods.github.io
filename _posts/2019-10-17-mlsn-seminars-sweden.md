@@ -6,7 +6,7 @@ tags: [mlsn, seminar, sweden]
 ---
 [![screenshot of sgf mlsn seminar announcement nov 2019](/img/sgf_seminars_2019.png)](https://golf.se/for-klubben/utbildning/jobba-med-golfbanan/)
 
-Registration is [now open](https://golf.se/for-klubben/utbildning/jobba-med-golfbanan/) for four MLSN seminars with the Swedish Golf Federation next month.
+Registration is [now open](https://golf.se/for-klubben/utbildning/jobba-med-golfbanan/) for four MLSN seminars with the Swedish Golf Federation and Christofer Andersson next month.
 
 [![mlsn seminar map sweden nov 2019](/img/se_seminar_map.png)](http://www.calendar.asianturfgrass.com/mlsn_seminar_map_se_2019.html)
 
