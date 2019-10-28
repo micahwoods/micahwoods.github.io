@@ -7,7 +7,7 @@ tags: [weeds, podcast, science, research]
 
 I really enjoyed listening to Frank Rossi and Jim Brosnan discuss weed control, *Poa annua*, herbicide resistance, and glyphosate in their [recent discussion on TurfNet's Frankly Speaking](https://www.turfnet.com/podcasts/rossi/brosnan/).
 
-<iframe width="100%" height="180px" src="http://percolate.blogtalkradio.com/offsiteplayer?hostId=705817&episodeId=11550103" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="180px" src="//percolate.blogtalkradio.com/offsiteplayer?hostId=705817&episodeId=11550103" frameborder="0" allowfullscreen></iframe>
 
 I'd recommend listening to this to learn more about some important turfgrass management challenges and the research being done right now to find solutions. 
 
