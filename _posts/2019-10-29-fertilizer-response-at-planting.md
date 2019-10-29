@@ -30,7 +30,6 @@ For all that I hear about fertilizer not being required or not having a benefit 
 Here's some Penn A-1 I grew in a calcareous sand with 6 ppm Mehlich 3 P. Soon after germination it showed clear signs of P deficiency.
 
 ![P deficient A-1 at Cornell](/img/a1nop.jpg)
-![manilagrass after 28 days](/img/r28_label.jpg)
 <small><strong>Penn A-1 bentgrass grown from seed in a sand with 6 ppm Mehlich 3 P and no P added as fertilizer.</strong></small>
 
 When there isn't a root system---grass grown from seed, for example, or grown from sprigs---then there better be enough nutrients in the soil right where the roots are. If there aren't enough nutrients, the grass won't establish as well as it would if those nutrients were supplied.
