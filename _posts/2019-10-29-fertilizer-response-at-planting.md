@@ -34,5 +34,7 @@ Here's some Penn A-1 I grew in a calcareous sand with 6 ppm Mehlich 3 P. Soon af
 
 When there isn't a root system---grass grown from seed, for example, or grown from sprigs---then there better be enough nutrients in the soil right where the roots are. If there aren't enough nutrients, the grass won't establish as well as it would if those nutrients were supplied.
 
+Drew's 1975 article about [localised nutrient supply](https://doi.org/10.1111/j.1469-8137.1975.tb01409.x) and the effect on barley roots is interesting reading about this. Root proliferation is expected, especially where P is readily available. 
+
 
 
