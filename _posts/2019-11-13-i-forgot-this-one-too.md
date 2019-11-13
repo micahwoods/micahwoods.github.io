@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I forgot this one too"
-share-img: "https://www.asianturfgrass.com/img/drew_b arley.png"
+share-img: "https://www.asianturfgrass.com/img/drew_barley.png"
 tags: [science, article]
 ---
 
