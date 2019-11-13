@@ -15,6 +15,6 @@ As I was reading Drew's article about localised nutrient supply again, I came ac
 
 What's the relevant sentence from Drew? This one.
 
-> "Potassium deficiency had the least effect on shoot growth and tissue concentration, and the total amounts of potassium per plant were greatly in excess of seed content, possibly relecting the uptake of traces of potassium released from the sand."
+> "Potassium deficiency had the least effect on shoot growth and tissue concentration, and the total amounts of potassium per plant were greatly in excess of seed content, possibly reflecting the uptake of traces of potassium released from the sand."
 
 That didn't stand out to me when I was studying Drew's article in graduate school, but it does now.
