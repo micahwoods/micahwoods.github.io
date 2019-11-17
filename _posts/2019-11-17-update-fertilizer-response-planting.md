@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "An update on an experiment about fertilizer response at planting"
+title: "Experiment update: fertilizer response at planting"
 share-img: "https://www.asianturfgrass.com/img/eagle_45.jpg"
 tags: [research, fertilizer, bermudagrass, zoysia]
 ---
 
-I showed the appearance of two greens-type grasses---Tifeagle and a greens-type manuligrass---[in this post](https://www.asianturfgrass.com/2019-10-29-fertilizer-response-at-planting/). That post included photos of the grasses 28 days after planting when fertilized with N only, with N + P + K, and with N + P + K + dolomite.
+I showed the appearance of two greens-type grasses---Tifeagle and a greens-type manilagrass---[in this post](https://www.asianturfgrass.com/2019-10-29-fertilizer-response-at-planting/). That post had photos of the grasses, 28 days after planting, when fertilized with N only, with N + P + K, and with N + P + K + dolomite.
 
 I've now received photos of these grasses from [#ATC南店](https://twitter.com/hashtag/ATC%E5%8D%97%E5%BA%97?src=hashtag_click) at 45 days after planting.
  
