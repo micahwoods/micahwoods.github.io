@@ -12,11 +12,11 @@ If you would like to receive any of the ATC e-mail newsletters, you can sign up 
 
 ### [ATC updates](http://www.subscribepage.com/atcupdate)
 
-Sent less than six times per year, this newsletter includes new turfgrass information and articles, upcoming seminars, new reading and writing, and observations and updates about turfgrass management around the world.
+This newsletter includes new turfgrass information and articles, upcoming seminars, new reading and writing, and observations and updates about turfgrass management around the world.
 
 ### [MLSN newsletter](http://www.subscribepage.com/mlsn)
 
-This newsletter is all about the MLSN nutrient guidelines for turfgrass, with case studies and new reports of this method for managing nutrient additions to fine turf. This newsletter is sent less than six times per year.
+This newsletter is all about the MLSN nutrient guidelines for turfgrass, with case studies and new reports of this method for managing nutrient additions to fine turf. 
 
 ### [日本語のATCアップデートのメーリングリスト](http://www.subscribepage.com/atcupdate_jp)
 
