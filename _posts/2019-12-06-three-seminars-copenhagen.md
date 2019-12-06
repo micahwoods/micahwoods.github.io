@@ -30,5 +30,7 @@ In the context of optimum growth rates, I think it is useful to measure how much
 
 I pointed out that what often happens when one measures clipping volume is that one finds turf conditions can be optimized with less growth. I asked the audience if they thought that turf growing 40% less would require more or less core aeration, and more or less topdressing sand. 
 
+It was a great day of seminars, and I am looking forward to another visit to Copenhagen in July 2021 for the [14<sup>th</sup> International Turfgrass Research Conference](https://itrc2021.org/). 
+
 
 
