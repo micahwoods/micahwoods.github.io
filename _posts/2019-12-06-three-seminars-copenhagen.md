@@ -5,7 +5,7 @@ share-img: "https://www.asianturfgrass.com/img/kawana_15_16.jpg"
 tags: [seminar, denmark, clipvol, green speed, greenkeeping]
 ---
 
-I was at Copenhagen Golf Club on Monday for seminars with the Danish Greenkeepers Association. See some photos[here](https://twitter.com/asianturfgrass/status/1201543365159989250). 
+I was at Copenhagen Golf Club on Monday for seminars with the Danish Greenkeepers Association. See some photos of the day [here](https://twitter.com/asianturfgrass/status/1201543365159989250). 
 
 One of my presentations was about green speed---I called it *Stimp Stats*. This is the second sentence of the USGA's stimpmeter instruction booklet:
 
