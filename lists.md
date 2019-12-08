@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ATC newsletters
-subtitle: We offer a variety of e-mail newsletters
 share-img: "http://www.asianturfgrass.com/img/mar_sunrise_4.jpg"
 ---
 
