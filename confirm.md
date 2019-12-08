@@ -7,7 +7,7 @@ We love learning about turfgrass. And we love sharing turfgrass information with
 
 ---
 
-These are 10 of the most popular posts from the blog.
+Want to get started with some good reading right now? These are 10 of the most popular posts from the blog.
 
 1. [Is carbon the "next frontier in fertilization?"](https://www.asianturfgrass.com/2018-05-31-is-carbon-the-next-frontier-in-fertilization/)
 
@@ -35,4 +35,5 @@ Even more reading:
 
 * [ATC newsletter archives](https://www.asianturfgrass.com/archive/)
 * [ATC blog posts by topic](https://www.asianturfgrass.com/archive/)
-* [ATC home page](https://www.asianturfgrass.com/)
+* [The ATC library](https://www.asianturfgrass.com/library/)
+
