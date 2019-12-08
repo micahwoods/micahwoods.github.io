@@ -64,7 +64,7 @@ share-img: "http://www.asianturfgrass.com/img/mar_sunrise_4.jpg"
   </div>
 </div>
 <script>
-  function ml_webform_success_1629740(){try{window.top.location.href="https://www.asianturfgrass.com"}catch(t){window.location.href="https://www.asianturfgrass.com"}}
+  function ml_webform_success_1629740(){try{window.top.location.href="https://www.asianturfgrass.com/thanks"}catch(t){window.location.href="https://www.asianturfgrass.com/thanks"}}
 </script>
 <img src="https://track.mailerlite.com/webforms/o/1629740/m5h8l1?v4a60e9ef938a7fa0240ac9ba567062cb" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" border="0">
 <script src="https://static.mailerlite.com/js/w/webforms.min.js?v4a60e9ef938a7fa0240ac9ba567062cb" type="text/javascript"></script>
