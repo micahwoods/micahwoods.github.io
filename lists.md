@@ -3,7 +3,7 @@ layout: page
 title: ATC newsletters
 share-img: "http://www.asianturfgrass.com/img/mar_sunrise_4.jpg"
 ---
-
+   
 <style type="text/css">
   @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
 </style>
@@ -32,15 +32,19 @@ share-img: "http://www.asianturfgrass.com/img/mar_sunrise_4.jpg"
           <div class="ml-form-interestGroupsRow ml-block-groups">
             <div class="ml-form-interestGroupsRowCheckbox group" style="">
               <label> <input type="checkbox" name="groups[]" value="5659545"> <div class="label-description">ATC updates</div> </label>
+              <div class="description">Information about new research, articles, seminars, and ways to optimize turfgrass conditions.</div>
             </div>
             <div class="ml-form-interestGroupsRowCheckbox group" style="">
               <label> <input type="checkbox" name="groups[]" value="7153907"> <div class="label-description">ATC blog email</div> </label>
+              <div class="description">Full text of every blog sent by email on the same day that it is posted</div>
             </div>
             <div class="ml-form-interestGroupsRowCheckbox group" style="">
               <label> <input type="checkbox" name="groups[]" value="5722595"> <div class="label-description">MLSN newsletter</div> </label>
+              <div class="description">The latest information about soil test interpretation and preventing nutrient deficiencies using MLSN.</div>
             </div>
             <div class="ml-form-interestGroupsRowCheckbox last-group" style="">
               <label> <input type="checkbox" name="groups[]" value="5661525"> <div class="label-description">日本語のATCアップデート</div> </label>
+              <div class="description">ターフ情報、新研究、セミナー、新しい読み物、新しい著作、世界のターフ and I include the full pre-translation English text at the end of the newsletter.</div>
             </div>
           </div>
           <style type="text/css">
