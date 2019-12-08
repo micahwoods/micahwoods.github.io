@@ -2,10 +2,7 @@
 layout: page
 title: ATC newsletters
 subtitle: We offer a variety of e-mail newsletters
-share-img: "http://www.asianturfgrass.com/img/pearl_bali.jpg"
-bigimg: 
-- "/img/keya12.jpg" : "noshiba and korai, Fukuoka"
-- "/img/pearl_bali.jpg" : "pearlgrass, Bali"
+share-img: "http://www.asianturfgrass.com/img/mar_sunrise_4.jpg"
 ---
 
 <style type="text/css">
@@ -64,7 +61,8 @@ bigimg:
       <div class="ml-form-successBody row-success" style="display:none">
         <div class="ml-form-successContent">
           <h4>Thank you!</h4>
-          <p>You have successfully joined our subscriber list.&nbsp;</p>
+          <p>You have successfully joined our subscriber list. <br></p>
+          <p>Please confirm your email address to complete your subscription. A confirmation message has been sent to you.</p>
         </div>
       </div>
     </div>
@@ -75,7 +73,4 @@ bigimg:
 </script>
 <img src="https://track.mailerlite.com/webforms/o/1629740/m5h8l1?v4a60e9ef938a7fa0240ac9ba567062cb" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" border="0">
 <script src="https://static.mailerlite.com/js/w/webforms.min.js?v4a60e9ef938a7fa0240ac9ba567062cb" type="text/javascript"></script>
-
-
-
 
