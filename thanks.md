@@ -9,3 +9,9 @@ A confirmation message has been sent to you. Please check that email and confirm
 
 <small><i>By clicking on the confirmation link in that email, we can verify that your email address was typed correctly. This confirmation message sometimes goes to a junk folder, so would you please check that and make sure you confirm the subscription? Thank you!</i></small> 
 
+Be sure to follow ATC on Twitter too.
+
+<a class="twitter-follow-button"
+  href="https://twitter.com/asianturfgrass">
+Follow @asianturfgrass</a>
+
