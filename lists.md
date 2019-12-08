@@ -46,10 +46,6 @@ share-img: "http://www.asianturfgrass.com/img/mar_sunrise_4.jpg"
           <style type="text/css">
             .ml-form-recaptcha{margin-bottom:20px;float:left}.ml-form-recaptcha.ml-error iframe{border:solid 1px red}@media screen and (max-width:768px){.ml-form-recaptcha{transform:scale(.77);-webkit-transform:scale(.77);transform-origin:0 0;-webkit-transform-origin:0 0}}
           </style>
-          <div class="ml-form-recaptcha ml-validate-required">
-            <script src="https://www.google.com/recaptcha/api.js"></script>
-            <div class="g-recaptcha" data-sitekey="6Lf1KHQUAAAAAFNKEX1hdSWCS3mRMv4FlFaNslaD"></div>
-          </div>
           <input type="hidden" name="ml-submit" value="1">
           <div class="ml-form-embedSubmit">
             <button type="submit" class="primary">Subscribe</button>
@@ -68,8 +64,7 @@ share-img: "http://www.asianturfgrass.com/img/mar_sunrise_4.jpg"
   </div>
 </div>
 <script>
-  function ml_webform_success_1629740(){var r=ml_jQuery||jQuery;r(".ml-subscribe-form-1629740 .row-success").show(),r(".ml-subscribe-form-1629740 .row-form").hide()}
+  function ml_webform_success_1629740(){try{window.top.location.href="https://www.asianturfgrass.com"}catch(t){window.location.href="https://www.asianturfgrass.com"}}
 </script>
 <img src="https://track.mailerlite.com/webforms/o/1629740/m5h8l1?v4a60e9ef938a7fa0240ac9ba567062cb" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" border="0">
 <script src="https://static.mailerlite.com/js/w/webforms.min.js?v4a60e9ef938a7fa0240ac9ba567062cb" type="text/javascript"></script>
-
