@@ -67,7 +67,7 @@ footer-links-active:
   linkedin: true
  #  xing: false
   stackoverflow: false
-  # instagram: true
+  # instagram: false
   youtube: true
   vimeo: true
 
