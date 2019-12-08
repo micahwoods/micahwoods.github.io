@@ -11,7 +11,6 @@ A confirmation message has been sent to you. Please check that email and confirm
 
 Be sure to follow ATC on Twitter too.
 
-<a class="twitter-follow-button"
-  href="https://twitter.com/asianturfgrass">
-Follow @asianturfgrass</a>
+<a href="https://twitter.com/asianturfgrass" class="twitter-follow-button" data-show-count="true">Follow @asianturfgrass</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Other accounts and email contact are at the bottom of the page.
