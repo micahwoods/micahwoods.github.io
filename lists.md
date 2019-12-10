@@ -3,7 +3,7 @@ layout: page
 title: ATC newsletters
 share-img: "http://www.asianturfgrass.com/img/mar_sunrise_4.jpg"
 ---
-   
+
 <style type="text/css">
   @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
 </style>
@@ -47,6 +47,9 @@ share-img: "http://www.asianturfgrass.com/img/mar_sunrise_4.jpg"
               <div class="description">ターフ情報、新研究、セミナー、新しい読み物、新しい著作、世界のターフ and I include the full pre-translation English text at the end of the newsletter.</div>
             </div>
           </div>
+          <div class="ml-form-checkboxRow ml-validate-required">
+            <label class="checkbox"> <input type="checkbox"> <div class="label-description"> <p><em>By submitting this form, you opt in to receiving emailed information and offers </em><em> from Asian Turfgrass Center.</em><em></em></p> </div> </label>
+          </div>
           <style type="text/css">
             .ml-form-recaptcha{margin-bottom:20px;float:left}.ml-form-recaptcha.ml-error iframe{border:solid 1px red}@media screen and (max-width:768px){.ml-form-recaptcha{transform:scale(.77);-webkit-transform:scale(.77);transform-origin:0 0;-webkit-transform-origin:0 0}}
           </style>
@@ -68,7 +71,7 @@ share-img: "http://www.asianturfgrass.com/img/mar_sunrise_4.jpg"
   </div>
 </div>
 <script>
-  function ml_webform_success_1629740(){try{window.top.location.href="https://www.asianturfgrass.com/thanks"}catch(t){window.location.href="https://www.asianturfgrass.com/thanks"}}
+  function ml_webform_success_1629740(){try{window.top.location.href="https://www.asianturfgrass.com/confirm/"}catch(o){window.location.href="https://www.asianturfgrass.com/confirm/"}}
 </script>
 <img src="https://track.mailerlite.com/webforms/o/1629740/m5h8l1?v4a60e9ef938a7fa0240ac9ba567062cb" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" border="0">
 <script src="https://static.mailerlite.com/js/w/webforms.min.js?v4a60e9ef938a7fa0240ac9ba567062cb" type="text/javascript"></script>
