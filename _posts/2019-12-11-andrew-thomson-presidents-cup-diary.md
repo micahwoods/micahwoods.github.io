@@ -5,11 +5,11 @@ share-img: "https://www.asianturfgrass.com/img/rmgc_bunker_splash.jpg"
 tags: [australia, tournament]
 ---
 
-My copy of Andrew Thomson's [Bridge to the Gods: Tales from Kyushu](http://www.ryanpub.com.au/bridgetothegods.htm) is sitting beside my computer as I write this. That's the book I'm bringing to read this weekend on a small island in the Andaman Sea. 
+Andrew Thomson is the author of [Bridge to the Gods: Tales from Kyushu](http://www.ryanpub.com.au/bridgetothegods.htm). That very book happens to be sitting beside my computer as I write this. I'm bring it to read this weekend on a small island in the Andaman Sea. 
 
-This week I'm also carefully following the news from the Presidents Cup at Royal Melbourne Golf Club. Yesterday at the captains' press conference I heard Thomson ask about the physics of ball reaction on the greens (listen to his question, and the full answer, at [the 10:50 mark of this video](https://twitter.com/PGATOUR/status/1204145088860844032?s=20). Ernie Els replied that "There are certain flags and certain conditions where the flag is a destination, not quite a target." The greens and the aprons at Royal Melbourne are notoriously firm.
+Thomson also gets around a bit. This week I'm following the news from the Presidents Cup at Royal Melbourne Golf Club. Yesterday at the captains' press conference I heard Thomson---he said he was from *Golf Digest Japan*---ask about the physics of ball reaction on the greens (listen to his question, and the full answer, at [the 10:50 mark of this video](https://twitter.com/PGATOUR/status/1204145088860844032?s=20). Ernie Els replied that "There are certain flags and certain conditions where the flag is a destination, not quite a target." The greens and the aprons at Royal Melbourne are notoriously firm.
 
-I found out today that Thomson is writing a Presidents Cup Diary. I was fascinated to hear his thoughts about the course and about the upcoming competition. Today he wrote about course preparations for this event, among other topics. With his permission, I'm sharing below extended excerpts from today's entry.
+I found out today that Thomson is also writing a Presidents Cup Diary. I was fascinated to hear his thoughts about the course and about the upcoming competition. Today he wrote about course preparations for this event, among other topics. With his permission, what follows are extended excerpts from today's entry.
 
 ---
 
