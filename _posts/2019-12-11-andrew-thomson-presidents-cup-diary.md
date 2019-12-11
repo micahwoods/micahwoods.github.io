@@ -9,7 +9,7 @@ Andrew Thomson is the author of [Bridge to the Gods: Tales from Kyushu](http://w
 
 Thomson also gets around a bit. I'm following the news this week from the Presidents Cup at Royal Melbourne Golf Club. Yesterday at the captains' press conference I heard Thomson---he said he was from *Golf Digest Japan*---ask about the physics of ball reaction on the greens (listen to his question, and the full answer, at [the 10:50 mark of this video](https://twitter.com/PGATOUR/status/1204145088860844032?s=20)). Ernie Els replied that "There are certain flags and certain conditions where the flag is a destination, not quite a target." The greens and the aprons at Royal Melbourne are notoriously firm.
 
-I found out today that Thomson is also writing a Presidents Cup Diary. I was fascinated to hear his thoughts about the course and about the upcoming competition. Today he wrote about course preparations for this event, among other topics. With his permission, what follows are extended excerpts from today's entry.
+I found out today that Thomson is also writing a Presidents Cup Diary. I was fascinated to hear his thoughts about the course and about the upcoming competition. Today he wrote about course preparations for this event, among other topics. With his permission, what follows is an extended excerpt from today's entry.
 
 ---
 
@@ -40,5 +40,7 @@ Whenever I see Dustin Johnson's face up close it reminds me of those sepia photo
 "My God, this is a monster," one of the spectators remarked to his friend.
 
 No, I thought to myself. To call this golf course a monster is incorrect. Monsters have no subtlety. They roar and breathe fire, but they don't bring on surprises. This course is simply an extraordinary and beautiful creature that can suddenly confound even the best players. Does Johnson have its measure? We shall see.
+
+...
 
 ---
