@@ -19,7 +19,7 @@ For example, I've been growing some variegated *Axonopus compressus* at [#ATC南
 ![probable P deficiency on variegated tropical carpetgrass](/img/ac_vari_p_5dec.jpg)
 <small><strong>Probable P deficiency symptoms on variegated <i>Axonopus compressus</i> on 5 December 2019.</strong></small>
 
-On 6 December, I added a bit of diammonium phosphate and urea to this pot of grass. Then I left on another trip. When I came back on 19 December, the purple color was gone, and the grass was back to normal---green leaves with light-colored stripes. That purpling went away after adding N and P. I'd guess this removal of purple color was caused by supplying P rather than by the N.
+On 6 December, I added a bit of diammonium phosphate and urea to this pot of grass. Then I left on another trip. When I came back on 19 December, the purple color was gone, and the grass was back to normal---green leaves with light-colored stripes. That purpling went away after adding N and P. I'd guess this removal of purple color was caused by the P I added and not by the N.
 
 ![variegated tropical carpetgrass growing normally](/img/ac_vari_p_19dec.jpg)
 <small><strong>Variegated <i>Axonopus compressus</i> on 19 December 2019 thirteen days after application of diammonium phosphate.</strong></small>
