@@ -22,7 +22,7 @@ For example, I've been growing some variegated *Axonopus compressus* at [#ATC南
 On 6 December, I added a bit of diammonium phosphate and urea to this pot of grass. Then I left on another trip. When I came back on 19 December, the purple color was gone, and the grass was back to normal---green leaves with light-colored stripes. That purpling went away after adding N and P. I'd guess this removal of purple color was caused by supplying P rather than by the N.
 
 ![variegated tropical carpetgrass growing normally](/img/ac_vari_p_19dec.jpg)
-<small>Variegated <i>Axonopus compressus</i> on 19 December 2019 thirteen days after application of diammonium phosphate.<strong></strong></small>
+<small><strong>Variegated <i>Axonopus compressus</i> on 19 December 2019 thirteen days after application of diammonium phosphate.</strong></small>
 
 I wrote above that *I usually recommend enough P* to stay above 21 ppm. That's pretty much guaranteed to prevent any visual symptoms of P deficiency. And I think that is the way most professional turfgrass managers would like to keep their turf---without have to worry about a visual deficiency showing up. There is a particular case when I do suggest waiting to see a P deficiency before applying P. That is when one is trying to prevent *Poa annua* invasion. More about that in a future, and probably longer, post. But I thought these photos were interesting and wanted to share them today.
 
