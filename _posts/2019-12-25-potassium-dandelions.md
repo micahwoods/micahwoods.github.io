@@ -9,7 +9,9 @@ A friend gave me a beautiful card yesterday and wrote "perhaps you can use this 
 
 ![taraxacum officinale card](/img/taraxacum.jpg)
 
-I certainly can. Contining with the topic of my last post---cases in which [low nutrient levels are desirable](https://www.asianturfgrass.com/2019-12-21-can-you-see-the-p/)---the mention of dandelions reminds me of another case in which I'd adjust fertilizer recommendations. 
+I certainly can. 
+
+Contining with the topic of my last post---cases in which [low nutrient levels are desirable](https://www.asianturfgrass.com/2019-12-21-can-you-see-the-p/)---the mention of dandelions reminds me of another case in which I'd adjust fertilizer recommendations. Or would allow nutrient levels to drop below the MLSN guideline.
 
 Tilman et al. wrote a fascinating article called [Biological weed control via nutrient competition: potassium limitation of dandelions.](https://doi.org/10.1890/1051-0761(1999)009[0103:BWCVNC]2.0.CO;2)
 
@@ -21,7 +23,7 @@ I'd usually recommend enough K fertilizer to keep soil from dropping below 37 pp
 
 Here's some more from the Discussion section of Tilman et al.:
 
-> Such adjustments might be best achieved by not adding the resource for which the weedy species is an inferior competitor but by adding one or more other limiting resources. Interestingly, fertilization with just [ammonium sulfate] at Park Grass (Plot 1, unlimed) led to an amazingly lawn-like vegetation that was 62% *Agrostis tenuis* (bent grass), 29% *Festuca rubra* (red fescue), 5% other perennial grasses, and that had no *Taraxacum and only 5% of biomass from other forbs.
+> Such adjustments might be best achieved by not adding the resource for which the weedy species is an inferior competitor but by adding one or more other limiting resources. Interestingly, fertilization with just [ammonium sulfate] at Park Grass (Plot 1, unlimed) led to an amazingly lawn-like vegetation that was 62% **Agrostis tenuis** (bent grass), 29% **Festuca rubra** (red fescue), 5% other perennial grasses, and that had no **Taraxacum** and only 5% of biomass from other forbs.
 
 ![park grass plot 1d](/img/park_grass_1d_june2015.jpg)
 <small><strong>Plot 1d is the "Plot 1, unlimed ... amazingly lawn-like vegetation;" this photo was taken in June 2015.</strong></small> 
