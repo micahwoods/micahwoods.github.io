@@ -7,7 +7,7 @@ tags: [potassium, mlsn, soil test, fertilizer, weeds]
 
 A friend gave me a beautiful card yesterday and wrote "perhaps you can use this *Taraxacum officinale* [dandelion] in some capacity."
 
-![taraxacum officinale card](/img/traxacum.jpg)
+![taraxacum officinale card](/img/taraxacum.jpg)
 
 I certainly can. Contining with the topic of my last post---cases in which [low nutrient levels are desirable](https://www.asianturfgrass.com/2019-12-21-can-you-see-the-p/)---the mention of dandelions reminds me of another case in which I'd adjust fertilizer recommendations. 
 
