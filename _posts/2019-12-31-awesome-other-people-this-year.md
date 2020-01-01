@@ -40,4 +40,8 @@ Here's a non-comprehensive list for this year. I've certainly missed lots of awe
 
 * Also Joe Gulotti with [The Talking Greenkeeper](https://podcasts.apple.com/us/podcast/the-talking-greenkeeper/id1435947281), brought information and laughs to a lot of people. The show has a 4.9 rating on Apple Podcasts. That's awesome.
 
+* The USGA [*Green Section Record*](https://www.usga.org/course-care/green-section-record.html) had another year with lots of must-read articles. A couple of my favorites were Brian Whitlark and Cole Thompson on [topdressing](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/article/whitlark-thompson-light-5-3-19.pdf) and Chris Hartwiger on [measuring putting green performance](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/article/whitlark-thompson-light-5-3-19.pdf). 
+
+* 
+
 This idea is based on [Jeff Leek's non-comprehensive awesome lists](https://simplystatistics.org/2017/12/20/a-non-comprehensive-list-of-awesome-things-other-people-did-in-2017/) from [Simply Statistics](https://simplystatistics.org/).
