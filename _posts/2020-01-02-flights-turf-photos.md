@@ -21,12 +21,12 @@ Pakasai CC in Krabi is on a beautiful property a bit south of the airport. This 
 ![](/img/colour_sritrang.jpg)
 <small>*February: the 16<sup>th</sup> at Sritrang GC in southern Thailand*</small>
 
-Some golf courses look the same all year. With a lot of irrigation through the dry season, and with the right type of trees, that type of consistency is possible. But is consistency desirable? One of the things I discussed a lot this year was consistency of playing conditions, but not necessarily consistent appearance every day of the year. I enjoy the seasonal changes in appearance at Sritrang GC.
+Some golf courses look the same all year. With a lot of irrigation through the dry season, and with the right type of trees, that type of consistency is possible. But is consistency desirable? One of the things I discussed a lot in 2019 was consistency of playing conditions, but not necessarily consistent appearance every day of the year. I enjoy the seasonal changes in appearance at Sritrang GC.
 
 ![](/img/keya14.jpg)
 <small>*February: colors of late winter in Fukuoka*</small>
 
-I went to Japan a few times last year and I enjoyed visiting Keya GC in Fukuoka just before spring. The *korai* tees and fairways were still dormant, the *korai* greens have bit of colorant on them, and the *noshiba* rough was dormant too. This is what golf in Japan looks like in the winter.
+I went to Japan a few times last year and I enjoyed visiting Keya GC in Fukuoka just before spring. The *korai* tees and fairways were still dormant, the *korai* greens have a bit of colorant on them, and the *noshiba* rough was dormant too. This is what golf in Japan looks like in the winter.
 
 ![](/img/lawn_pak_kret.jpg)
 <small>*March: tropical carptgrass lawn at Pak Kret*</small>
@@ -45,7 +45,7 @@ I saw the pitch at Suphanburi in April, and a couple weeks ago I saw the announc
 
 More about consistency. I played two rounds at Royal Hua Hin in 2019. First in May, then again in October. The conditions have been excellent. I wrote a [blog post about that](https://www.asianturfgrass.com/2019-06-05-turf-consistency-color/) and showed more photos of this superb holiday destination. It's got elephant riding at a winery, and an amazing birdie dance photo too.
 
-![](/img_colour_chumphon.jpg)
+![](/img/colour_chumphon.jpg)
 <small>*May: end of dry season colours in Chumphon*</small>
 
 One of my favorite places to stop on a road trip between southern and central Thailand is the Khet Udomsak golf course in Chumphon. This is the first hole in May. It was windy, there were rain clouds in the distance, and I needed my "A" game on this day. The ball can bounce and roll into all kinds of trouble with these kinds of conditions.
