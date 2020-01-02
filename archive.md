@@ -9,8 +9,9 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 ### ATC Update
 
-[Subscribe to ATC updates here](http://www.subscribepage.com/atcupdate).
+[Subscribe to ATC updates here](https://www.asianturfgrass.com/lists/).
 
+* [December 2019](http://www.files.asianturfgrass.com/201912_atc_update.pdf),  coring holes on greens, frost delays, earthworms on turf, & a colorful new book 
 * [September 2019](http://www.files.asianturfgrass.com/201909_atc_update.pdf), a great new job, seminars on 3 continents, & turf articles galore
 * [April 2019](http://www.files.asianturfgrass.com/201904_atc_update.pdf), another movie, a football seminar, and new research
 * [December 2018](http://www.files.asianturfgrass.com/201812_atc_update.pdf), a movie, a book, and happy holidays
@@ -22,8 +23,9 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 ### MLSN Newsletter
 
-[Subscribe to MLSN newsletters here](http://www.subscribepage.com/mlsn).
+[Subscribe to MLSN newsletters here](https://www.asianturfgrass.com/lists/).
 
+* [December 2019](http://www.files.asianturfgrass.com/201912_mlsn_newsletter.pdf), MLSN newsletter #10
 * [September 2019](http://www.files.asianturfgrass.com/201909_mlsn_newsletter.pdf), MLSN newsletter #9
 * [April 2019](http://www.files.asianturfgrass.com/201904_mlsn_newsletter.pdf), MLSN newsletter #8
 * [December 2018](http://files.asianturfgrass.com/201812_mlsn_newsletter.pdf), MLSN newsletter #7
@@ -36,8 +38,9 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 ### ATCアップデート
 
-[日本語のATCアップデートのメーリングリストに参加を申し込む](http://www.subscribepage.com/atcupdate_jp)。
+[日本語のATCアップデートのメーリングリストに参加を申し込む](https://www.asianturfgrass.com/lists/)。
 
+* [2019年12月](http://files.asianturfgrass.com/201912_atc_update_jp.pdf), ATC アップデート第5号 
 * [2019年9月](http://files.asianturfgrass.com/201910_atc_update_jp.pdf), ATC アップデート第4号
 * [2018年2月](http://files.asianturfgrass.com/201802_atc_update_jp.pdf), ATCアップデート: セミナー、会議、トーナメント、トラベル 
 * [2017年10月](http://files.asianturfgrass.com/201710_atc_update_jp.pdf), ATCアップデート 
