@@ -78,6 +78,6 @@ I went to the O.J. Noer Turfgrass Research and Education Facility in June---anot
 This is El Toro zoysia, I believe, in Kumamoto. Kagoshima has grass on tram lines too. This is an interesting technology that one can find at an increasing number of locations in Japan.
 
 ![](/img/adang.jpg)
-<small>*December: Chrysopgon at Ko Adang*</small>
+<small>*December: Chrysopogon at Ko Adang*</small>
 
 I don't know the exact species, but from the inflorescence this seems to be in the *Chrysopogon* genus. I found this near the end of the cliff trail at Ko Adang. The view is pretty good, but would be spectacular on a sunny day. This is a great island for botanizing, and I'll go back.
