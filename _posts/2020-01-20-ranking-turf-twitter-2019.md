@@ -13,7 +13,7 @@ Based on the number of followers, mentions of the account, the favorites and ret
 
 For more like this, see:
 
-* [In Review: Your 2019 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-2019/), a Shiny app by [@grrrck](https://twitter.com/grrrck).
+* [In Review: Your 2019 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-2019/), a Shiny app by [@grrrck](https://twitter.com/grrrck)
 * [My analysis of Turf Twitter in 2018](https://www.asianturfgrass.com/2019-01-31-ranking-of-turf-twitter-in-2018/)
 * [My analysis of Turf Twitter in 2017](https://www.asianturfgrass.com/2018-01-09-turfgrass-twitter-analysis/)
-* [More details about these analyses](http://www.asianturfgrass.com/turf_twitter_2017/).
+* [More details about these analyses](http://www.asianturfgrass.com/turf_twitter_2017/)
