@@ -33,20 +33,24 @@ Grasses were grown under two conditions. One condition (**supplemental irrigatio
 
 Here are a few quotes from the article:
 
-> "Bermudagrass NDVI [normalized difference vegetation index---used in this study as a measure of leaf firing and drought] rarely exhibited differences between supplemental irrigation and natural rainfall in both years. As noted in previous research this result demonstrates the ability of bermudagrass to maintain healthy turfgrass canopy under a range of soil moisture and environmental conditions."
-
-> "The non-irrigated buffalograss NDVI measurements were intermediate compared to bermudagrass. Both zoysiagrass species exhibited decreased NDVI with natural rainfall in 2018 ... Both species improves from week 5 to 6 with rainfall events, but recovery was slowed for manilagrass after week 8 ... Bermudagrass and buffalograss provided greated NDVI measurements than either zoysiagrass species." 
-
-> "All species, other than bermudagrass, receiving only natural rainfall fell below the acceptable level of 6 by week 4 and those species required increased rainfall toward the end of the season to regain acceptable turf quality. Manilagrass started the 2019 season below acceptable levels and never recovered to acceptable turf quality. In contrast, supplemental irrigation helped maintain similar turf quality from week to week through 2018 ... Reduced recovery potential from species only receiving natural rainfall may demonstrate cumulative effects from drough stress in consecutive years. The one exception was bermudagrass ..."
-
 > "Japanese lawngrass and manilagrass experienced drought-induced dormancy each year. Both species recovered fully with consistent, intense rainfall in 2017, but manilagrass was unable to recover the same visual turf quality following two years of no supplemental irrigation during summer months."
 
 > "These results provide clear evidence that bermudagrass would be best when only receiving intermittent rainfall. With the exception of manilagrass, all turfgrass species were capable of maintaining acceptable visual quality for 2 to 3 weeks without supplemental irrigation ..."
 
+> "Bermudagrass NDVI [normalized difference vegetation index---used in this study as a measure of leaf firing and drought] rarely exhibited differences between supplemental irrigation and natural rainfall in both years. As noted in previous research this result demonstrates the ability of bermudagrass to maintain healthy turfgrass canopy under a range of soil moisture and environmental conditions."
+
+> "The non-irrigated buffalograss NDVI measurements were intermediate compared to bermudagrass. Both zoysiagrass species exhibited decreased NDVI with natural rainfall in 2018 ... Both species improved from week 5 to 6 with rainfall events, but recovery was slowed for manilagrass after week 8 ... Bermudagrass and buffalograss provided greated NDVI measurements than either zoysiagrass species." 
+
+> "All species, other than bermudagrass, receiving only natural rainfall fell below the acceptable level of 6 by week 4 and those species required increased rainfall toward the end of the season to regain acceptable turf quality. Manilagrass started the 2018 season below acceptable levels and never recovered to acceptable turf quality. In contrast, supplemental irrigation helped maintain similar turf quality from week to week through 2018 ... Reduced recovery potential from species only receiving natural rainfall may demonstrate cumulative effects from drought stress in consecutive years. The one exception was bermudagrass ..."
+
 For more about this, see:
 
 * [Can you spot the grass that did not get enough water?](https://www.asianturfgrass.com/2019-01-21-can-you-spot-the-grass/)
+
 * [Drought, bermudagrass, and zoysiagrass](https://www.asianturfgrass.com/2018-10-15-drought-bermudagrass-zoysiagrass/)
+
 * [Four reasons zoysia should be a poor choice for California](https://www.asianturfgrass.com/2018-10-15-four-reasons-zoysia-poor-choice-california/)
+
 * [Temperature and zoysia](https://www.asianturfgrass.com/2018-07-23-temperature-and-zoysia/)
-<br>
+
+
