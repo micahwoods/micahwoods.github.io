@@ -6,9 +6,9 @@ tags: [soil testing, research, science]
 ---
 
 After I read the article by Lawrence et al. on [Guiding soil sampling strategies using classical and spatial
-statistics: A review](https://dx.doi.org/10.1002/agj2.20048), I made some calculations, sent a few email inquiries, looked up some standard recommendations for turfgrass testing, reread another article on this topic, did a Twitter poll, and started drafting a blog post.
+statistics: A review](https://dx.doi.org/10.1002/agj2.20048), I made some calculations, sent a few email inquiries, looked up some standard recommendations for turfgrass testing, reread another article on this topic, sent out a Twitter poll, and started drafting a blog post.
 
-I soon realized that it might be a long blog post. And I think the topic of soil sampling and the number of cores (or subsamples) to collect to then put together as single composite sample to be representative of the tested area is a particularly dry subject. So I decided to break this post into a number of short posts.
+I soon realized that it might be a long blog post. Too long, probably. And the topic of soil sampling and the number of cores (or subsamples) to collect to then put together as single composite sample to be representative of the tested area is a particularly dry subject. So I decided to break this post into a number of short ones.
 
 ![multiple cores taken for soil sampling on a single green](/img/grid_samples.jpg)
 <small><strong>How many cores should be taken from a single putting green, or sports field, or fairway, or lawn, to put together as a composite sample for soil nutrient analysis?</strong></small>
