@@ -5,7 +5,7 @@ share-img: "https://www.asianturfgrass.com/img/penn_state_mug.jpg"
 tags: [soil testing, research, science]
 ---
 
-The [instructions from Rutgers](https://www.asianturfgrass.com/2020-02-02-composite-samples-1/) are to take from 12 to 15 samples from a single putting green. I like to check Penn State recommendations too---their websites are a wealth of reference materials. A good starting point is the [Professional Turfgrass Management](https://plantscience.psu.edu/research/centers/turf/extension/professional-turf) page with its long list of documents. My favorite is [*Turfgrass Fertilization: A Basic Guide for Professional Turfgrass Managers*](https://extension.psu.edu/turfgrass-fertilization-a-basic-guide-for-professional-turfgrass-managers).
+The [instructions from Rutgers](https://www.asianturfgrass.com/2020-02-02-composite-samples-1/) are to take from 12 to 15 samples from a single putting green. I like to check Penn State recommendations too---their websites are a wealth of reference materials. A good starting point is the [Professional Turfgrass Management](https://plantscience.psu.edu/research/centers/turf/extension/professional-turf) page with its long list of documents. My favorite from that page is [*Turfgrass Fertilization: A Basic Guide for Professional Turfgrass Managers*](https://extension.psu.edu/turfgrass-fertilization-a-basic-guide-for-professional-turfgrass-managers).
 
 ![penn state mug](/img/penn_state_mug.jpg)
 
