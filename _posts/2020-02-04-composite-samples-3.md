@@ -14,13 +14,13 @@ There's an article by Donohue, [Evaluation of soil nutrient variability for deve
 
 > "To determine the optimum number of subsamples required for a representative composite sample for the turf area, the overall landscape was first evaluated to identify unusual spots that one should avoid when sampling. This evaluation was made after the grid was marked off, but before samples were actually collected."
 
-Donohue then expcluded some areas near a road that may be affected by salt application, areas near a flower bed that may have had fertilizer overthrow, and steeply sloped areas and low areas.
+Donohue then excluded some areas near a road that may be affected by salt application, areas near a flower bed that may have had fertilizer overthrow, and steeply sloped areas and low areas.
 
 > "This left a total of 163 spots for the subsampling study."
 
 > "Soil test results from the 163 locations within the uniform area were entered into the Virginia Tech mainframe computer for evaluation. For determining the optimum number of subsamples for a representative composite sample, 1, 5 10, 15 and 20 subsamples/composite sample were chosen for evaluation. For each subsample number, five separate composite samples were 'collected' by the computer and compared to determine variation in test results."
 
-In short, random samples were drawn from the 163 soil tests, then these random samples were averaged as if they were a composite sample, and the mean of those random samples and their variation were compared to the known mean of all 163 soil tests.
+In short, random samples were drawn from the 163 soil tests (for n = 1, 5, 10, 15, and 20), then these random samples were averaged as if they were a composite sample, and the means of those random samples and their variation were compared to the known mean of all 163 soil tests.
 
 And here's the final result.
 
