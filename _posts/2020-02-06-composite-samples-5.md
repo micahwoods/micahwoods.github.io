@@ -22,7 +22,7 @@ The results, excluding those who answered the survey just to see results, came t
 | 6 to 10  | 45%  |
 | 11 or more  | 43%  |
 
-It seems a lot of turfgrass managers are following the standard recommendations of at least 12 subsamples per area. And I was surprised there were so few respondents collecting 5 or less subsamples.
+It seems a lot of turfgrass managers are following the standard recommendations of at least 12 subsamples per area, althought more than half the respondents are collecting fewer than the recommendation of 12. I was surprised there were so few respondents collecting 5 or less subsamples---I would have thought more people would do this the fast and easy way.
 
 
 
