@@ -11,7 +11,7 @@ The article [Guiding soil sampling strategies using classical and spatial statis
 
 ---
 
-They get right to the purpose of soil nutrient analysis in the first sentence saying that it is "a key practice to increase the efficiency of nutrient management." As an aside, I'll take the opportunity here to point out that that is how soil testing is supposed to work, but in the turfgrass industry, soil testing can [actually *decrease the efficiency* of nutrient management](https://www.blog.asianturfgrass.com/2016/03/thats-not-the-way-it-is-supposed-to-work.html) because of misinterpreted soil tests.
+They get right to the purpose of soil nutrient analysis in the first sentence saying that it is "a key practice to increase the efficiency of nutrient management." As an aside, I'll take the opportunity here to point out that that is how soil testing is supposed to work, but in the turfgrass industry, soil testing seems to [actually *decrease the efficiency* of nutrient management](https://www.blog.asianturfgrass.com/2016/03/thats-not-the-way-it-is-supposed-to-work.html) because of misinterpreted soil tests. But it is easy to fix this with a method such as [MLSN](https://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/).
 
 In their review, they looked at results from other articles, and calculated "an estimate for the range of soil sampling densities that would be required to achieve a margin of error of 10% of each study's mean at a 5% precision level." For K, the median sampling density is less than 5 samples per hectare; for P the median sampling density is 8.4 samples per hectare. I think it is interesting to consider these sampling densities in comparison to what is standard in the turfgrass industry today. To achieve that aforementioned level of precision with P, for example, one would need on average a single sample for every 1,190 m<sup>2</sup> (12,809 ft<sup>2</sup>). With K, fewer samples would be required.
 
@@ -23,7 +23,7 @@ Then in a section on the "Current State of Extension Soil Sampling Recommendatio
 
 In the general suggestions and conclusion to the article, more things to think about.
 
-> "If no prior information on the soil property is available, log-normality should be assumed, **and soil samples should not be composited.** If the collected cores display log-normality, the geometric mean or median should be used instead of the arithmetic mean. **Only in instances in which normality has previously been established should soil samples be composited.**
+> "If no prior information on the soil property is available, log-normality should be assumed, **and soil samples should not be composited.** If the collected cores display log-normality, the geometric mean or median should be used instead of the arithmetic mean. **Only in instances in which normality has previously been established should soil samples be composited.**"
 
 > "... it is not surprising that extension recommendations often suggest practices such as compositing and Z-sampling, which do not have a strong foundation in peer-reviewed literature. **Fortunately, there are theoretically simple ways to correct these recommendations, such as suggesting soil cores to be individually analyzed.**" 
 
