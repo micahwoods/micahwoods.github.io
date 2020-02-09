@@ -24,9 +24,9 @@ I made some calculations about the number of samples required. I'll use the Mehl
 I took random draws from those results, selecting 1 core, or 2, or 3, all the way up to 30 cores. And from those cores that were randomly drawn, I calculated the geometric mean, as recommended by Lawrence et al. I did that 200 times, and then plotted the means that were obtained from taking 1 up to 30 cores. This is simulating composite sampling from 1 core up to 30 cores on the same green. 
 
 ![chart of sim means](/img/sim_means_p.png)
-<small><strong>200 simulated means for 1 to 30 cores calculated from the soil test results from a 1,092 m<sup>2</sup> green.</strong></small>
+<small><strong>200 simulated means for 1 to 30 cores calculated from the soil test results from a 1,092 m<sup>2</sup> green. The lines show a 10% margin above the known mean (calculated from all 30 cores) and a 10% margin below the mean.</strong></small>
 
-The lines show a 10% margin above the known mean (calculated from all 30 cores) and a 10% margin below the mean.
+Looking at the fraction of the simulations that returned a mean within 10% of the known mean, the fraction goes above 90% (marked with a horizontal dashed line in the chart below) once there were 6 or more subsamples.
 
 ![chart of fraction within 10%](/img/fraction_within_10_p.png)
 <small><strong>The fraction of simulated means that were within 10% of the known mean, calculated from 200 random draws from the test data.</strong></small>
