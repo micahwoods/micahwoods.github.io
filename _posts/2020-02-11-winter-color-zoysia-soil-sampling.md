@@ -7,8 +7,8 @@ tags: [soil testing, zoysia, japan]
 
 I was in Fukuoka last weekend and enjoyed the mid-winter weather and the seasonal colors of the turf. This is what golf courses in Japan look like in the winter.
 
-![6th at keya in february](/img/2020feb_keya6.jpg)
-<small><strong>The par 4 sixth hole at Keya GC in Fukuoka on a February afternoon.</strong></small>
+![5th at keya in february](/img/2020feb_keya6.jpg)
+<small><strong>The par 4 fifth hole at Keya GC in Fukuoka on a February afternoon.</strong></small>
 
 Most golf courses in Japan have korai (*Zoysia matrella*) tees and fairways and noshiba (*Zoysia japonica*) roughs. Most courses have creeping bentgrass (*Agrostis stolonifera*) greens. 
 
