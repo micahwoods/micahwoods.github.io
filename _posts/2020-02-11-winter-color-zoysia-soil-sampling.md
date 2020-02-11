@@ -10,7 +10,9 @@ I was in Fukuoka last weekend and enjoyed the mid-winter weather and the seasona
 ![6th at keya in february](/img/2020feb_keya6.jpg)
 <small><strong>The par 4 sixth hole at Keya GC in Fukuoka on a February afternoon.</strong></small>
 
-Most golf courses in Japan have korai (*Zoysia matrella*) tees and fairways and noshiba (*Zoysia japonica*) roughs. Most courses have creeping bentgrass (*Agrostis stolonifera*) greens. Golf courses in winter, then, will generally look like this---dormant fairways and rough and green putting greens. Some golf courses will apply colorants to tees or fairways to make them green in winter. I like the natural, seasonal color of the grass. That golden color is what one finds on the Imperial Palace lawn, or on the lawns of the [Three Great Gardens of Japan](https://en.wikipedia.org/wiki/Three_Great_Gardens_of_Japan).
+Most golf courses in Japan have korai (*Zoysia matrella*) tees and fairways and noshiba (*Zoysia japonica*) roughs. Most courses have creeping bentgrass (*Agrostis stolonifera*) greens. 
+
+Golf courses in winter, then, will generally look like this---dormant fairways and rough and green putting greens. Some golf courses will apply colorants to tees or fairways to make them green in winter. I like the natural, seasonal color of the grass. That golden color is what one finds on the Imperial Palace lawn, or on the lawns of the [Three Great Gardens of Japan](https://en.wikipedia.org/wiki/Three_Great_Gardens_of_Japan).
 
 ![4th at keya in february](/img/2020feb_keya4.jpg)
 <small><strong>View from behind the par 5 fourth hole at Keya GC in Fukuoka.</strong></small>
