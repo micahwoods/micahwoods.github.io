@@ -33,7 +33,7 @@ Looking at the fraction of the simulations that returned a mean within 10% of th
 
 For phosphorus, once 6 cores were composited from this area, the mean soil test P was within 10% of the known mean more than 90% of the time.
 
-I made the same calculation for other elements, and it was 6 for K, 5 for Ca, 4 for Mg, and 6 for S.
+I made the same calculation for other elements, and it was 6 subsamples for K, 5 for Ca, 4 for Mg, and 6 for S.
 
 This green was 1,092 m<sup>2</sup> so 6 cores from this area would be 1 core from every 182 m<sup>2</sup>. Another way to express this is 0.55 cores required per 100 m<sup>2</sup> or 0.51 samples required per 1,000 ft<sup>2</sup>. That's how many samples would be required to get a test result within 10% of the true mean of the area, 90% of the time.
 
