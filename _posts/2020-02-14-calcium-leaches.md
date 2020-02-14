@@ -7,14 +7,14 @@ tags: [calcium, irrigation, clipvol]
 
 Did you see where soil potassium (K) only [went down by 1 ppm](https://www.asianturfgrass.com/2020-01-29-potassium-leached-kbc/) after 374 mm (14.7 inches) of rain? 
 
-In that same comparison of pre- and post-rain samples, the soil calcium (Ca) went down by 26 ppm. The Mehlich 3 Ca was 666 ppm in the sample collected on 21 August 2019. Then it rained 347 mm over the next 11 days, and a soil sample collected on 1 September 2019 had Ca of 640 ppm.
+In that same comparison of pre- and post-rain samples, the soil calcium (Ca) went down by 26 ppm. The Mehlich 3 Ca was 666 ppm in the sample collected on 21 August 2019. Then it rained 347 mm over the next 11 days, and a soil sample collected on 1 September 2019 had Ca of 640 ppm. 
 
 Why did Ca go down with rain, but K didn't? I reckon it's because irrigation was supplying about 26 times more Ca than the grass was using. And all that extra Ca has to go somewhere.
 
 ![irr 15 grn keya](/img/keya_15_irrigation.jpg)
 <small><strong>Irrigation water at Keya GC supplies 26 times more Ca than the grass uses.</strong></small>
 
-If you are interested in the math, it goes like this.
+If you are interested in the math, it goes like this. And it's just a coincidence that it is 26 times more Ca in irrigation water than grass use, and 26 ppm decrease. Those 26's aren't connected in any way.
 
 ### Irrigation water calcium
 
