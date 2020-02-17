@@ -31,8 +31,8 @@ I'm sure that by looking at total OM over time, you'll find this to be incredibl
 
 For more information about this important topic, have a look at:
 
-* [one simple trick to transform greens](https://www.asianturfgrass.com/2019-06-25-one-simple-trick-better-greens/)
-* [measuring organic matter](https://www.asianturfgrass.com/2019-06-10-measuring-organic-matter/)
+* [One simple trick to transform greens](https://www.asianturfgrass.com/2019-06-25-one-simple-trick-better-greens/)
+* [Measuring organic matter](https://www.asianturfgrass.com/2019-06-10-measuring-organic-matter/)
 * Total organic matter [sample number and sample volume](https://www.asianturfgrass.com/2019-07-29-total-organic-matter-testing-sample-size/)
 * Three reasons for [expressing sand topdressing amount as a depth](https://www.asianturfgrass.com/2019-08-08-three-reasons-sand-depth/)
 * Video about a [continuous improvement system](https://vimeo.com/micahwoods/improve) that includes OM measurement
