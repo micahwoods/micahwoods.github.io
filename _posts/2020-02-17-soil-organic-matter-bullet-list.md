@@ -17,7 +17,7 @@ These are some key things I've learned after studying organic matter (OM) for a 
 
 * I find it most effective to test 100% of the sample that is sent to the lab, with no screening, no removal of aboveground plant material, and with a burn at 440 °C. This is what ATC does with all our clients' samples at Brookside Labs.
 
-* Measurements I've made of total organic matter from putting greens, in the top 2 cm, give an average of 7.3%. That's 73 g of organic matter per 1 kg of soil.
+* Measurements I've made of total organic matter from putting greens, in the top 2 cm, give an average of 7.3%. That's 73 g of organic matter per 1 kg of sample.
 
 * For golf courses, I recommend testing at least three putting greens annually, and taking at least five subsamples per green to form a composite sample.
 
@@ -29,7 +29,7 @@ I'm sure that by looking at total OM over time, you'll find this to be incredibl
 
 ![bullet list img](/img/om_bullet.jpg)
 
-For more information about this important topic, have a look at:
+For more information about this important topic, please have a look at:
 
 * [One simple trick to transform greens](https://www.asianturfgrass.com/2019-06-25-one-simple-trick-better-greens/)
 * [Measuring organic matter](https://www.asianturfgrass.com/2019-06-10-measuring-organic-matter/)
