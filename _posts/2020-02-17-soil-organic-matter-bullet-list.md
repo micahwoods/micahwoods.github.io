@@ -7,7 +7,7 @@ tags: [om246, organic matter, soil testing]
 
 These are some key things I've learned after studying organic matter (OM) for a few years. This is about organic matter in the context of playing conditions---how a ball reacts when it hits the surface. And this is also about the maintenance done to manage organic matter, like sand topdressing, core aerification, and scarification. 
 
-* Standard tests for soil organic matter *exclude* undecayed plant material like thatch, stems, and roots.
+* Standard tests for soil organic matter *exclude* undecayed plant material like thatch, stems, and roots. That misses a lot of the things people are trying to topdress or scarify or manage with coring.
 
 * Standard soil tests for turfgrass sites are to a 10 cm depth, but organic matter accumulation (and ball reaction) are at the surface.
 
