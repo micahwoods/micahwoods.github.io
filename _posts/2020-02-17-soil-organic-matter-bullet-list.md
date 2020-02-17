@@ -7,15 +7,15 @@ tags: [om246, organic matter, soil testing]
 
 These are some key things I've learned after studying organic matter (OM) for a few years. This is about organic matter in the context of playing conditions---how a ball reacts when it hits the surface. And this is also about the maintenance done to manage organic matter, like sand topdressing, core aerification, and scarification. 
 
-* Standard tests for soil organic matter *exclude* undecayed plant material like thatch, stems, and roots. That misses a lot of the things people are trying to topdress or scarify or manage with coring.
+* Standard tests for soil organic matter *exclude* undecayed plant material like thatch, stems, and roots. That *misses a good bit of the organic matter* that people are trying to measure, and then to manage by topdressing, scarifying, or coring.
 
 * Standard soil tests for turfgrass sites are to a 10 cm depth, but organic matter accumulation (and ball reaction) are at the surface.
 
-* A special test is required, to measure total organic matter at specific depths.
+* A special test is required, to measure *total organic matter* at specific depths. I recommend the international standard: 0 to 2 cm, 2 to 4 cm, and 4 to 6 cm. This is also more precise than going inch by inch. 
 
-* Measuring total organic matter in soil samples taken to a 2 cm (0.8 inches) depth provides a useful assessment of prior topdressing effect and of future topdressing requirement.
+* Measuring total organic matter in soil samples taken to a 2 cm (0.8 inches) depth provides a useful assessment of prior topdressing effect and of future topdressing requirement. Actually, it's better than a useful assessment, it's an exact measurement of results.
 
-* I find it most effective to test 100% of the sample that is sent to the lab, with no screening, no removal of aboveground plant material, and with a burn at 440 °C.
+* I find it most effective to test 100% of the sample that is sent to the lab, with no screening, no removal of aboveground plant material, and with a burn at 440 °C. This is what ATC does with all our clients' samples at Brookside Labs.
 
 * Measurements I've made of total organic matter from putting greens, in the top 2 cm, give an average of 7.3%. That's 73 g of organic matter per 1 kg of soil.
 
