@@ -41,7 +41,7 @@ Those monthly bentgrass tissue tests from last year had a median Ca content of 0
 
 The 15,240 mg of Ca supplied by irrigation water happens to be 7 times more than the 2,100 mg of Ca used by the grass.
 
-You might like to make this calculation for your site, based on the conentration of Ca in your irrigation water, and based on how much your grass grows.
+You might like to make this calculation for your site, based on the concentration of Ca in your irrigation water, and based on how much your grass grows.
 
 ### More about this
 
