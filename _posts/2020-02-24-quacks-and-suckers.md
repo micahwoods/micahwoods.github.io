@@ -7,7 +7,7 @@ tags: [fertilizer, article, greenkeeping, turfreads]
 
 A couple weeks ago I was preparing for a seminar in which I discussed [Charles Vancouver Piper](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2006/060317.pdf) and the early days of turfgrass science in the United States. I recalled---or quite possibly I misremembered, as I haven't been able to find it yet---having read some years ago something by Piper about nostrums. A **nostrum**, the [OED](https://www.oed.com/) says, is "a quack remedy or patent medicine, *esp.* one prepared by the person recommending it."
 
-Today I looked through the early issues of the *Green Section Record*, or the *Bulletin of the Green Section of the United States Golf Association*, as it was called in those days, looking for something about nostrums. I didn't find that, but I did find an editorial in the June 1923 issue with the title ["Quacks and Suckers"](https://gsr.lib.msu.edu/1920s/1923/2306158.pdf).
+Today I looked through the early issues of the *Green Section Record*, or more specifically the *Bulletin of the Green Section of the United States Golf Association*, as it was called in those days, looking for something about nostrums. I didn't find that, but I did find an editorial in the June 1923 issue with the title ["Quacks and Suckers"](https://gsr.lib.msu.edu/1920s/1923/2306158.pdf).
 
 [![table of contents of june 1923 gsr](/img/quacks.jpg)](https://gsr.lib.msu.edu/1920s/1923/index.htm#June)
 
