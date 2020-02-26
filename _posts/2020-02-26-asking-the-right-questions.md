@@ -5,7 +5,7 @@ share-img: "https://live.staticflickr.com/790/40831344112_07191f09ea_b_d.jpg"
 tags: [article, greenkeeping, turfreads, carbon, organic matter]
 ---
 
-Here's another interesting article I came across recently. Dr. Carrow wrote in the October 1993 issue of *GCM* an article with the title [Eight questions to ask: evaluating soil and turf conditioners](http://tic.msu.edu/tgif/flink?recno=29197). The article is about products, and deciding if they are required. It has plenty of examples.
+Here's another interesting article I came across recently. Dr. Carrow wrote an article in the October 1993 issue of *GCM* with the title [Eight questions to ask: evaluating soil and turf conditioners](http://tic.msu.edu/tgif/flink?recno=29197). The article is about products, and deciding if they are required. It includes plenty of examples.
 
 The very first question, Dr. Carrow wrote, should be "Is this product needed in my situation?" He uses the example of humic acid. 
 
@@ -33,6 +33,6 @@ Here are the 8 questions to ask.
 
 8. Should I try this product on a trial area?
 
-I suggest reading the [entire article](http://tic.msu.edu/tgif/flink?recno=29197) for more examples.
+I suggest reading the [entire article](https://archive.lib.msu.edu/tic/gcman/article/1993oct56.pdf) for more examples.
 
 
