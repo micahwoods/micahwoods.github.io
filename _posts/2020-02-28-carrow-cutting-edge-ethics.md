@@ -13,7 +13,7 @@ He explains that "expending large amounts of club funds for testing a new techno
 
 Carrow lists seven questions to ask about new products or technologies. One of those is "How important is the response?" and he provides an interesting example on the topic of soil amendments.
 
-> "Even with careful scientific measurements the practical important of the claimed responses is often very small or not measurable.
+> "Even with careful scientific measurements the practical importance of the claimed responses is often very small or not measurable.
 
 > To illustrate this point one could add some water or N to a turfgrass system. The water can 'stimulate microorganism activity,' 'improve soil physical properties,' ... and 'increase nutrient availability.' Added N could stimulate microorganism activity, thereby enhancing structure development while improving soil chemical properties. Thus, one could sell bottled water or NH<sub>4</sub>NO<sub>3</sub> fertilizer as a 'soil amendment' and make a wide variety of claims about improving soil physical, chemical, and biological properties."
 
