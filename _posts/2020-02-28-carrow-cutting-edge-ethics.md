@@ -9,7 +9,7 @@ Dr. Carrow gets right to the point in the very first sentence of his [classic ar
 
 [![img ethical purchasing](/img/carrow_ethics.jpg)](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2000/000517.pdf)
 
-He explains that "expending large amount of club funds for testing a new technology is an ethical issue," and he points out that "golf course maintenance budgets can often be made more efficient while not sacrificing quality." 
+He explains that "expending large amounts of club funds for testing a new technology is an ethical issue," and he points out that "golf course maintenance budgets can often be made more efficient while not sacrificing quality." 
 
 Carrow lists seven questions to ask about new products or technologies. One of those is "How important is the response?" and he provides an interesting example on the topic of soil amendments.
 
@@ -17,7 +17,7 @@ Carrow lists seven questions to ask about new products or technologies. One of t
 
 > To illustrate this point one could add some water or N to a turfgrass system. The water can 'stimulate microorganism activity,' 'improve soil physical properties,' ... and 'increase nutrient availability.' Added N could stimulate microorganism activity, thereby enhancing structure development while improving soil chemical properties. Thus, one could sell bottled water or NH<sub>4</sub>NO<sub>3</sub> fertilizer as a 'soil amendment' and make a wide variety of claims about improving soil physical, chemical, and biological properties."
 
-Just read the [article](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2000/000517.pdf).
+All seven questions, with plenty of explanation and examples, in the [full article](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2000/000517.pdf).
 
 For more like this, see:
 
