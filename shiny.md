@@ -17,6 +17,14 @@ Returns the reference and crop evapotranspiration for a day given inputs of lati
 
 Returns the sustainability index (SI) based on soil test inputs. This is a direct comparison of input soil test results to the MLSN data.
 
+### [MLSN K fertilizer calculator](https://asianturfgrass.shinyapps.io/mlsn_K/)
+
+Calculates the fertilizer K requirement given inputs of grass species, soil test K, and annual N rate. A diagonal line on the chart displays how the fertilizer K will change based on the amount of K in the soil.
+
+### [Turf Twitter in 2019](https://asianturfgrass.shinyapps.io/turf_twitter_2019/)
+
+This app shows searchable calculations and rankings related to turfgrass industry Twitter accounts in calendar year 2019.
+
 ### [Turf Twitter in 2018](https://asianturfgrass.shinyapps.io/turf_twitter_2018/)
 
 This app shows searchable calculations and rankings related to turfgrass industry Twitter accounts in calendar year 2018.
@@ -40,10 +48,6 @@ Plots the combination of climatological normal sunshine and temperature for 11 c
 ### [PPFD by time, date, and location](https://asianturfgrass.shinyapps.io/ppfd_by_time/)
 
 Returns the expected photosynthetic photon flux density (PPFD) for a second within any specified minute, given inputs of latitude, longitude, date, and time. Also returns expected daily light integral (DLI) at that location if it is sunny all day.
-
-### [MLSN K fertilizer calculator](https://asianturfgrass.shinyapps.io/mlsn_K/)
-
-Calculates the fertilizer K requirement given inputs of grass species, soil test K, and annual N rate.
 
 ### [ET（蒸発散値: 標準 ETと特定作物 ET）計算機](https://asianturfgrass.shinyapps.io/et_calc_jp/)
 
