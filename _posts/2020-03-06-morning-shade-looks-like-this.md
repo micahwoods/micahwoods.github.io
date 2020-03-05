@@ -11,4 +11,4 @@ The PPFD (photosynthetic photon flux density) every 5 minutes for a day, week, m
 
 What happens when there is shade in the morning that blocks 80% of the PPFD, from sunrise until 2 hours before solar noon? What does the PPFD by time of day look like then?
 
-![PPFD in 2014 when GP >= 0.5 and 80% shade is imposed until 2 h before solar noon](/img/corvallis_morning_shade_80.jpg)
+![PPFD in 2014 in Corvallis when GP >= 0.5 and 80% shade is imposed until 2 h before solar noon](/img/corvallis_morning_shade_80.jpg)
