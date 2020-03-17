@@ -11,7 +11,8 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 [Subscribe to ATC updates here](https://www.asianturfgrass.com/lists/).
 
-* [December 2019](http://www.files.asianturfgrass.com/201912_atc_update.pdf),  coring holes on greens, frost delays, earthworms on turf, & a colorful new book 
+* [March 2020](http://files.asianturfgrass.com/202003_atc_update.pdf), 3 recommendations for this year, checking ball roll, & New Zealand conference
+* [December 2019](http://www.files.asianturfgrass.com/201912_atc_update.pdf), coring holes on greens, frost delays, earthworms on turf, & a colorful new book 
 * [September 2019](http://www.files.asianturfgrass.com/201909_atc_update.pdf), a great new job, seminars on 3 continents, & turf articles galore
 * [April 2019](http://www.files.asianturfgrass.com/201904_atc_update.pdf), another movie, a football seminar, and new research
 * [December 2018](http://www.files.asianturfgrass.com/201812_atc_update.pdf), a movie, a book, and happy holidays
@@ -41,6 +42,7 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 [日本語のATCアップデートのメーリングリストに参加を申し込む](https://www.asianturfgrass.com/lists/)。
 
+* [2020年3月](http://files.asianturfgrass.com/202003_atc_update_jp.pdf), ATC アップデート第6号 
 * [2019年12月](http://files.asianturfgrass.com/201912_atc_update_jp.pdf), ATC アップデート第5号 
 * [2019年9月](http://files.asianturfgrass.com/201910_atc_update_jp.pdf), ATC アップデート第4号
 * [2018年2月](http://files.asianturfgrass.com/201802_atc_update_jp.pdf), ATCアップデート: セミナー、会議、トーナメント、トラベル 
