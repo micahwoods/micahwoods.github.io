@@ -7,7 +7,7 @@ tags: [fertilizer, turfhacks, om246, organic matter]
 
 I had an email exchange last December that seems it could be useful to a few people. It gets at what is *really* required to produce high quality surfaces. And that might be less than you think.
 
-[Ken Siems](https://www.linkedin.com/in/ken-siems-cgcs-mg-800ab218/) replied to me last December after I'd sent an ATC update newsletter. By the way, [you can sign up here](https://www.asianturfgrass.com/lists/) to get these updates yourself---someone wrote this week letting me know that these are "the most stimulating of all the things I see on social media."
+[Ken Siems](https://www.linkedin.com/in/ken-siems-cgcs-mg-800ab218/) replied to me last December after I'd sent an [ATC update newsletter](https://www.asianturfgrass.com/archive/). By the way, [you can sign up here](https://www.asianturfgrass.com/lists/) to get these updates yourself---someone wrote this week letting me know that these are "the most stimulating of all the things I see on social media."
 
 ### Fertilizer
 
