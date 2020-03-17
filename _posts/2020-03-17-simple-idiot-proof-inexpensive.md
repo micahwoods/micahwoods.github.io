@@ -19,7 +19,7 @@ One thing we discussed is nutrients. Ken wrote that:
 
 My reply:
 
-"The way you are fertilizing is almost exactly how I would do it if I were managing turf. I take the stance that I leave it to turf managers to use the products they are most comfortable with and what is easiest for them given the application machinery and staff and resources they have available. My personal preference, however, is to apply exactly what is required, as best I can estimate that, applied at the exact rate I choose, from the fundamental ingredients."
+"The way you are fertilizing is almost exactly how I would do it if I were managing turf ... I leave it to turf managers to use the products they are most comfortable with and what is easiest for them given the application machinery and staff and resources they have available. My personal preference, however, is to apply exactly what is required, as best I can estimate that, applied at the exact rate I choose, from the fundamental ingredients."
 
 ### Organic matter and coring
 
