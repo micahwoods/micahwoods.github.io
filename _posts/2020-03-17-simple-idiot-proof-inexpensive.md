@@ -5,7 +5,7 @@ share-img: "https://www.asianturfgrass.com/img/grass_so_fair.jpg"
 tags: [fertilizer, turfhacks, om246, organic matter]
 ---
 
-I had an email exchange last December that could be useful. It gets at what is *really* required, in a couple key areas, to produce high quality surfaces. And that might be less than you think. It involves hollow core aerification and less fertilizer.
+I had an email exchange last December that could be useful. It gets at what is *really* required, in a couple key areas, to produce high quality surfaces. And that might be less than you think. It involves hollow core aerification and fertilizer.
 
 [Ken Siems](https://www.linkedin.com/in/ken-siems-cgcs-mg-800ab218/) replied to me last December after I'd sent an [ATC update newsletter](https://www.asianturfgrass.com/archive/). By the way, [you can sign up here](https://www.asianturfgrass.com/lists/) to get these updates yourself---someone wrote this week letting me know that these are "the most stimulating of all the things I see on social media."
 
