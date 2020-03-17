@@ -9,11 +9,23 @@ I had an email exchange last December that seems it could be useful to a few peo
 
 [Ken Siems](https://www.linkedin.com/in/ken-siems-cgcs-mg-800ab218/) replied to me last December after I'd sent an ATC update newsletter. By the way, [you can sign up here](https://www.asianturfgrass.com/lists/) to get these updates yourself---someone wrote this week letting me know that these are "the most stimulating of all the things I see on social media."
 
+### Fertilizer
+
+One thing we discussed is nutrients. Ken wrote that:
+
+"Our fertility program here is by foliar application only to all greens, tees and fairways. Even rough is fed through the sprayer. We apply less and only when I see the plant needs it. Again, no set fertiliser program. No fancy turf label products. Just basic Amm Sulphate, Urea, Ferrous sulphate, Magnesium sulphate, Manganese sulphate, Pot N [potassium nitrate] and potasium sulphate (As a granular for Roughs).
+
+**Very simple and idiot proof and inexpensive.**"
+
+My reply:
+
+"The way you are fertilizing is almost exactly how I would do it if I were managing turf. I take the stance that I leave it to turf managers to use the products they are most comfortable with and what is easiest for them given the application machinery and staff and resources they have available. My personal preference, however, is to apply exactly what is required, as best I can estimate that, applied at the exact rate I choose, from the fundamental ingredients."
+
 ### Organic matter and coring
 
 I'd written about coring (or not) in [the newsletter](https://www.asianturfgrass.com/archive/). 
 
-Ken replied with what he's been successful with. Any bold text is mine, highlighting what I think are some key points. 
+Ken replied with what he's been successful with. Any bold text is mine, highlighting what I think are some key points in his detailed response.
 
 From Ken:
 
@@ -37,17 +49,7 @@ I've noticed similar things over the past 8 years or so. I used to recommend a l
 
 What I recommend now is careful observation of turf conditions, annual measurement of total OM at the surface (I prefer the method described at <https://www.asianturfgrass.com/2019-06-25-one-simple-trick-better-greens/>), and adjustment of topdressing amounts based on turf conditions and OM change over time, compared to the amount of work (topdressing and OM management) that has been done."
 
-### Fertilizer
 
-The email conversation then turned to fertilizer. Ken wrote that:
-
-"Our fertility program here is by foliar application only to all greens, tees and fairways. Even rough is fed through the sprayer. We apply less and only when I see the plant needs it. Again, no set fertiliser program. No fancy turf label products. Just basic Amm Sulphate, Urea, Ferrous sulphate, Magnesium sulphate, Manganese sulphate, Pot N [potassium nitrate] and potasium sulphate (As a granular for Roughs).
-
-**Very simple and idiot proof and inexpensive.**"
-
-My reply:
-
-"The way you are fertilizing is almost exactly how I would do it if I were managing turf. I take the stance that I leave it to turf managers to use the products they are most comfortable with and what is easiest for them given the application machinery and staff and resources they have available. My personal preference, however, is to apply exactly what is required, as best I can estimate that, applied at the exact rate I choose, from the fundamental ingredients."
 
 
 
