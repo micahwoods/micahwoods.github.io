@@ -35,7 +35,7 @@ Then I wrote back, describing my experience.
 
 I've noticed similar things over the past 8 years or so. I used to recommend a lot of coring and topdressing, basically following USGA Green Section recommendations from 2001/2002 and later, thinking that standard recommendation was a good starting point. But what I kept noticing was that a lot of turf managers were not doing as much coring and topdressing as I was recommending. I kept thinking at some point their turf would suffer. But it didn't. Finally it hit me that I was recommending more than was required, at least for certain sites.
 
-What I recommend now is careful observation of turf conditions, annual measurement of total OM at the surface (I prefer the method described at (https://www.asianturfgrass.com/2019-06-25-one-simple-trick-better-greens/)), and adjustment of topdressing amounts based on turf conditions and OM change over time, compared to the amount of work (topdressing and OM management) that has been done."
+What I recommend now is careful observation of turf conditions, annual measurement of total OM at the surface (I prefer the method described at <https://www.asianturfgrass.com/2019-06-25-one-simple-trick-better-greens/>), and adjustment of topdressing amounts based on turf conditions and OM change over time, compared to the amount of work (topdressing and OM management) that has been done."
 
 ### Fertilizer
 
