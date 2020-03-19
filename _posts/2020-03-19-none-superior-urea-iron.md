@@ -11,8 +11,9 @@ Here's the text of that post, including a link to the article.
 
 ---
 
-<p>There is another good article in the <a href="http://gsr.lib.msu.edu/"><em>Green Section Record</em></a>, this one by Blake Meentemeyer and Brian Whitlark on <a href="http://gsrpdf.lib.msu.edu/ticpdf.py?file=/article/meentemeyer-whitlark-turfgrass-5-6-16.pdf">Turfgrass Fertilization</a>. You'll want to read the full article. It talks about the overall goals of fertilizer application, soil tests, some myth busting, fertilizer and playability, and more. It's a modern article with a lot of historical references too.</p>
-<p>The most interesting part of the article for me was the economic case study. A course reduced the putting green fertilizer cost by 82% and the result was "the putting greens have never been healthier."</p>
+> There is another good article in the Green Section Record, this one by Blake Meentemeyer and Brian Whitlark on [Turfgrass Fertilization](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/article/meentemeyer-whitlark-turfgrass-5-6-16.pdf). You'll want to read the full article. It talks about the overall goals of fertilizer application, soil tests, some myth busting, fertilizer and playability, and more. It's a modern article with a lot of historical references too.
+
+> The most interesting part of the article for me was the economic case study. A course reduced the putting green fertilizer cost by 82% and the result was "the putting greens have never been healthier."
 
 ---
 
