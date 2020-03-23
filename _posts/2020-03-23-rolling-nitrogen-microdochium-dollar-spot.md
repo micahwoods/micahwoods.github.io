@@ -14,7 +14,7 @@ There's an interesting article by Espevig et al. on [Effects of rolling and N-fe
 
 There are a number of surface performance benefits that come from rolling, and disease suppression is one of them.
 
-With N fertilizer, I'd think of it in terms of [how much growth](https://www.asianturfgrass.com/2017-09-15-flipping-things-around/) one expects to get from a given amount of N. 
+With N fertilizer, I'd think of it in terms of [how much growth](https://www.asianturfgrass.com/2017-09-15-flipping-things-around/) one expects to get from a given amount of N. Monitoring the growth rate---[here's a free book about that](https://www.asianturfgrass.com/buckets/)---and then adjusting the N rate based on that seems like a way to achieve results without the risk of doubling disease incidence inadvertently.
 
 And while we are on the subject of rolling, how about circle rolling this green, [NASCAR style](https://twitter.com/asianturfgrass/status/1239803548835016705?s=20), in Thailand. 
 
