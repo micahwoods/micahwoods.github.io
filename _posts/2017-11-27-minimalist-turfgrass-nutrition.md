@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minimalist turfgrass nutrition"
-share-img: "https://c1.staticflickr.com/9/8039/8002502977_f815ec15d3_b_d.jpg"
+share-img: "https://www.asianturfgrass.com/img/saitama_topdress.jpg"
 tags: [seminar, fertilizer, mlsn]
 ---
 
