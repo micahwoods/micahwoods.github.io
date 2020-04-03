@@ -15,7 +15,7 @@ Grasses were planted in coconut coir as 3 cm diameter plugs, and then were ferti
 
 Yesterday, 184 days after planting, I took a look at the roots.
 
-![sequence of photos showing greens-type manilagrass fertilized with N](/img/manilagrass_n_8_sequence.png)
+![sequence of photos showing greens-type manilagrass fertilized with N](/img/manilagrass_n_8_sequence.jpg)
 
 This greens-type manilagrass, fertilized only with N for 6 months, still managed to almost completely cover the pot surface area. And underground, there is an extensive rhizome and root system. 
 
