@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Roots on grass kept deficient in P and K"
+title: "Roots on grass supplied with N, P, and K"
 share-img: "https://www.asianturfgrass.com/img/side_by_side_roots.jpg"
 tags: [research, fertilizer, zoysia]
 ---
@@ -23,6 +23,8 @@ I arranged the images side-by-side for comparison.
 ![side by side pots of grass, roots from N only, and roots from N, P, and K](/img/side_by_side_roots.jpg)
 
 For more about this, see:
+
+* [Roots, growth potential, and fertilizer](https://www.blog.asianturfgrass.com/2016/05/roots-growth-potential-fertilizer.html)
 
 * [Roots on grass kept deficient in P and K](https://www.asianturfgrass.com/2020-04-03-roots-p-k-deficient-grass/)
 
