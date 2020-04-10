@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It is difficult to run a fertilizer down the field when the corn is six feet high"
-share-img: "https://www.asianturfgrass.com/img/side_by_side_roots.jpg"
+share-img: "https://www.asianturfgrass.com/img/tractor.jpg"
 tags: [soil testing, ph, phosphorus]
 ---
 
