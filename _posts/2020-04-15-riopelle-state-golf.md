@@ -21,3 +21,9 @@ You'll want to read the full article. Here are a few quotes:
 
 > Retain a good mechanic. They are worth their weight in gold.
 
+I found out about this article last week. Jim wrote to me right after I'd sent the 12<sup>th</sup> MLSN newsletter---[subscribe here](https://www.asianturfgrass.com/lists/), or [read MLSN newsletter #12 here](https://preview.mailerlite.com/m6c2b0).
+
+> In response to your MLSN newsletter #12 I offer the following article I wrote and was published in Turf & Recreation Jan/Feb 2020 issue. My article starts on page 21. I thought it might be useful considering you mentioned cost savings in the newsletter. 
+
+> BTW, I wish MLSN was around 30 years ago. The money I could have saved. I can't even think about it. Keep up the great work!
+
