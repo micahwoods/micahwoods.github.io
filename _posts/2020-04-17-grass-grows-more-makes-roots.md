@@ -11,7 +11,7 @@ When I saw how these grasses were growing at [#ATC南店](https://twitter.com/ha
 
 * *the amount of aboveground material makes more photosynthesis makes more roots*
 
-I grew grasses 3 cm diameter plugs, planted them in coconut coir on 1 October 2019, and then fertilized the pots with different materials. After 100 days, the zoysia fertilized with N and P and K had almost completely covered the pot surface area. The zoysia fertilized with N had not.
+I grew planted grass as 3 cm diameter plugs, planted in pots filled with coconut coir on 1 October 2019, and then fertilized the pots with different materials. After 100 days, the zoysia fertilized with N and P and K had almost completely covered the pot surface area. The pot of zoysia that got only N had not.
 
 ![zoysia 100 days after planting](/img/jan9.jpg)
 
