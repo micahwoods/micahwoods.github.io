@@ -22,3 +22,5 @@ For more about this, see:
 * [Turfgrass performance data at the Open Championship](https://www.blog.asianturfgrass.com/2010/07/turfgrass-performance-data-at-the-open-championship.html)
 
 * [Relationship between soil moisture and turfgrass surface hardness](https://www.blog.asianturfgrass.com/2014/03/relationship-between-soil-moisture-and-turfgrass-surface-hardness.html)
+
+* [Measuring surface hardness on greens, fairways, and approaches](https://www.blog.asianturfgrass.com/2014/10/measuring-surface-hardness-on-greens-fairways-and-approaches.html)
