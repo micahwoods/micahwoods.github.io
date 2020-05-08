@@ -5,7 +5,7 @@ share-img: "https://www.asianturfgrass.com/img/nutrient_cost.jpg"
 tags: [clipvol, greenkeeping, video, spain, seminar]
 ---
 
-The video of my seminar for [Campus del Césped](http://www.campusdelcesped.com/) is now available. You can watch it with audio in [English](https://youtu.be/lzZ-zzyMcE8) or in [Spanish](https://youtu.be/Vk6QbChBO_M).
+The video of my seminar for [Campus del Césped](http://www.campusdelcesped.com/) is now available. You can watch it with audio in [English](https://youtu.be/lzZ-zzyMcE8) or in [Spanish](https://youtu.be/Vk6QbChBO_M). It goes by fast with the playback speed set at 1.5 or 1.75.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lzZ-zzyMcE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
