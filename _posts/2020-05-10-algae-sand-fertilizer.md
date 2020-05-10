@@ -5,7 +5,7 @@ share-img: "https://www.asianturfgrass.com/img/algae_p.jpg"
 tags: [algae, fertilizer, phosphorus]
 ---
 
-On February 28, I planted `Wana' manilagrass as two node rhizomes in sand-filled pots. All pots have had irrigation and rainfall. One pot has not been fertilized. One has received only N from urea. Another pot has gotten N and P, from urea and from diammonium phosphate (DAP). The fourth pot has gotten all the macronutrients---N, P, and K---from urea and DAP and potassium chloride (KCl).
+On February 28, I planted 'Wana' manilagrass as two node rhizomes in sand-filled pots. All pots have had irrigation and rainfall. One pot has not been fertilized. One has received only N from urea. Another pot has gotten N and P, from urea and from diammonium phosphate (DAP). The fourth pot has gotten all the macronutrients---N, P, and K---from urea and DAP and potassium chloride (KCl).
 
 ![4 pots of manilagrass 72 days after planting](/img/algae_4pots.jpg)
 <small><strong>Algae covers the sand surface in pots supplied with P, 72 days after planting.</strong></small>
@@ -36,7 +36,9 @@ I'd look at the soil test P, and its change over time, comparing the soil P leve
 
 For more about this, see:
 
-* [P deficient bentgrass](https://twitter.com/djsoldat/status/1256240574396596232?s=20)
+* [P deficient bentgrass](https://twitter.com/djsoldat/status/1256240574396596232?s=20) from Doug Soldat
+
+* [John Kaminski's SlideShare about algae](https://www.slideshare.net/johnkaminski/algae-management-for-golf-course-putting-greens-7336396), especially slide #28
 
 * [Can you see the P?](https://www.asianturfgrass.com/2019-12-21-can-you-see-the-p/)
 
