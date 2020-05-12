@@ -23,7 +23,7 @@ In particular, I'm providing an alternative answer to the question Doug asked at
 
 5. The total organic matter testing has been around for a while. Two excellent articles about this are [Glasgow et al. (2005)](https://archive.lib.msu.edu/tic/its/articles/2005jou1078.pdf) with *An investigation of organic matter levels in New Zealand golf greens*, and [Windows & Bechelet (2012)](https://stri.lib.msu.edu/itb/articles/257-14.pdf) with *What's working* which summarizes year 2011 measurements by STRI. The New Zealand data are with grass (verdure) cut off the sample. STRI data I presume cut the grass off too. ATC and [BRT](https://brtagronomy.com/) share data for the purpose of analysis and we leave the verdure on samples from putting greens. This table summarizes the mean values from the Glasgow et al. report from New Zealand, the STRI data from the UK, and the ATC & BRT data. ATC & BRT data are from golf courses in nine countries and cover measurements from all common cool-season (C<sub>3</sub>) and warm-season (C<sub>4</sub>) species used on putting greens.
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+      <table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
  <thead>
 <tr>
 <th style="border-bottom:hidden" colspan="1"></th>
@@ -77,7 +77,7 @@ In particular, I'm providing an alternative answer to the question Doug asked at
    <td style="text-align:right;"> NA </td>
   </tr>
 </tbody>
-</table>
+    </table>
 
 6. You'll notice that these are at a specified depths. It makes sense to measure at standard depths---I call this [#OM246](https://twitter.com/hashtag/OM246?src=hashtag_click)---because one can check what is happening right at the surface, and also see what is happening a little deeper in the profile. I like doing this in 2 cm increments because that's comparable to the large datasets already existing. Going inch by inch would be comparable. Two cm is 0.8 inches so using the [#OM246](https://twitter.com/hashtag/OM246?src=hashtag_click) depths will be a little more precise than going in increments of inches.
 
