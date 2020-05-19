@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Pretty hopeless in predicting deficiency"'
+title: "Pretty hopeless in predicting deficiency"
 share-img: "https://www.asianturfgrass.com/img/orson_leaf_analysis.png"
 tags: [tissue testing, leaf nutrient analysis, micronutrients, fertilizer]
 ---
