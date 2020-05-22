@@ -5,6 +5,8 @@ share-img: "https://www.asianturfgrass.com/img/mlsn_4_suggestion.jpg"
 tags: [mlsn, fertilizer, soil testing]
 ---
 
+![image of 3 video and 1 cheat sheet recommended here](/img/mlsn_4_suggestion.jpg)
+
 Today at 10 a.m. New York time (21:00 in Thailand) I'll be leading a seminar called "How MLSN Works." If you want to join but haven't registered yet, contact Chris Eidson (ceidson [at] blinc [dot] com), the Education Specialist at Brookside Labs, to register.
 
 [These are the slides](https://speakerdeck.com/micahwoods/how-mlsn-works) I put together for this seminar.
@@ -19,4 +21,4 @@ One of the things I'll mention is other ways to learn more about MLSN, or materi
 
 * I recorded a screencast of my presentation at the European Turfgrass Society conference in 2018, [Turfgrass fertiliser recommendations with or without soil tests](https://vimeo.com/micahwoods/ets18). This explains how the MLSN guidelines can be used to make effective nutrient recommendations for turfgrass all around the world.
 
-![image of 3 video and 1 cheat sheet recommended here](/img/mlsn_4_suggestion.jpg)
+
