@@ -5,7 +5,9 @@ share-img: "https://www.asianturfgrass.com/img/green_bermuda_dormant_zoysia.jpg"
 tags: [zoysia, bermuda, water, drought, irrigation]
 ---
 
-I was talking with a golf course designer recently, and he mentioned that "zoysia starts to look pretty attractive because of its lower water use." That led to a long conversation about how incorrect that statement is. Sure, zoysia may use less water than bermuda, but it will do so because the zoysia is dormant and the bermuda remains green.
+I was talking with a golf course designer recently, and he mentioned that "zoysia starts to look pretty attractive because of its lower water use." That led to a long conversation about how incorrect that statement is. Sure, zoysia as a warm-season grass will use less water than cool-season grasses. But that's comparing apples to oranges. One should look at the water use of zoysia compared to bermuda. When making that comparison, bermuda has higher turf quality than zoysia when irrigation is restricted.
+
+Sure, theres one case where zoysia may use less water than bermuda. The reason it's using less water is because it is dormant while the bermuda remains green.
 
 Here is a photo of green bermudagrass (*Cynodon dactylon*) in a turf of dormant manilagrass (*Zoysia matrella*) during the dry season in Thailand. With the same amount of soil moisture, the bermudagrass remains green and the manilagrass is dormant.
 
