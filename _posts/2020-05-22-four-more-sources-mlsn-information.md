@@ -7,11 +7,7 @@ tags: [mlsn, fertilizer, soil testing]
 
 ![image of 3 video and 1 cheat sheet recommended here](/img/mlsn_4_suggestion.jpg)
 
-Today at 10 a.m. New York time (21:00 in Thailand) I'll be leading a seminar called "How MLSN Works." If you want to join but haven't registered yet, contact Chris Eidson (ceidson [at] blinc [dot] com), the Education Specialist at Brookside Labs, to register.
-
-[These are the slides](https://speakerdeck.com/micahwoods/how-mlsn-works) I put together for this seminar.
-
-One of the things I'll mention is other ways to learn more about MLSN, or material that explains how it works in a different way. The four items I recommended are:
+In my recent "How MLSN Works" seminar---[slides here](https://speakerdeck.com/micahwoods/how-mlsn-works)---I mentioned some other ways to learn more about MLSN. The four items I recommended are:
 
 * The [Humbug movie](https://vimeo.com/micahwoods/humbug) which explains MLSN and includes discussions with turfgrass managers who have used it.
 
