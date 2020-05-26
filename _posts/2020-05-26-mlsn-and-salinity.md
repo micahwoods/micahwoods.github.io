@@ -3,7 +3,6 @@ layout: post
 title: "MLSN and salinity"
 share-img: "https://www.asianturfgrass.com/img/sampling_tublamu.jpg"
 tags: [mlsn, fertilizer, salinity, irrigation]
-ext-js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 ---
 
 When this question arrived, I thought I could respond by showing a blog post I'd written in the past with the answer.
