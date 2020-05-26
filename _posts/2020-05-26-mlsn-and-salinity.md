@@ -22,13 +22,13 @@ Salt accumulation in the soil, beyond the tolerance level of the grass, can kill
 
 $$ LR = \frac{EC_w}{5EC_e - EC_w} $$
 
-**LR** is leaching requirement, **\\(EC_w\\)** is electrolytic conductivity of the irrigation water, and **\\(EC_e\\)** is electrolytic conductivity of the soil extract at a level the grass can tolerate.
+**LR** is leaching requirement, \\(EC_w\\) is electrolytic conductivity of the irrigation water, and \\(EC_e\\) is electrolytic conductivity of the soil extract at a level the grass can tolerate.
 
-The \\(EC_w\\) in this case is 2.3 dS/m. To convert between total dissolved solids (TDS) and electrolytic conductivity, remember that TDS of 640 ppm \\(\approx\\) 1 dS/m. \\(\frac{1500}{640} = 2.3\\).
+The \\(EC_w\\) in this case is 2.3 dS/m. To convert between total dissolved solids (TDS) and electrolytic conductivity, remember that TDS of 640 ppm \\(\approx\\) 1 dS/m. Thus we get \\(\frac{1500}{640} = 2.3\\) dS/m.
 
 For seashore paspalum, I usually use an \\(EC_e\\) threshold of 12 dS/m. See Harivandi's concise guide to [Interpreting Turfgrass Irrigation Water Test Results](https://anrcatalog.ucanr.edu/pdf/8009.pdf) for more about this.
 
-The leaching requirement in this case comes to be 0.04.
+The leaching requirement in this case is 0.04.
 
 $$ \frac{2.3}{5(12) - 2.3} = 0.04 $$
 
