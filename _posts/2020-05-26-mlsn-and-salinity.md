@@ -12,7 +12,7 @@ When this question arrived, I thought I could respond by showing a blog post I'd
 But I didn't find a blog post with the answer in any detail, so here's a new one, with the answer to that specific question. This answer is broadly applicable to the question of MLSN and salinity in general.
 
 ![salinity damage on the 17th green of the Tublamu GC in Phang Nga, Thailand in September 2005](/img/sampling_tublamu.jpg)
-<small><strong>The bermudagrass on the 17<sup>th</sup> green at Tublamu Royal Navy GC in Phang Nga, Thailand, in September 2005. The course was under renovation after the December 2004 tsunami.</strong></small>
+<small><strong>Salinity stress on bermudagrass at Tublamu Royal Navy GC in Phang Nga, Thailand, in September 2005. The course was under renovation after the December 2004 tsunami.</strong></small>
 
 What kind of adjustments would I recommend?
 
@@ -22,7 +22,7 @@ Salt accumulation in the soil, beyond the tolerance level of the grass, can kill
 
 $$ LR = \frac{EC_w}{5EC_e - EC_w} $$
 
-**LR** is leaching requirement, \\(EC_w\\) is electrolytic conductivity of the irrigation water, and \\(EC_e\\) is electrolytic conductivity of the soil extract at a level the grass can tolerate.
+**LR** is leaching requirement, **\\(EC_w\\)** is electrolytic conductivity of the irrigation water, and **\\(EC_e\\)** is electrolytic conductivity of the soil extract at a level the grass can tolerate.
 
 The \\(EC_w\\) in this case is 2.3 dS/m. To convert between total dissolved solids (TDS) and electrolytic conductivity, remember that TDS of 640 ppm \\(\approx\\) 1 dS/m. \\(\frac{1500}{640} = 2.3\\).
 
@@ -34,7 +34,7 @@ $$ \frac{2.3}{5(12) - 2.3} = 0.04 $$
 
 Use the leaching requirement to find the irrigation water requirement as:
 
-$$ Water Requirement = \frac{ET}{1 - LR} $$.
+Water Requirement $$ = \frac{ET}{1 - LR} $$.
 
 Let's say the evapotranspiration (ET) in a month is 150 mm. The water requirement would be \\( \frac{150}{1 - 0.04} = 156.25 \\).
 
