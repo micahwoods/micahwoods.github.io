@@ -9,7 +9,7 @@ The recording of my seminar about "How MLSN Works" is [now available](https://yo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6SWT2GyUO7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I want to correct something. At the very end, I misstated that irrigation water normally has 20 to 60 ppm (mg/L) potassium. That's incorrect. Potassium is normally 5 to 20 ppm, [according to Penn State's irrigation water quality guidelines](https://extension.psu.edu/irrigation-water-quality-guidelines-for-turfgrass-sites). It is calcium that normally has 20 to 60 ppm.
+I want to correct something. At the very end, I misstated that irrigation water normally has 20 to 60 ppm (mg/L) potassium. That's incorrect. Potassium is normally 5 to 20 ppm, [according to Penn State's irrigation water quality guidelines](https://extension.psu.edu/irrigation-water-quality-guidelines-for-turfgrass-sites). It is calcium that normally has a concentration of 20 to 60 ppm.
 
 Irrigation water *can* supply a lot of the potassium nutrition, however. Let's imagine a 120 day period, with an average evapotranspiration of 4 mm per day. That's 480 mm of water the grass may use. Let's say half that water is provided from irrigation, 240 mm, and let's let the irrigation contain 10 ppm potassium. That's 2.4 g of potassium supplied per square meter from irrigation. Meanwhile, if clippings are being removed at a rate of 20 mL/m<sup>2</sup> per day over this same 120 day duration, that's 2.4 L of clipping volume. I expect those clippings to contain 2% potassium, and when dry I expect the clippings to have a mass of 151 g. Two percent of 151 g is 
 3 g. 
