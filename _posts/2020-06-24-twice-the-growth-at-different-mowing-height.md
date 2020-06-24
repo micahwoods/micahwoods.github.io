@@ -7,7 +7,7 @@ tags: [fertilizer, mowing, clipvol, research]
 
 Bill Kreuser shared a [fascinating update](https://twitter.com/UNLturf/status/1273627290191069185?s=20) from one of the experiments he is conducting this summer.
 
-![[img of tweet by Bill Kreuser about 2x growth rate](/img/kreuser_2x_growth.jpg)](https://twitter.com/UNLturf/status/1273627290191069185?s=20)
+[![img of tweet by Bill Kreuser about 2x growth rate](/img/kreuser_2x_growth.jpg)](https://twitter.com/UNLturf/status/1273627290191069185?s=20)
 
 I wouldn't have expected to see such a big difference in growth rate with a mowing height difference of 0.04 inches (1 mm). 
 
