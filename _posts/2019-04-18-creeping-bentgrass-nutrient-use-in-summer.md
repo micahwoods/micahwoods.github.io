@@ -7,7 +7,7 @@ bigimg:
 tags: [fertilizer, clipvol]
 ---
 
-In the ATC update sent earlier this week---[subscribe here](http://www.subscribepage.com/atcupdate) if you'd like to get on this list---I mentioned that one of the highlights of my year so far was the Royal Turf Family Seminar at the Park Hyatt Tokyo.
+In the ATC update sent earlier this week---[subscribe here](https://www.asianturfgrass.com/lists/) if you'd like to get on this list---I mentioned that one of the highlights of my year so far was the Royal Turf Family Seminar at the Park Hyatt Tokyo.
 
 Mr. Hanzawa, the president of [Royal Turf Company](http://www.royalturf.co.jp/), had the presentations recorded. One of the things I discussed in my presentation was how one can use clipping volume to get an estimate for nutrient use and an estimate for N mineralization.
 
