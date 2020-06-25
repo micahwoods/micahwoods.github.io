@@ -8,6 +8,14 @@ There are a lot of videos and podcasts in which I have discussed various aspects
 
 ### Videos
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6SWT2GyUO7k?start=161" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lzZ-zzyMcE8?start=161" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6-_qQjDjwhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
