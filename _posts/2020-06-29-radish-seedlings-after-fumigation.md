@@ -11,7 +11,7 @@ Last November I saw a creeping bentgrass nursery in Japan. The nursery had been 
 
 I was surprised to see, scattered across the nursery, plants with big leaves that clearly were *not* creeping bentgrass.
 
-"What's that?" I asked, wondering how such plants could be growing if the soil had been fumigated?
+"What's that?" I asked, wondering how such plants could be growing if the soil had been fumigated.
 
 "It's a *daikon*," the greenkeeper told me. That's a big radish, [*Raphanus sativus* var. longipinnatus](https://en.wikipedia.org/wiki/Daikon).
 
