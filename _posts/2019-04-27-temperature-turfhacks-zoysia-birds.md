@@ -7,7 +7,7 @@ bigimg:
 - "/img/golden_weaver.jpg" : "Asian golden weaver at Bangsai Country Club, Thailand"
 - "/img/th_2019_4mo.png" : "temperature at Bangsai Country Club in early 2019"
 - "/img/soil_temp_apr_th.jpg" : "soil temperature at 5 cm depth at 11:00 a.m. on 22 April 2019 at Bangsai, Thailand"
-tags: [thailand, temperature, turfhack, zoysia]
+tags: [thailand, temperature, turfhacks, zoysia]
 ---
 
 Last year I wrote about a soil temperature turfhack. The soil temperature is [almost always between](https://www.asianturfgrass.com/2018-08-10-soil-temperature-turf-hack/) the day's high and low temperature. 

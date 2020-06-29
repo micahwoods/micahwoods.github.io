@@ -2,7 +2,7 @@
 layout: post
 title: "Radish seedlings on a bentgrass nursery after fumigation"
 share-img: "https://www.asianturfgrass.com/img/daikon2.jpg"
-tags: [turftourism, turfhacks]
+tags: [turf tourism, turfhacks, japan, bentgrass]
 ---
 
 Last November I saw a creeping bentgrass nursery in Japan. The nusery had been fumigated to kill seeds in the soil before the bentgrass seeds were planted.
