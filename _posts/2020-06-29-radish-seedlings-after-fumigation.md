@@ -17,7 +17,7 @@ I was surprised to see, scattered across the nursery, plants with big leaves tha
 
 "These *daikon* seeds germinate in just a few days," he told me.  "We use them to check that the soil is safe for planting the bentgrass, after fumigation."
 
-A few radish seeds are scattered over the fumigated soil. Once the radishes germinate, then the bentgrass an be planted with full assurance of safety.
+A few radish seeds are planted in the fumigated soil. Once the radishes germinate, then the bentgrass an be planted with full assurance of safety. 
 
 ![image of daikon used to check for safety of germination after fumigation](/img/daikon2.jpg)
 
