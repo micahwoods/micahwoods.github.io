@@ -15,7 +15,7 @@ I was surprised to see, scattered across the nursery, plants with big leaves tha
 
 "It's a *daikon*," the greenkeeper told me. That's a big radish, [*Raphanus sativus* var. longipinnatus](https://en.wikipedia.org/wiki/Daikon).
 
-"These seeds germinate in just a few days. We use them to check that the soil is safe for planting the bentgrass, after fumigation."
+"These *daikon* seeds germinate in just a few days," he told me.  "We use them to check that the soil is safe for planting the bentgrass, after fumigation."
 
 ![image of daikon used to check for safety of germination after fumigation](/img/daikon2.jpg)
 
