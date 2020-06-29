@@ -5,7 +5,7 @@ share-img: "https://www.asianturfgrass.com/img/daikon2.jpg"
 tags: [turf tourism, turfhacks, japan, bentgrass]
 ---
 
-Last November I saw a creeping bentgrass nursery in Japan. The nusery had been fumigated to kill seeds in the soil before the bentgrass seeds were planted.
+Last November I saw a creeping bentgrass nursery in Japan. The nursery had been fumigated to kill seeds in the soil before the bentgrass seeds were planted.
 
 ![image of daikon seedling with bentgrass](/img/daikon1.jpg)
 
@@ -16,6 +16,8 @@ I was surprised to see, scattered across the nursery, plants with big leaves tha
 "It's a *daikon*," the greenkeeper told me. That's a big radish, [*Raphanus sativus* var. longipinnatus](https://en.wikipedia.org/wiki/Daikon).
 
 "These *daikon* seeds germinate in just a few days," he told me.  "We use them to check that the soil is safe for planting the bentgrass, after fumigation."
+
+A few radish seeds are scattered over the fumigated soil. Once the radishes germinate, then the bentgrass an be planted with full assurance of safety.
 
 ![image of daikon used to check for safety of germination after fumigation](/img/daikon2.jpg)
 
