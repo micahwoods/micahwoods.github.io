@@ -48,13 +48,15 @@ You can get this kind of sampling done through ATC, or with any of the [Amplify]
 
 For more about this, see:
 
-* video, [A Continuous Improvement System for Turfgrass](https://vimeo.com/375475148)
+* a short blog post, [Soil organic matter: a bullet list](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/)
 
-* long blog post, [Total organic matter testinf on putting greens: sample number and sample volume](https://www.asianturfgrass.com/2019-07-29-total-organic-matter-testing-sample-size/)
+* an answer to: [What protocol would you recommend for sampling greens for organic matter?](https://www.asianturfgrass.com/2020-05-13-putting-green-organic-matter-by-depth/)
 
-* short blog post, [Soil organic matter: a bullet list](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/)
+* a video, [A Continuous Improvement System for Turfgrass](https://vimeo.com/375475148)
 
-* answering the question [What protocol would you recommend for sampling greens for organic matter?](https://www.asianturfgrass.com/2020-05-13-putting-green-organic-matter-by-depth/)
+* a long blog post, [Total organic matter testing on putting greens: sample number and sample volume](https://www.asianturfgrass.com/2019-07-29-total-organic-matter-testing-sample-size/)
+
+
 
  
 
