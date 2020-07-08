@@ -7,13 +7,15 @@ tags: [om246, organic matter, soil testing]
 
 Anything resembling thatch or mat is *explicitly excluded* from the soil organic matter measurement made on routine soil nutrient analyses. 
 
-That portion of soil organic matter is excluded because it is not measured. Those big chunks of organic matter are removed from the sample prior to testing. And there is a good reason for that. This small material is humus, and meets the definition of soil organic matter in the [Soil Science Society of America's glossary](https://www.soils.org/publications/soils-glossary)
+That portion of soil organic matter is excluded because it is not measured. Those big chunks of organic matter are removed from the sample prior to testing by passing the sample through a 2 mm sieve. And there is a good reason for that. 
 
-**soil organic matter:** *The organic fraction of the soil exclusive of undecayed plant and animal residues. See also humus.*
+This small material is humus, and it meets the definition of soil organic matter in the [Soil Science Society of America's glossary](https://www.soils.org/publications/soils-glossary). 
+
+**soil organic matter:** *The organic fraction of the soil exclusive of undecayed plant and animal residues. See also* **humus**.
 
 **humus:** *The well decomposed, more or less stable part of the organic matter in mineral soils.* 
 
-I previously wrote about the spatial variability of total organic matter in the top 2 cm of putting green soils. That's from [OM246 measurements](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/), which measure the total organic matter in the sample by measuring the entire sample, rather than removing the undecayed plant and animal residues. The coefficient of variation (**cv**) that I would expect in the total organic matter right at the soil surface, going from point to point across the green, is 14%. That means that on average, I'd expect the next point I sample to be 14% higher, or lower, in total organic matter, compared to the average total organic matter measured across the entire green.
+My [previous post](https://www.asianturfgrass.com/2020-07-06-within-green-variability-of-total-organic-matter/) concerned the spatial variability of total organic matter in the top 2 cm of putting green soils. That's from [OM246 measurements](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/), which measure the total organic matter in the sample by measuring the entire sample, rather than removing the undecayed plant and animal residues. The coefficient of variation (**cv**) that I would expect in the total organic matter right at the soil surface, going from point to point across the green, is 14%. That means that on average, I'd expect the next point I sample to be 14% higher, or lower, in total organic matter, compared to the average total organic matter measured across the entire green.
 
 ![multiple samples collected from the same green](/img/multiple_samples_keya_11.jpg)
 
