@@ -9,7 +9,7 @@ Anything resembling thatch or mat is *explicitly excluded* from the soil organic
 
 That portion of soil organic matter is excluded because it is not measured. Those big chunks of organic matter are removed from the sample prior to testing by passing the sample through a 2 mm sieve. And there is a good reason for that. 
 
-This small material is humus, and it meets the definition of soil organic matter in the [Soil Science Society of America's glossary](https://www.soils.org/publications/soils-glossary). 
+This small material that does get tested is humus, and it meets the definition of soil organic matter in the [Soil Science Society of America's glossary](https://www.soils.org/publications/soils-glossary). 
 
 **soil organic matter:** *The organic fraction of the soil exclusive of undecayed plant and animal residues. See also* **humus**.
 
@@ -21,7 +21,7 @@ The coefficient of variation (**cv**) that I would expect in the total organic m
 
 ![multiple samples collected from the same green](/img/multiple_samples_keya_11.jpg)
 
-What about the humus? What's the spatial variability of that? I've been doing some research about this too, and I checked the cv of those greens. These data are from samples taken to a 10 cm depth (4 inches), with the undecayed material removed. This is the organic matter you see on regular soil tests---this is the humus. This is the number to look at for estimates of nitrogen mineralization and for calculating the contribution of soil organic matter to the soil CEC. For evaluating sand topdressing requirements, or assessing sand topdressing effect, I'd use OM246.
+What about the humus? What's the spatial variability of that? I've been doing some research about this too, and I checked the cv of samples taken from the same green. These data are from samples taken to a 10 cm depth (4 inches), with the undecayed material removed. This is the organic matter you see on regular soil tests---this is the humus. This is the number to look at for estimates of nitrogen mineralization and for calculating the contribution of soil organic matter to the soil CEC. For evaluating sand topdressing requirements, or assessing sand topdressing effect, I'd use OM246.
 
 This is a small dataset, with 75 samples so far from six greens. The median cv for these is 13%. It's almost the same as the variability in the total organic matter at the surface.
 
