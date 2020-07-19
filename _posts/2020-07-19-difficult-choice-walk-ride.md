@@ -10,7 +10,7 @@ When I play golf, I much prefer to walk, so the choice between walking and ridin
 ![all terrain vehicles for rent as golf carts at a course in Thailand](/img/cart.jpg)
 <small><strong>These all-terrain vehicles are staged near the first tee, ready for action.</strong></small>
 
-I'll admit, though, that when I visited a course with these ATV carts for rent, I was tempted to ride. I was going to play 9 holes. At only 250 baht ($7.90 USD), that's a great value.
+I'll admit, though, that when I visited a course in western Thailand with these ATV carts for rent, I was tempted to ride. I was going to play 9 holes. At only 250 baht ($7.90 USD), that's a great value.
 
 ![sign describing the ATV rental prices at a golf course in Thailand](/img/cart_sign.jpg)
 <small><strong>ATV carts available at reasonable prices.</strong></small>
