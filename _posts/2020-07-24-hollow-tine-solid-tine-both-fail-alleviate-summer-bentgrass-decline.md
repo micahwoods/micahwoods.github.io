@@ -5,6 +5,9 @@ share-img: "https://www.asianturfgrass.com/img/summer_cultivation.jpg"
 tags: [bentgrass, coring, aerify, science, research]
 ---
 
+![creeping bentgrass putting green treatment with solid-tine spiking](/img/summer_cultivation.jpg)
+<small><strong>A late July solid-tine spiking treatment of a creeping bentgrass green in Hokkaido, Japan</strong></small>
+
 How's this for a lede?
 
 > "Hollow-tine coring and solid-tine spiking practices may not alleviate creeping bentgrass summer decline."
