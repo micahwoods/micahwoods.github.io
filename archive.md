@@ -26,6 +26,7 @@ ATC newsletters sent since January 2017 are listed and can be downloaded below.
 
 [Subscribe to MLSN newsletters here](https://www.asianturfgrass.com/lists/).
 
+* [April 2020](http://files.asianturfgrass.com/202003_mlsn_newsletter.pdf), MLSN newsletter #12
 * [March 2020](http://files.asianturfgrass.com/202003_mlsn_newsletter.pdf), MLSN newsletter #11
 * [December 2019](http://www.files.asianturfgrass.com/201912_mlsn_newsletter.pdf), MLSN newsletter #10
 * [September 2019](http://www.files.asianturfgrass.com/201909_mlsn_newsletter.pdf), MLSN newsletter #9
