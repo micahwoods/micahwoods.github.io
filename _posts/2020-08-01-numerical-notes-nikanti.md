@@ -42,7 +42,7 @@ Here are some summary points about this:
 
 Compared to all the other tools for measuring surface hardness, I find the Clegg easiest (fastest) to use. That's important. I also find to produces more accurate results. That's important too. I've written before [about my preference for the Clegg](https://www.asianturfgrass.com/2020-04-19-density-plots-clegg-putting-greens/). 
 
-The measurements Brad and I took also show how with only a few measurements, the Clegg can pick up subtle and real changes in conditions. One of the greens we measured was the 6<sup>th</sup>. This green is in the open, with plenty of light and air movement, and typically is the healthiest green on the property. Because of that, it also has the highest soil organic matter content. In recent [OM246](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/) tests, the 6<sup>th</sup> green had 9% more organic matter in the top 2 cm than the average of other greens tested.
+The measurements Brad and I took also show how with only a few drops, the Clegg can pick up subtle and real changes in conditions. One of the greens we measured was the 6<sup>th</sup>. This green is in the open, with plenty of light and air movement, and typically is the healthiest green on the property. Because of that, it also has the highest soil organic matter content. In recent [OM246](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/) tests, the 6<sup>th</sup> green had 9% more organic matter in the top 2 cm than the average of other greens tested.
 
 ![nikanti gc hole 6](/img/nikanti_6.jpg)
 <small><strong>The 6<sup>th</sup> green at Nikanti GC</strong></small>
