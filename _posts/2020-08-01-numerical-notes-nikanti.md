@@ -38,11 +38,11 @@ Here are some summary points about this:
 
 * This type of poor correlation is expected when measuring intensively maintainted turf at the same property, because the surfaces are essentially *all in the same condition.* Where one could get better correlation would be, for example, at a property where there were localized dry spots all over the greens and soil moisture content ranged from 5 to 30%. In that case, where the surface conditions vary tremendously, then one would see better correlation.
 
-### The Clegg is better
+### The Clegg is my favorite
 
 Compared to all the other tools for measuring surface hardness, I find the Clegg easiest (fastest) to use. That's important. I also find to produces more accurate results. That's important too. I've written before [about my preference for the Clegg](https://www.asianturfgrass.com/2020-04-19-density-plots-clegg-putting-greens/). 
 
-The measurements Brad and I took also show how with only a few measurements, the Clegg can pick up on subtle and real changes in conditions. One of the greens we measured was the 6<sup>th</sup>. This green is in the open, with plenty of light and air movement, and typically is the healthiest green on the property. Because of that, it also has the highest soil organic matter content. In recent [OM246](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/) tests, the 6<sup>th</sup> green had 9% more organic matter in the top 2 cm than the average of other greens tested.
+The measurements Brad and I took also show how with only a few measurements, the Clegg can pick up subtle and real changes in conditions. One of the greens we measured was the 6<sup>th</sup>. This green is in the open, with plenty of light and air movement, and typically is the healthiest green on the property. Because of that, it also has the highest soil organic matter content. In recent [OM246](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/) tests, the 6<sup>th</sup> green had 9% more organic matter in the top 2 cm than the average of other greens tested.
 
 ![nikanti gc hole 6](/img/nikanti_6.jpg)
 <small><strong>The 6<sup>th</sup> green at Nikanti GC</strong></small>
@@ -85,7 +85,7 @@ These reeds are full of [golden weaver nests](https://twitter.com/asianturfgrass
 
 For more about turf management at Nikanti, see:
 
-*[MLSN at Nikanti](https://brtagronomy.com/goingagainstthegrain/23/5/2017/mlsn-nikanti-gc-reducing-expenses-and-inputs-since-2016)
+* [MLSN @ Nikanti GC: reducing expenses and inputs since 2016](https://brtagronomy.com/goingagainstthegrain/23/5/2017/mlsn-nikanti-gc-reducing-expenses-and-inputs-since-2016)
 
 * [Course renovations at Nikanti GC](https://brtagronomy.com/goingagainstthegrain/25/4/2018/2018-course-renovations-nikanti-golf-club)
 
