@@ -32,7 +32,7 @@ The panel at right shows something that doesn't make so much sense. Some of the 
 
 Here are some summary points about this:
 
-* The green surfaces were a bit soft, with these measurements taken four days after a solid-tine venting treatment.
+* The green surfaces were a bit soft, with these measurements taken four days after a 4 mm coring treatment (Ninja-tine).
 
 * This type of poor correlation is expected when measuring intensively maintainted turf at the same property, because the surfaces are essentially *all in the same condition.* Where one could get better correlation would be, for example, at a property where there were localized dry spots all over the greens and soil moisture content ranged from 5 to 30%. In that case, where the surface conditions vary tremendously, then one would see better correlation.
 
