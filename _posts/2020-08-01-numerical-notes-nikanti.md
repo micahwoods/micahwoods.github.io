@@ -24,7 +24,7 @@ In previous side-by-side measurements, I've not gotten [very close correlation](
 
 ![3 charts of clegg vs trufirm vs vwc](/img/nikanti_3panel.jpg)
 
-In these three charts you'll see two things that make sense, and one that doesn't. Starting in the panel at far left, notice how the Trufirm reading goes down with the Clegg reading goes up. That's what is expected. Both devices are measuring surface hardness. With the Clegg, the surface is firmer (harder) when the number gets larger. With the Trufirm, the measurement goes in the opposite direction---a smaller number means the surface is firmer and a ball won't make such a deep indentation. A larger number on the Trufirm means the surface is softer and a ball indentation will be deeper. 
+In these three charts you'll see two things that make sense, and one that doesn't. Starting in the panel at far left, notice how the Trufirm reading goes down when the Clegg reading goes up. That's what is expected. Both devices are measuring surface hardness. With the Clegg, the surface is firmer (harder) when the number gets larger. With the Trufirm, the measurement goes in the opposite direction---a smaller number means the surface is firmer and a ball won't make such a deep indentation. A larger number on the Trufirm means the surface is softer and a ball indentation will be deeper. 
 
 The center panel shows the Clegg measurements compared to the volumetric water content. This is also as expected. When there is more water in the soil, the surface tends to be softer.
 
@@ -34,11 +34,11 @@ Here are some summary points about this:
 
 * The green surfaces were a bit soft, with these measurements taken four days after a solid-tine venting treatment.
 
-* This type of poor correlation is expected when measuring intensively maintainted turf at the same property, because the surfaces are essentially *all in the same condition.* Where one could get better correlation would be say at a property where there were localized dry spots all over the greens and soil moisture content ranged from 5 to 30%. In that case, where the surface conditions vary tremendously, then one would see better coreelation.
+* This type of poor correlation is expected when measuring intensively maintainted turf at the same property, because the surfaces are essentially *all in the same condition.* Where one could get better correlation would be, for example, at a property where there were localized dry spots all over the greens and soil moisture content ranged from 5 to 30%. In that case, where the surface conditions vary tremendously, then one would see better correlation.
 
 ### The Clegg is better
 
-Compared to all the other tools for measuring surface hardness, I find the Clegg easier (faster) to use. That's important. I also find it to give more accurate results. That's important too. I've written before [about my preference for the Clegg](https://www.asianturfgrass.com/2020-04-19-density-plots-clegg-putting-greens/). 
+Compared to all the other tools for measuring surface hardness, I find the Clegg easiest (fastest) to use. That's important. I also find to produces more accurate results. That's important too. I've written before [about my preference for the Clegg](https://www.asianturfgrass.com/2020-04-19-density-plots-clegg-putting-greens/). 
 
 The measurements Brad and I took also show how with only a few measurements, the Clegg can pick up on subtle and real changes in conditions. One of the greens we measured was the 6<sup>th</sup>. This green is in the open, with plenty of light and air movement, and typically is the healthiest green on the property. Because of that, it also has the highest soil organic matter content. In recent [OM246](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/) tests, the 6<sup>th</sup> green had 9% more organic matter in the top 2 cm than the average of other greens tested.
 
@@ -77,7 +77,7 @@ A lot more. I was impressed at all the birds I saw and heard in just a few hours
 
 ![birds at Nikanti](/img/birds_nikanti.jpg)
 
-These reeds are full of [golden weaver nests](https://twitter.com/asianturfgrass/status/1113232486815768576).
+These reeds are full of [golden weaver nests](https://twitter.com/asianturfgrass/status/1113232486815768576). And there are a couple openbills on the other side of the pond.
 
 
 
