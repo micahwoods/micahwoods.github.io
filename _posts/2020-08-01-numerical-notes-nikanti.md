@@ -8,6 +8,8 @@ tags: [thailand, om246, organic matter, firmness, playability, surface hardness,
 I spent a morning with [Brad Revill](https://twitter.com/brad_revill) at [Nikanti GC](https://www.nikantigolfclub.com/) last month. I wanted to see the course, get some measurements, see the clipping volume measurement, and talk about turf management with Brad. Check out his [blog](https://brtagronomy.com/) for information about the innovative techniques he's been using.
 
 ![nikanti golf club near Bangkok hole 2](/img/nikanti_2.jpg)
+<small><strong>The 2<sup>nd</sup> green at Nikanti GC in Thailand.</strong></small>
+
 
 I've now had a chance to work through some of the measurements made that day, and the best way I can think to explain them is in a list of numerical notes.
 
@@ -78,6 +80,16 @@ A lot more. I was impressed at all the birds I saw and heard in just a few hours
 ![birds at Nikanti](/img/birds_nikanti.jpg)
 
 These reeds are full of [golden weaver nests](https://twitter.com/asianturfgrass/status/1113232486815768576). And there are a couple openbills on the other side of the pond.
+
+---
+
+For more about turf management at Nikanti, see:
+
+*[MLSN at Nikanti](https://brtagronomy.com/goingagainstthegrain/23/5/2017/mlsn-nikanti-gc-reducing-expenses-and-inputs-since-2016)
+
+* [Course renovations at Nikanti GC](https://brtagronomy.com/goingagainstthegrain/25/4/2018/2018-course-renovations-nikanti-golf-club)
+
+* [Understanding organic matter testing](https://brtagronomy.com/goingagainstthegrain/4/2/2019/understanding-organic-matter-testing)
 
 
 
