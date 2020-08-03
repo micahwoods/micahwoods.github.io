@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Updated spreadsheets for sand topdressing by GP"
-subtitle: "The spreadhseets from PACE Turf start with a new default value"
+subtitle: "The spreadsheets from PACE Turf start with a new default value"
 share-img: "http://www.asianturfgrass.com/img/sand_topdressing_gp_updated.png"
 tags: [topdress, growth potential]
 bigimg:
