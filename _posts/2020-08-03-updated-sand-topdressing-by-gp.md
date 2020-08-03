@@ -32,7 +32,7 @@ I think it makes sense to use the higher rate as a default because:
 
 With the new default setting, the values are calibrated to be almost identical to those that gave the best results for Hempfling et al., and will be close to the values suggested by Schmid et al. and by Whitlark and Thompson.
 
-From that general starting point, the [temperature-based growth potential](http://www.files.asianturfgrass.com/201306_growth_potential.pdf) makes two adjustments. It adjusts the annual amount of sand for your site, based on temperature. Because Stockholm is not Los Angeles, and Portland is not Newark. And it allocates that site-specific amount of sand into monthly increments at your location. The growth potential approach allows one to take a standard recommendation and then adjust it to a site-specific recommendation.
+From that general starting point, the [temperature-based growth potential](http://www.files.asianturfgrass.com/201306_growth_potential.pdf) makes two adjustments. It adjusts the annual amount of sand for your site, based on temperature. Stockholm is not Los Angeles. Portland isn't Newark. And it allocates that site-specific amount of sand into monthly increments at your location. The growth potential approach allows one to take a standard recommendation and then adjust it to a site-specific recommendation.
 
 If you are measuring how much the grass grows by keeping track of clipping volume, then I suggest considering a sand application rate of about 1 cm<sup>3</sup> for every 1 cm<sup>3</sup> of clipping volume. That works out to 1 mm of sand for each 1 L/m<sup>2</sup> of clipping volume.
 
