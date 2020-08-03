@@ -20,21 +20,21 @@ With the new default, you'll get numbers like this. I've calculated these for wa
 
 ![chart of monthly sand amounts at 8 cities](/img/sand_topdressing_gp_updated.png)
 
-The spreadsheets previously had a default starting value that produced results matching the low rate of [Hempfling et al.'s sand topdressing amounts]( https://doi.org/10.2135/cropsci2016.06.0492). That starting value has always been adjustable within the spreadsheet. After some recent conversations with Larry, he's decided to update the default starting value to match the high rate of Hempfling et al.
+The spreadsheets previously had a default starting value that produced results matching the low rate of [Hempfling et al.'s sand topdressing amounts]( https://doi.org/10.2135/cropsci2016.06.0492). That starting value has always been adjustable within the spreadsheet. After some recent conversations with Dr. Stowell, he's decided to update the default starting value to match the high rate of Hempfling et al.
 
 I think it makes sense to use the higher rate as a default because:
 
 1. The higher rate in Hempfling et al. had less disease, faster green speed, and better turf quality.
 
-2. [Schmid et al.](https://dx.doi.org/10.2134/ATS-2014-0031-BR) found that "greens receiving an annual sand topdressing rate of 20.3 ft<sup>3</sup>/1000 ft<sup>2</sup> [6 mm] were consistently $\leq 3.3%$ soil organic matter" in the top 3 inches (7.6 cm). Based on these survey results, which were obtained from a large survey of greens from 15 US states, there is an expectation that 6 mm is a reasonable starting point number.
+2. [Schmid et al.](https://dx.doi.org/10.2134/ATS-2014-0031-BR) found that "greens receiving an annual sand topdressing rate of 20.3 ft<sup>3</sup>/1000 ft<sup>2</sup> [6 mm] were consistently $$\leq 3.3%$$ soil organic matter" in the top 3 inches (7.6 cm). Based on these survey results, which were obtained from a large survey of greens from 15 US states, there is an expectation that 6 mm is a reasonable starting point number.
 
 3. [Whitlark and Thompson](https://gsr.lib.msu.edu/article/whitlark-thompson-light-5-3-19.pdf) wrote about light and frequent topdressing in the USGA *Green Section Record* in 2019. About the amount of sand to apply, they wrote that "trends observed by USGA agronomists suggest that 25 to 35 cubic feet of sand per 1,000 square feet per year [that's 7.6 to 10.7 mm] is a good annual target to adequately dilute organic matter."
 
-The topdressing spreadsheets have always had the option to change the maximum monthly sand amount. With the new default, however, the values are calibrated to be almost identical to those that gave the best results for Hempfling et al., and will be close to the values suggested by Schmid et al. and by Whitlark and Thompson.
+With the new default setting, the values are calibrated to be almost identical to those that gave the best results for Hempfling et al., and will be close to the values suggested by Schmid et al. and by Whitlark and Thompson.
 
-The [temperature-based growth potential](http://www.files.asianturfgrass.com/201306_growth_potential.pdf) makes two further adjustments. It adjusts the annual amount of sand for your site, based on temperature. And it allocates that site-specific amount of sand into monthly increments at your location. In the chart shown above, you see that Portland, Stockholm, and Los Angeles all have different annual amounts using this method. I like how the growth potential approach allows one to take a standard recommendation and then adjust it to a site-specific recommendation.
+From that general starting point, the [temperature-based growth potential](http://www.files.asianturfgrass.com/201306_growth_potential.pdf) makes two adjustments. It adjusts the annual amount of sand for your site, based on temperature. Because Stockholm is not Los Angeles, and Portland is not Newark. And it allocates that site-specific amount of sand into monthly increments at your location. The growth potential approach allows one to take a standard recommendation and then adjust it to a site-specific recommendation.
 
-If you are measuring how much the grass grows by keeping track of clipping volume, then I suggest considering a sand application rate of about 1 mm for every 1 L of clippings removed.
+If you are measuring how much the grass grows by keeping track of clipping volume, then I suggest considering a sand application rate of about 1 cm<sup>3</sup> for every 1 cm<sup>3</sup> of clipping volume. That works out to 1 mm of sand for each 1 L/m<sup>2</sup> of clipping volume.
 
 For more, see:
 
