@@ -12,7 +12,7 @@ How's this for a lede?
 
 > "Hollow-tine coring and solid-tine spiking practices may not alleviate creeping bentgrass summer decline."
 
-You'll read that at the start of [Creeping bentgrass summer decline as influenced by climatic conditions and cultural practices](https://doi.org/10.1002/agj2.20362), the new article by Miller and Brotherton decribing their measurments on Penn A-1 creeping bentgrass over two years. The cultural practice treatments were varying levels of nitrogen rate, soil water content, and coring and spiking.
+You'll read that at the start of [Creeping bentgrass summer decline as influenced by climatic conditions and cultural practices](https://doi.org/10.1002/agj2.20362), the new article by Miller and Brotherton describing their measurements on Penn A-1 creeping bentgrass over two years. The cultural practice treatments were varying levels of nitrogen rate, soil water content, and coring and spiking.
 
 This experiment  was conducted in North Carolina, during the summers of 2009 and 2010. There were four coring treatments and two spiking treatments. Coring was 9.5 mm diameter tines twice a year and three times a year, 6.5 mm tines twice a year, and no coring. Spiking treatments were bayonet tines twice a month from June through mid-September, and no spiking. Here are a couple quotes from the article about the effect of cultivation.
 

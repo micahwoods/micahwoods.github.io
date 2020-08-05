@@ -28,7 +28,8 @@ I think it makes sense to use the higher rate as a default because:
 
 2. [Schmid et al.](https://dx.doi.org/10.2134/ATS-2014-0031-BR) found that "greens receiving an annual sand topdressing rate of 20.3 ft<sup>3</sup>/1000 ft<sup>2</sup> [6 mm] were consistently $$\leq$$ 3.3% soil organic matter" in the top 3 inches (7.6 cm). Based on these survey results, which were obtained from a large survey of greens from 15 US states, there is an expectation that 6 mm is a reasonable starting point number.
 
-3. [Whitlark and Thompson](https://gsr.lib.msu.edu/article/whitlark-thompson-light-5-3-19.pdf) wrote about light and frequent topdressing in the USGA *Green Section Record* in 2019. About the amount of sand to apply, they wrote that "trends observed by USGA agronomists suggest that 25 to 35 cubic feet of sand per 1,000 square feet per year [that's 7.6 to 10.7 mm] is a good annual target to adequately dilute organic matter."
+3. [Whitlark and Thompson](https://gsr.lib.msu.edu/article/whitlark-thompson-light-5-3-19.pdf) wrote about light and frequent topdressing in the USGA *Green Section Record* in 2019. About the amount of sand to apply, they wrote that "trends observed by USGA agronomists suggest that 25 to 35 
+cubic feet of sand per 1,000 square feet per year [that's 7.6 to 10.7 mm] is a good annual target to adequately dilute organic matter."
 
 With the new default setting, the values are calibrated to be almost identical to those that gave the best results for Hempfling et al., and will be close to the values suggested by Schmid et al. and by Whitlark and Thompson.
 
