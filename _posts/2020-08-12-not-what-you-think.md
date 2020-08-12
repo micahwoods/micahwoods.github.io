@@ -7,11 +7,13 @@ bigimg:
 - "/img/grass_spot2.jpg" 
 ---
 
-Have you ever seen patches like this on *Zoysia* turf? Maybe the early stages of an intense large patch outbreak, or some aggressive brown patch?
+Have you ever seen patches like this on *Zoysia* turf? 
+
+Maybe the early stages of an intense large patch outbreak, or elephant's footprint (*Rhizoctonia cerealis*) that got out of control? Way out of control?
 
 ![patches on zoysia turf](/img/grass_spot1.jpg)
 
-These patches on manilagrass (*Zoysia matrella*) near Bangkok are not caused by any disease.
+Actually, these patches on manilagrass (*Zoysia matrella*) near Bangkok were not caused by any disease.
 
 ![more patches on zoysia turf tee slope](/img/grass_spot2.jpg)
 
