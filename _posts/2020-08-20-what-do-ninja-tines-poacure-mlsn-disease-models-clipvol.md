@@ -17,7 +17,7 @@ Real quick, some of the things you'll hear discussed include:
 
 * golf spikes and rolling and ball roll and traffic and mowing height interactions
 
-* [MLSN](https://www.paceturf.org/index.php/journal/minimum_level_for_sustainable_nutrition) and whether you might need more
+* [MLSN](https://www.paceturf.org/index.php/journal/minimum_level_for_sustainable_nutrition) and whether you might need more nutrients
 
 * the utility of [ClipVol](https://www.asianturfgrass.com/buckets/) 
 
