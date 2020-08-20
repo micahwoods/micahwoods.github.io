@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What do Ninja tines, Poacure, ClipVol, Smith-Kerns disease model, ball roll, and MLSN have in common?"
+title: "What do Ninja tines, PoaCure, ClipVol, the Smith-Kerns disease model, ball roll, and MLSN have in common?"
 share-img: "http://www.asianturfgrass.com/img/rossi_montage.jpg"
 tags: [video, podcast, clipvol, aerify, om246, mlsn]
 ---
