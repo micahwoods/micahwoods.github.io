@@ -5,7 +5,7 @@ share-img: "http://www.asianturfgrass.com/img/rossi_montage.jpg"
 tags: [video, podcast, clipvol, aerify, om246, mlsn]
 ---
 
-What's the common theme? You'll hear all these topics discussed in recent episodes of Frank Rossi's  [Frankly Speaking](https://www.turfnet.com/podcasts/rossi/) show on TurfNet, or in his [presentation for the ASTMA](https://youtu.be/iMtn6_Uxm3o)
+What's the common theme? You'll hear all these topics discussed in recent episodes of Frank Rossi's  [Frankly Speaking](https://www.turfnet.com/podcasts/rossi/) show on TurfNet, or in his [presentation for the ASTMA](https://youtu.be/iMtn6_Uxm3o).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMtn6_Uxm3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
