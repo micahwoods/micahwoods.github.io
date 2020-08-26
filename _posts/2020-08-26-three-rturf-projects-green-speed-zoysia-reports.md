@@ -5,7 +5,7 @@ share-img: "http://www.asianturfgrass.com/img/wana_178_days.jpg"
 tags: [rturf, clipvol, green speed, data analysis, research, science, zoysia, fertilizer]
 ---
 
-You may have seen a few posts about [#rturf](https://www.micahwoods.com/category/rturf/) on my personal site. I'm writing about that topic over there so I don't clutter up the ATC site with too much data analysis and computer code. However, a few readers may be interested in that series, so I'll introduce it here as well. And then continue it at [www.micahwoods.com](https://www.micahwoods.com/).
+You may have seen a few posts about [#rturf](https://www.micahwoods.com/category/rturf/) on my personal site. I'm writing about that topic over there so I don't clutter up the ATC site with too much data analysis and computer code. However, a few readers may be interested in that series, so I'll introduce it here as well. And then continue it at [micahwoods.com](https://www.micahwoods.com/).
 
 [R](https://www.r-project.org/), from the project website description, "is a free software environment for statistical computing and graphics." This is software that I've been using for almost a decade. I have some level of proficiency with some aspects of this software, enough to where I can sometimes write scripts that work correctly the first time I run them, without me having to search the documentation or help pages to find how to do what I want. 
 
