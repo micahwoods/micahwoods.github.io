@@ -7,7 +7,7 @@ tags: [rturf, clipvol, green speed, data analysis, research, science, zoysia, fe
 
 You may have seen a few posts about [#rturf](https://www.micahwoods.com/category/rturf/) on my personal site. I'm writing about that topic over there so I don't clutter up the ATC site with too much data analysis and computer code. However, a few readers may be interested in that series, so I'll introduce it here as well. And then continue it at [micahwoods.com](https://www.micahwoods.com/).
 
-[R](https://www.r-project.org/), from the project website description, "is a free software environment for statistical computing and graphics." This is software that I've been using for almost a decade. I have some level of proficiency with some aspects of this software, enough to where I can sometimes write scripts that work correctly the first time I run them, without me having to search the documentation or help pages to find how to do what I want. 
+[R](https://www.r-project.org/), from the project website's description, "is a free software environment for statistical computing and graphics." This is software that I've been using for almost a decade. I have some level of proficiency with some aspects of this software, enough to where I can sometimes write scripts that work correctly the first time I run them, without me having to search the documentation or help pages to find how to do what I want. 
 
 There are plenty of excellent resources for learning R, or the particular things that one might want to use this software for, and this series isn't about that. And I'm not a statistician, so this isn't a tutorial on statistics either. This is a series about some of the things that I've learned over the years, and that have worked well for me, as I have gone from complete beginner who couldn't read in a file of data to get started, to my current level of being able to work with the software to make charts and do some analyses and create some reports. 
 
@@ -58,7 +58,7 @@ Coming up is an infinite amount of things that might be looked at, but certainly
 
 * how and why to write your own functions
 
-* a very gentle into to Git and version control and putting a project onto GitHub
+* a very gentle intro to Git and version control and putting a project onto GitHub
 
 * making more detailed charts
 
@@ -79,7 +79,7 @@ After 178 days, this is what the pots look like. The one that hasn't received an
 
 ![](/img/wana_178_days.jpg)
 
-It seems obvious that nutrient demand, and consequently grass response to supplied (or to withheld) nutrients, will be related to the grasses potential to grow in that particular growing environment. Mike Richardson has shown that zoysia *doesn't* have much response to nutrient additions at planting in Arkansas. 
+It seems obvious that nutrient demand, and consequently grass response to supplied (or to withheld) nutrients, will be related to the grasses' potential to grow in that particular growing environment. Mike Richardson has shown that zoysia *doesn't* have much response to nutrient additions at planting in Arkansas. 
 
 In this project, I intend to demonstrate use of some R packages that can obtain historical weather data, and from that to estimate growth potential and nutrient demand at various places. I have a hunch that the response or non-response, or the degree of response, to fertilizer addition is very likely related to the temperature at a particular location. We might look at Bingley in Yorkshire, State College in Pennsylvania, Fayetteville in Arkansas, maybe Knoxville in Tennessee, and a few locations in Asia.
 
