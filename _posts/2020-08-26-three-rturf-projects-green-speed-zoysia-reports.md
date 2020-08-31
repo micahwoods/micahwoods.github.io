@@ -81,7 +81,7 @@ After 178 days, this is what the pots look like. The one that hasn't received an
 
 It seems obvious that nutrient demand, and consequently grass response to supplied (or to withheld) nutrients, will be related to the grasses' potential to grow in that particular growing environment. Mike Richardson has shown that zoysia *doesn't* have much response to nutrient additions at planting in Arkansas. 
 
-In this project, I intend to demonstrate use of some R packages that can obtain historical weather data, and from that to estimate growth potential and nutrient demand at various places. I have a hunch that the response or non-response, or the degree of response, to fertilizer addition is very likely related to the temperature at a particular location. We might look at Bingley in Yorkshire, State College in Pennsylvania, Fayetteville in Arkansas, maybe Knoxville in Tennessee, and a few locations in Asia.
+In this project, I intend to demonstrate use of some R packages that can obtain historical weather data, and from that to estimate growth potential and nutrient demand at various places. I have a hunch that the response or non-response, or the degree of response, to fertilizer addition is very likely related to the temperature at a particular location. We might look at Bingley in Yorkshire, State College in Pennsylvania, Fayetteville in Arkansas, maybe Knoxville in Tennessee, and a few locations in Asia. 
 
 ## Report production and automation
 
