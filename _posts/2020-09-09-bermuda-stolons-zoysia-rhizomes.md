@@ -10,6 +10,6 @@ One of the things I've noticed when growing grasses in pots is the striking diff
 ![](/img/stolon_rhizome.jpg)
 <small><strong>These grasses were grown in pots and fertilized with N, P, and K. Red lines show the approximate ground level. The Tifeagle bermudagrass at left produced a mass of aboveground stolons. The three varieties of manilagrass (*Zoysia matrella*) at right all produced a mass of belowground rhizomes.</strong></small>
 
-This difference in growth habit has implications for wear recovery, divot recovery, and surface preparation in general. It's especially important to be aware of this when cutting sprigs for establishment.
+This difference in growth habit has implications for wear recovery, divot recovery, and surface preparation in general. It's especially important to be aware of this when cutting sprigs. 
 
 ![](/img/stolon_rhizome_zoom.jpg)
