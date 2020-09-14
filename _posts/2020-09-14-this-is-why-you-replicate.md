@@ -15,9 +15,11 @@ After 25 days, plants were developing from those nodes and the pots looked like 
 ![wana manilagrass fertilized with N and P and K 25 days after planting](/img/wana_npk_25d.jpg)
 <small><strong>Wana manilagrass planted as a two node rhizome and fertilized with N, P, and K, 25 days after planting.</strong></small>
 
-The grasses continued to spread until they reached the edge of the pots, and the same fertilizer treatments were applied. Nitrogen and P to the one pot, with no K, and N and P and K to the other. Soil properties of the sand at the time of planting was pH of 6.4, organic matter content of 0.7%, Mehlich 3 P of 17 mg/kg, and Mehlich 3 K of 20 mg/kg.
+The grasses continued to spread until they reached the edge of the pots, and the same fertilizer treatments were applied. Nitrogen and P to the one pot, with no K; the other pot received treatments of  N and P and K. 
 
-For the first few months, the N and P pot, and the NPK pot, both looked about the same, growing relatively rapidly (compared to the no fertilizer and N only pots) to cover the pot area. Then as the rainy season set in at [ATC南店](https://twitter.com/hashtag/ATC%E5%8D%97%E5%BA%97?src=hashtag_click), I started noticing a striking difference between the pot that received K, and the pot that got no K.
+Soil properties of the sand at the time of planting were pH of 6.4, organic matter content of 0.7%, Mehlich 3 P of 17 mg/kg, and Mehlich 3 K of 20 mg/kg.
+
+For the first few months, the N and P pot, and the NPK pot, both looked about the same, growing relatively rapidly (compared to the no fertilizer and N only pots --- see [here for photos of all four pots 72 days after planting](https://www.asianturfgrass.com/2020-05-10-algae-sand-fertilizer/)) to cover the pot area. Then as the rainy season set in at [ATC南店](https://twitter.com/hashtag/ATC%E5%8D%97%E5%BA%97?src=hashtag_click), I started noticing a striking difference between the pot that received K, and the pot that got no K.
 
 The grass that didn't get any K fertilizer had established just as quickly and intitally had the same color as the grass that got all three macronutrients. The grass that didn't get K was either seeing widespread leaf senescence, or is getting destroyed by a disease. My guess is disease---the splendidly named *inu no ashiato* (dog's footprint)---Curvularia blight.
 
