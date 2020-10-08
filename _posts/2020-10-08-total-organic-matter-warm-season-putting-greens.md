@@ -13,7 +13,7 @@ I include a plot for predicted organic matter of a random green of an unknown sp
 
 These results are especially useful in the evaluation of past topdressing effect and of future topdressing requirement. This morning I prepared a couple reports for courses that have a time series of these tests. The results look something like this.
 
-![](img/om246_sketch.jpg)
+![](/img/om246_sketch.jpg)
 
 At course A, the organic matter is staying constant, so the turf managers there know that the organic matter production over the past year has been matched almost exactly by the topdressing. At course B, the organic matter is being produced faster than it is being decomposed, diluted, or removed. Knowing exactly what is happening with the organic matter makes it easy to make the right decisions about what work to do.
 
