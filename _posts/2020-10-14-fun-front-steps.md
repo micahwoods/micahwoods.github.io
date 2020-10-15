@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fun on my front steps"
-share-img: "https://www.asianturfgrass.com/img/wana_n_left.png"
+share-img: "https://www.asianturfgrass.com/img/wana_n_left.jpg"
 tags: [zoysia, research, fertilizer]
 ---
 
