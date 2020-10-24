@@ -17,7 +17,7 @@ That's how the clipping tracker template put together by Doug Soldat is laid out
 
 If you really like spreadsheets, you'll probably have already seen these stories. From the past few months, here are a couple stories of spreadsheets in the news.
 
-* [BBC article about Covid-19 results and csv files and Excel](https://www.bbc.com/news/technology-54423988)
+* [Excel: Why using Microsoft's tool caused Covid-19 results to be lost](https://www.bbc.com/news/technology-54423988)
 
-* [Popular Mechanics article about Excel and dates](https://www.popularmechanics.com/technology/design/a33549357/human-genes-renamed-microsoft-excel-auto-format-dates/)
+* [Why Geneticists Really, Really Hate Microsoft Excel](https://www.popularmechanics.com/technology/design/a33549357/human-genes-renamed-microsoft-excel-auto-format-dates/)
 
