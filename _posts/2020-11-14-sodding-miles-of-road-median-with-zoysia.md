@@ -22,12 +22,12 @@ During the dry season, unirrigated and infrequently mown manilagrass gets replac
 ![highway median in Lampang, Thailand recently sodded with manilagrass and now overtaken by weeds](/img/roadside_zoysia_lampang_after2.jpg)
 <small><strong>A few kilometers along the same highway, a slightly older stand of sodded manilagrass has been taken over by weeds.</strong></small>
 
-Manilagrass survives, and in fact thrives, where it is provided with irrigation and with regular mowing.
+Manilagrass survives, and in fact thrives in this climate, where it is provided with irrigation and with regular mowing. But roadsides and medians tend to get irrigation at the time of planting, and after that no irrigation and infrequent mowing.
 
 ![highway verge in Bangkok sodded with manilagrass](/img/roadside_zoysia_bangkok.jpg)
 <small><strong>An irrigated highway verge in Bangkok, Thailand, sodded to manilagrass.</strong></small>
 
-All grass stop growing in drought conditions. Zoysia stops growing before bermudagrass does. And then when the soil is rewetted, it takes zoysia a long time to start growing again. These photos from side-by-side tests in the USA show the dramatic differences between species.
+All grasses stop growing in drought conditions. Zoysia stops growing before bermudagrass does. And then when the soil is rewetted, it takes zoysia a long time to start growing again. These photos from side-by-side tests in the USA show the dramatic differences between species.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Top to bottom, <a href="https://twitter.com/hashtag/bermudagrass?src=hash&amp;ref_src=twsrc%5Etfw">#bermudagrass</a> <a href="https://twitter.com/hashtag/zoysia?src=hash&amp;ref_src=twsrc%5Etfw">#zoysia</a> <a href="https://twitter.com/hashtag/buffalograss?src=hash&amp;ref_src=twsrc%5Etfw">#buffalograss</a>, 45 days at 30% ET and negligible rain. <a href="https://twitter.com/USGA?ref_src=twsrc%5Etfw">@USGA</a> <a href="https://twitter.com/kmorris_NTEP?ref_src=twsrc%5Etfw">@kmorris_NTEP</a> <a href="https://t.co/TYQZmhYZTk">pic.twitter.com/TYQZmhYZTk</a></p>&mdash; Matteo Serena (@matteoserena1) <a href="https://twitter.com/matteoserena1/status/1283805717967798273?ref_src=twsrc%5Etfw">July 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
