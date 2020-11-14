@@ -12,7 +12,7 @@ On a recent drive from Chiang Rai to Bangkok, I turned onto a new highway in nor
 ![highway median in Lampang, Thailand recently sodded with manilagrass](/img/roadside_zoysia_lampang_before.jpg)
 <small><strong>A highway median in Lampang, Thailand, recently sodded with manilagrass (*Zoysia matrella*) </strong></small>
 
-This was impressive, because it was a 20 or 30 km stretch of road, that I passed like a chronosequence of a median that was soil during construction, then being sodded, then recently laid sod, and then the inevitable consequence for all unirrigated zoysia in Thailand, weeds.
+This was impressive, because it was a 20 or 30 km stretch of road. I passed it like a zoysia chronosequence---first a median that was soil during construction, then sod being laid, then for many kilometers it was recently laid sod, and then I arrived at the inevitable consequence for all unirrigated zoysia in Thailand. Weeds.
 
 ![highway median in Lampang, Thailand recently sodded with manilagrass and now overtaken by weeds](/img/roadside_zoysia_lampang_after1.jpg)
 <small><strong>A few kilometers along the same highway, a slightly older stand of sodded manilagrass has been taken over by weeds.</strong></small>
