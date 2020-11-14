@@ -17,7 +17,7 @@ This was impressive, because it was a 20 or 30 km stretch of road, that I passed
 ![highway median in Lampang, Thailand recently sodded with manilagrass and now overtaken by weeds](/img/roadside_zoysia_lampang_after1.jpg)
 <small><strong>A few kilometers along the same highway, a slightly older stand of sodded manilagrass has been taken over by weeds.</strong></small>
 
-During the dry season, unirrigated and inrequently mown manilagrass gets replaced by species that can tolerate such conditions. 
+During the dry season, unirrigated and infrequently mown manilagrass gets replaced by species that can tolerate such conditions. 
 
 ![highway median in Lampang, Thailand recently sodded with manilagrass and now overtaken by weeds](/img/roadside_zoysia_lampang_after2.jpg)
 <small><strong>A few kilometers along the same highway, a slightly older stand of sodded manilagrass has been taken over by weeds.</strong></small>
