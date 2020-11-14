@@ -37,6 +37,6 @@ All grasses stop growing in drought conditions. Zoysia stops growing before berm
 
 That's a death sentence for the manilagrass on Thailand's highway medians. After going through one dry season, or maybe two, the manilagrass is replaced by weedy grasses, generally, that are able to tolerate the drought and can outcompete manilagrass when it does rain.
 
-About the cost, the manilagrass sod grown in Thailand (see video below for the process) has been about 15 to 25 baht per square meter when I've checked in the past. That's the cost picked up at the farm. That's about USD $0.66 per square meter, or USD $61 per 1000 ft<sup>2</sup> or USD $2,670 per acre. So not a massive cost to quickly get the medians established, have immediate erosion control, and to know that there will be a natural transition to species that persist in that environment.
+About the cost, the manilagrass sod grown in Thailand (see video below for the process) has been about 15 to 25 baht per square meter when I've checked in the past. That's the cost picked up at the farm. That's about USD $0.66 per square meter, or USD $61 per 1,000 ft<sup>2</sup> or USD $2,670 per acre. So not a massive cost to quickly get the medians established, have immediate erosion control, and to know that there will be a natural transition to species that persist in that environment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/frUkAmBSKyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
