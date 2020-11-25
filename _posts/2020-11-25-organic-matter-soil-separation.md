@@ -19,4 +19,4 @@ I took the dried sample and broke it up a bit to separate some of the big chunks
 
 ![dried soil sample from the top 2 cm of a Tifeagle putting green, with organic matter and sand separated](/img/om2_dried_separated.jpg)
 
-Topdressing sand will be added to this green, and perhaps some cultivation will be conducted, to manage the surface organic matter to the desired level. Measuring all the organic matter in the sample---which is going to happen with the OM246 testing---rather than screening it out, makes it easier to optimize the topdressing and cultivation work.
+Topdressing sand will be added to this green, and perhaps some cultivation will be conducted, to manage the surface organic matter to the desired level. Measuring all the organic matter in the sample---which is going to happen with the upcoming OM246 testing of this sample---rather than screening it out, makes it easier to optimize the topdressing and cultivation work.
