@@ -7,7 +7,7 @@ tags: [light, weather]
 
 A previous post showed photosynthetically active radiation (PAR) data in units of daily totals---the daily light integral (DLI). [That post](https://www.asianturfgrass.com/2020-11-28-worldwide-agroclimatology-data/) included a chart with a locally smoothed regression line through it. Some feedback from that post prompted me to make some more charts with the same data. This time, I made them with horizontal lines that show the average for each week. Like this.
 
-![dli chart for region west of Bangkok, Thailand](/img/dli_55weeks_nahkon_phathom.png)
+![dli chart for region west of Bangkok, Thailand](/img/dli_55weeks_nakhon_phathom.png)
 
 That chart shows the DLI each day for the past 55 weeks. A little more than a year. And there are horizontal lines that show the weekly average for each week. These calculations were made for weeks that begin on Sunday and end on Saturday. And I color-coded the weekly average lines to indicate whether they were greater than or equal to 40 mol m<sup>-2</sup> d<sup>-1</sup>, or not. 
 
