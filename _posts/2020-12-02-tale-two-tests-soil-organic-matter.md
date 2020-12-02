@@ -104,7 +104,7 @@ There's another type of organic matter that turfgrass managers do a ton of work 
 
 The organic matter I've written about up to this point is not quite that. It is a *portion* of that total organic matter, but remember that all the thatch and plant material and fiber is [screened off and discarded](https://www.asianturfgrass.com/2020-11-25-organic-matter-soil-separation/) from soil samples before they are tested for organic matter. 
 
-If we are to make an assessment of the need for, or the effect of, disruptive maintence practices such as sand topdressing, core aeration, and scarifying, it makes sense to add on another test of organic matter. But this time, measure it only at some key depths near the soil surface, and most importantly, *leave all the thatch and fiber and total organic matter in the sample.* This is what I cal OM246.
+If we are to make an assessment of the need for, or the effect of, disruptive maintence practices such as sand topdressing, core aeration, and scarifying, it makes sense to add on another test of organic matter. But this time, measure it only at some key depths near the soil surface, and most importantly, *leave all the thatch and fiber and total organic matter in the sample.* This is what I call OM246.
 
 ## OM246, total organic matter by depth
 
