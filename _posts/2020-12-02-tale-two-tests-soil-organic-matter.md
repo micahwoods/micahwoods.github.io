@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Tale of Two Tests"
-subtitle: "Why I like to know both humus (standard test) and total organic matter (#OM246), and how I use that information"
+subtitle: "Why I like to know both soil organic matter---or humus--- and total organic matter, and how I use that information"
 share-img: "https://www.asianturfgrass.com/img/keya_montage2.jpg"
 tags: [soil testing, organic matter, om246]
 ---
@@ -25,7 +25,9 @@ For agriculture, I don't think there is much use in measuring total organic matt
 ![view of Keya GC green 11 in August 2019](/img/keya_11_2019.jpg)
 <small><strong>Looking from the 11<sup>th</sup> green at Keya GC toward the tee and the Genkai Nada Sea in the background.</strong></small>
 
-Here are five distinct ways that I make use of these two tests. I happen to have a lot of tests from a photogenic green, the 11<sup>th</sup> at Keya GC in Fukuoka, Japan, and all the data shown here are from that green. This is a tale of two tests.
+Here are five distinct ways that I make use of these two tests. I happen to have a lot of tests from a photogenic green, the 11<sup>th</sup> at Keya GC in Fukuoka, Japan, and all the example data shown here are from that green. 
+
+This is a tale of two tests.
 
 ## Organic matter (humus) and relative water and nutrient supply
 
