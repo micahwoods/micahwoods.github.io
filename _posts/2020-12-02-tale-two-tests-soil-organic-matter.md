@@ -42,7 +42,7 @@ And I think that is good, because this measure of organic matter is an indicator
 ![hole 11 at Keya GC in autumn 2020](/img/keya_11_2020.jpg)
 <small><strong>View of the uphill par four 11<sup>th</sup> hole at Keya GC from the tee in early autumn 2020 after a bunker renovation project by [Paul Jansen](http://www.jansengolfdesign.com/) with shaping led by [Keith Cutten](https://twitter.com/CuttenGolf). Photo by Keya's golf course superintendent and assistant general manager, [Andrew McDaniel](https://twitter.com/drumcturf). </strong></small>
 
-### Cation exchange capacity
+## Cation exchange capacity
 
 In a sand rootzone, unless you've got some amendments like zeolite in them, or a bit of clay, the cation exchange capacity comes from pH-dependent charge on the soil organic matter. Sand is inert. 
 
@@ -64,7 +64,7 @@ That's pretty good. To put that into context, nutrients in the soil at the  [MLS
 
 If you've been paying attention to MLSN over the past eight years, you may have wondered what's wrong with the conventional SLAN guidelines, that would have us introduce completely new guidelines? Well, CEC of sand rootzones is one. The SLAN minimums for Ca, Mg, and K *in sand rootzones* are given as 751, 121, and 117 mg/kg. When a sand rootzone tests lower than that, the SLAN interpretation is "approximately a 50% chance of getting a plant growth response from application of the nutrient; if supplemental fertilizer is not applied, growth will probably be limited, especially as the season progresses." In a sand rootzone, it's almost impossible to have a CEC high enough to hold that many nutrients. Those values correspond to a CEC of 50 mmol<sub>c</sub> kg<sup>-1</sup>. 
 
-### Nitrogen mineralization, annually
+## Nitrogen mineralization, annually
 
 Nitrogen mineralization from soil organic matter can be estimated from these general relationships.
 
