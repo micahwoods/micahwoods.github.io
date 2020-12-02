@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Tale of Two Tests"
-subtitle: "Why I like to know both soil organic matter---or humus--- and total organic matter, and how I use that information"
+subtitle: "Why I like to know both humus (a standard soil organic matter test) and total organic matter (the #OM246 test), and how I use that information"
 share-img: "https://www.asianturfgrass.com/img/keya_montage2.jpg"
 tags: [soil testing, organic matter, om246]
 ---
