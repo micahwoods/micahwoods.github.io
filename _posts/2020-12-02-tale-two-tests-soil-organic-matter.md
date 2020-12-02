@@ -52,11 +52,11 @@ $$ CEC_{OM} = (\frac{OM}{100})(-311 + 268(pH)) $$
 
 where
 
-\\CEC_{OM}\\ is the CEC contributed by soil organic matter, in units of mmol<sub>c</sub> kg<sup>-1</sup> --- the little "c" subscript stands for "charge." So it is millimoles of charge per kg of soil. 
+\\(CEC_{OM}\\) is the CEC contributed by soil organic matter, in units of mmol<sub>c</sub> kg<sup>-1</sup>. The little "c" subscript stands for "charge." So it is millimoles of (negative) charge per kg of soil. 
 
-\\OM\\ is the soil organic matter %
+\\(OM\\) is the soil organic matter %
 
-\\pH\\ is the soil pH in 1:1 H<sub>2</sub>0
+\\(pH\\) is the soil pH in 1:1 H<sub>2</sub>0
 
 What was the contribution of organic matter to the CEC of this green, then, with data from the most recent test? Organic matter was 1.4% and the pH was 6.5. That's 20 mmol<sub>c</sub> kg<sup>-1</sup>.
 
