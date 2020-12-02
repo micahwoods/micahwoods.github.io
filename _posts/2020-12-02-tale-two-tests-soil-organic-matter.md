@@ -23,7 +23,7 @@ I make use of two types of soil organic matter tests. One is the standard test, 
 For agriculture, I don't think there is much use in measuring total organic matter. But for turfgrass, which often is treated with sand topdressing or cultivation or biostimulants intended to adjust the amount of undecomposed organic matter near the soil surface, it seems there is tremendous value in measuring *all* the organic matter too. 
 
 ![view of Keya GC green 11 in August 2019](/img/keya_11_2019.jpg)
-<small><strong>Looking from the 11<sup>th</sup> green at Keya GC toward the tee and the Genkai Nada Sea in the background.</strong></small>
+<small><strong>Looking from the 11<sup>th</sup> green at Keya GC toward the tee and the Genkai-nada Sea in the background.</strong></small>
 
 Here are five distinct ways that I make use of these two tests. I happen to have a lot of tests from a photogenic green, the 11<sup>th</sup> at Keya GC in Fukuoka, Japan, and all the example data shown here are from that green. 
 
