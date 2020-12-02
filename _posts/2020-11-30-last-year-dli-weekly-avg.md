@@ -9,7 +9,7 @@ A previous post showed photosynthetically active radiation (PAR) data in units o
 
 ![dli chart for region west of Bangkok, Thailand](/img/dli_55weeks_nakhon_phathom.png)
 
-That chart shows the DLI each day for the past 55 weeks. A little more than a year. And there are horizontal lines that show the weekly average for each week. These calculations were made for weeks that begin on Sunday and end on Saturday. And I color-coded the weekly average lines to indicate whether they were greater than or equal to 40 mol m<sup>-2</sup> d<sup>-1</sup>, or not. 
+That chart shows the DLI each day for the past 55 weeks. A little more than a year. And there are horizontal lines that show the average for each week. These calculations were made for weeks that begin on Sunday and end on Saturday. And I color-coded the weekly average lines to indicate whether they were greater than or equal to 40 mol m<sup>-2</sup> d<sup>-1</sup>, or not. 
 
 I like to use that 40 DLI level as an indicator of "no-problem" light levels for bermudagrass (*Cynodon*) putting greens.
 
