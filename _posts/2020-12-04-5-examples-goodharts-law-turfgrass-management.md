@@ -29,7 +29,7 @@ In the worst case, grass is damaged by low mowing heights or a growth rate that 
 
 ### 4. Soil moisture as a target
 
-With the routine use of soil moisture meters, it is easy to put a number to how relatively how much plant available water is in the soil. What one really wants to do with water, though, is keep the grass growing at the desired rate. Hitting certain numbers with the soil moisture meter doesn't necessarily accomplish that.
+With the routine use of soil moisture meters, it is easy to put a number to relatively how much plant available water is in the soil. What one really wants to do with water, though, is keep the grass growing at the desired rate. Hitting certain numbers with the soil moisture meter doesn't necessarily accomplish that.
 
 ### 5. Soil test targets
 
