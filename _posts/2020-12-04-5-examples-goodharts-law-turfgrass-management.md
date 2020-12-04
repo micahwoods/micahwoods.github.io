@@ -15,15 +15,17 @@ But I try to keep remembering Goodhart's law, because if one looks at the measur
 
 Having a target for surface area removal made sense to me ten years ago. I recommended that all the time. But a 20% surface area removal target doesn't make sense anymore. There's a lot of surface disruption that gets done to try to hit a target. Then to get quick recovery from the surface disruption, more N and more water are applied, stimulating more growth and more thatch, fiber, and organic matter production than one would have had if the surface wasn't impacted.
 
+![coring with 4 mm hollow tines in Ibaraki](/img/coring_ibaraki.jpg)
+
 ### 2. Sand topdressing to hit a certain amount
 
 This is closely related to the first one. Trying to add a certain amount of sand, or supplying sand on a regular schedule, is probably not the most efficient way to get the desired results. 
 
-![stimpmeter measurement of korai](/img/korai_stimpmeter.jpg)
-
 ### 3. Stimpmeter readings as a target
 
 In the worst case, grass is damaged by low mowing heights or a growth rate that is too slow, in attempts to reach a stimpmeter reading target. There's also the common case where the stimpmeter reading is reported as whatever one feels like---say zoysia greens at 12 feet all summer long---without actually measuring. And there is also the general case of the measure becoming a target and the stimpmeter no longer being used to assess variability.
+
+![stimpmeter measurement of korai](/img/korai_stimpmeter.jpg)
 
 ### 4. Soil moisture as a target
 
