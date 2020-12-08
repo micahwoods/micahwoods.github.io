@@ -34,7 +34,7 @@ navbar-links:
     - Presentations: "https://speakerdeck.com/micahwoods"
     - Shiny apps: "shiny"
   Books: "books"
-  Subscribe: "lists"
+  Newsletters: "lists"
   Search: "https://cse.google.com/cse/publicurl?cx=002453456411648864480:0ken194xpnc"
 
 # Image to show in the navigation bar - image must be a square (width = height)
