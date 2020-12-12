@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The trailer to Flying Blind: 8 things to know, measure, and adjust"
+title: "The Flying Blind trailer: 8 things to know, measure, and adjust"
 share-img: "https://www.asianturfgrass.com/img/flying_blind_trailer.jpg"
 tags: [video, seminar, mlsn, clipvol, om246]
 ---
