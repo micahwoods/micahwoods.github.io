@@ -18,7 +18,7 @@ These are the [slides in Thai](http://www.files.asianturfgrass.com/2020-12-14_wo
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "07529ba8f39b44bd85c8b757a32d6ef4", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "http://www.files.asianturfgrass.com/2020-12-14_woods_th.pdf"}},
+			content:{location: {url: "https://www.asianturfgrass.com/resources/2020-12-14_woods_th.pdf"}},
 			metaData:{fileName: "2020-12-14_woods_th.pdf"}
 		}, {embedMode: "SIZED_CONTAINER"});
 	});
@@ -32,7 +32,7 @@ These are the [slides in English](http://www.files.asianturfgrass.com/2020-12-14
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "07529ba8f39b44bd85c8b757a32d6ef4", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "http://www.files.asianturfgrass.com/2020-12-14_woods_en.pdf"}},
+			content:{location: {url: "https://www.asianturfgrass.com/resources/2020-12-14_woods_en.pdf"}},
 			metaData:{fileName: "2020-12-14_woods_en.pdf.pdf"}
 		}, {embedMode: "SIZED_CONTAINER"});
 	});
