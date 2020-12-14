@@ -16,7 +16,7 @@ These are the [slides in Thai](http://www.files.asianturfgrass.com/2020-12-14_wo
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "07529ba8f39b44bd85c8b757a32d6ef4", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "9aa0fe9e24a64d0187ec7060401c9947", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://www.asianturfgrass.com/resources/2020-12-14_woods_th.pdf"}},
 			metaData:{fileName: "2020-12-14_woods_th.pdf"}
@@ -30,7 +30,7 @@ These are the [slides in English](http://www.files.asianturfgrass.com/2020-12-14
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "07529ba8f39b44bd85c8b757a32d6ef4", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "9aa0fe9e24a64d0187ec7060401c9947", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://www.asianturfgrass.com/resources/2020-12-14_woods_en.pdf"}},
 			metaData:{fileName: "2020-12-14_woods_en.pdf.pdf"}
