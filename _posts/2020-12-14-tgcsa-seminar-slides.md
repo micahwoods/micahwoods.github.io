@@ -38,7 +38,13 @@ These are the [slides in English](http://www.files.asianturfgrass.com/2020-12-14
 	});
 </script>
 
-We talked about a number of topics. One thing I tried to emphasize was that playing conditions will be best when the grass is growing the slowest. I also reminded the audience that if grass doesn't grow for long enough, the grass will die. So it can be risky to grow the grass slowly, and measuring the growth rate by the rapid clipping volume ([#ClipVol](https://www.asianturfgrass.com/tags/#clipvol)) assessment can be a really useful tool. Here are some blog posts related to today's presentation and discussion topics:
+We talked about a number of topics. One thing I tried to emphasize was that playing conditions will be best when the grass is growing the slowest. 
+
+I also reminded the audience that if grass doesn't grow for long enough, the grass will die. So it can be risky to grow the grass slowly, and measuring the growth rate by the rapid clipping volume ([#ClipVol](https://www.asianturfgrass.com/tags/#clipvol)) assessment can be a really useful tool.
+
+And we also discussed whether *optimum* levels of nutrients in the soil make sense for turf in sand rootzones, especially in a tropical climate, or if considering first the quantity of nutrients the grass uses, ensuring those are supplied while at the same time keeping a known safe level of nutrients in the soil, doesn't make more sense? That's what MLSN does.
+
+I've written some blog posts related to today's presentation and discussion topics:
 
 * [It is easy to know when grass grows too slow](https://www.asianturfgrass.com/2020-05-07-dangerous-grow-too-slow/)
 
