@@ -13,7 +13,7 @@ This is looking at what happens with turf quality and color when turf is fertili
 
 1. soil test, interpret by SLAN, apply nutrients based on SLAN
 
-2. soil test, interpret by MLSN, apply nutrients based on MLSN
+2. soil test, interpret by [MLSN](https://www.paceturf.org/index.php/journal/minimum_level_for_sustainable_nutrition), apply nutrients based on MLSN
 
 3. soil test, ignore the results, add only N
 
