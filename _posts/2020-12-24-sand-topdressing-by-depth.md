@@ -23,6 +23,6 @@ You have a collection container of known dimensions. Let's say it happens to be 
 
 To express that in mm, we want to convert the mass to a volume, and then divide by the area. Volume divided by area gives depth. I'm going to work with a bulk density of 1.5.
 
-$$ 10(\frac{\frac{400}{1.5}}{2000}) = $$ sand depth in mm
+$$ 10(\frac{\frac{400}{1.5}}{2000}) = $$ sand depth of 1.3 mm
 
 Take the mass in grams, divide by the bulk density and the area to which the sand was applied in cm<sup>2</sup>, and multiply by ten. That gives the depth in mm. You can adjust the equation as necessary if you wish to use other units.
