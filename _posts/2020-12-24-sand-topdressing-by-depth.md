@@ -5,7 +5,9 @@ share-img: "https://www.asianturfgrass.com/img/sand_by_depth.jpg"
 tags: [sand, topdressing, turfhacks]
 ---
 
-Today I explained the same calculation about sand topdressing for the third time, so I need to write a blog post. This is following the method of [David Robinson](https://twitter.com/drob/status/928447584712253440?s=20), who says when you've written the same code 3 times, write a function; when you've given the same advice 3 times, write a blog post; and when you've done the blog post 3 times, write a book.
+Today I explained the same calculation about sand topdressing for the third time, so I need to write a blog post on this topic. 
+
+This is following the method of [David Robinson](https://twitter.com/drob/status/928447584712253440?s=20), who says when you've written the same code 3 times, write a function; when you've given the same advice 3 times, write a blog post; and when you've done the blog post 3 times, write a book.
 
 The [best way to express sand topdressing amount](https://www.asianturfgrass.com/2019-08-08-three-reasons-sand-depth/), standardized so it makes sense to anyone in the world, is as a depth. I've generally figured that out by taking the volume of sand applied, divided by the area to which it was applied, and making a correction for overthrow.
 
