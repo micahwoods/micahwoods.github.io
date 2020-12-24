@@ -15,7 +15,7 @@ The USGA has produced [this video](https://youtu.be/7tPilHP5QiA) showing an exac
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7tPilHP5QiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You could, of course, figure out the volume by looking at the volume displacement when the sand is added to a known amount of water. But we can also assume that the sand has a bulk density (when dry) of about 1.5 g/cm<sup>3</sup>. I generally use 1.5. That's common for a conversion factor for sand-based rootzones used in turfgrass. In civil engineering I think sand is often assumed to have a bulk density of 1.63 g/cm<sup>3</sup>. Whether you use 1.5 or 1.63 or something close to either of those, we are going to be within about 10% of the real number.
+You could, of course, figure out the volume by looking at the volume displacement when the sand is added to a known amount of water. But we can also assume that the sand has a bulk density (when dry) of about 1.5 g/cm<sup>3</sup>. I generally use 1.5. That's a common conversion factor for sand-based rootzones used in turfgrass. In civil engineering I think sand is often assumed to have a bulk density of 1.63 g/cm<sup>3</sup>. Whether you use 1.5 or 1.63 or something close to either of those, we are going to be within about 10% of the real number.
 
 If one measures the mass of sand applied to a known area, the depth calculation is simple. I do this in metric units, because I want to express the depth in mm, which is going to give a number between 0 and about 35; I've never met a turfgrass manager who applies more than 35 mm of sand per year (about 115 ft<sup>3</sup>/1000 ft<sup>2</sup>). 
 
