@@ -11,7 +11,7 @@ Here's a non-comprehensive list for this year. It's been awesome that turfgrass 
 
 ---
 
-* Online turfgrass field days. I really appreciate the effort put into these by so many universities. I didn't watch everything. What I did watch was really good. I especially enjoyed the videos from [Oregon State University](https://www.youtube.com/channel/UCHhEJD2IWTnp0GRMZEnYPpw/videos), with Chas Schmid on [long-term cultivation and topdressing](https://youtu.be/zTdmN6YqSgM), Alyssa Cain on [irrigation frequency and ET replacement on annual bluegrass](https://youtu.be/U4ayqJ6J8ds), and Clint Mattox with [summer notes on winter treatments](https://youtu.be/MLSvTctc6wk).
+* Online turfgrass field days. I really appreciate the effort put into these by so many universities. What I was able to watch this year was really good. I especially enjoyed the videos from [Oregon State University](https://www.youtube.com/channel/UCHhEJD2IWTnp0GRMZEnYPpw/videos), with Chas Schmid on [long-term cultivation and topdressing](https://youtu.be/zTdmN6YqSgM), Alyssa Cain on [irrigation frequency and ET replacement on annual bluegrass](https://youtu.be/U4ayqJ6J8ds), and Clint Mattox with [summer notes on winter treatments](https://youtu.be/MLSvTctc6wk).
 
 * [Clint's video](https://www.turfnet.com/turfnet-tv.html/winfieldtv/mattox/) for the Winfield Academy Prof Talk series was really good, too.
 
@@ -37,7 +37,7 @@ Here's a non-comprehensive list for this year. It's been awesome that turfgrass 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Turfgrass?src=hash&amp;ref_src=twsrc%5Etfw">#Turfgrass</a> <a href="https://twitter.com/hashtag/winter?src=hash&amp;ref_src=twsrc%5Etfw">#winter</a> <a href="https://twitter.com/hashtag/color?src=hash&amp;ref_src=twsrc%5Etfw">#color</a> <a href="https://twitter.com/hashtag/wheel?src=hash&amp;ref_src=twsrc%5Etfw">#wheel</a>.<a href="https://twitter.com/hashtag/Pictures?src=hash&amp;ref_src=twsrc%5Etfw">#Pictures</a> taken on <a href="https://twitter.com/hashtag/January?src=hash&amp;ref_src=twsrc%5Etfw">#January</a> 15th at <a href="https://twitter.com/SemillasFitoTG?ref_src=twsrc%5Etfw">@SemillasFitoTG</a> <a href="https://twitter.com/hashtag/plots?src=hash&amp;ref_src=twsrc%5Etfw">#plots</a> in <a href="https://twitter.com/hashtag/Barcelona?src=hash&amp;ref_src=twsrc%5Etfw">#Barcelona</a>.<a href="https://twitter.com/hashtag/Coolest?src=hash&amp;ref_src=twsrc%5Etfw">#Coolest</a> <a href="https://twitter.com/hashtag/week?src=hash&amp;ref_src=twsrc%5Etfw">#week</a> of the <a href="https://twitter.com/hashtag/year?src=hash&amp;ref_src=twsrc%5Etfw">#year</a>.<br>Interesting differences between <a href="https://twitter.com/hashtag/warm?src=hash&amp;ref_src=twsrc%5Etfw">#warm</a> <a href="https://twitter.com/hashtag/season?src=hash&amp;ref_src=twsrc%5Etfw">#season</a> <a href="https://twitter.com/hashtag/grasses?src=hash&amp;ref_src=twsrc%5Etfw">#grasses</a> <a href="https://t.co/GJHCoVHyzd">pic.twitter.com/GJHCoVHyzd</a></p>&mdash; josep cirera clotet (@josepcirera) <a href="https://twitter.com/josepcirera/status/1218189209518977024?ref_src=twsrc%5Etfw">January 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-* Anne Falk Øgaard and Trygve Aamlid's article on [phosphorus requirements for bentgrass establish and spring growth](https://doi.org/10.1002/agj2.20288) was published. 
+* Anne Falk Øgaard and Trygve Aamlid's article on [phosphorus requirements for bentgrass establishment and spring growth](https://doi.org/10.1002/agj2.20288) was published. 
 
 * A review article by Emily Bock and Zachary Easton on [export of nitrogen and phosphorus from golf courses](https://doi.org/10.1016/j.jenvman.2019.109817) is an excellent article on this important topic.
 
@@ -55,7 +55,7 @@ Here's a non-comprehensive list for this year. It's been awesome that turfgrass 
 
 * I also enjoyed the progress of Tyler Carr's [zoysiagrass grow-in](https://twitter.com/TylerTalksTurf/status/1283419171217440768?s=20). Maybe time for a year-end update?
 
-* Sami Strutt did an excellent job putting together BIGGA's National Regional Conference---I know from having participated in that. I know for other conferences, and other virtual events put on this year or planned for next year, there has been a lot of excellent work done by many people. I certainly appreciate that when I get to see and learn from whereever I happen to be.
+* Sami Strutt did an excellent job putting together BIGGA's National Regional Conference---I know from having participated in that. I know for other conferences, and other virtual events put on this year or planned for next year, there has been a lot of excellent work done by many people. I certainly appreciate that when I get to see and learn from wherever I happen to be.
 
 * And to circle back to the online field days, I recently watched the Michigan State University one, and there is a great segment [about MLSN & SLAN research](https://youtu.be/mZbLqt9Zfik?t=3024) by Jackie Guevara.
 
@@ -63,7 +63,7 @@ Here's a non-comprehensive list for this year. It's been awesome that turfgrass 
 
 ---
 
-Obviously, not a comprehensive list. This list is inspired by [Jeff Leek's non-comprehensive awesome lists](https://simplystatistics.org/2017/12/20/a-non-comprehensive-list-of-awesome-things-other-people-did-in-2017/) from [Simply Statistics](https://simplystatistics.org/).
+This list is inspired by [Jeff Leek's non-comprehensive awesome lists](https://simplystatistics.org/2017/12/20/a-non-comprehensive-list-of-awesome-things-other-people-did-in-2017/) from [Simply Statistics](https://simplystatistics.org/).
 
 
  
